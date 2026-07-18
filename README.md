@@ -17,7 +17,7 @@ This repository includes:
 
 ## Photos
 
-<span><img src="images/1.png" alt="PCB" width="327">
+<span><img src="images/1.png" alt="PCB" width="300">
 <img src="images/3.png" alt="PCB" width="300">
 <img src="images/2.png" alt="PCB" width="300"></span>
 
