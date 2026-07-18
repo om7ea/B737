@@ -25,8 +25,9 @@ Designing, testing, documenting, and maintaining the complete Boeing 737 Overhea
 I'm saving for a ProSim737 license, a professional simulator software package that would greatly enhance my home cockpit. Every contribution brings me one step closer to reaching that goal.
 
 **Progress:** €4 / €1,500 (0%)
+<sub>last updated: 18 July 2026</sub>
 
-![Funding Progress](https://progress-bar.xyz/0/?width=500)
+![Funding Progress](https://progress-bar.xyz/0/?width=500) 
 
 ✈️ **Support via PayPal:**  
 https://paypal.me/om7ea
