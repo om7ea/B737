@@ -1,6 +1,6 @@
 # Boeing 737 Overhead Panel – Manufacturing Files
 
-This repository contains supplementary manufacturing files for the corresponding MakerWorld project.
+This repository contains supplementary manufacturing files for the corresponding MakerWorld project. Additional files and resources will be added gradually as new models are published on MakerWorld.
 
 ## Contents
 
