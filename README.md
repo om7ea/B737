@@ -14,6 +14,13 @@ This repository includes:
 > This repository contains only supplementary manufacturing files. The 3D printable parts are available on MakerWorld.
 
 ---
+
+## Photos
+
+<span><img src="images/1.png" alt="PCB" width="327">
+<img src="images/3.png" alt="PCB" width="300">
+<img src="images/2.png" alt="PCB" width="300"></span>
+
 ## Support the Project
 
 This project is completely free and will continue to be released free of charge.
