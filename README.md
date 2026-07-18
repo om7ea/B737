@@ -25,12 +25,18 @@ Three PCB versions are available depending on the intended use.
 
 Designed for direct connection through an RJ45 connector.
 
-Used for:
-- Push buttons
-- Toggle switches
-- Rotary switches
-- Servos
-- Displays
+Used for: Push buttons, Toggle switches, Rotary switches, Servos, Displays, ...
+
+### Bill of Materials (BOM)
+
+- 1x **RJ45 Connector** – 5224 8P8C in-line Vertical 180 Degree Full Plastic – https://www.aliexpress.com/item/4000641016208.html
+- 3× **4.8 mm PCB Male Faston Terminal**
+- **KF301 PCB screw terminals** - 2P/3P/4P as required
+- **2.54 mm Male Pin Header** - as required 
+- 1× **330 Ω Resistor (0805)** - optional
+- 1× **Green LED (0805)** - optional
+
+
 
 ---
 
