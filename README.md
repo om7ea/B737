@@ -20,6 +20,7 @@ Three PCB versions are available depending on the intended use.
 
 ## 1. RJ45 Direct Connection
 ![Popis obrázka](images/RJ45_direct_top.png)
+<img src="images/RJ45_direct_top.png" alt="PCB" width="300">
 
 [📥 Download PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip)
 
