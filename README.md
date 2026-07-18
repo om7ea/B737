@@ -14,26 +14,27 @@ This repository includes:
 > This repository contains only supplementary manufacturing files. The 3D printable parts are available on MakerWorld.
 
 ---
-# Support the Project
+## Support the Project
 
 This project is completely free and will continue to be released free of charge.
 
 Designing, testing, documenting, and maintaining the complete Boeing 737 Overhead Panel requires a significant amount of time. If you would like to support its continued development, you can make a voluntary contribution.
 
-## Current Goal
+### Current Goal
 
 The current funding goal is to purchase a **ProSim737 license**, which will help improve testing, validation, and future development of this project.
 
 **Progress:** €4 / €1,500 (0%)
+
 ![Funding Progress](https://progress-bar.xyz/0/?width=500)
 
 Thank you to everyone who supports this project!
 
-# PCB Manufacturing Files (Gerber)
+## PCB Manufacturing Files (Gerber)
 
 Three PCB versions are available depending on the intended use.
 
-## 1. RJ45 Direct Connection
+### 1. RJ45 Direct Connection
 <img src="images/RJ45_direct_top.png" alt="PCB" width="300">
 
 [📥 Download gerber files - PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip)
