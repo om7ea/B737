@@ -6,13 +6,27 @@ This repository contains supplementary manufacturing files for the corresponding
 
 This repository includes:
 
-- PCB manufacturing files (Gerber)
+- [PCB Manufacturing Files (Gerber)](#pcb-manufacturing-files-gerber)
 - UV print overlays
 
 > **Note**
 > This repository contains only supplementary manufacturing files. The 3D printable parts are available on MakerWorld.
 
 ---
+# Support the Project
+
+This project is completely free and will continue to be released free of charge.
+
+Designing, testing, documenting, and maintaining the complete Boeing 737 Overhead Panel requires a significant amount of time. If you would like to support its continued development, you can make a voluntary contribution.
+
+## Current Goal
+
+The current funding goal is to purchase a **ProSim737 license**, which will help improve testing, validation, and future development of this project.
+
+**Progress:** €4 / €1,500 (0%)
+![Funding Progress](https://progress-bar.xyz/0/?width=500)
+
+Thank you to everyone who supports this project!
 
 # PCB Manufacturing Files (Gerber)
 
