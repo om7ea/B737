@@ -103,7 +103,8 @@ The complete printable model is available on MakerWorld.
 3. Annunciators - Will be added soon
 4. [Navigation panel](https://makerworld.com/en/models/2985636-boeing-737-overhead-navigation-panel)
 
----
+## Filaments Used
+<img src="icons/dark-gray.svg" width="12" height="12"> Dark Gray – Bambu PLA Basic
 
 ## License
 
