@@ -20,7 +20,7 @@ Three PCB versions are available depending on the intended use.
 
 ## 1. RJ45 Direct Connection
 
-📥 [PCB_RJ45_Direct.zip](PCB/PCB_RJ45_Direct.zip)
+[📥 Download PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip)
 
 Designed for direct connection through an RJ45 connector.
 
