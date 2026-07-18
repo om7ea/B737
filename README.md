@@ -7,7 +7,8 @@ This repository contains supplementary manufacturing files for the corresponding
 This repository includes:
 
 - [PCB Manufacturing Files (Gerber)](#pcb-manufacturing-files-gerber)
-- UV print overlays
+- [UV Print Files](#uv-print-files)
+- [3D Model Downloads - Makerworld](#3d-model-downloads-makerworld)
 
 > **Note**
 > This repository contains only supplementary manufacturing files. The 3D printable parts are available on MakerWorld.
@@ -51,7 +52,6 @@ Used for: Push buttons, Toggle switches, Rotary switches, Servos, Displays, ...
 - 1× **Green LED (0805)** - optional
 
 
-
 ---
 
 ## 2. LED Driver Version
@@ -82,7 +82,7 @@ Will be added soon.
 
 ---
 
-# MakerWorld
+# 3D Model Downloads - Makerworld
 
 The complete printable model is available on MakerWorld.
 
