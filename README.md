@@ -35,7 +35,7 @@ Used for:
 
 ## 2. LED Driver Version
 
-📥 [PCB_RJ45_Driver.zip](PCB/PCB_RJ45_Driver.zip)
+[📥 Download PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip)
 
 Includes an LED driver circuit.
 
@@ -47,7 +47,7 @@ Used for:
 
 ## 3. Combined Version
 
-📥 [PCB_RJ45_Combined.zip](PCB/PCB_RJ45_Combined.zip)
+[📥 Download PCB_RJ45_Combined.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Combined.zip)
 
 Combines both functions into a single PCB.
 
