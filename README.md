@@ -102,14 +102,14 @@ I recommend ordering at least two copies of each PDF file. During multiple print
 <table>
 <tr>
 <td align="center">
-<a href="docs/uv_print/uv_annunciators.pdf">
+<a href="https://raw.githubusercontent.com/om7ea/B737/main/docs/uv_print/uv_annunciators.pdf">
 <img src="images/uv_annunciators.png" width="180"><br>
 <b>Annunciators</b>
 </a>
 </td>
 
 <td align="center">
-<a href="docs/uv_print/uv_gauges.pdf">
+<a href="https://raw.githubusercontent.com/om7ea/B737/main/docs/uv_print/uv_gauges.pdf">
 <img src="images/uv_gauges.png" width="180"><br>
 <b>Gauges</b>
 </a>
