@@ -131,7 +131,7 @@ The complete printable model is available on MakerWorld.
 ## Filaments I Used
 <img src="images/icons/dark-gray.svg" width="12" height="12"> Dark Gray - C-Tech Premium Line PLA RAL7011
 
-<img src="images/icons/transparent.svg" width="12" height="12"> Transparent - Filament PM Transparent
+<img src="images/icons/transparent.svg" width="12" height="12"> Transparent - Filament PM PLA Transparent
 
 <img src="images/icons/white.svg" width="12" height="12"> White - Bambu PLA Basic Jade White (10100)
 
