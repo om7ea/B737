@@ -70,6 +70,11 @@ This project includes several types of annunciators:
 - 19× **White 5mm Flat Top LED**
 - 134 **Cable with connector** ZH 1.5 28AWG 15CM 4 pins (125 for annunciators + 9 for dual brightness function)
 
+#### PCB Assembly & Wiring
+
+<img src="images/PCB_RJ45_Direct_top.png" alt="PCB" width="300"><img src="images/PCB_RJ45_Direct_top.png" alt="PCB" width="300">
+
+
 ### 2. RJ45 Direct Connection
 <img src="images/PCB_RJ45_Direct_top.png" alt="PCB" width="300">
 
