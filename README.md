@@ -78,7 +78,7 @@ This project includes several types of annunciators:
 
 ##### Annunciators with DIM/BRIGHT function
 
-<img src="images/PCB_Annunciator_schematic_B.png" alt="PCB" height="250"><img src="images/PCB_Annunciator_schematic_B1.png" alt="PCB" width="300">
+<img src="images/PCB_Annunciator_schematic_D.png" alt="PCB" height="250"><img src="images/PCB_Annunciator_schematic_D1.png" alt="PCB" width="300">
 
 #### Important - Switch Type
 I have encountered two different types of switches, both with a 4.5 mm height. The difference is the length of the actuator pin: one type has a 1.0 mm pin, while the other has a 1.5 mm pin.
