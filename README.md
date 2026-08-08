@@ -63,8 +63,8 @@ This project includes several types of annunciators:
 
 #### Bill of Materials (BOM)
 
-- 125x **PCB** – download my Gerber files
-- 250x **Switch** – 6x6x4.5 Tact Switch 4 Pin Vertical Micro Button Switch
+- 125x **PCB** - download my Gerber files
+- 250x **Switch** - 6x6x4.5 Tact Switch 4 Pin Vertical Micro Button Switch
 - 96× **Yellow 5mm Flat Top LED**
 - 10× **Green 5mm Flat Top LED**
 - 19× **White 5mm Flat Top LED**
@@ -74,14 +74,16 @@ This project includes several types of annunciators:
 
 <img src="images/PCB_Annunciator_schematic_A.png" alt="PCB" height="250"><img src="images/PCB_Annunciator_schematic_A1.png" alt="PCB" width="300">
 
-#### Important – Switch Type ####
+#### Important - Switch Type ####
 I have encountered two different types of switches, both with a 4.5 mm height. The difference is the length of the actuator pin: one type has a 1.0 mm pin, while the other has a 1.5 mm pin.
 
 The shorter 1.0 mm version caused significant problems during assembly. I had to modify and trim four plastic supports to make it work, so I do not recommend using this version.
 
 The 1.5 mm version worked perfectly without any modifications.
 
-Unfortunately, you cannot know in advance which version you will receive when ordering — it seems to depend on the manufacturer/supplier. If you receive the 1.0 mm version, I recommend ordering the switches again from a different supplier. They are relatively inexpensive, and this will save you a lot of trouble during assembly.
+Unfortunately, you cannot know in advance which version you will receive when ordering - it seems to depend on the manufacturer/supplier. If you receive the 1.0 mm version, I recommend ordering the switches again from a different supplier. They are relatively inexpensive, and this will save you a lot of trouble during assembly.
+
+<img src="images/PCB_Annunciator_switches.png" alt="PCB" width="350">
 
 
 ### 2. RJ45 Direct Connection
