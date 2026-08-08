@@ -72,7 +72,7 @@ This project includes several types of annunciators:
 
 #### PCB Assembly & Wiring
 
-<img src="images/PCB_RJ45_Direct_top.png" alt="PCB" width="300"><img src="images/PCB_RJ45_Direct_top.png" alt="PCB" width="300">
+<img src="images/PCB_Annunciator_schematic_A.png.png" alt="PCB" width="300"><img src="images/PCB_RJ45_Direct_top.png" alt="PCB" width="300">
 
 
 ### 2. RJ45 Direct Connection
