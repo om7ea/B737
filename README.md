@@ -83,6 +83,8 @@ The DIM/BRIGHT annunciators are optional. They are only required if you want to 
 
 <img src="images/PCB_Annunciator_schematic_C.png" alt="PCB" height="250"><img src="images/PCB_Annunciator_schematic_C1.png" alt="PCB" width="450">
 
+For the DIM/BRIGHT (dual brightness) function, the two unused wires can be cut off.
+
 #### Important - Switch Type
 I have encountered two different types of switches, both with a 4.5 mm height. The difference is the length of the actuator pin: one type has a 1.0 mm pin, while the other has a 1.5 mm pin.
 
