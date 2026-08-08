@@ -45,7 +45,9 @@ Thank you to everyone who supports this project!
 
 Three PCB versions are available depending on the intended use.
 
-### 1. RJ45 Direct Connection
+### 1. Annunciator
+
+### 2. RJ45 Direct Connection
 <img src="images/RJ45_direct_top.png" alt="PCB" width="300">
 
 [📥 Download gerber files - PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip)
@@ -66,7 +68,7 @@ Used for: Push buttons, Toggle switches, Rotary switches, Servos, Displays, ...
 
 ---
 
-### 2. LED Driver Version
+### 3. RJ45 LED Driver
 
 [📥 Download gerber files - PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip)
 
@@ -78,7 +80,7 @@ Used for:
 
 ---
 
-### 3. Combined Version
+### 4. RJ 45 Combined (4 pins with LED driver + 4 pins direct)
 
 [📥 Download gerber files - PCB_RJ45_Combined.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Combined.zip)
 
