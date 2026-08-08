@@ -61,6 +61,8 @@ This project includes several types of annunciators:
 - 5× blue background with white LED with two brightness levels (DIM/BRIGHT)
 - 2× large special annunciators in the Engine Panel, each with two PCBs (black background with a white LED in the upper section and a yellow LED in the lower section).
 
+The DIM/BRIGHT annunciators are optional. They are only required if you want to reproduce the two brightness levels. For a simpler build, you can omit these annunciators and use the standard version instead.
+
 #### Bill of Materials (BOM)
 
 - 125x **PCB** - download my Gerber files
@@ -69,6 +71,7 @@ This project includes several types of annunciators:
 - 10× **Green 5mm Flat Top LED**
 - 19× **White 5mm Flat Top LED**
 - 134 **Cable with connector** ZH 1.5 28AWG 15CM 4 pins (125 for annunciators + 9 for dual brightness function)
+- 9x **Resistor 150 Ω** for dual brightness function - I used 0805 SMD
 
 #### PCB Assembly & Wiring
 
