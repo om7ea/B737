@@ -94,7 +94,6 @@ Unfortunately, you cannot know in advance which version you will receive when or
 
 <img src="images/PCB_Annunciator_switches.png" alt="PCB" width="350">
 
-
 ### 2. RJ45 Direct Connection
 <img src="images/PCB_RJ45_Direct_top.png" alt="PCB" width="300">
 
@@ -125,6 +124,8 @@ Includes an LED driver circuit.
 Used for:
 - LED Annunciators
 - Other LEDs
+
+PCB Assembly will be added soon.
 
 ---
 
