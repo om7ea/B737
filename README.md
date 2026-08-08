@@ -50,6 +50,26 @@ Three PCB versions are available depending on the intended use.
 
 [📥 Download gerber files - PCB_Annunciator.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_Annunciator.zip)
 
+A total of **125** PCBs will be required for the complete project. However, I recommend ordering a few extra PCBs in case some are damaged during assembly.
+
+This project includes several types of annunciators:
+
+- 94× black background with yellow LED
+- 10× black background with green LED
+- 2× black background with white LED
+- 10× blue background with white LED
+- 5× blue background with white LED with two brightness levels (DIM/BRIGHT)
+- 2× large special annunciators in the Engine Panel, each with two PCBs (black background with a white LED in the upper section and a yellow LED in the lower section).
+
+#### Bill of Materials (BOM)
+
+- 125x **PCB** – download my Gerber files
+- 250x **Switch** – 6x6x4.5 Tact Switch 4 Pin Vertical Micro Button Switch
+- 96× **Yellow 5mm Flat Top LED**
+- 10× **Green 5mm Flat Top LED**
+- 19× **White 5mm Flat Top LED**
+- 134 **Cable with connector** ZH 1.5 28AWG 15CM 4 pins (125 for annunciators + 9 for dual brightness function)
+
 ### 2. RJ45 Direct Connection
 <img src="images/PCB_RJ45_Direct_top.png" alt="PCB" width="300">
 
