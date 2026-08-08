@@ -61,7 +61,7 @@ This project includes several types of annunciators:
 - 5× blue background with white LED with two brightness levels (DIM/BRIGHT)
 - 2× large special annunciators in the Engine Panel, each with two PCBs (black background with a white LED in the upper section and a yellow LED in the lower section).
 
-The DIM/BRIGHT annunciators are optional. They are only required if you want to reproduce the two brightness levels. For a simpler build, you can omit these annunciators and use the standard version instead.
+The dual brightness annunciators are optional. They are only required if you want to reproduce the two brightness levels. For a simpler build, you can omit these annunciators and use the standard version instead.
 
 #### Bill of Materials (BOM)
 
@@ -79,11 +79,11 @@ The DIM/BRIGHT annunciators are optional. They are only required if you want to 
 
 <img src="images/PCB_Annunciator_schematic_A.png" alt="PCB" height="250"><img src="images/PCB_Annunciator_schematic_A1.png" alt="PCB" width="300">
 
-##### Annunciators with DIM/BRIGHT function
+##### Annunciators with dual brightness function
 
 <img src="images/PCB_Annunciator_schematic_C.png" alt="PCB" height="250"><img src="images/PCB_Annunciator_schematic_C1.png" alt="PCB" width="450">
 
-For the DIM/BRIGHT (dual brightness) function, the two unused wires can be cut off.
+For the cable with the connector used for the dual brightness function, the two unused wires can be cut off.
 
 #### Important - Switch Type
 I have encountered two different types of switches, both with a 4.5 mm height. The difference is the length of the actuator pin: one type has a 1.0 mm pin, while the other has a 1.5 mm pin.
