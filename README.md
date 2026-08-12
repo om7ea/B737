@@ -107,8 +107,8 @@ Designed for direct connection through an RJ45 connector. Used for: push buttons
 
 #### Bill of Materials (BOM)
 
-- 1x **RJ45 Connector** – 5224 8P8C in-line Vertical 180 Degree Full Plastic – https://www.aliexpress.com/item/4000641016208.html
-- 3× **4.8 mm PCB Male Faston Terminal**
+- 1x **RJ45 Connector** – 5224 8P8C in-line Vertical 180 Degree Full Plastic [Product I used](images/AE_RJ45.png)
+- 3× **4.8 mm PCB Male Faston Terminal** [Product I used](images/AE_plug_male.png)
 - **KF301 PCB screw terminals** - 2P/3P/4P as required
 - **2.54 mm Male Pin Header** - as required 
 - 1× **330 Ω Resistor (0805)** - optional
@@ -129,8 +129,8 @@ Designed to connect up to 8 annunciators with push buttons. The integrated drive
 
 #### Bill of Materials (BOM)
 
-- 1x **RJ45 Connector** – 5224 8P8C in-line Vertical 180 Degree Full Plastic – https://www.aliexpress.com/item/4000641016208.html
-- 3× **4.8 mm PCB Male Faston Terminal**
+- 1x **RJ45 Connector** – 5224 8P8C in-line Vertical 180 Degree Full Plastic [Product I used](images/AE_RJ45.png)
+- 3× **4.8 mm PCB Male Faston Terminal** [Product I used](images/AE_plug_male.png)
 - 1-8x **Header ZH 1.5 4P** - buy the set – connectors + cables) [Product I used](images/AE_ZH.png)
 - 1-8x **SDM 0805 resistors** see the table for values
 - 1x **ULN2803** [Product I used](images/AE_ULN2803.png)
