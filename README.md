@@ -66,11 +66,11 @@ The dual brightness annunciators are optional. They are only required if you wan
 #### Bill of Materials (BOM)
 
 - 125x **PCB** - download my Gerber files
-- 250x **Switch** - 6x6x4.5 Tact Switch 4 Pin Vertical Micro Button Switch [Product I used](images/AE_button.png)
-- 96× **Yellow 5mm Flat Top LED**
-- 10× **Green 5mm Flat Top LED**
-- 19× **White 5mm Flat Top LED**
-- 134 **Cable with connector** ZH 1.5 28AWG 15CM 4 pins (125 for annunciators + 9 for dual brightness function)  - buy the set – connectors + cables) [Product I used](images/AE_ZH.png)
+- 250x **Switch** - 6x6x4.5 Tact Switch 4 Pin Vertical Micro Button Switch - [Product I used](images/AE_button.png)
+- 96× **Yellow 5mm Flat Top LED** - [Product I used](images/AE_led_yellow.png)
+- 10× **Green 5mm Flat Top LED** - [Product I used](images/AE_led_green.png)
+- 19× **White 5mm Flat Top LED** - [Product I used](images/AE_led_white.png)
+- 134 **Cable with connector** ZH 1.5 28AWG 15CM 4 pins (125 for annunciators + 9 for dual brightness function)  - buy the set – connectors + cables) - [Product I used](images/AE_ZH.png)
 - 9x **Resistor 150 Ω** for dual brightness function - I used 0805 SMD
 
 #### PCB Assembly & Wiring
@@ -107,13 +107,12 @@ Designed for direct connection through an RJ45 connector. Used for: push buttons
 
 #### Bill of Materials (BOM)
 
-- 1x **RJ45 Connector** – 5224 8P8C in-line Vertical 180 Degree Full Plastic [Product I used](images/AE_RJ45.png)
-- 3× **4.8 mm PCB Male Faston Terminal** [Product I used](images/AE_plug_male.png)
-- **KF301 PCB screw terminals** - 2P/3P/4P as required [Product I used](images/AE_KF301.png)
+- 1x **RJ45 Connector** – 5224 8P8C in-line Vertical 180 Degree Full Plastic - [Product I used](images/AE_RJ45.png)
+- 3× **4.8 mm PCB Male Faston Terminal** - [Product I used](images/AE_plug_male.png)
+- **KF301 PCB screw terminals** - 2P/3P/4P as required - [Product I used](images/AE_KF301.png)
 - **2.54 mm Male Pin Header** - as required 
 - 1× **330 Ω Resistor (0805)** - optional
 - 1× **Green LED (0805)** - optional
-
 
 ---
 
@@ -126,14 +125,14 @@ A total of **20** PCBs will be required for the complete project. However, I rec
 
 Designed to connect up to 8 annunciators with push buttons. The integrated driver powers the LEDs, reducing the current load on the Arduino when connecting a large number of LEDs.
 
-
 #### Bill of Materials (BOM)
 
-- 1x **RJ45 Connector** – 5224 8P8C in-line Vertical 180 Degree Full Plastic [Product I used](images/AE_RJ45.png)
-- 3× **4.8 mm PCB Male Faston Terminal** [Product I used](images/AE_plug_male.png)
-- 1-8x **Header ZH 1.5 4P** - buy the set – connectors + cables) [Product I used](images/AE_ZH.png)
+- 1x **RJ45 Connector** – 5224 8P8C in-line Vertical 180 Degree Full Plastic - [Product I used](images/AE_RJ45.png)
+- 2× **4.8 mm PCB Male Faston Terminal** - [Product I used](images/AE_plug_male.png)
+- 1-8x **Header ZH 1.5 4P** - buy the set – connectors + cables) - [Product I used](images/AE_ZH.png)
 - 1-8x **SDM 0805 resistors** see the table for values
-- 1x **ULN2803** [Product I used](images/AE_ULN2803.png)
+- 1x **ULN2803** - [Product I used](images/AE_ULN2803.png)
+- **KF301 PCB screw terminals** - 2P/3P/4P as required - [Product I used](images/AE_KF301.png)
 - 1× **330 Ω Resistor (0805)** - optional
 - 1× **Green LED (0805)** - optional
 
@@ -148,6 +147,16 @@ A total of **6** PCBs will be required for the complete project. However, I reco
 
 Designed to connect up to 4 annunciators and 4 direct connections. This PCB combines the functionality of the previous two PCBs.
 
+#### Bill of Materials (BOM)
+
+- 1x **RJ45 Connector** – 5224 8P8C in-line Vertical 180 Degree Full Plastic - [Product I used](images/AE_RJ45.png)
+- 3× **4.8 mm PCB Male Faston Terminal** - [Product I used](images/AE_plug_male.png)
+- 1-4x **Header ZH 1.5 4P** - buy the set – connectors + cables) - [Product I used](images/AE_ZH.png)
+- 1-4x **SDM 0805 resistors** see the table for values
+- 1x **ULN2803** - [Product I used](images/AE_ULN2803.png)
+- 1× **330 Ω Resistor (0805)** - optional
+- 1× **Green LED (0805)** - optional
+  
 ---
 
 ## UV Print Files
