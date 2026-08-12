@@ -140,8 +140,8 @@ Designed to connect up to 8 annunciators with push buttons. The integrated drive
 |----------|-------|
 | orange LED | 150 Ω |
 | green LED  | 330 Ω |
-| white LED - no dual brightness | 250 Ω |
-| white LED - dual brightness | 100 Ω |
+| white LED - no dual brightness annunciator | 250 Ω |
+| white LED - dual brightness annunciator | 100 Ω |
 
 ---
 
