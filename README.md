@@ -97,9 +97,11 @@ Unfortunately, you cannot know in advance which version you will receive when or
 <img src="images/PCB_Annunciator_switches.png" alt="PCB" width="350">
 
 ### 2. RJ45 Direct Connection
-<img src="images/PCB_RJ45_Direct_top.png" alt="PCB" width="300">
+<img src="images/PCB_RJ45_Direct_top.png" alt="PCB" width="300"><img src="images/PCB_RJ45_Direct_bottom.png" alt="PCB" width="300">
 
 [📥 Download gerber files - PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip)
+
+A total of **27** PCBs will be required for the complete project. However, I recommend ordering a few extra PCBs in case some are damaged during assembly.
 
 Designed for direct connection through an RJ45 connector.
 
@@ -118,26 +120,24 @@ Used for: Push buttons, Toggle switches, Rotary switches, Servos, Displays, ...
 ---
 
 ### 3. RJ45 LED Driver
+<img src="images/PCB_RJ45_Driver_top.png" alt="PCB" width="300"><img src="images/PCB_RJ45_Driver_bottom.png" alt="PCB" width="300">
 
 [📥 Download gerber files - PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip)
 
-Includes an LED driver circuit.
+A total of **20** PCBs will be required for the complete project. However, I recommend ordering a few extra PCBs in case some are damaged during assembly.
 
-Used for:
-- LED Annunciators
-- Other LEDs
-
-PCB Assembly will be added soon.
+Designed to connect up to 8 annunciators with push buttons. The integrated driver powers the LEDs, reducing the current load on the Arduino when connecting a large number of LEDs.
 
 ---
 
 ### 4. RJ 45 Combined (4 pins with LED driver + 4 pins direct)
+<img src="images/PCB_RJ45_Combined_top.png" alt="PCB" width="300"><img src="images/PCB_RJ45_Combined_bottom.png" alt="PCB" width="300">
 
 [📥 Download gerber files - PCB_RJ45_Combined.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Combined.zip)
 
-Combines both functions into a single PCB.
+A total of **6** PCBs will be required for the complete project. However, I recommend ordering a few extra PCBs in case some are damaged during assembly.
 
-Used when both inputs and LED outputs are required on the same board.
+Designed to connect up to 4 annunciators and 4 direct connections. This PCB combines the functionality of the previous two PCBs.
 
 ---
 
