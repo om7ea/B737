@@ -134,6 +134,14 @@ Designed to connect up to 8 annunciators with push buttons. The integrated drive
 - 1x **ULN2803** - [Product I used](images/AE_ULN2803.png)
 - 1× **330 Ω Resistor (0805)** - optional
 - 1× **Green LED (0805)** - optional
+  
+
+| Resistor | Value |
+|----------|-------|
+| orange LED | 150 Ω |
+| green LED  | 330 Ω |
+| white LED - no dual brightness | 250 Ω |
+| white LED - dual brightness | 100 Ω |
 
 ---
 
@@ -151,7 +159,7 @@ Designed to connect up to 4 annunciators and 4 direct connections. This PCB comb
 - 1x **RJ45 Connector** – 5224 8P8C in-line Vertical 180 Degree Full Plastic - [Product I used](images/AE_RJ45.png)
 - 3× **4.8 mm PCB Male Faston Terminal** - [Product I used](images/AE_plug_male.png)
 - 1-4x **Header ZH 1.5 4P** - buy the set – connectors + cables) - [Product I used](images/AE_ZH.png)
-- 1-4x **SDM 0805 resistors** see the table for values
+- 1-4x **SDM 0805 resistors** The values are the same as those listed in the table for the previous PCB.
 - 1x **ULN2803** - [Product I used](images/AE_ULN2803.png)
 - **KF301 PCB screw terminals** - 2P/3P/4P as required - [Product I used](images/AE_KF301.png)
 - 1× **330 Ω Resistor (0805)** - optional
