@@ -70,7 +70,7 @@ The dual brightness annunciators are optional. They are only required if you wan
 - 96× **Yellow 5mm Flat Top LED**
 - 10× **Green 5mm Flat Top LED**
 - 19× **White 5mm Flat Top LED**
-- 134 **Cable with connector** ZH 1.5 28AWG 15CM 4 pins (125 for annunciators + 9 for dual brightness function)
+- 134 **Cable with connector** ZH 1.5 28AWG 15CM 4 pins (125 for annunciators + 9 for dual brightness function)  - buy the set – connectors + cables) [Product I used](images/AE_ZH.png)
 - 9x **Resistor 150 Ω** for dual brightness function - I used 0805 SMD
 
 #### PCB Assembly & Wiring
@@ -103,9 +103,7 @@ Unfortunately, you cannot know in advance which version you will receive when or
 
 A total of **27** PCBs will be required for the complete project. However, I recommend ordering a few extra PCBs in case some are damaged during assembly.
 
-Designed for direct connection through an RJ45 connector.
-
-Used for: Push buttons, Toggle switches, Rotary switches, Servos, Displays, ...
+Designed for direct connection through an RJ45 connector. Used for: push buttons, toggle switches, rotary switches, servos, displays, ...
 
 #### Bill of Materials (BOM)
 
@@ -127,6 +125,17 @@ Used for: Push buttons, Toggle switches, Rotary switches, Servos, Displays, ...
 A total of **20** PCBs will be required for the complete project. However, I recommend ordering a few extra PCBs in case some are damaged during assembly.
 
 Designed to connect up to 8 annunciators with push buttons. The integrated driver powers the LEDs, reducing the current load on the Arduino when connecting a large number of LEDs.
+
+
+#### Bill of Materials (BOM)
+
+- 1x **RJ45 Connector** – 5224 8P8C in-line Vertical 180 Degree Full Plastic – https://www.aliexpress.com/item/4000641016208.html
+- 3× **4.8 mm PCB Male Faston Terminal**
+- 1-8x **Header ZH 1.5 4P** - buy the set – connectors + cables) [Product I used](images/AE_ZH.png)
+- 1-8x **SDM 0805 resistors** see the table for values
+- 1x **ULN2803** [Product I used](images/AE_ULN2803.png)
+- 1× **330 Ω Resistor (0805)** - optional
+- 1× **Green LED (0805)** - optional
 
 ---
 
