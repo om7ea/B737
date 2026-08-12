@@ -206,6 +206,7 @@ The complete printable model is available on MakerWorld.
 2. [Annunciators](https://makerworld.com/en/models/3121595-boeing-737-overhead-annunciators)
 3. [Rotary Knobs](https://makerworld.com/en/models/3066127-boeing-737-overhead-rotary-knobs)
 4. [Navigation panel](https://makerworld.com/en/models/2985636-boeing-737-overhead-navigation-panel)
+5. [Flight control panel](https://makerworld.com/en/models/3153234-boeing-737-overhead-flight-control-panel)
 
 ## Filaments I Used
 <img src="images/icons/dark-gray.svg" width="12" height="12"> Dark Gray - C-Tech Premium Line PLA RAL7011
