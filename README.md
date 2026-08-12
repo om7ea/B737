@@ -66,7 +66,7 @@ The dual brightness annunciators are optional. They are only required if you wan
 #### Bill of Materials (BOM)
 
 - 125x **PCB** - download my Gerber files
-- 250x **Switch** - 6x6x4.5 Tact Switch 4 Pin Vertical Micro Button Switch
+- 250x **Switch** - 6x6x4.5 Tact Switch 4 Pin Vertical Micro Button Switch [Product I used](images/AE_button.png)
 - 96× **Yellow 5mm Flat Top LED**
 - 10× **Green 5mm Flat Top LED**
 - 19× **White 5mm Flat Top LED**
@@ -109,7 +109,7 @@ Designed for direct connection through an RJ45 connector. Used for: push buttons
 
 - 1x **RJ45 Connector** – 5224 8P8C in-line Vertical 180 Degree Full Plastic [Product I used](images/AE_RJ45.png)
 - 3× **4.8 mm PCB Male Faston Terminal** [Product I used](images/AE_plug_male.png)
-- **KF301 PCB screw terminals** - 2P/3P/4P as required
+- **KF301 PCB screw terminals** - 2P/3P/4P as required [Product I used](images/AE_KF301.png)
 - **2.54 mm Male Pin Header** - as required 
 - 1× **330 Ω Resistor (0805)** - optional
 - 1× **Green LED (0805)** - optional
