@@ -132,7 +132,6 @@ Designed to connect up to 8 annunciators with push buttons. The integrated drive
 - 1-8x **Header ZH 1.5 4P** - buy the set – connectors + cables) - [Product I used](images/AE_ZH.png)
 - 1-8x **SDM 0805 resistors** see the table for values
 - 1x **ULN2803** - [Product I used](images/AE_ULN2803.png)
-- **KF301 PCB screw terminals** - 2P/3P/4P as required - [Product I used](images/AE_KF301.png)
 - 1× **330 Ω Resistor (0805)** - optional
 - 1× **Green LED (0805)** - optional
 
@@ -154,6 +153,7 @@ Designed to connect up to 4 annunciators and 4 direct connections. This PCB comb
 - 1-4x **Header ZH 1.5 4P** - buy the set – connectors + cables) - [Product I used](images/AE_ZH.png)
 - 1-4x **SDM 0805 resistors** see the table for values
 - 1x **ULN2803** - [Product I used](images/AE_ULN2803.png)
+- **KF301 PCB screw terminals** - 2P/3P/4P as required - [Product I used](images/AE_KF301.png)
 - 1× **330 Ω Resistor (0805)** - optional
 - 1× **Green LED (0805)** - optional
   
