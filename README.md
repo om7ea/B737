@@ -202,11 +202,13 @@ I recommend ordering at least two copies of each PDF file. During multiple print
 
 The complete printable model is available on MakerWorld.
 
-1. Main Frame - Will be added soon
+1. [Main Frame](https://makerworld.com/en/models/3179915-boeing-737-overhead-frame)
 2. [Annunciators](https://makerworld.com/en/models/3121595-boeing-737-overhead-annunciators)
 3. [Rotary Knobs](https://makerworld.com/en/models/3066127-boeing-737-overhead-rotary-knobs)
 4. [Navigation panel](https://makerworld.com/en/models/2985636-boeing-737-overhead-navigation-panel)
 5. [Flight control panel](https://makerworld.com/en/models/3153234-boeing-737-overhead-flight-control-panel)
+6. [Door Warning Panel](https://makerworld.com/en/models/3163604-boeing-737-overhead-door-warning-panel)
+7. [Generator Drive Panel](https://makerworld.com/en/models/3163662-boeing-737-overhead-generator-drive-panel)
 
 ## Filaments I Used
 <img src="images/icons/dark-gray.svg" width="12" height="12"> Dark Gray - C-Tech Premium Line PLA RAL7011
