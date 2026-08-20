@@ -207,9 +207,9 @@ The complete printable model is available on MakerWorld.
 3. [Rotary Knobs](https://makerworld.com/en/models/3066127-boeing-737-overhead-rotary-knobs)
 4. [Navigation panel](https://makerworld.com/en/models/2985636-boeing-737-overhead-navigation-panel)
 5. [Flight control panel](https://makerworld.com/en/models/3153234-boeing-737-overhead-flight-control-panel)
-6. Door Warning Panel [Makerworld](https://makerworld.com/en/models/3163604-boeing-737-overhead-door-warning-panel) [Details](docs//parts/6 Door Warning Panel.md)
-7. [Generator Drive Panel](https://makerworld.com/en/models/3163662-boeing-737-overhead-generator-drive-panel)
-8. ???
+6. Door Warning Panel [Makerworld](https://makerworld.com/en/models/3163604-boeing-737-overhead-door-warning-panel) , [Details](docs/parts/6%20Door%20Warning%20Panel.md)
+9. [Generator Drive Panel](https://makerworld.com/en/models/3163662-boeing-737-overhead-generator-drive-panel)
+10. ???
    
 I’m currently preparing more panels for release.
 
