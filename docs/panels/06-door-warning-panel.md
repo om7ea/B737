@@ -10,8 +10,8 @@
 
 <table>
 <tr>
-<td align="center" width="50%"><img src="../../images/panels/06-door-warning-photo-1-front.jpg" alt="Finished Door Warning Panel, front"><br><sub>Finished panel</sub></td>
-<td align="center" width="50%"><img src="../../images/panels/06-door-warning-photo-2-rear.jpg" alt="Rear of the panel with the two PCBs"><br><sub>Rear side — the two PCBs and wiring</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/06-door-warning-front.jpg" alt="Finished Door Warning Panel, front"><br><sub>Finished panel</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/06-door-warning-rear.jpg" alt="Rear of the panel with the two PCBs"><br><sub>Rear side — the two PCBs and wiring</sub></td>
 </tr>
 </table>
 
