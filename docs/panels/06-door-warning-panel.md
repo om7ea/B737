@@ -25,7 +25,7 @@
 
 ## Wiring
 
-🚧 *Which Arduino board this panel connects to, and the pin assignment.*
+🚧 *Which board this panel connects to, and the pin assignment.*
 
 ## MobiFlight Configuration
 

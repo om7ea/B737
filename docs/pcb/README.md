@@ -14,7 +14,7 @@ The PCB designs released so far. All Gerber files are ready to be uploaded direc
 |---|---|---|
 | [**1. Annunciator**](annunciator.md) | 125× | The illuminated push-button annunciators themselves |
 | [**2. RJ45 Direct**](rj45-direct.md) | 27× | Buttons, toggle switches, rotary switches, servos, displays |
-| [**3. RJ45 LED Driver**](rj45-driver.md) | 20× | Up to 8 annunciators, with a driver to offload the Arduino |
+| [**3. RJ45 LED Driver**](rj45-driver.md) | 20× | Up to 8 annunciators, with a driver to offload the board |
 | [**4. RJ45 Combined**](rj45-combined.md) | 6× | 4 driven annunciator channels + 4 direct connections |
 | … | — | *More designs will follow as new panels are released* |
 
@@ -38,4 +38,4 @@ The PCB designs released so far. All Gerber files are ready to be uploaded direc
 
 ## How They Fit Together
 
-The RJ45 boards are the interface between the [Arduino Mini Mega 2560 boards](../system-overview.md) and the individual panels. Panels connect using standard Ethernet patch cables. The Annunciator PCB sits inside each illuminated push-button and connects to a driver board with a ZH 1.5 4-pin cable.
+The RJ45 boards are the interface between the [Mega 2560 PRO MINI boards](../system-overview.md) and the individual panels. Panels connect using standard Ethernet patch cables. The Annunciator PCB sits inside each illuminated push-button and connects to a driver board with a ZH 1.5 4-pin cable.

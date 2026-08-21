@@ -10,7 +10,7 @@
 
 ## Purpose
 
-Designed to connect up to **8 annunciators** with push buttons. The integrated driver powers the LEDs, reducing the current load on the Arduino when connecting a large number of LEDs.
+Designed to connect up to **8 annunciators** with push buttons. The integrated driver powers the LEDs, reducing the current load on the board when connecting a large number of LEDs.
 
 ## Quantity
 

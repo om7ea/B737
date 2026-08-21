@@ -22,7 +22,7 @@ All electronics are enclosed inside the panel and connected to an internal USB h
 | **PMDG 737-800** | Aircraft model that exposes the real 737 systems and variables |
 | **MobiFlight** | Bridges the hardware and the simulator — maps each switch, button and LED to a PMDG variable |
 
-MobiFlight does the heavy lifting: switches and LEDs are configured in its graphical interface, so **no programming is required**. The Arduino boards run the standard MobiFlight firmware, which MobiFlight uploads for you when the board is first added.
+MobiFlight does the heavy lifting: switches and LEDs are configured in its graphical interface, so **no programming is required**. The boards run the standard MobiFlight firmware, which MobiFlight uploads for you when the board is first added.
 
 > **Coming soon**
 > The MobiFlight configuration files for the whole overhead panel will be published in this repository.
@@ -33,12 +33,25 @@ MobiFlight does the heavy lifting: switches and LEDs are configured in its graph
 
 | Component | Quantity | Purpose |
 |---|---|---|
-| **Arduino Mini Mega 2560** | 7× | Each board drives one group of panels |
+| **Mega 2560 PRO MINI** | 7× | Each board drives one group of panels |
 | **USB hub** | 1× | Connects all seven boards to the single USB cable |
 | **External power supplies** | 2× | One 12 V unit for the backlighting, one 5 V unit for the electronics |
 | **RJ45 breakout PCBs** | 53× | Link the individual panels to the boards — see [PCB documentation](pcb/README.md) |
 
 Each Mega 2560 is registered in MobiFlight as a separate device, which keeps the configuration manageable and makes it easy to work on one section of the overhead at a time.
+
+### The boards
+
+The project uses **MEGA 2560 PRO MINI** boards — inexpensive third-party clones widely sold on AliExpress. They are built around the same **ATmega2560** microcontroller as the official Arduino Mega 2560 and behave identically, but they are *not* genuine Arduino products.
+
+Two things make this form factor the right choice here:
+
+- **Size** — the PRO MINI board is a fraction of the size of a full Arduino Mega 2560, yet keeps the full pin count. This matters when seven of them have to fit inside the overhead panel.
+- **Price** — at clone prices, using seven boards instead of one large one is affordable.
+
+Search AliExpress for `MEGA 2560 PRO MINI`.
+
+---
 
 ### Power supply
 
@@ -47,7 +60,7 @@ The panel does **not** draw its power from the USB cable. It is fed by **two sep
 | Supply | Powers |
 |---|---|
 | **12 V** | Panel backlighting |
-| **5 V** | All other electronics — Arduino boards, annunciator LEDs, servos, displays |
+| **5 V** | All other electronics — the Mega boards, annunciator LEDs, servos, displays |
 
 The USB cable therefore carries data only. This keeps the load off the PC's USB port, which matters with 125 annunciators in the finished panel.
 
@@ -62,7 +75,7 @@ A single Mega 2560 does not have enough I/O pins for the complete overhead panel
 Panels attach to the boards through RJ45 connectors, using standard Ethernet patch cables. Three PCB variants cover the different needs:
 
 - **RJ45 Direct** — buttons, toggle switches, rotary switches, servos, displays
-- **RJ45 LED Driver** — up to 8 annunciators; the ULN2803 driver powers the LEDs so the Arduino is not overloaded
+- **RJ45 LED Driver** — up to 8 annunciators; the ULN2803 driver powers the LEDs so the board is not overloaded
 - **RJ45 Combined** — 4 driven annunciator channels + 4 direct connections
 
 See [PCB Manufacturing Files](pcb/README.md) for details, BOM and wiring.

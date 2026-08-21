@@ -21,7 +21,7 @@ All electronics are enclosed inside the panel and connected to an internal USB h
 
 **On the PC:** Microsoft Flight Simulator 2020 + PMDG 737-800 + MobiFlight. MobiFlight maps each switch, button and LED to a PMDG variable through its graphical interface, so **no programming is required**.
 
-**Inside the panel:** 7× Arduino Mini Mega 2560, each driving one group of panels, all connected to an internal USB hub. Panels attach to the boards through RJ45 connectors using standard Ethernet patch cables.
+**Inside the panel:** 7× **Mega 2560 PRO MINI** boards, each driving one group of panels, all connected to an internal USB hub. Panels attach to the boards through RJ45 connectors using standard Ethernet patch cables.
 
 **Power:** the panel is powered externally, not through the USB cable. It uses **two separate power supplies** — a **12 V** supply for the backlighting and a **5 V** supply for the rest of the electronics.
 
