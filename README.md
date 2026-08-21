@@ -2,199 +2,54 @@
 
 This repository contains supplementary manufacturing files for the corresponding MakerWorld project. Additional files and resources will be added gradually as new models are published on MakerWorld.
 
-## Contents
-
-This repository includes:
-
-- [PCB Manufacturing Files (Gerber)](#pcb-manufacturing-files-gerber)
-- [UV Print Files](#uv-print-files)
-- [3D Model Downloads - Makerworld](#3d-model-downloads---makerworld)
-
 > **Note**
-> This repository contains only supplementary manufacturing files. The 3D printable parts are available on MakerWorld.
-
----
+> This repository contains only supplementary manufacturing files. The 3D printable parts are available on [MakerWorld](#3d-model-downloads---makerworld).
 
 ## Photos
 
-<span><img src="images/1.png" alt="PCB" width="260">
-<img src="images/3.png" alt="PCB" width="260">
-<img src="images/2.png" alt="PCB" width="260"></span>
-
-## Support the Project
-
-This project is completely free and will continue to be released free of charge.
-
-Designing, testing, documenting, and maintaining the complete Boeing 737 Overhead Panel requires a significant amount of time. If you would like to support its continued development, you can make a voluntary contribution.
-
-### How Your Support Helps
-
-I'm saving for a ProSim737 license, a professional simulator software package that would greatly enhance my home cockpit. Every contribution brings me one step closer to reaching that goal.
-
-**Progress:** €4 / €1,500 (0%)
-<sub>last updated: 18 July 2026</sub>
-
-![Funding Progress](https://progress-bar.xyz/0/?width=500) 
-
-✈️ **Support via PayPal:**  
-https://paypal.me/om7ea
-
-Thank you to everyone who supports this project!
-
-## PCB Manufacturing Files (Gerber)
-
-Three PCB versions are available depending on the intended use.
-
-### 1. Annunciator
-<img src="images/PCB_Annunciator.png" alt="PCB" width="300">
-
-[📥 Download gerber files - PCB_Annunciator.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_Annunciator.zip)
-
-A total of **125** PCBs will be required for the complete project. However, I recommend ordering a few extra PCBs in case some are damaged during assembly.
-
-This project includes several types of annunciators:
-
-- 94× black background with yellow LED
-- 10× black background with green LED
-- 2× black background with white LED
-- 10× blue background with white LED
-- 5× blue background with white LED with two brightness levels (DIM/BRIGHT)
-- 2× large special annunciators in the Engine Panel, each with two PCBs (black background with a white LED in the upper section and a yellow LED in the lower section).
-
-The dual brightness annunciators are optional. They are only required if you want to reproduce the two brightness levels. For a simpler build, you can omit these annunciators and use the standard version instead.
-
-#### Bill of Materials (BOM)
-
-- 125x **PCB** - download my Gerber files
-- 250x **Switch** - 6x6x4.5 Tact Switch 4 Pin Vertical Micro Button Switch - [Product I used](images/AE_button.png)
-- 96× **Yellow 5mm Flat Top LED** - [Product I used](images/AE_led_yellow.png)
-- 10× **Green 5mm Flat Top LED** - [Product I used](images/AE_led_green.png)
-- 19× **White 5mm Flat Top LED** - [Product I used](images/AE_led_white.png)
-- 134 **Cable with connector** ZH 1.5 28AWG 15CM 4 pins (125 for annunciators + 9 for dual brightness function)  - buy the set – connectors + cables) - [Product I used](images/AE_ZH.png)
-- 9x **Resistor 150 Ω** for dual brightness function - I used 0805 SMD
-
-#### PCB Assembly & Wiring
-
-##### Standard Annunciators
-
-<img src="images/PCB_Annunciator_schematic_A.png" alt="PCB" height="250"><img src="images/PCB_Annunciator_schematic_A1.png" alt="PCB" width="300">
-
-##### Annunciators with dual brightness function
-
-<img src="images/PCB_Annunciator_schematic_C.png" alt="PCB" height="250"><img src="images/PCB_Annunciator_schematic_C1.png" alt="PCB" width="450">
-
-For the cable with the connector used for the dual brightness function, the two unused wires can be cut off.
-
-#### Important - Switch Type
-I have encountered two different types of switches, both with a 4.5 mm height. The difference is the length of the actuator pin: one type has a 1.0 mm pin, while the other has a 1.5 mm pin.
-
-The shorter 1.0 mm version caused significant problems during assembly. I had to modify and trim four plastic supports to make it work, so I do not recommend using this version.
-
-The 1.5 mm version worked perfectly without any modifications.
-
-Unfortunately, you cannot know in advance which version you will receive when ordering - it seems to depend on the manufacturer/supplier. If you receive the 1.0 mm version, I recommend ordering the switches again from a different supplier. They are relatively inexpensive, and this will save you a lot of trouble during assembly.
-
-<img src="images/PCB_Annunciator_switches.png" alt="PCB" width="350">
-
-### 2. RJ45 Direct Connection
-<img src="images/PCB_RJ45_Direct_top.png" alt="PCB" width="300"><img src="images/PCB_RJ45_Direct_bottom.png" alt="PCB" width="300">
-
-[📥 Download gerber files - PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip)
-
-A total of **27** PCBs will be required for the complete project. However, I recommend ordering a few extra PCBs in case some are damaged during assembly.
-
-Designed for direct connection through an RJ45 connector. Used for: push buttons, toggle switches, rotary switches, servos, displays, ...
-
-#### Bill of Materials (BOM)
-
-- 1x **RJ45 Connector** - 5224 8P8C in-line Vertical 180 Degree Full Plastic - [Product I used](images/AE_RJ45.png)
-- 3× **4.8 mm PCB Male Faston Terminal** - [Product I used](images/AE_plug_male.png)
-- **KF301 PCB screw terminals** - 2P/3P/4P as required - [Product I used](images/AE_KF301.png)
-- **2.54 mm Male Pin Header** - as required 
-- 1× **330 Ω Resistor (0805)** - optional
-- 1× **Green LED (0805)** - optional
+<span><img src="images/1.png" alt="Overhead panel" width="260">
+<img src="images/3.png" alt="Overhead panel" width="260">
+<img src="images/2.png" alt="Overhead panel" width="260"></span>
 
 ---
 
-### 3. RJ45 LED Driver
-<img src="images/PCB_RJ45_Driver_top.png" alt="PCB" width="300"><img src="images/PCB_RJ45_Driver_bottom.png" alt="PCB" width="300">
+## How It Works
 
-[📥 Download gerber files - PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip)
+The whole overhead panel behaves as a **single plug-and-play USB device** — all electronics are enclosed inside the panel and connected to an internal USB hub, so linking the finished panel to the PC takes **one USB cable**.
 
-A total of **20** PCBs will be required for the complete project. However, I recommend ordering a few extra PCBs in case some are damaged during assembly.
+<img src="images/system_overview.png" alt="System overview diagram" width="800">
 
-Designed to connect up to 8 annunciators with push buttons. The integrated driver powers the LEDs, reducing the current load on the Arduino when connecting a large number of LEDs.
+**On the PC:** Microsoft Flight Simulator 2020 + PMDG 737-800 + MobiFlight. MobiFlight maps each switch, button and LED to a PMDG variable through its graphical interface, so **no programming is required**.
 
-#### Bill of Materials (BOM)
+**Inside the panel:** 7× Arduino Mini Mega 2560, each driving one group of panels, all connected to an internal USB hub. Panels attach to the boards through RJ45 connectors using standard Ethernet patch cables.
 
-- 1x **RJ45 Connector** - 5224 8P8C in-line Vertical 180 Degree Full Plastic - [Product I used](images/AE_RJ45.png)
-- 2× **4.8 mm PCB Male Faston Terminal** - [Product I used](images/AE_plug_male.png)
-- 1-8x **Header ZH 1.5 4P** - buy the set – connectors + cables) - [Product I used](images/AE_ZH.png)
-- 1-8x **SDM 0805 resistors** - see the table for values
-- 1x **ULN2803** - [Product I used](images/AE_ULN2803.png)
-- 1× **330 Ω Resistor (0805)** - optional
-- 1× **Green LED (0805)** - optional
-  
-
-| Resistor | Value |
-|----------|-------|
-| orange LED | 150 Ω |
-| green LED  | 330 Ω |
-| white LED - no dual brightness annunciator | 250 Ω |
-| white LED - dual brightness annunciator | 100 Ω |
+📖 **[Full system overview →](docs/system-overview.md)**
 
 ---
 
-### 4. RJ 45 Combined (4 pins with LED driver + 4 pins direct)
-<img src="images/PCB_RJ45_Combined_top.png" alt="PCB" width="300"><img src="images/PCB_RJ45_Combined_bottom.png" alt="PCB" width="300">
+## Documentation
 
-[📥 Download gerber files - PCB_RJ45_Combined.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Combined.zip)
+| | Contents |
+|---|---|
+| ⚙️ **[System Overview](docs/system-overview.md)** | How the panel connects to the simulator — software, boards, wiring |
+| 🔌 **[PCB Manufacturing Files](docs/pcb/README.md)** | Gerber downloads, BOM and assembly for all four PCB designs |
+| 🖨️ **[UV Print Files](docs/uv-print.md)** | Printable panel graphics and printing instructions |
+| 🛩️ **[Panels](docs/panels/README.md)** | Build notes for the individual panels |
+| 🎨 **[Filaments](docs/filaments.md)** | The filaments I used and their colours |
 
-A total of **6** PCBs will be required for the complete project. However, I recommend ordering a few extra PCBs in case some are damaged during assembly.
+### Quick Downloads
 
-Designed to connect up to 4 annunciators and 4 direct connections. This PCB combines the functionality of the previous two PCBs.
+| PCB | Qty | Gerber files |
+|---|---:|---|
+| [Annunciator](docs/pcb/annunciator.md) | 125× | [📥 PCB_Annunciator.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_Annunciator.zip) |
+| [RJ45 Direct](docs/pcb/rj45-direct.md) | 27× | [📥 PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip) |
+| [RJ45 LED Driver](docs/pcb/rj45-driver.md) | 20× | [📥 PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip) |
+| [RJ45 Combined](docs/pcb/rj45-combined.md) | 6× | [📥 PCB_RJ45_Combined.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Combined.zip) |
 
-#### Bill of Materials (BOM)
-
-- 1x **RJ45 Connector** - 5224 8P8C in-line Vertical 180 Degree Full Plastic - [Product I used](images/AE_RJ45.png)
-- 3× **4.8 mm PCB Male Faston Terminal** - [Product I used](images/AE_plug_male.png)
-- 1-4x **Header ZH 1.5 4P** - buy the set – connectors + cables) - [Product I used](images/AE_ZH.png)
-- 1-4x **SDM 0805 resistors**  - the values are the same as those listed in the table for the previous PCB.
-- 1x **ULN2803** - [Product I used](images/AE_ULN2803.png)
-- **KF301 PCB screw terminals** - 2P/3P/4P as required - [Product I used](images/AE_KF301.png)
-- 1× **330 Ω Resistor (0805)** - optional
-- 1× **Green LED (0805)** - optional
-  
----
-
-## UV Print Files
-
-
-Finding a suitable printing method took a considerable amount of trial and error. I initially tried standard laser printing, but the black areas were not opaque enough. When backlit, light leaked through the black print, resulting in poor contrast and an unrealistic appearance.
-
-A local professional print shop suggested using UV printing instead. They also recommended printing the graphics twice on top of each other to achieve a much denser black. This solution produced excellent results and completely solved the backlight bleed issue.
-
-The PDF files should be printed using double-pass UV printing on A4 transparent self-adhesive foil. This method provides excellent opacity and completely eliminates light bleed through the black areas when the panel is backlit. Printing both sheets cost approximately €15.
-
-I recommend ordering at least two copies of each PDF file. During multiple prints, it is possible that one area of a sheet will be perfectly sharp while another area may appear slightly blurred. Having a second copy allows you to choose the best sections from each print if necessary.
-
-<table>
-<tr>
-<td align="center">
-<a href="https://raw.githubusercontent.com/om7ea/B737/main/docs/uv_print/uv_annunciators.pdf">
-<img src="images/uv_annunciators.png" width="180"><br>
-<b>Annunciators</b>
-</a>
-</td>
-
-<td align="center">
-<a href="https://raw.githubusercontent.com/om7ea/B737/main/docs/uv_print/uv_gauges.pdf">
-<img src="images/uv_gauges.png" width="180"><br>
-<b>Gauges</b>
-</a>
-</td>
-</tr>
-</table>
+| UV print | File |
+|---|---|
+| Annunciators | [📥 uv_annunciators.pdf](https://raw.githubusercontent.com/om7ea/B737/main/docs/uv_print/uv_annunciators.pdf) |
+| Gauges | [📥 uv_gauges.pdf](https://raw.githubusercontent.com/om7ea/B737/main/docs/uv_print/uv_gauges.pdf) |
 
 ---
 
@@ -211,21 +66,32 @@ The complete printable model is available on MakerWorld.
 7. [Generator Drive and Standby Power Panel](https://makerworld.com/en/models/3163662-boeing-737-overhead-generator-drive-panel)
 8. [Window and Probe Heat Panel](https://makerworld.com/en/models/3196345-boeing-737-overhead-window-and-probe-heat-panel)
 9. [Anti-ice Panel](https://makerworld.com/en/models/3197814-boeing-737-overhead-anti-ice-panel)
-10. ???
-   
-I’m currently preparing more panels for release.
 
-## Filaments I Used
-<img src="images/icons/dark-gray.svg" width="12" height="12"> Dark Gray - C-Tech Premium Line PLA RAL7011
+I'm currently preparing more panels for release.
 
-<img src="images/icons/transparent.svg" width="12" height="12"> Transparent - Filament PM PLA Transparent
+---
 
-<img src="images/icons/white.svg" width="12" height="12"> White - Bambu PLA Basic Jade White (10100)
+## Support the Project
 
-<img src="images/icons/black.svg" width="12" height="12"> Black - Bambu PLA Basic Black (10101)
+This project is completely free and will continue to be released free of charge.
 
-<img src="images/icons/bone-white.svg" width="12" height="12"> Bone White - Bambu PLA Matte Bone White (11103)
+Designing, testing, documenting, and maintaining the complete Boeing 737 Overhead Panel requires a significant amount of time. If you would like to support its continued development, you can make a voluntary contribution.
 
+### How Your Support Helps
+
+I'm saving for a ProSim737 license, a professional simulator software package that would greatly enhance my home cockpit. Every contribution brings me one step closer to reaching that goal.
+
+**Progress:** €4 / €1,500 (0%)
+<sub>last updated: 18 July 2026</sub>
+
+![Funding Progress](https://progress-bar.xyz/0/?width=500)
+
+✈️ **Support via PayPal:**
+https://paypal.me/om7ea
+
+Thank you to everyone who supports this project!
+
+---
 
 ## License
 
