@@ -2,7 +2,7 @@
 
 [📦 Download the printable model on MakerWorld](https://makerworld.com/en/models/3121595-boeing-737-overhead-annunciators)
 
-[← Back to panel list](README.md)
+[← Back to model list](README.md)
 
 ---
 

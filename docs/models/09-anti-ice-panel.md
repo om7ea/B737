@@ -2,7 +2,7 @@
 
 [📦 Download the printable model on MakerWorld](https://makerworld.com/en/models/3197814-boeing-737-overhead-anti-ice-panel)
 
-[← Back to panel list](README.md)
+[← Back to model list](README.md)
 
 ---
 

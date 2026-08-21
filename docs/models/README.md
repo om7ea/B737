@@ -1,16 +1,29 @@
-# Panels
+# Models
 
-Build notes for the individual panels. The printable models themselves are published on MakerWorld — the pages linked below contain the print settings and assembly instructions for each model.
+Build notes for the individual models. The printable parts themselves are published on MakerWorld — the pages linked below contain the print settings and assembly instructions for each model.
 
 [← Back to main page](../../README.md)
 
+The numbering follows the order in which the models were released on MakerWorld.
+
 ---
 
-| | # | Panel | MakerWorld | Build notes |
+## Frame and Shared Components
+
+These are not panels. The frame carries the whole overhead, and the components below are reused across many panels.
+
+| | # | Model | MakerWorld | Build notes |
 |---|---:|---|---|---|
 | | 1 | Main Frame | [Model](https://makerworld.com/en/models/3179915-boeing-737-overhead-frame) | 🚧 |
 | | 2 | Annunciators | [Model](https://makerworld.com/en/models/3121595-boeing-737-overhead-annunciators) | [Notes](02-annunciators.md) |
 | | 3 | Rotary Knobs | [Model](https://makerworld.com/en/models/3066127-boeing-737-overhead-rotary-knobs) | 🚧 |
+
+---
+
+## Panels
+
+| | # | Panel | MakerWorld | Build notes |
+|---|---:|---|---|---|
 | | 4 | Navigation Panel | [Model](https://makerworld.com/en/models/2985636-boeing-737-overhead-navigation-panel) | 🚧 |
 | | 5 | Flight Control Panel | [Model](https://makerworld.com/en/models/3153234-boeing-737-overhead-flight-control-panel) | 🚧 |
 | <img src="../../images/panels/06-door-warning-photo-1-front.jpg" width="200"> | 6 | Door Warning Panel | [Model](https://makerworld.com/en/models/3163604-boeing-737-overhead-door-warning-panel) | [Notes](06-door-warning-panel.md) |
