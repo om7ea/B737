@@ -15,7 +15,7 @@ This repository contains supplementary manufacturing files for the corresponding
 
 ## How It Works
 
-All electronics are enclosed inside the panel and connected to an internal USB hub, so the finished panel needs just **one USB cable to the PC** — plus its own power supply.
+All electronics are enclosed inside the panel and connected to an internal USB hub, so the finished panel needs just **one USB cable to the PC** — plus its own power supplies.
 
 <img src="images/system_overview.png" alt="System overview diagram" width="800">
 
@@ -23,7 +23,7 @@ All electronics are enclosed inside the panel and connected to an internal USB h
 
 **Inside the panel:** 7× Arduino Mini Mega 2560, each driving one group of panels, all connected to an internal USB hub. Panels attach to the boards through RJ45 connectors using standard Ethernet patch cables.
 
-**Power:** the panel is powered by an external supply, not through the USB cable — **12 V** for the backlighting and **5 V** for the rest of the electronics.
+**Power:** the panel is powered externally, not through the USB cable. It uses **two separate power supplies** — a **12 V** supply for the backlighting and a **5 V** supply for the rest of the electronics.
 
 📖 **[Full system overview →](docs/system-overview.md)**
 

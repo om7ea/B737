@@ -35,16 +35,16 @@ MobiFlight does the heavy lifting: switches and LEDs are configured in its graph
 |---|---|---|
 | **Arduino Mini Mega 2560** | 7× | Each board drives one group of panels |
 | **USB hub** | 1× | Connects all seven boards to the single USB cable |
-| **External power supply** | 1× | Provides 12 V for the backlighting and 5 V for the electronics |
+| **External power supplies** | 2× | One 12 V unit for the backlighting, one 5 V unit for the electronics |
 | **RJ45 breakout PCBs** | 53× | Link the individual panels to the boards — see [PCB documentation](pcb/README.md) |
 
 Each Mega 2560 is registered in MobiFlight as a separate device, which keeps the configuration manageable and makes it easy to work on one section of the overhead at a time.
 
 ### Power supply
 
-The panel does **not** draw its power from the USB cable. A separate external power supply feeds the panel with two voltages:
+The panel does **not** draw its power from the USB cable. It is fed by **two separate external power supplies**:
 
-| Voltage | Powers |
+| Supply | Powers |
 |---|---|
 | **12 V** | Panel backlighting |
 | **5 V** | All other electronics — Arduino boards, annunciator LEDs, servos, displays |
@@ -73,6 +73,6 @@ See [PCB Manufacturing Files](pcb/README.md) for details, BOM and wiring.
 
 These sections are still to be written:
 
-- **Power supply details** — current rating of the 12 V and 5 V rails, and how power is distributed inside the panel
+- **Power supply details** — current rating of each supply, and how power is distributed inside the panel
 - **Board assignment** — which panels are connected to which Mega 2560
 - **MobiFlight configuration** — the complete configuration files will be published here
