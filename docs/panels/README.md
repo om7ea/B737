@@ -9,7 +9,7 @@ Build notes for the individual panels. The printable models themselves are publi
 | # | Panel | MakerWorld | Build notes |
 |---:|---|---|---|
 | 1 | Main Frame | [Model](https://makerworld.com/en/models/3179915-boeing-737-overhead-frame) | 🚧 |
-| 2 | Annunciators | [Model](https://makerworld.com/en/models/3121595-boeing-737-overhead-annunciators) | 🚧 |
+| 2 | Annunciators | [Model](https://makerworld.com/en/models/3121595-boeing-737-overhead-annunciators) | [Notes](02-annunciators.md) |
 | 3 | Rotary Knobs | [Model](https://makerworld.com/en/models/3066127-boeing-737-overhead-rotary-knobs) | 🚧 |
 | 4 | Navigation Panel | [Model](https://makerworld.com/en/models/2985636-boeing-737-overhead-navigation-panel) | 🚧 |
 | 5 | Flight Control Panel | [Model](https://makerworld.com/en/models/3153234-boeing-737-overhead-flight-control-panel) | 🚧 |

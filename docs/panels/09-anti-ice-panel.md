@@ -59,7 +59,13 @@
 | 2× | Black background, yellow LED |
 | 4× | Blue background, white LED, dual brightness |
 
-The annunciators themselves are a separate model — see [Parts from Other Models](#parts-from-other-models) below. For their PCB, BOM and wiring, see [Annunciator PCB](../pcb/annunciator.md).
+The annunciators are a separate model shared with the other panels — they are **not included** in this download.
+
+| | |
+|---|---|
+| 📦 Printable model | [Boeing 737 Overhead - Annunciators](https://makerworld.com/en/models/3121595-boeing-737-overhead-annunciators) |
+| 🔧 Build notes | [Annunciators](02-annunciators.md) |
+| 🔌 PCB, BOM and wiring | [Annunciator PCB](../pcb/annunciator.md) |
 
 ---
 
@@ -82,16 +88,6 @@ Mounting and connections are shown in [step 5](#5-backlight-panel--pcbs-and-dc-j
 | 1× | DC jack 5.5 × 2.5 mm |
 
 Powered from the **12 V** supply — see [Power supply](../system-overview.md#power-supply).
-
----
-
-## Parts from Other Models
-
-The following components are shared with other panels and are **not included** in this model. Download them separately:
-
-| Part | Model |
-|---|---|
-| Annunciators | [Boeing 737 Overhead - Annunciators](https://makerworld.com/en/models/3121595-boeing-737-overhead-annunciators) |
 
 ---
 
