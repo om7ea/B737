@@ -8,7 +8,7 @@ How the overhead panel connects to the simulator.
 
 ## The Idea
 
-The whole overhead panel behaves as a **single plug-and-play USB device**. All electronics are enclosed inside the panel and connected to an internal USB hub, so linking the finished panel to the PC takes **one USB cable**.
+All electronics are enclosed inside the panel and connected to an internal USB hub, so the finished panel needs just **one USB cable to the PC** for all data. Power is supplied separately — see [Power supply](#power-supply) below.
 
 <img src="../images/system_overview.png" alt="System overview diagram" width="800">
 
@@ -32,9 +32,23 @@ MobiFlight does the heavy lifting: switches and LEDs are configured in its graph
 |---|---|---|
 | **Arduino Mini Mega 2560** | 7× | Each board drives one group of panels |
 | **USB hub** | 1× | Connects all seven boards to the single USB cable |
+| **External power supply** | 1× | Provides 12 V for the backlighting and 5 V for the electronics |
 | **RJ45 breakout PCBs** | 53× | Link the individual panels to the boards — see [PCB documentation](pcb/README.md) |
 
 Each Mega 2560 is registered in MobiFlight as a separate device, which keeps the configuration manageable and makes it easy to work on one section of the overhead at a time.
+
+### Power supply
+
+The panel does **not** draw its power from the USB cable. A separate external power supply feeds the panel with two voltages:
+
+| Voltage | Powers |
+|---|---|
+| **12 V** | Panel backlighting |
+| **5 V** | All other electronics — Arduino boards, annunciator LEDs, servos, displays |
+
+The USB cable therefore carries data only. This keeps the load off the PC's USB port, which matters with 125 annunciators in the finished panel.
+
+---
 
 ### Why seven boards
 
@@ -56,6 +70,6 @@ See [PCB Manufacturing Files](pcb/README.md) for details, BOM and wiring.
 
 These sections are still to be written:
 
-- **Power supply** — voltage, current rating, and whether the USB hub is powered
+- **Power supply details** — current rating of the 12 V and 5 V rails, and how power is distributed inside the panel
 - **Board assignment** — which panels are connected to which Mega 2560
 - **MobiFlight configuration** — settings and, if released, downloadable config files

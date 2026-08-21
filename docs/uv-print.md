@@ -12,13 +12,13 @@ Printed graphics for the panel faces and annunciators.
 <tr>
 <td align="center">
 <a href="https://raw.githubusercontent.com/om7ea/B737/main/docs/uv_print/uv_annunciators.pdf">
-<img src="../images/uv_annunciators.png" width="180"><br>
+<img src="../images/uv/uv_annunciators.png" width="180"><br>
 <b>Annunciators</b>
 </a>
 </td>
 <td align="center">
 <a href="https://raw.githubusercontent.com/om7ea/B737/main/docs/uv_print/uv_gauges.pdf">
-<img src="../images/uv_gauges.png" width="180"><br>
+<img src="../images/uv/uv_gauges.png" width="180"><br>
 <b>Gauges</b>
 </a>
 </td>

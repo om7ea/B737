@@ -7,21 +7,23 @@ This repository contains supplementary manufacturing files for the corresponding
 
 ## Photos
 
-<span><img src="images/1.png" alt="Overhead panel" width="260">
-<img src="images/3.png" alt="Overhead panel" width="260">
-<img src="images/2.png" alt="Overhead panel" width="260"></span>
+<span><img src="images/photos/1.png" alt="Overhead panel" width="260">
+<img src="images/photos/3.png" alt="Overhead panel" width="260">
+<img src="images/photos/2.png" alt="Overhead panel" width="260"></span>
 
 ---
 
 ## How It Works
 
-The whole overhead panel behaves as a **single plug-and-play USB device** — all electronics are enclosed inside the panel and connected to an internal USB hub, so linking the finished panel to the PC takes **one USB cable**.
+All electronics are enclosed inside the panel and connected to an internal USB hub, so the finished panel needs just **one USB cable to the PC** — plus its own power supply.
 
 <img src="images/system_overview.png" alt="System overview diagram" width="800">
 
 **On the PC:** Microsoft Flight Simulator 2020 + PMDG 737-800 + MobiFlight. MobiFlight maps each switch, button and LED to a PMDG variable through its graphical interface, so **no programming is required**.
 
 **Inside the panel:** 7× Arduino Mini Mega 2560, each driving one group of panels, all connected to an internal USB hub. Panels attach to the boards through RJ45 connectors using standard Ethernet patch cables.
+
+**Power:** the panel is powered by an external supply, not through the USB cable — **12 V** for the backlighting and **5 V** for the rest of the electronics.
 
 📖 **[Full system overview →](docs/system-overview.md)**
 
