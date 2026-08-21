@@ -13,6 +13,12 @@
 
 ---
 
+## Photos
+
+🚧 *Photos of the finished panel.*
+
+---
+
 ## Filament
 
 | | Colour | Used for |

@@ -6,6 +6,21 @@
 
 ---
 
+## Photos
+
+<table>
+<tr>
+<td align="center" width="50%"><img src="../../images/panels/09-anti-ice-photo-1-front.png" alt="Finished Anti-ice Panel, front"><br><sub>Finished panel</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/09-anti-ice-photo-2-top-panel.png" alt="Printed top panel"><br><sub>Printed top panel</sub></td>
+</tr>
+<tr>
+<td align="center" width="50%"><img src="../../images/panels/09-anti-ice-photo-3-diffuser.png" alt="Diffuser panel fitted"><br><sub>Diffuser panel fitted, before the top panel goes on</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/09-anti-ice-photo-4-rear.png" alt="Rear of the panel with PCBs and wiring"><br><sub>Rear side — PCBs, wiring and DC jack</sub></td>
+</tr>
+</table>
+
+---
+
 ## Filament
 
 | | Colour | Filament |
