@@ -44,10 +44,7 @@ Each Mega 2560 is registered in MobiFlight as a separate device, which keeps the
 
 The project uses **MEGA 2560 PRO MINI** boards — inexpensive third-party clones widely sold on AliExpress. They are built around the same **ATmega2560** microcontroller as the official Arduino Mega 2560 and behave identically, but they are *not* genuine Arduino products.
 
-Two things make this form factor the right choice here:
-
-- **Size** — the PRO MINI board is a fraction of the size of a full Arduino Mega 2560, yet keeps the full pin count. This matters when seven of them have to fit inside the overhead panel.
-- **Price** — at clone prices, using seven boards instead of one large one is affordable.
+The **PRO MINI** form factor is what matters here: the board is a fraction of the size of a full Mega 2560 while keeping the full pin count, so all seven fit inside the overhead panel. For why seven boards are needed, see [Why seven boards](#why-seven-boards) below.
 
 Search AliExpress for `MEGA 2560 PRO MINI`.
 
