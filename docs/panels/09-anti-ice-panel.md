@@ -8,21 +8,16 @@
 
 ## Photos
 
-<img src="../../images/panels/09-anti-ice-photo-1-front.jpg" alt="Finished Anti-ice Panel, front" width="700">
-
-*Finished panel*
-
-<img src="../../images/panels/09-anti-ice-photo-2-top-panel.jpg" alt="Printed top panel" width="700">
-
-*Printed top panel*
-
-<img src="../../images/panels/09-anti-ice-photo-3-diffuser.jpg" alt="Diffuser panel fitted" width="700">
-
-*Diffuser panel fitted, before the top panel goes on*
-
-<img src="../../images/panels/09-anti-ice-photo-4-rear.jpg" alt="Rear of the panel with PCBs and wiring" width="700">
-
-*Rear side — PCBs, wiring and DC jack*
+<table>
+<tr>
+<td align="center" width="50%"><img src="../../images/panels/09-anti-ice-photo-1-front.jpg" alt="Finished Anti-ice Panel, front"><br><sub>Finished panel</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/09-anti-ice-photo-2-top-panel.jpg" alt="Printed top panel"><br><sub>Printed top panel</sub></td>
+</tr>
+<tr>
+<td align="center" width="50%"><img src="../../images/panels/09-anti-ice-photo-3-diffuser.jpg" alt="Diffuser panel fitted"><br><sub>Diffuser panel fitted, before the top panel goes on</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/09-anti-ice-photo-4-rear.jpg" alt="Rear of the panel with PCBs and wiring"><br><sub>Rear side — PCBs, wiring and DC jack</sub></td>
+</tr>
+</table>
 
 ---
 
