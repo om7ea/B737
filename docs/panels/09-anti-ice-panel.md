@@ -91,6 +91,16 @@ The annunciators are a separate model shared with the other panels — they are 
 | 1× | [RJ45 LED Driver](../pcb/rj45-driver.md) | headers 1–8 | [📥 PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip) |
 | 1× | [RJ45 Combined](../pcb/rj45-combined.md) | pins 3–4 and 5–8 | [📥 PCB_RJ45_Combined.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Combined.zip) |
 
+### How the connections are allocated
+
+The panel needs **ten LED channels** in total, which is why two boards are used:
+
+| Board / connection | Serves |
+|---|---|
+| LED Driver — headers 1–8 | The 4 dual-brightness annunciators, two channels each (DIM and BRIGHT) |
+| Combined — headers 3–4 | The 2 black annunciators with yellow LED |
+| Combined — terminals 5–8 | The 3 toggle switches |
+
 Mounting and connections are shown in [step 5](#5-backlight-panel--pcbs-and-dc-jack) of the assembly diagram.
 
 ---
