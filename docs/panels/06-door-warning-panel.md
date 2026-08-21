@@ -61,15 +61,6 @@ None — this panel carries annunciators only.
 |---:|---|
 | 12× | Black background, yellow LED |
 
-The twelve legends, as laid out on the panel:
-
-| | | | |
-|---|---|---|---|
-| | FWD ENTRY | FWD SERVICE | |
-| AIRSTAIR | LEFT FWD OVERWING | RIGHT FWD OVERWING | FWD CARGO |
-| EQUIP | LEFT AFT OVERWING | RIGHT AFT OVERWING | AFT CARGO |
-| | AFT ENTRY | AFT SERVICE | |
-
 The annunciators are a separate model shared with the other panels — they are **not included** in this download.
 
 | | |
