@@ -8,12 +8,13 @@
 
 ## Photos
 
-<table>
-<tr>
-<td align="center" width="50%"><img src="../../images/panels/06-door-warning-photo-1-front.jpg" alt="Finished Door Warning Panel, front"><br><sub>Finished panel</sub></td>
-<td align="center" width="50%"><img src="../../images/panels/06-door-warning-photo-2-rear.jpg" alt="Rear of the panel with the two PCBs"><br><sub>Rear side — the two PCBs and wiring</sub></td>
-</tr>
-</table>
+<img src="../../images/panels/06-door-warning-photo-1-front.jpg" alt="Finished Door Warning Panel, front" width="700">
+
+*Finished panel*
+
+<img src="../../images/panels/06-door-warning-photo-2-rear.jpg" alt="Rear of the panel with the two PCBs" width="700">
+
+*Rear side — the two PCBs and wiring*
 
 ---
 
