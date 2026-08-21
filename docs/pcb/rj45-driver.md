@@ -34,7 +34,7 @@ A total of **20** PCBs are required for the complete project. I recommend orderi
 
 | LED | Value |
 |---|---|
-| orange LED | 150 Ω |
+| yellow LED | 150 Ω |
 | green LED | 330 Ω |
 | white LED — no dual brightness annunciator | 250 Ω |
 | white LED — dual brightness annunciator | 100 Ω |

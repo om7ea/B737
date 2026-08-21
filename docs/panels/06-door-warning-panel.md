@@ -1,36 +1,83 @@
 # 6. Door Warning Panel
 
-[MakerWorld model](https://makerworld.com/en/models/3163604-boeing-737-overhead-door-warning-panel)
+[📦 Download the printable model on MakerWorld](https://makerworld.com/en/models/3163604-boeing-737-overhead-door-warning-panel)
 
 [← Back to panel list](README.md)
 
 ---
 
-## Overview
+## Photos
 
-🚧 *Short description of the panel and what it does in the aircraft.*
+🚧 *Photos of the finished panel.*
 
-## Components
+---
 
-| Qty | Component | Notes |
+## Filament
+
+| | Colour | Filament |
+|---|---|---|
+| | | |
+
+---
+
+## 3D Printed Parts
+
+| Qty | Part | Notes |
 |---:|---|---|
 | | | |
 
-## PCBs Used
+---
 
-| Qty | PCB | Notes |
+## Switches and Buttons
+
+| Qty | Type |
+|---:|---|
+| | |
+
+---
+
+## Screws
+
+| Qty | Screw | Joins |
 |---:|---|---|
-| | [Annunciator](../pcb/annunciator.md) | |
-| | [RJ45 LED Driver](../pcb/rj45-driver.md) | |
+| | | |
 
-## Wiring
+---
 
-🚧 *Which board this panel connects to, and the pin assignment.*
+## Annunciators
 
-## MobiFlight Configuration
+| Qty | Type |
+|---:|---|
+| | |
 
-🚧 *The PMDG variables used for the inputs and outputs.*
+The annunciators are a separate model shared with the other panels — they are **not included** in this download.
 
-## Assembly Notes
+| | |
+|---|---|
+| 📦 Printable model | [Boeing 737 Overhead - Annunciators](https://makerworld.com/en/models/3121595-boeing-737-overhead-annunciators) |
+| 🔧 Build notes | [Annunciators](02-annunciators.md) |
+| 🔌 PCB, BOM and wiring | [Annunciator PCB](../pcb/annunciator.md) |
 
-🚧 *Anything that is not obvious from the MakerWorld instructions — the things you wish you had known before starting.*
+---
+
+## PCB
+
+| Qty | PCB | Connections used | Gerber files |
+|---:|---|---|---|
+| | | | |
+
+---
+
+## Backlight
+
+| Qty | Part |
+|---:|---|
+| | |
+
+Powered from the **12 V** supply — see [Power supply](../system-overview.md#power-supply).
+
+---
+
+## Assembly Diagram
+
+🚧 *Exploded views of the assembly steps.*
