@@ -34,10 +34,11 @@ All electronics are enclosed inside the panel and connected to an internal USB h
 | | Contents |
 |---|---|
 | ⚙️ **[System Overview](docs/system-overview.md)** | How the panel connects to the simulator — software, boards, wiring |
-| 🔌 **[PCB Manufacturing Files](docs/pcb/README.md)** | Gerber downloads, BOM and assembly for all four PCB designs |
+| 🔌 **[PCB Manufacturing Files](docs/pcb/README.md)** | Gerber downloads, BOM and assembly for each PCB design |
 | 🖨️ **[UV Print Files](docs/uv-print.md)** | Printable panel graphics and printing instructions |
 | 🛩️ **[Panels](docs/panels/README.md)** | Build notes for the individual panels |
 | 🎨 **[Filaments](docs/filaments.md)** | The filaments I used and their colours |
+| 🖥️ **MobiFlight configuration** | 🚧 *Coming soon* — the configuration files will be published here |
 
 ### Quick Downloads
 
@@ -47,6 +48,9 @@ All electronics are enclosed inside the panel and connected to an internal USB h
 | [RJ45 Direct](docs/pcb/rj45-direct.md) | 27× | [📥 PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip) |
 | [RJ45 LED Driver](docs/pcb/rj45-driver.md) | 20× | [📥 PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip) |
 | [RJ45 Combined](docs/pcb/rj45-combined.md) | 6× | [📥 PCB_RJ45_Combined.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Combined.zip) |
+
+> **Note**
+> This is not the final list — more PCB designs and panels are still to come. See the [PCB documentation](docs/pcb/README.md) for details on each board.
 
 | UV print | File |
 |---|---|
