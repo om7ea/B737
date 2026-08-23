@@ -28,7 +28,7 @@ These are not panels. The frame carries the whole overhead, and the components b
 | | 5 | Flight Control Panel | [Model](https://makerworld.com/en/models/3153234-boeing-737-overhead-flight-control-panel) | 🚧 |
 | <img src="../../images/panels/06-door-warning-photo-1-front.jpg" width="200"> | 6 | Door Warning Panel | [Model](https://makerworld.com/en/models/3163604-boeing-737-overhead-door-warning-panel) | [Notes](06-door-warning-panel.md) |
 | | 7 | Generator Drive and Standby Power Panel | [Model](https://makerworld.com/en/models/3163662-boeing-737-overhead-generator-drive-panel) | 🚧 |
-| | 8 | Window and Probe Heat Panel | [Model](https://makerworld.com/en/models/3196345-boeing-737-overhead-window-and-probe-heat-panel) | 🚧 |
+| <img src="../../images/panels/08-window-probe-heat-photo-1-front.jpg" width="200"> | 8 | Window and Probe Heat Panel | [Model](https://makerworld.com/en/models/3196345-boeing-737-overhead-window-and-probe-heat-panel) | [Notes](08-window-and-probe-heat-panel.md) |
 | <img src="../../images/panels/09-anti-ice-photo-1-front.jpg" width="200"> | 9 | Anti-ice Panel | [Model](https://makerworld.com/en/models/3197814-boeing-737-overhead-anti-ice-panel) | [Notes](09-anti-ice-panel.md) |
 
 More panels are currently in preparation.
