@@ -30,5 +30,6 @@ These are not panels. The frame carries the whole overhead, and the components b
 | <img src="../../images/panels/07-generator-drive-photo-1-front.jpg" width="200"> | 7 | Generator Drive and Standby Power Panel | [Model](https://makerworld.com/en/models/3163662-boeing-737-overhead-generator-drive-panel) | [Notes](07-generator-drive-panel.md) |
 | <img src="../../images/panels/08-window-probe-heat-photo-1-front.jpg" width="200"> | 8 | Window and Probe Heat Panel | [Model](https://makerworld.com/en/models/3196345-boeing-737-overhead-window-and-probe-heat-panel) | [Notes](08-window-and-probe-heat-panel.md) |
 | <img src="../../images/panels/09-anti-ice-photo-1-front.jpg" width="200"> | 9 | Anti-ice Panel | [Model](https://makerworld.com/en/models/3197814-boeing-737-overhead-anti-ice-panel) | [Notes](09-anti-ice-panel.md) |
+| <img src="../../images/panels/10-hydraulic-photo-1-front.jpg" width="200"> | 10 | Hydraulic Control Panel | 🚧 | [Notes](10-hydraulic-control-panel.md) |
 
 More panels are currently in preparation.
