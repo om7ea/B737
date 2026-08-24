@@ -16,7 +16,7 @@ These are not panels. The frame carries the whole overhead, and the components b
 |---|---:|---|---|---|
 | | 1 | Main Frame | [Model](https://makerworld.com/en/models/3179915-boeing-737-overhead-frame) | 🚧 |
 | | 2 | Annunciators | [Model](https://makerworld.com/en/models/3121595-boeing-737-overhead-annunciators) | [Notes](02-annunciators.md) |
-| | 3 | Rotary Knobs | [Model](https://makerworld.com/en/models/3066127-boeing-737-overhead-rotary-knobs) | 🚧 |
+| | 3 | Rotary Knobs | [Model](https://makerworld.com/en/models/3066127-boeing-737-overhead-rotary-knobs) | [Notes](03-rotary-knobs.md) |
 
 ---
 

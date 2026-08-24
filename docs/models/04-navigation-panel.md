@@ -68,6 +68,7 @@ The knob for the SOURCE selector is a separate model shared with the other panel
 | | |
 |---|---|
 | 📦 Printable model | [Boeing 737 Overhead - Rotary Knobs](https://makerworld.com/en/models/3066127-boeing-737-overhead-rotary-knobs) |
+| 🔧 Build notes | [Rotary Knobs](03-rotary-knobs.md) |
 
 ---
 
@@ -86,9 +87,10 @@ The knob for the SOURCE selector is a separate model shared with the other panel
 
 ## PCB
 
-| Qty | PCB | Gerber files |
-|---:|---|---|
-| 2× | [RJ45 Direct](../pcb/rj45-direct.md) | [📥 PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip) |
+| Qty | PCB | Connections used | Gerber files |
+|---:|---|---|---|
+| 1× | [RJ45 Direct](../pcb/rj45-direct.md) | pins 1–8 | [📥 PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip) |
+| 1× | [RJ45 Direct](../pcb/rj45-direct.md) | pins 6–8 | [📥 PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip) |
 
 Mounting and connections are shown in [step 4](#4-backlight-panel--pcbs-and-dc-jack) of the assembly diagram.
 
