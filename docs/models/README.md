@@ -32,5 +32,6 @@ These are not panels. The frame carries the whole overhead, and the components b
 | <a href="09-anti-ice-panel.md"><img src="../../images/panels/09-anti-ice-photo-1-front.jpg" width="200"></a> | 9 | Anti-ice Panel | [Model](https://makerworld.com/en/models/3197814-boeing-737-overhead-anti-ice-panel) | [Notes](09-anti-ice-panel.md) |
 | <a href="10-hydraulic-control-panel.md"><img src="../../images/panels/10-hydraulic-photo-1-front.jpg" width="200"></a> | 10 | Hydraulic Control Panel | [Model](https://makerworld.com/en/models/3212634-boeing-737-overhead-hydraulic-control-panel) | [Notes](10-hydraulic-control-panel.md) |
 | <a href="11-voice-recorder-monitor.md"><img src="../../images/panels/11-voice-recorder-photo-1-front.jpg" width="200"></a> | 11 | Voice Recorder Monitor | [Model](https://makerworld.com/en/models/3212900-boeing-737-overhead-voice-recorder-monitor) | [Notes](11-voice-recorder-monitor.md) |
+| <a href="12-voice-recorder-switch.md"><img src="../../images/panels/12-voice-recorder-switch-photo-1-front.jpg" width="200"></a> | 12 | Voice Recorder Switch | [Model](https://makerworld.com/en/models/3214222-boeing-737-overhead-voice-recorder-switch) | [Notes](12-voice-recorder-switch.md) |
 
 More panels are currently in preparation.
