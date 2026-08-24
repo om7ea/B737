@@ -3,7 +3,7 @@
 This repository contains supplementary manufacturing files for the corresponding MakerWorld project. Additional files and resources will be added gradually as new models are published on MakerWorld.
 
 > **Note**
-> This repository contains only supplementary manufacturing files. The 3D printable parts are available on [MakerWorld](#3d-model-downloads---makerworld).
+> This repository contains only supplementary manufacturing files. The 3D printable parts are available on MakerWorld — see the [model list](docs/models/README.md) for a link to each one.
 
 ## Photos
 
@@ -56,24 +56,6 @@ All electronics are enclosed inside the panel and connected to an internal USB h
 |---|---|
 | Annunciators | [📥 uv_annunciators.pdf](https://raw.githubusercontent.com/om7ea/B737/main/docs/uv_print/uv_annunciators.pdf) |
 | Gauges | [📥 uv_gauges.pdf](https://raw.githubusercontent.com/om7ea/B737/main/docs/uv_print/uv_gauges.pdf) |
-
----
-
-## 3D Model Downloads - Makerworld
-
-The complete printable model is available on MakerWorld.
-
-1. [Main Frame](https://makerworld.com/en/models/3179915-boeing-737-overhead-frame)
-2. [Annunciators](https://makerworld.com/en/models/3121595-boeing-737-overhead-annunciators)
-3. [Rotary Knobs](https://makerworld.com/en/models/3066127-boeing-737-overhead-rotary-knobs)
-4. [Navigation panel](https://makerworld.com/en/models/2985636-boeing-737-overhead-navigation-panel)
-5. [Flight control panel](https://makerworld.com/en/models/3153234-boeing-737-overhead-flight-control-panel)
-6. [Door Warning Panel](https://makerworld.com/en/models/3163604-boeing-737-overhead-door-warning-panel)
-7. [Generator Drive and Standby Power Panel](https://makerworld.com/en/models/3163662-boeing-737-overhead-generator-drive-panel)
-8. [Window and Probe Heat Panel](https://makerworld.com/en/models/3196345-boeing-737-overhead-window-and-probe-heat-panel)
-9. [Anti-ice Panel](https://makerworld.com/en/models/3197814-boeing-737-overhead-anti-ice-panel)
-
-I'm currently preparing more panels for release.
 
 ---
 
