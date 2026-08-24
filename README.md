@@ -40,23 +40,6 @@ All electronics are enclosed inside the panel and connected to an internal USB h
 | 🎨 **[Filaments](docs/filaments.md)** | The filaments I used and their colours |
 | 🖥️ **MobiFlight configuration** | 🚧 *Coming soon* — the configuration files will be published here |
 
-### Quick Downloads
-
-| PCB | Qty | Gerber files |
-|---|---:|---|
-| [Annunciator](docs/pcb/annunciator.md) | 125× | [📥 PCB_Annunciator.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_Annunciator.zip) |
-| [RJ45 Direct](docs/pcb/rj45-direct.md) | 27× | [📥 PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip) |
-| [RJ45 LED Driver](docs/pcb/rj45-driver.md) | 20× | [📥 PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip) |
-| [RJ45 Combined](docs/pcb/rj45-combined.md) | 6× | [📥 PCB_RJ45_Combined.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Combined.zip) |
-
-> **Note**
-> This is not the final list — more PCB designs and panels are still to come. See the [PCB documentation](docs/pcb/README.md) for details on each board.
-
-| UV print | File |
-|---|---|
-| Annunciators | [📥 uv_annunciators.pdf](https://raw.githubusercontent.com/om7ea/B737/main/docs/uv_print/uv_annunciators.pdf) |
-| Gauges | [📥 uv_gauges.pdf](https://raw.githubusercontent.com/om7ea/B737/main/docs/uv_print/uv_gauges.pdf) |
-
 ---
 
 ## Support the Project
