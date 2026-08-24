@@ -48,13 +48,24 @@
 
 ## Switches and Buttons
 
-| Qty | Type | Panel label |
-|---:|---|---|
-| 1× | Microphone 16 mm | |
-| 1× | PBS-110 push button, red | ERASE |
-| 1× | PBS-110 push button, black | TEST |
-| 1× | Female panel jack 6.3 mm | HEADPHONE |
-| 1× | Green LED 3 mm | STATUS |
+| Qty | Type |
+|---:|---|
+| 1× | PBS-110 push button, red |
+| 1× | PBS-110 push button, black |
+
+The red button is the ERASE button, the black one is TEST.
+
+---
+
+## Electronic Components
+
+| Qty | Part |
+|---:|---|
+| 1× | Green LED 3 mm |
+| 1× | Female panel jack 6.3 mm |
+| 1× | Microphone 16 mm |
+
+The green LED is the STATUS indicator and the jack is the HEADPHONE socket.
 
 ---
 
