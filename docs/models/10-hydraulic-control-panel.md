@@ -1,5 +1,7 @@
 # 10. Hydraulic Control Panel
 
+[📦 Download the printable model on MakerWorld](https://makerworld.com/en/models/3212634-boeing-737-overhead-hydraulic-control-panel)
+
 [← Back to model list](README.md)
 
 ---
