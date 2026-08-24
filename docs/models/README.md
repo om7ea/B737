@@ -16,7 +16,7 @@ These are not panels. The frame carries the whole overhead, and the components b
 |---|---:|---|---|---|
 | | 1 | Main Frame | [Model](https://makerworld.com/en/models/3179915-boeing-737-overhead-frame) | 🚧 |
 | | 2 | Annunciators | [Model](https://makerworld.com/en/models/3121595-boeing-737-overhead-annunciators) | [Notes](02-annunciators.md) |
-| | 3 | Rotary Knobs | [Model](https://makerworld.com/en/models/3066127-boeing-737-overhead-rotary-knobs) | 🚧 |
+| | 3 | Rotary Knobs | [Model](https://makerworld.com/en/models/3066127-boeing-737-overhead-rotary-knobs) | [Notes](03-rotary-knobs.md) |
 
 ---
 
@@ -24,7 +24,7 @@ These are not panels. The frame carries the whole overhead, and the components b
 
 | | # | Panel | MakerWorld | Build notes |
 |---|---:|---|---|---|
-| | 4 | Navigation Panel | [Model](https://makerworld.com/en/models/2985636-boeing-737-overhead-navigation-panel) | 🚧 |
+| <img src="../../images/panels/04-navigation-photo-1-front.jpg" width="200"> | 4 | Navigation Panel | [Model](https://makerworld.com/en/models/2985636-boeing-737-overhead-navigation-panel) | [Notes](04-navigation-panel.md) |
 | <img src="../../images/panels/05-flight-control-photo-1-front.jpg" width="200"> | 5 | Flight Control Panel | [Model](https://makerworld.com/en/models/3153234-boeing-737-overhead-flight-control-panel) | [Notes](05-flight-control-panel.md) |
 | <img src="../../images/panels/06-door-warning-photo-1-front.jpg" width="200"> | 6 | Door Warning Panel | [Model](https://makerworld.com/en/models/3163604-boeing-737-overhead-door-warning-panel) | [Notes](06-door-warning-panel.md) |
 | <img src="../../images/panels/07-generator-drive-photo-1-front.jpg" width="200"> | 7 | Generator Drive and Standby Power Panel | [Model](https://makerworld.com/en/models/3163662-boeing-737-overhead-generator-drive-panel) | [Notes](07-generator-drive-panel.md) |
