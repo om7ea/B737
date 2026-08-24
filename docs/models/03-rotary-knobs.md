@@ -43,8 +43,8 @@
 | 1× | Fuel cross feed knob | |
 | 1× | Flt alt knob | |
 | 1× | Land alt knob | |
-| 1× | EFIS dspl sel knob | |
-| 1× | EFIS sys dspl knob | |
+| 1× | IRS dspl sel knob | |
+| 1× | IRS sys dspl knob | |
 
 ### Indicators
 
@@ -52,8 +52,8 @@
 |---:|---|
 | 16× | General knob indicator |
 | 1× | Fuel cross feed knob indicator |
-| 1× | EFIS dspl sel knob indicator |
-| 1× | EFIS sys dspl knob indicator |
+| 1× | IRS dspl sel knob indicator |
+| 1× | IRS sys dspl knob indicator |
 
 The indicator is the black marker line that clips into the knob. The Flt alt and Land alt knobs have no indicator, which is why there are 19 indicators for 21 knobs.
 
@@ -66,4 +66,4 @@ Every knob is held on its shaft by one grub screw.
 | Qty | Screw | Used for |
 |---:|---|---|
 | 19× | Grub screw M3×8 | all knobs except the two below |
-| 2× | Grub screw M3×5 | the EFIS dspl sel and EFIS sys dspl knobs on the IRS Display Unit |
+| 2× | Grub screw M3×5 | the IRS dspl sel and IRS sys dspl knobs on the IRS Display Unit |
