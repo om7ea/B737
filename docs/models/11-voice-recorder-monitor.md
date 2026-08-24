@@ -1,5 +1,7 @@
 # 11. Voice Recorder Monitor
 
+[📦 Download the printable model on MakerWorld](https://makerworld.com/en/models/3212900-boeing-737-overhead-voice-recorder-monitor)
+
 [← Back to model list](README.md)
 
 ---

@@ -31,6 +31,6 @@ These are not panels. The frame carries the whole overhead, and the components b
 | <img src="../../images/panels/08-window-probe-heat-photo-1-front.jpg" width="200"> | 8 | Window and Probe Heat Panel | [Model](https://makerworld.com/en/models/3196345-boeing-737-overhead-window-and-probe-heat-panel) | [Notes](08-window-and-probe-heat-panel.md) |
 | <img src="../../images/panels/09-anti-ice-photo-1-front.jpg" width="200"> | 9 | Anti-ice Panel | [Model](https://makerworld.com/en/models/3197814-boeing-737-overhead-anti-ice-panel) | [Notes](09-anti-ice-panel.md) |
 | <img src="../../images/panels/10-hydraulic-photo-1-front.jpg" width="200"> | 10 | Hydraulic Control Panel | [Model](https://makerworld.com/en/models/3212634-boeing-737-overhead-hydraulic-control-panel) | [Notes](10-hydraulic-control-panel.md) |
-| <img src="../../images/panels/11-voice-recorder-photo-1-front.jpg" width="200"> | 11 | Voice Recorder Monitor | 🚧 | [Notes](11-voice-recorder-monitor.md) |
+| <img src="../../images/panels/11-voice-recorder-photo-1-front.jpg" width="200"> | 11 | Voice Recorder Monitor | [Model](https://makerworld.com/en/models/3212900-boeing-737-overhead-voice-recorder-monitor) | [Notes](11-voice-recorder-monitor.md) |
 
 More panels are currently in preparation.
