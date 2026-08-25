@@ -53,6 +53,7 @@ What to order:
 |---:|---|---|
 | 7× | **MEGA 2560 PRO MINI** — 5 V (embed), CH340G, ATmega2560-16AU; supplied with the male pin headers | [Product I used](../images/parts/AE_mega.png) |
 | 1× | **USB hub** — 7 ports, USB 3.0; one port per board | [Product I used](../images/parts/AE_usb_hub.png) |
+| 7× | **USB cable** — USB-A to micro USB, 1 m; connects each board to the hub. Sold in packs — I bought 10 and used 7 | [Product I used](../images/parts/AE_usb_cable.png) |
 
 ---
 
