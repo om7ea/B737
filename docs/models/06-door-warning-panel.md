@@ -77,10 +77,53 @@ The annunciators are a separate model shared with the other panels — they are 
 
 | Qty | PCB | Connections used | Gerber files |
 |---:|---|---|---|
-| 1× | [RJ45 LED Driver](../pcb/rj45-driver.md) | headers 1–8 | [📥 PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip) |
-| 1× | [RJ45 LED Driver](../pcb/rj45-driver.md) | headers 1–4 | [📥 PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip) |
+| 1× | [RJ45 LED Driver](../pcb/rj45-driver.md) | headers 1–8 — **PCB 1** | [📥 PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip) |
+| 1× | [RJ45 LED Driver](../pcb/rj45-driver.md) | headers 1–4 — **PCB 2** | [📥 PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip) |
 
-Mounting is shown in [step 2](#2-backlight-panel--pcbs) of the assembly diagram.
+Mounting is shown in [step 2](#2-backlight-panel--pcbs) of the assembly diagram. Which annunciator each header drives, and which board each PCB connects to, is in [Wiring](#wiring).
+
+---
+
+## Wiring
+
+The twelve annunciators are driven by two [RJ45 LED Driver](../pcb/rj45-driver.md) PCBs. Each PCB is connected by one Ethernet patch cable to a socket on the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md) of a MEGA 2560 PRO MINI.
+
+**This panel is split across two boards.** Eight annunciators are driven by one and four by the other, and the split does not follow the rows of the panel — go by the tables below, not by the order the annunciators sit in.
+
+| PCB | Patch cable goes to | Headers used |
+|---|---|---:|
+| **PCB 1** | socket **D2** on **Overhead_2b** | 1–8 |
+| **PCB 2** | socket **D5** on **Overhead_4** | 1–4 |
+
+<img src="../../images/panels/06-door-warning-wiring-pcbs.jpg" alt="Rear of the panel with the two PCBs marked" width="700">
+
+The rear of the panel. **PCB 1** is the one with all eight headers populated; **PCB 2** has only headers 1–4.
+
+The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shield. The MobiFlight device name states the same thing in one string: `D2_5` means socket **D2**, channel **5**, and channel 5 arrives at header 5 on the driver PCB.
+
+### PCB 1 — socket D2 on Overhead_2b
+
+| Header | Annunciator | MobiFlight | Mega pin |
+|---:|---|---|---:|
+| 1 | AFT ENTRY | `D2_1` | 16 |
+| 2 | AFT CARGO | `D2_2` | 17 |
+| 3 | RIGHT FWD OVERWING | `D2_3` | 18 |
+| 4 | LEFT FWD OVERWING | `D2_4` | 19 |
+| 5 | AIRSTAIR | `D2_5` | 22 |
+| 6 | FWD CARGO | `D2_6` | 23 |
+| 7 | EQUIP | `D2_7` | 24 |
+| 8 | AFT SERVICE | `D2_8` | 25 |
+
+### PCB 2 — socket D5 on Overhead_4
+
+| Header | Annunciator | MobiFlight | Mega pin |
+|---:|---|---|---:|
+| 1 | FWD SERVICE | `D5_1` | 42 |
+| 2 | FWD ENTRY | `D5_2` | 43 |
+| 3 | RIGHT AFT OVERWING | `D5_3` | 44 |
+| 4 | LEFT AFT OVERWING | `D5_4` | 45 |
+
+Headers 5–8 are not populated on this PCB — the ZH connectors are only soldered in where a channel is used.
 
 ---
 
