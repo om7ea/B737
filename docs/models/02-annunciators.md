@@ -170,4 +170,9 @@ Once the mechanism works correctly on the test RJ45 LED driver, apply a small dr
 
 Apply a small amount of hot glue between the wires and attach the **pcb-holder-cover**. The hot glue also provides mechanical protection against the wires being pulled out.
 
-<img src="../../images/panels/02-annunciators-step-8-cover.jpg" alt="Hot glue applied between the wires before fitting the cover" width="600">
+<table>
+<tr>
+<td align="center" width="50%"><img src="../../images/panels/02-annunciators-step-8-cover.jpg" alt="Hot glue applied between the wires before fitting the cover"><br><sub>Hot glue applied between the wires</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/02-annunciators-step-8-finished.jpg" alt="The finished annunciator"><br><sub>The finished annunciator</sub></td>
+</tr>
+</table>
