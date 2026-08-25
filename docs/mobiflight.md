@@ -40,7 +40,7 @@ The two formats do different jobs and are used at different moments:
 |---|---|
 | **MobiFlight** | Version 11 or newer — the `.mfproj` project format does not exist in version 10 |
 | **Simulator** | Microsoft Flight Simulator 2020 |
-| **Aircraft** | PMDG 737-800. 263 of the input actions are PMDG event IDs, so the configuration is specific to this aircraft |
+| **Aircraft** | PMDG 737-800. 295 of the input actions are PMDG event IDs, so the configuration is specific to this aircraft |
 | **FSUIPC** | Required. Ten outputs read FSUIPC offsets directly and will stay dark without it |
 
 ---
@@ -59,7 +59,7 @@ The two formats do different jobs and are used at different moments:
 | Overhead_4 | `SN-1FD-E25` |
 | Overhead_5 | `SN-0F7-DFB` |
 
-Your boards will have different serial numbers, so after opening the project **every configuration will show its board as missing**. This is expected and it is not a broken download. You have to point each configuration at your own board — MobiFlight can do this for a whole board at once, you do not have to edit 394 rows by hand.
+Your boards will have different serial numbers, so after opening the project **every configuration that drives hardware will show its board as missing**. This is expected and it is not a broken download. You have to point each configuration at your own board — MobiFlight can do this for a whole board at once, you do not have to edit 394 rows by hand.
 
 Give your boards the same names (`Overhead_1a` … `Overhead_5`) before you start. It makes the re-assignment far easier to follow, because the board name is the only thing that connects a configuration to the hardware once the serial numbers no longer match.
 
@@ -96,9 +96,11 @@ Give your boards the same names (`Overhead_1a` … `Overhead_5`) before you star
 
 | Action type | Count | |
 |---|---:|---|
-| PMDG event ID | 263 | The normal case — a switch fires the PMDG event for that lever |
-| MSFS2020 custom input | 32 | For controls PMDG exposes as a custom event rather than an event ID |
-| MobiFlight variable | 22 | Writes an internal variable, used where a control needs its own state |
+| PMDG event ID | 295 | The normal case — a switch fires the PMDG event for that lever |
+| MSFS2020 custom input | 33 | For controls PMDG exposes as a custom event rather than an event ID |
+| MobiFlight variable | 26 | Writes an internal variable, used where a control needs its own state |
+
+A switch normally fires one action when it is pressed and another when it is released, so these counts are higher than the number of switches.
 
 ### How outputs read the simulator
 
@@ -112,6 +114,6 @@ Give your boards the same names (`Overhead_1a` … `Overhead_5`) before you star
 
 ## Notes
 
-- **The configuration is a snapshot of my panel as it stands.** It covers the panels released so far and will be updated as new ones are added.
+- **The configuration is complete.** It covers the whole overhead panel, including the panels whose models have not been published yet, and will not change as further models are released.
 - **Panels are not split neatly one board per section.** The name of a configuration begins with the overhead section it belongs to (`Overhead_4_Oxygen panel_…`), which is *not* always the board that drives it — the Oxygen panel, for instance, is split between two boards. Which board drives which panel is [still to be documented](system-overview.md#-to-be-documented).
-- **Some configurations have no device assigned.** These are helper entries that only calculate a value for another configuration to use, plus a few for hardware that is not finished yet. They are harmless and can be left alone.
+- **Twenty-two configurations have no board assigned.** This is intentional, not a gap. Sixteen of them are guarded switches: the physical switch writes an internal variable, and these entries turn that variable into the two PMDG events the guard and the lever need. The other six calculate a value that a servo or the IRS display then reads through a config reference — the two engine start servos, for example, take their position from them.
