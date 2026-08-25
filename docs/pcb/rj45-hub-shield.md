@@ -50,7 +50,7 @@ A total of **7** PCBs are required for the complete project — one for each of 
 <table>
 <tbody>
 <tr>
-<td><img src="../../images/pcb/PCB_RJ45_Hub_Shield_mega.jpg" alt="MEGA 2560 PRO MINI with the female sockets soldered in" width="400"></td>
+<td><img src="../../images/pcb/PCB_RJ45_Hub_Shield_mega.png" alt="MEGA 2560 PRO MINI with the female sockets soldered in" width="400"></td>
 <td><img src="../../images/pcb/PCB_RJ45_Hub_Shield_assembled.jpg" alt="The shield plugged onto the MEGA 2560 PRO MINI" width="400"></td>
 </tr>
 </tbody>
