@@ -115,7 +115,7 @@ The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shi
 
 <img src="../../images/panels/04-navigation-wiring-pcbs.jpg" alt="Rear of the panel with the two PCBs marked" width="700">
 
-The rear of the panel. **PCB 1** is the upper board, the one with all eight screw terminals fitted; **PCB 2** is the lower board with only three.
+The rear of the panel. **PCB 1** is the one with all eight screw terminals fitted; **PCB 2** has only three.
 
 ### PCB 1 — socket A2 on Overhead_1b
 
@@ -132,11 +132,11 @@ The four toggle switches. Each of them is a three-position ON/OFF/ON switch, so 
 | 7 | VHF NAV — BOTH ON 1 |
 | 8 | VHF NAV — BOTH ON 2 |
 
-The pairs follow the switches up the panel: CONTROL PANEL at the bottom, then FMC, then IRS and VHF NAV in the top row.
+**The four toggle switches share a single ground return.** Each switch takes one of its terminals to its own pin on this PCB. The opposite terminals are commoned — daisy-chained from one switch to the next — and the chain ends at a **-** (ground) contact on this board.
 
 ### PCB 2 — socket A1 on Overhead_1b
 
-The SOURCE rotary switch, at the bottom left of the panel. All three of its positions are wired, each to its own pin — unlike the toggle switches, one of them is always connected.
+The SOURCE rotary switch, at the bottom left of the panel. All three of its positions are wired, each to its own pin.
 
 | Pin | Switch |
 |---:|---|
@@ -146,7 +146,7 @@ The SOURCE rotary switch, at the bottom left of the panel. All three of its posi
 
 Pins 1 to 5 are not used.
 
-**The five switches share a single ground return.** Each switch takes one of its terminals to its own pin. The opposite terminals are commoned — daisy-chained from one switch to the next — and the chain ends at a **-** (ground) contact.
+The rotary switch does not share the ground chain of the toggle switches: its common terminal goes to a **-** (ground) contact on this board.
 
 ---
 
