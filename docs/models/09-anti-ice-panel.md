@@ -140,7 +140,7 @@ This is the Combined PCB, so it carries both kinds of connection: the ZH headers
 | 3 | COWL ANTI-ICE — left |
 | 4 | COWL ANTI-ICE — right |
 
-Headers 1 and 2 are not populated.
+Headers 1 and 2 carry nothing. They are fitted on the board in the photo above — that was a soldering mistake on my part, and they should be left off.
 
 | Pin | Switch |
 |---:|---|
