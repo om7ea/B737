@@ -63,22 +63,3 @@ The PCB designs released so far. All Gerber files are ready to be uploaded direc
 
 > **Note**
 > These are the final quantities for the complete project. I recommend ordering a few extra of each, in case some are damaged during assembly.
-
----
-
-## Downloads
-
-| PCB | Gerber files |
-|---|---|
-| Annunciator | [📥 PCB_Annunciator.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_Annunciator.zip) |
-| RJ45 Direct | [📥 PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip) |
-| RJ45 LED Driver | [📥 PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip) |
-| RJ45 Combined | [📥 PCB_RJ45_Combined.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Combined.zip) |
-
-*Additional Gerber files will be published here as new panels are released.*
-
----
-
-## How They Fit Together
-
-The RJ45 boards are the interface between the [Mega 2560 PRO MINI boards](../system-overview.md) and the individual panels. Panels connect using standard Ethernet patch cables. The Annunciator PCB sits inside each illuminated push-button and connects to a driver board with a ZH 1.5 4-pin cable.
