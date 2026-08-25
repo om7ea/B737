@@ -133,7 +133,7 @@ The rear of the panel. **PCB 1** is the Direct board, the one with the blue scre
 
 **The TEST switch takes two pins.** It is the three-position (ON)/OFF/(ON) switch in the middle of the panel, and each of its two active positions needs its own connection: pin 5 for OVHT, pin 8 for PWR TEST.
 
-**The TAT TEST button is not on this panel's PCBs.** All eight pins of the Direct board are used by the switches above, so the push button is wired across to pin 5 of the Combined PCB on the [Anti-ice Panel](09-anti-ice-panel.md).
+**The TAT TEST button is not on this panel's PCBs.** All eight pins of the Direct board are used by the switches above, so the push button is wired across to pin 5 of the Combined PCB on the [Anti-ice Panel](09-anti-ice-panel.md). It is the loose white wire leaving the panel at the bottom of the photo above.
 
 **The switches share a single ground return.** Each switch takes one of its terminals to its own pin on the Direct PCB. The opposite terminals are commoned — daisy-chained from one switch to the next — and the chain ends at a **-** (ground) contact.
 
