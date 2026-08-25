@@ -144,7 +144,7 @@ The rear of the panel. **PCB 1** and **PCB 2** are the boards with the blue scre
 | 7 | ALTERNATE FLAPS — UP |
 | 8 | ALTERNATE FLAPS — DOWN |
 
-**The switches share a single ground return.** Each switch takes one of its terminals to its own pin on this PCB. The opposite terminals are commoned — daisy-chained from one switch to the next — and the chain ends at a **-** (ground) contact on this board.
+**The switches share a single ground return.** Each switch takes one of its terminals to its own pin. The opposite terminals are commoned — daisy-chained from one switch to the next — and the chain ends at a **-** (ground) contact.
 
 ### PCB 2 — socket D6 on Overhead_1b
 
@@ -153,7 +153,7 @@ The rear of the panel. **PCB 1** and **PCB 2** are the boards with the blue scre
 | 7 | SPOILER B |
 | 8 | YAW DAMPER |
 
-The remaining pins on this board are not used. Its two switches have their own ground return: the opposite terminals are commoned and the chain ends at a **-** (ground) contact on this board.
+The remaining pins on this board are not used.
 
 ### PCB 3 — socket D5 on Overhead_1a
 

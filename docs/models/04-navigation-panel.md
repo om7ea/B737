@@ -132,7 +132,7 @@ The four toggle switches. Each of them is a three-position ON/OFF/ON switch, so 
 | 7 | VHF NAV — BOTH ON 1 |
 | 8 | VHF NAV — BOTH ON 2 |
 
-**The four toggle switches share a single ground return.** Each switch takes one of its terminals to its own pin on this PCB. The opposite terminals are commoned — daisy-chained from one switch to the next — and the chain ends at a **-** (ground) contact on this board.
+**The switches share a single ground return.** Each switch takes one of its terminals to its own pin. The opposite terminals are commoned — daisy-chained from one switch to the next — and the chain ends at a **-** (ground) contact.
 
 ### PCB 2 — socket A1 on Overhead_1b
 
