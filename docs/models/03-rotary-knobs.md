@@ -14,10 +14,12 @@
 ## Photos
 
 <table>
+<tbody>
 <tr>
 <td align="center" width="50%"><img src="../../images/panels/03-rotary-knobs-photo-1-knobs.jpg" alt="The printed knob types"><br><sub>The knob types, with the indicators already fitted</sub></td>
 <td align="center" width="50%"><img src="../../images/panels/03-rotary-knobs-photo-2-indicators.jpg" alt="Printed knob indicators"><br><sub>Indicators before fitting</sub></td>
 </tr>
+</tbody>
 </table>
 
 ---

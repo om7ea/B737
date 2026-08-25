@@ -14,14 +14,18 @@
 ## Photos
 
 <table>
+<tbody>
 <tr>
 <td align="center" width="50%"><img src="../../images/panels/11-voice-recorder-photo-1-front.jpg" alt="Finished Voice Recorder Monitor, front"><br><sub>Finished panel</sub></td>
 <td align="center" width="50%"><img src="../../images/panels/11-voice-recorder-photo-2-top-panel.jpg" alt="Printed top panel"><br><sub>Printed top panel</sub></td>
 </tr>
+</tbody>
+<tbody>
 <tr>
 <td align="center" width="50%"><img src="../../images/panels/11-voice-recorder-photo-3-components.jpg" alt="Jack and buttons fitted to the top panel"><br><sub>Headphone jack and buttons fitted to the top panel</sub></td>
 <td align="center" width="50%"><img src="../../images/panels/11-voice-recorder-photo-4-rear.jpg" alt="Rear of the panel with microphone and standoffs"><br><sub>Rear side — microphone, LED and standoffs</sub></td>
 </tr>
+</tbody>
 </table>
 
 ---

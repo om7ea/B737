@@ -9,22 +9,30 @@
 ## Photos
 
 <table>
+<tbody>
 <tr>
 <td align="center" width="50%"><img src="../../images/panels/12-voice-recorder-switch-photo-1-front.jpg" alt="Finished Voice Recorder Switch, front"><br><sub>Finished panel</sub></td>
 <td align="center" width="50%"><img src="../../images/panels/12-voice-recorder-switch-photo-2-top-panel.jpg" alt="Printed top panel"><br><sub>Printed top panel</sub></td>
 </tr>
+</tbody>
+<tbody>
 <tr>
 <td align="center" width="50%"><img src="../../images/panels/12-voice-recorder-switch-photo-3-bottom-panel.jpg" alt="Printed bottom panel"><br><sub>Printed bottom panel</sub></td>
 <td align="center" width="50%"><img src="../../images/panels/12-voice-recorder-switch-photo-4-diffuser.jpg" alt="Diffuser panel with the switch fitted"><br><sub>Diffuser panel with the switch fitted</sub></td>
 </tr>
+</tbody>
+<tbody>
 <tr>
 <td align="center" width="50%"><img src="../../images/panels/12-voice-recorder-switch-photo-5-diffuser-fitted.jpg" alt="Diffuser panel fitted into the bottom panel"><br><sub>Diffuser panel fitted, before the top panel goes on</sub></td>
 <td align="center" width="50%"><img src="../../images/panels/12-voice-recorder-switch-photo-6-backlight-leds.jpg" alt="Inside of the backlight panel with the LED strip"><br><sub>Backlight panel from the inside — LED strip and DC jack wiring</sub></td>
 </tr>
+</tbody>
+<tbody>
 <tr>
 <td align="center" width="50%"><img src="../../images/panels/12-voice-recorder-switch-photo-7-backlight-dc-jack.jpg" alt="Outside of the backlight panel with the DC jack"><br><sub>Backlight panel from the outside — DC jack</sub></td>
 <td align="center" width="50%"><img src="../../images/panels/12-voice-recorder-switch-photo-8-rear.jpg" alt="Rear of the assembled panel"><br><sub>Rear side — backlight panel mounted, switch terminals and DC jack</sub></td>
 </tr>
+</tbody>
 </table>
 
 ---

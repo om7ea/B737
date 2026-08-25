@@ -9,14 +9,18 @@
 ## Photos
 
 <table>
+<tbody>
 <tr>
 <td align="center" width="50%"><img src="../../images/panels/13-irs-mode-select-photo-1-front.jpg" alt="Finished IRS Mode Select Unit, front"><br><sub>Finished panel</sub></td>
 <td align="center" width="50%"><img src="../../images/panels/13-irs-mode-select-photo-2-top-panel.jpg" alt="Printed top panel"><br><sub>Printed top panel</sub></td>
 </tr>
+</tbody>
+<tbody>
 <tr>
 <td align="center" width="50%"><img src="../../images/panels/13-irs-mode-select-photo-3-diffuser.jpg" alt="Diffuser panel and rotary switches fitted"><br><sub>Diffuser panel and rotary switches fitted, before the top panel goes on</sub></td>
 <td align="center" width="50%"><img src="../../images/panels/13-irs-mode-select-photo-4-rear.jpg" alt="Rear of the panel with PCBs and wiring"><br><sub>Rear side — PCBs, wiring and DC jack</sub></td>
 </tr>
+</tbody>
 </table>
 
 ---

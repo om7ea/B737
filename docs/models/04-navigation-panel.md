@@ -9,18 +9,24 @@
 ## Photos
 
 <table>
+<tbody>
 <tr>
 <td align="center" width="50%"><img src="../../images/panels/04-navigation-photo-1-front.jpg" alt="Finished Navigation Panel, front"><br><sub>Finished panel</sub></td>
 <td align="center" width="50%"><img src="../../images/panels/04-navigation-photo-2-top-panel.jpg" alt="Printed top panel"><br><sub>Printed top panel</sub></td>
 </tr>
+</tbody>
+<tbody>
 <tr>
 <td align="center" width="50%"><img src="../../images/panels/04-navigation-photo-3-bottom-panel.jpg" alt="Printed bottom panel"><br><sub>Printed bottom panel</sub></td>
 <td align="center" width="50%"><img src="../../images/panels/04-navigation-photo-4-diffuser.jpg" alt="Diffuser panel fitted"><br><sub>Diffuser panel fitted, before the top panel goes on</sub></td>
 </tr>
+</tbody>
+<tbody>
 <tr>
 <td align="center" width="50%"><img src="../../images/panels/04-navigation-photo-5-rear.jpg" alt="Rear of the panel with PCBs and wiring"><br><sub>Rear side — PCBs, wiring and DC jack</sub></td>
 <td width="50%"></td>
 </tr>
+</tbody>
 </table>
 
 ---
