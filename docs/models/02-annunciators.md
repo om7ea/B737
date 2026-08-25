@@ -42,14 +42,17 @@ Each annunciator carries two tact switches and one LED on its own small PCB — 
 
 The project uses several types of annunciator:
 
-| Qty | Background | LED |
-|---:|---|---|
-| 93× | black | yellow |
-| 9× | black | green |
-| 2× | black | white |
-| 8× | blue | white |
-| 9× | blue | white, two brightness levels (DIM/BRIGHT) |
-| 2× | black | large special annunciators, one yellow and one white LED |
+<table>
+<thead>
+<tr><th align="right">Qty</th><th align="left">Background</th><th align="left">LED</th></tr>
+</thead>
+<tbody><tr><td align="right">93×</td><td>black</td><td>yellow</td></tr></tbody>
+<tbody><tr><td align="right">9×</td><td>black</td><td>green</td></tr></tbody>
+<tbody><tr><td align="right">2×</td><td>black</td><td>white</td></tr></tbody>
+<tbody><tr><td align="right">8×</td><td>blue</td><td>white</td></tr></tbody>
+<tbody><tr><td align="right">9×</td><td>blue</td><td>white, two brightness levels (DIM/BRIGHT)</td></tr></tbody>
+<tbody><tr><td align="right">2×</td><td>black</td><td>large special annunciators, one yellow and one white LED</td></tr></tbody>
+</table>
 
 The last row is the two large special annunciators described in the note at the top of the page — they are not part of this model.
 
