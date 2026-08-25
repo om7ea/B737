@@ -47,6 +47,10 @@ The project uses **MEGA 2560 PRO MINI** boards — inexpensive third-party clone
 
 The **PRO MINI** form factor is what matters here: the board is a fraction of the size of a full Mega 2560 while keeping the full pin count, so all seven fit inside the overhead panel.
 
+<img src="../images/board_positions.png" alt="Where the seven boards sit inside the panel" width="450">
+
+Where the seven boards sit inside my panel, each with its RJ45 Hub Shield. Which panels every board drives is still to be documented.
+
 ### What to order
 
 | Qty | Part | Reference |
