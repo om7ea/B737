@@ -30,7 +30,7 @@ The project includes several types of annunciators:
 
 ---
 
-## Bill of Materials (BOM)
+## Bill of Materials (BOM) — for all 125 PCBs
 
 | Qty | Part | Reference |
 |---:|---|---|

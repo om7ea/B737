@@ -20,7 +20,7 @@ A total of **6** PCBs are required for the complete project. I recommend orderin
 
 ---
 
-## Bill of Materials (BOM)
+## Bill of Materials (BOM) — per PCB
 
 | Qty | Part | Reference |
 |---:|---|---|
