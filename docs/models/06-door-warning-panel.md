@@ -103,25 +103,25 @@ The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shi
 
 ### PCB 1 — socket D2 on Overhead_2b
 
-| Header | Annunciator | MobiFlight | Mega pin |
-|---:|---|---|---:|
-| 1 | AFT ENTRY | `D2_1` | 16 |
-| 2 | AFT CARGO | `D2_2` | 17 |
-| 3 | RIGHT FWD OVERWING | `D2_3` | 18 |
-| 4 | LEFT FWD OVERWING | `D2_4` | 19 |
-| 5 | AIRSTAIR | `D2_5` | 22 |
-| 6 | FWD CARGO | `D2_6` | 23 |
-| 7 | EQUIP | `D2_7` | 24 |
-| 8 | AFT SERVICE | `D2_8` | 25 |
+| Header | Annunciator |
+|---:|---|
+| 1 | AFT ENTRY |
+| 2 | AFT CARGO |
+| 3 | RIGHT FWD OVERWING |
+| 4 | LEFT FWD OVERWING |
+| 5 | AIRSTAIR |
+| 6 | FWD CARGO |
+| 7 | EQUIP |
+| 8 | AFT SERVICE |
 
 ### PCB 2 — socket D5 on Overhead_4
 
-| Header | Annunciator | MobiFlight | Mega pin |
-|---:|---|---|---:|
-| 1 | FWD SERVICE | `D5_1` | 42 |
-| 2 | FWD ENTRY | `D5_2` | 43 |
-| 3 | RIGHT AFT OVERWING | `D5_3` | 44 |
-| 4 | LEFT AFT OVERWING | `D5_4` | 45 |
+| Header | Annunciator |
+|---:|---|
+| 1 | FWD SERVICE |
+| 2 | FWD ENTRY |
+| 3 | RIGHT AFT OVERWING |
+| 4 | LEFT AFT OVERWING |
 
 Headers 5–8 are not populated on this PCB — the ZH connectors are only soldered in where a channel is used.
 
