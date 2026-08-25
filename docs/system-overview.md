@@ -45,7 +45,7 @@ Each Mega 2560 is registered in MobiFlight as a separate device, which keeps the
 
 The project uses **MEGA 2560 PRO MINI** boards — inexpensive third-party clones widely sold on AliExpress. They are built around the same **ATmega2560** microcontroller as the official Arduino Mega 2560 and behave identically, but they are *not* genuine Arduino products.
 
-The **PRO MINI** form factor is what matters here: the board is a fraction of the size of a full Mega 2560 while keeping the full pin count, so all seven fit inside the overhead panel. For why seven boards are needed, see [Why seven boards](#why-seven-boards) below.
+The **PRO MINI** form factor is what matters here: the board is a fraction of the size of a full Mega 2560 while keeping the full pin count, so all seven fit inside the overhead panel.
 
 ### What to order
 
@@ -69,10 +69,6 @@ The panel does **not** draw its power from the USB cable. It is fed by **two sep
 The USB cable therefore carries data only. This keeps the load off the PC's USB port, which matters with 125 annunciators in the finished panel.
 
 ---
-
-### Why seven boards
-
-A single Mega 2560 does not have enough I/O pins for the complete overhead panel. Splitting the panel across seven boards also means that a wiring fault in one section does not take down the entire overhead.
 
 ### Connection to panels
 
