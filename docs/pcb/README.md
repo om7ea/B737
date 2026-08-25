@@ -62,7 +62,7 @@ The PCB designs released so far. All Gerber files are ready to be uploaded direc
 </table>
 
 > **Note**
-> The quantities above cover the panels released so far. I recommend ordering a few extra of each, in case some are damaged during assembly.
+> These are the final quantities for the complete project. I recommend ordering a few extra of each, in case some are damaged during assembly.
 
 ---
 
