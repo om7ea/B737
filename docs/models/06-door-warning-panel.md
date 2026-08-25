@@ -95,6 +95,10 @@ The twelve annunciators are driven by two [RJ45 LED Driver](../pcb/rj45-driver.m
 | **PCB 1** | socket **D2** on **Overhead_2b** | 1–8 |
 | **PCB 2** | socket **D5** on **Overhead_4** | 1–4 |
 
+<img src="../../images/panels/06-door-warning-wiring-pcbs.jpg" alt="Rear of the panel with the two PCBs marked" width="700">
+
+The rear of the panel. **PCB 1** is the one with all eight headers populated; **PCB 2** has only headers 1–4.
+
 The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shield. The MobiFlight device name states the same thing in one string: `D2_5` means socket **D2**, channel **5**, and channel 5 arrives at header 5 on the driver PCB.
 
 ### PCB 1 — socket D2 on Overhead_2b
