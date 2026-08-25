@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ModuleType>MobiFlight Mega</ModuleType>
+  <ModuleName>Overhead_5</ModuleName>
+  <PowerSavingTime>600</PowerSavingTime>
+  <Output Name="D6_8" Pin="53" />
+  <Button Name="D0_1" Pin="2" />
+  <Button Name="D0_2" Pin="3" />
+  <Button Name="D0_3" Pin="4" />
+  <Button Name="D0_4" Pin="5" />
+  <Button Name="D0_5" Pin="6" />
+  <Encoder Name="D0_6-7" PinLeft="20" PinRight="21" EncoderType="1" />
+  <Output Name="D1_1" Pin="8" />
+  <Output Name="D1_2" Pin="9" />
+  <Output Name="D1_3" Pin="10" />
+  <Output Name="D1_4" Pin="11" />
+  <Output Name="D1_6" Pin="13" />
+  <Output Name="D1_7" Pin="14" />
+  <Output Name="D1_8" Pin="15" />
+  <Button Name="D2_1" Pin="16" />
+  <Button Name="D2_2" Pin="17" />
+  <Button Name="D2_3" Pin="18" />
+  <Button Name="D2_4" Pin="19" />
+  <Button Name="D2_5" Pin="22" />
+  <Servo Name="D2_6" DataPin="23" />
+  <Servo Name="D2_7" DataPin="24" />
+  <Button Name="D3_1" Pin="26" />
+  <Button Name="D3_2" Pin="27" />
+  <Button Name="D3_3" Pin="28" />
+  <Button Name="D3_4" Pin="29" />
+  <Button Name="D3_5" Pin="30" />
+  <Button Name="D3_6" Pin="31" />
+  <Button Name="D3_7" Pin="32" />
+  <Button Name="D3_8" Pin="33" />
+  <LedModule Name="D4_1-3" ModelType="0" DinPin="36" ClsPin="34" ClkPin="35" Brightness="2" NumModules="2" />
+  <Encoder Name="D4_4-5" PinLeft="38" PinRight="37" EncoderType="1" />
+  <Servo Name="D4_6" DataPin="39" />
+  <Output Name="D5_1" Pin="42" />
+  <Output Name="D5_2" Pin="43" />
+  <Output Name="D5_3" Pin="44" />
+  <Output Name="D5_4" Pin="45" />
+  <Output Name="D5_5" Pin="46" />
+  <Output Name="D5_6" Pin="47" />
+  <Output Name="A1_1" Pin="54" />
+  <Output Name="A1_2" Pin="55" />
+  <Output Name="A1_3" Pin="56" />
+  <Button Name="A2_4" Pin="65" />
+  <Button Name="A2_5" Pin="66" />
+  <AnalogInput Name="A2_6" Pin="67" Sensitivity="5" />
+  <AnalogInput Name="A2_7" Pin="68" Sensitivity="5" />
+  <AnalogInput Name="A2_8" Pin="69" Sensitivity="5" />
+</Config>
