@@ -42,7 +42,7 @@ The project uses several types of annunciator:
 
 | Qty | Background | LED |
 |---:|---|---|
-| 94× | black | yellow |
+| 93× | black | yellow |
 | 9× | black | green |
 | 2× | black | white |
 | 8× | blue | white |

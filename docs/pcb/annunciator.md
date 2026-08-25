@@ -18,7 +18,7 @@ The project includes several types of annunciators:
 
 | Qty | Background | LED |
 |---:|---|---|
-| 94× | black | yellow |
+| 93× | black | yellow |
 | 9× | black | green |
 | 2× | black | white |
 | 8× | blue | white |
@@ -36,9 +36,9 @@ The project includes several types of annunciators:
 |---:|---|---|
 | 125× | **PCB** | download the Gerber files above |
 | 250× | **Switch** — 6×6×4.5 tact switch, 4-pin vertical micro button | [Product I used](../../images/parts/AE_button.png) |
-| 96× | **Yellow 5 mm flat top LED** | [Product I used](../../images/parts/AE_led_yellow.png) |
-| 10× | **Green 5 mm flat top LED** | [Product I used](../../images/parts/AE_led_green.png) |
-| 19× | **White 5 mm flat top LED** | [Product I used](../../images/parts/AE_led_white.png) |
+| 95× | **Yellow 5 mm flat top LED** | [Product I used](../../images/parts/AE_led_yellow.png) |
+| 9× | **Green 5 mm flat top LED** | [Product I used](../../images/parts/AE_led_green.png) |
+| 21× | **White 5 mm flat top LED** | [Product I used](../../images/parts/AE_led_white.png) |
 | 134× | **Cable with connector** — ZH 1.5 28AWG 15 cm, 4 pins (125 for annunciators + 9 for the dual brightness function); buy the set — connectors + cables | [Product I used](../../images/parts/AE_ZH.png) |
 | 9× | **150 Ω resistor** for the dual brightness function — I used 0805 SMD | |
 
