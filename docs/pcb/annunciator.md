@@ -19,10 +19,10 @@ The project includes several types of annunciators:
 | Qty | Background | LED |
 |---:|---|---|
 | 94× | black | yellow |
-| 10× | black | green |
+| 9× | black | green |
 | 2× | black | white |
-| 10× | blue | white |
-| 5× | blue | white, two brightness levels (DIM/BRIGHT) |
+| 8× | blue | white |
+| 9× | blue | white, two brightness levels (DIM/BRIGHT) |
 | 2× | black | large special annunciators in the Engine Panel — two PCBs each, white LED in the upper section and yellow LED in the lower section |
 
 > **Note**
