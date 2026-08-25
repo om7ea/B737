@@ -88,7 +88,7 @@ Mounting is shown in [step 2](#2-backlight-panel--pcbs) of the assembly diagram.
 
 The twelve annunciators are driven by two [RJ45 LED Driver](../pcb/rj45-driver.md) PCBs. Each PCB is connected by one Ethernet patch cable to a socket on the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md) of a MEGA 2560 PRO MINI.
 
-**This panel is split across two boards.** Eight annunciators are driven by one board and four by another, and the two groups do not follow the rows of the panel — see the [layout map](#where-each-annunciator-sits) below before you start wiring.
+**This panel is split across two boards.** Eight annunciators are driven by one and four by the other, and the split does not follow the rows of the panel — go by the tables below, not by the order the annunciators sit in.
 
 | PCB | Patch cable goes to | Headers used |
 |---|---|---:|
@@ -120,19 +120,6 @@ The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shi
 | 4 | LEFT AFT OVERWING | `D5_4` | 45 |
 
 Headers 5–8 are not populated on this PCB — the ZH connectors are only soldered in where a channel is used.
-
-### Where each annunciator sits
-
-The panel as seen from the front, with the PCB and header that drives each annunciator.
-
-| Left | Centre left | Centre right | Right |
-|---|---|---|---|
-| | **FWD ENTRY**<br>PCB 2 · header 2 | **FWD SERVICE**<br>PCB 2 · header 1 | |
-| **AIRSTAIR**<br>PCB 1 · header 5 | **LEFT FWD OVERWING**<br>PCB 1 · header 4 | **RIGHT FWD OVERWING**<br>PCB 1 · header 3 | **FWD CARGO**<br>PCB 1 · header 6 |
-| **EQUIP**<br>PCB 1 · header 7 | **LEFT AFT OVERWING**<br>PCB 2 · header 4 | **RIGHT AFT OVERWING**<br>PCB 2 · header 3 | **AFT CARGO**<br>PCB 1 · header 2 |
-| | **AFT ENTRY**<br>PCB 1 · header 1 | **AFT SERVICE**<br>PCB 1 · header 8 | |
-
-The four annunciators on PCB 2 are the two in the top row and the two centre ones in the third row — they are not a contiguous block. Wire from this map, not from the row order.
 
 ---
 
