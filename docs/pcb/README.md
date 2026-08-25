@@ -62,4 +62,4 @@ The PCB designs released so far. All Gerber files are ready to be uploaded direc
 </table>
 
 > **Note**
-> The quantities listed for the individual PCBs are final, but I recommend ordering a few extra.
+> The quantities listed for the individual PCBs are final, but I recommend ordering a few extra in case some are damaged during assembly.
