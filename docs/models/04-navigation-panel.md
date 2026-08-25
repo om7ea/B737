@@ -98,7 +98,55 @@ The knob for the SOURCE selector is a separate model shared with the other panel
 | 1× | [RJ45 Direct](../pcb/rj45-direct.md) | pins 1–8 | [📥 PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip) |
 | 1× | [RJ45 Direct](../pcb/rj45-direct.md) | pins 6–8 | [📥 PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip) |
 
-Mounting and connections are shown in [step 4](#4-backlight-panel--pcbs-and-dc-jack) of the assembly diagram.
+Mounting and connections are shown in [step 4](#4-backlight-panel--pcbs-and-dc-jack) of the assembly diagram. Which switch each connection carries is in [Wiring](#wiring).
+
+---
+
+## Wiring
+
+There are no annunciators on this panel — everything on it is a switch input. The five switches need eleven connections, more than one Direct PCB has pins for, so they are split over two boards. Both reach the **same** MEGA 2560 — `Overhead_1b`. Each PCB is connected by one Ethernet patch cable to a socket on the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md).
+
+| PCB | Patch cable goes to | Connections used |
+|---|---|---|
+| **PCB 1** | socket **A2** on **Overhead_1b** | pins 1–8 |
+| **PCB 2** | socket **A1** on **Overhead_1b** | pins 6–8 |
+
+The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shield.
+
+<img src="../../images/panels/04-navigation-wiring-pcbs.jpg" alt="Rear of the panel with the two PCBs marked" width="700">
+
+The rear of the panel. **PCB 1** is the upper board, the one with all eight screw terminals fitted; **PCB 2** is the lower board with only three.
+
+### PCB 1 — socket A2 on Overhead_1b
+
+The four toggle switches. Each of them is a three-position ON/OFF/ON switch, so each takes **two pins**, one per active position — in the centre NORMAL position neither pin is connected.
+
+| Pin | Switch |
+|---:|---|
+| 1 | CONTROL PANEL — BOTH ON 2 |
+| 2 | CONTROL PANEL — BOTH ON 1 |
+| 3 | FMC — BOTH ON L |
+| 4 | FMC — BOTH ON R |
+| 5 | IRS — BOTH ON L |
+| 6 | IRS — BOTH ON R |
+| 7 | VHF NAV — BOTH ON 1 |
+| 8 | VHF NAV — BOTH ON 2 |
+
+The pairs follow the switches up the panel: CONTROL PANEL at the bottom, then FMC, then IRS and VHF NAV in the top row.
+
+### PCB 2 — socket A1 on Overhead_1b
+
+The SOURCE rotary switch, at the bottom left of the panel. All three of its positions are wired, each to its own pin — unlike the toggle switches, one of them is always connected.
+
+| Pin | Switch |
+|---:|---|
+| 6 | SOURCE — ALL ON 2 |
+| 7 | SOURCE — ALL ON 1 |
+| 8 | SOURCE — AUTO |
+
+Pins 1 to 5 are not used.
+
+**The five switches share a single ground return.** Each switch takes one of its terminals to its own pin. The opposite terminals are commoned — daisy-chained from one switch to the next — and the chain ends at a **-** (ground) contact.
 
 ---
 
