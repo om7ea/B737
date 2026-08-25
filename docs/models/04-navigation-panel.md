@@ -146,8 +146,6 @@ The SOURCE rotary switch, at the bottom left of the panel. All three of its posi
 
 Pins 1 to 5 are not used.
 
-The rotary switch does not share the ground chain of the toggle switches: its common terminal goes to a **-** (ground) contact on this board.
-
 ---
 
 ## Backlight
