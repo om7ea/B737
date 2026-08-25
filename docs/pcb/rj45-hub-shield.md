@@ -26,6 +26,7 @@ A total of **7** PCBs are required for the complete project — one for each of 
 
 | Qty | Part | Reference |
 |---:|---|---|
+| 7× | **PCB** | download the Gerber files above |
 | 63× | **RJ45 connector** — 5224 8P8C in-line, vertical 180°, full plastic | [Product I used](../../images/parts/AE_RJ45.png) |
 | 7× | **Electrolytic capacitor 47 µF / 16 V** — radial, 3.5 mm lead pitch | |
 | 7× | **Ceramic capacitor 100 nF** | |
