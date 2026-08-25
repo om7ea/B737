@@ -109,9 +109,6 @@ The four toggle switches and the six annunciators are on two different PCBs, but
 
 The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shield.
 
-> **Socket D6 carries only four channels, and they are numbered 5–8.**
-> The other eight sockets carry eight channels each. D6 is short because pins 0 and 1 of the MEGA 2560 are taken by the USB serial link and cannot be used for anything else. A PCB on D6 therefore always starts at pin 5 — it is not an arbitrary choice, and pins 1–4 of that PCB have nothing behind them.
-
 <img src="../../images/panels/10-hydraulic-wiring-pcbs.jpg" alt="Rear of the panel with the two PCBs marked" width="700">
 
 The rear of the panel. **PCB 1** is the one with the blue screw terminals going down to the switches; **PCB 2** carries the red and black annunciator wiring.
