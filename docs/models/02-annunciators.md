@@ -17,14 +17,12 @@
 
 <table>
 <tr>
-<td align="center" width="50%"><img src="../../images/panels/02-annunciators-photo-1-front.jpg" alt="Finished annunciator fitted into a panel"><br><sub>Finished annunciator fitted into a panel</sub></td>
-<td align="center" width="50%"><img src="../../images/panels/02-annunciators-photo-2-assembled.png" alt="Assembled annunciator with its cable"><br><sub>A single assembled annunciator</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/02-annunciators-photo-1-assembled.png" alt="Assembled annunciator with its cable"><br><sub>A single assembled annunciator</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/02-annunciators-photo-2-front.jpg" alt="Finished annunciator fitted into a panel"><br><sub>Finished annunciator fitted into a panel</sub></td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td align="center"><img src="../../images/panels/02-annunciators-photo-3-parts.png" alt="The six printed parts of one annunciator"><br><sub>The six printed parts of one annunciator</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/02-annunciators-photo-3-parts.png" alt="The six printed parts of one annunciator"><br><sub>The six printed parts of one annunciator</sub></td>
+<td width="50%"></td>
 </tr>
 </table>
 
