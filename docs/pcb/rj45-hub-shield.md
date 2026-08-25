@@ -30,8 +30,7 @@ A total of **7** PCBs are required for the complete project — one for each of 
 | 63× | **RJ45 connector** — 5224 8P8C in-line, vertical 180°, full plastic | [Product I used](../../images/parts/AE_RJ45.png) |
 | 7× | **Electrolytic capacitor 47 µF / 16 V** — radial, 3.5 mm lead pitch | |
 | 7× | **Ceramic capacitor 100 nF** | |
-| 7× | **KF301-2P screw terminal** — 5.08 mm pitch, for the 5 V input | [Product I used](../../images/parts/AE_KF301.png) |
-| or 14× | **4.8 mm PCB male Faston terminal** — one leg clipped off, this is what I used | [Product I used](../../images/parts/AE_plug_male.png) |
+| 14× | **4.8 mm PCB male Faston terminal** — one leg clipped off, this is what I used | [Product I used](../../images/parts/AE_plug_male.png) |
 | 7× | **2×21 pin header** — 2.54 mm double row, usually supplied with the MEGA 2560 PRO MINI | |
 | 7× | **2×16 pin header** — 2.54 mm double row, usually supplied with the MEGA 2560 PRO MINI | |
 | 7× | **2×3 pin header** — 2.54 mm double row, usually supplied with the MEGA 2560 PRO MINI | |
@@ -40,6 +39,9 @@ A total of **7** PCBs are required for the complete project — one for each of 
 | 7× | **2×3 female socket** — 2.54 mm double row, soldered into the MEGA 2560 PRO MINI | [Product I used](../../images/parts/AE_socket_2x3.png) |
 | 7× | **330 Ω resistor (0805)** — optional | |
 | 7× | **Green LED (0805)** — optional | |
+
+> **Note**
+> The 5 V input footprint is 5.08 mm, so a [KF301-2P screw terminal](../../images/parts/AE_KF301.png) fits it just as well as the two Faston tabs. Use whichever you prefer.
 
 > **Note**
 > The shop lists these headers and sockets by the number of positions in one row, so a 2×21 part is sold as *21Pin*.
