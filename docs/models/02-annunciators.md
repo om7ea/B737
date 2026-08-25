@@ -22,7 +22,7 @@
 </tr>
 <tr>
 <td align="center" width="50%"><img src="../../images/panels/02-annunciators-photo-3-parts.png" alt="The six printed parts of one annunciator"><br><sub>The six printed parts of one annunciator</sub></td>
-<td align="center" width="50%"><img src="../../images/panels/02-annunciators-exploded.png" alt="Exploded view of one annunciator"><br><sub>One annunciator, exploded</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/02-annunciators-photo-4-exploded.png" alt="Exploded view of one annunciator"><br><sub>One annunciator, exploded</sub></td>
 </tr>
 </table>
 
