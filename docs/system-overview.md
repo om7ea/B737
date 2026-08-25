@@ -47,7 +47,7 @@ The project uses **MEGA 2560 PRO MINI** boards — inexpensive third-party clone
 
 The **PRO MINI** form factor is what matters here: the board is a fraction of the size of a full Mega 2560 while keeping the full pin count, so all seven fit inside the overhead panel. For why seven boards are needed, see [Why seven boards](#why-seven-boards) below.
 
-What to order:
+### What to order
 
 | Qty | Part | Reference |
 |---:|---|---|
