@@ -104,7 +104,50 @@ The annunciators are a separate model shared with the other panels — they are 
 |---:|---|---|---|
 | 1× | [RJ45 Combined](../pcb/rj45-combined.md) | headers 1–3 and pins 5–8 | [📥 PCB_RJ45_Combined.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Combined.zip) |
 
-Mounting and connections are shown in [step 4](#4-backlight-panel--pcb-and-dc-jack) of the assembly diagram.
+Mounting and connections are shown in [step 4](#4-backlight-panel--pcb-and-dc-jack) of the assembly diagram. Which annunciator and which switch each connection carries is in [Wiring](#wiring).
+
+---
+
+## Wiring
+
+Everything on this panel — three annunciators and three switches — goes to a single PCB, connected by one Ethernet patch cable to a socket on the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md).
+
+| PCB | Patch cable goes to | Connections used |
+|---|---|---|
+| **PCB 1** | socket **A1** on **Overhead_2b** | headers 1–3, pins 5–8 |
+
+The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shield.
+
+<img src="../../images/panels/07-generator-drive-photo-5-rear.jpg" alt="Rear of the panel with the single PCB" width="700">
+
+The rear of the panel. There is only one board here, so it needs no marking: the annunciators go to the white ZH headers, the switches to the blue screw terminal.
+
+### PCB 1 — socket A1 on Overhead_2b
+
+This board carries both kinds of connection: the ZH headers 1–4 drive annunciators, the screw terminals 5–8 are direct.
+
+| Header | Annunciator |
+|---:|---|
+| 1 | DRIVE — 1 |
+| 2 | DRIVE — 2 |
+| 3 | STANDBY POWER OFF |
+
+Header 4 is not populated.
+
+Both DRIVE annunciators carry the same printed text; the **1** and **2** above them on the panel say which generator each belongs to.
+
+| Pin | Switch |
+|---:|---|
+| 5 | DISCONNECT — 2 |
+| 6 | STANDBY POWER — BAT |
+| 7 | STANDBY POWER — AUTO |
+| 8 | DISCONNECT — 1 |
+
+**The STANDBY POWER switch takes two pins.** It is the three-position ON/OFF/ON switch in the middle of the panel, and each of its two active positions needs its own connection: pin 6 for BAT, pin 7 for AUTO. In the centre OFF position neither pin is connected.
+
+**The switches share a single ground return.** Each switch takes one of its terminals to its own pin on the PCB. The opposite terminals are commoned — daisy-chained from one switch to the next — and the chain ends at a **-** (ground) contact.
+
+The three guards are mechanical covers only — they are not wired to anything.
 
 ---
 
