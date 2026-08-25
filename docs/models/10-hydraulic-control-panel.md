@@ -124,6 +124,8 @@ The rear of the panel. **PCB 1** is the one with the blue screw terminals going 
 
 Pins 5 to 8 follow the switches left to right as they appear on the front of the panel.
 
+**The four switches share a single ground return.** Each switch takes one of its terminals to its own pin on the Direct PCB. The opposite terminals are commoned — daisy-chained from one switch to the next — and the chain ends at the **-** (ground) contact of the same PCB. An input is read as closed when its pin is pulled to ground, so one return conductor serves the whole panel and a separate ground wire per switch is unnecessary. It is the brown wire in the photo above.
+
 ### PCB 2 — socket D4 on Overhead_4
 
 | Header | Annunciator |
