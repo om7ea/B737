@@ -18,14 +18,18 @@
 ## Photos
 
 <table>
+<tbody>
 <tr>
 <td align="center" width="50%"><img src="../../images/panels/02-annunciators-photo-1-assembled.png" alt="Assembled annunciator with its cable"><br><sub>A single assembled annunciator</sub></td>
 <td align="center" width="50%"><img src="../../images/panels/02-annunciators-photo-2-finished.png" alt="Finished annunciator fitted into a panel"><br><sub>Finished annunciator fitted into a panel</sub></td>
 </tr>
+</tbody>
+<tbody>
 <tr>
 <td align="center" width="50%"><img src="../../images/panels/02-annunciators-photo-3-parts.png" alt="The six printed parts of one annunciator"><br><sub>The six printed parts of one annunciator</sub></td>
 <td align="center" width="50%"><img src="../../images/panels/02-annunciators-photo-4-exploded.png" alt="Exploded view of one annunciator"><br><sub>One annunciator, exploded</sub></td>
 </tr>
+</tbody>
 </table>
 
 ---
@@ -42,17 +46,14 @@ Each annunciator carries two tact switches and one LED on its own small PCB — 
 
 The project uses several types of annunciator:
 
-<table>
-<thead>
-<tr><th align="right">Qty</th><th align="left">Background</th><th align="left">LED</th></tr>
-</thead>
-<tbody><tr><td align="right">93×</td><td>black</td><td>yellow</td></tr></tbody>
-<tbody><tr><td align="right">9×</td><td>black</td><td>green</td></tr></tbody>
-<tbody><tr><td align="right">2×</td><td>black</td><td>white</td></tr></tbody>
-<tbody><tr><td align="right">8×</td><td>blue</td><td>white</td></tr></tbody>
-<tbody><tr><td align="right">9×</td><td>blue</td><td>white, two brightness levels (DIM/BRIGHT)</td></tr></tbody>
-<tbody><tr><td align="right">2×</td><td>black</td><td>large special annunciators, one yellow and one white LED</td></tr></tbody>
-</table>
+| Qty | Background | LED |
+|---:|---|---|
+| 93× | black | yellow |
+| 9× | black | green |
+| 2× | black | white |
+| 8× | blue | white |
+| 9× | blue | white, two brightness levels (DIM/BRIGHT) |
+| 2× | black | large special annunciators, one yellow and one white LED |
 
 The last row is the two large special annunciators described in the note at the top of the page — they are not part of this model.
 
