@@ -105,14 +105,14 @@ The six annunciators and the three switches sit on two PCBs, and both reach the 
 
 | PCB | Patch cable goes to | Connections used |
 |---|---|---|
-| **PCB 1** — [RJ45 LED Driver](../pcb/rj45-driver.md) | socket **D1** on **Overhead_4** | headers 1–8 |
-| **PCB 2** — [RJ45 Combined](../pcb/rj45-combined.md) | socket **D2** on **Overhead_4** | headers 3–4, pins 5–8 |
+| **PCB 1** | socket **D1** on **Overhead_4** | headers 1–8 |
+| **PCB 2** | socket **D2** on **Overhead_4** | headers 3–4, pins 5–8 |
 
 The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shield.
 
 <img src="../../images/panels/09-anti-ice-wiring-pcbs.jpg" alt="Rear of the panel with the two PCBs marked" width="700">
 
-The rear of the panel. **PCB 2** is the Combined one — it is the board carrying both the white ZH headers and the blue screw terminal.
+The rear of the panel. **PCB 2** is the board carrying both the white ZH headers and the blue screw terminal.
 
 ### PCB 1 — socket D1 on Overhead_4
 

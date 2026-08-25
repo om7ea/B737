@@ -104,8 +104,8 @@ The four toggle switches and the six annunciators are on two different PCBs, but
 
 | PCB | Patch cable goes to | Connections used |
 |---|---|---|
-| **PCB 1** — [RJ45 Direct](../pcb/rj45-direct.md) | socket **D6** on **Overhead_4** | pins 5–8 |
-| **PCB 2** — [RJ45 LED Driver](../pcb/rj45-driver.md) | socket **D4** on **Overhead_4** | headers 1–6 |
+| **PCB 1** | socket **D6** on **Overhead_4** | pins 5–8 |
+| **PCB 2** | socket **D4** on **Overhead_4** | headers 1–6 |
 
 The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shield.
 

@@ -108,15 +108,15 @@ This panel takes three PCBs, and all three reach the **same** MEGA 2560 — `Ove
 
 | PCB | Patch cable goes to | Connections used |
 |---|---|---|
-| **PCB 1** — [RJ45 Direct](../pcb/rj45-direct.md) | socket **A1** on **Overhead_4** | pins 1–8 |
-| **PCB 2** — [RJ45 LED Driver](../pcb/rj45-driver.md) | socket **A2** on **Overhead_4** | headers 1–8 |
-| **PCB 3** — [RJ45 LED Driver](../pcb/rj45-driver.md) | socket **D0** on **Overhead_4** | headers 1–8 |
+| **PCB 1** | socket **A1** on **Overhead_4** | pins 1–8 |
+| **PCB 2** | socket **A2** on **Overhead_4** | headers 1–8 |
+| **PCB 3** | socket **D0** on **Overhead_4** | headers 1–8 |
 
 The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shield.
 
 <img src="../../images/panels/08-window-probe-heat-wiring-pcbs.jpg" alt="Rear of the panel with the three PCBs marked" width="700">
 
-The rear of the panel. **PCB 1** is the Direct board, the one with the blue screw terminals. The two LED Drivers sit next to the annunciators they serve: **PCB 2** at the top for the window heat annunciators, **PCB 3** at the bottom for the probe annunciators.
+The rear of the panel. **PCB 1** is the one with the blue screw terminals. The other two sit next to the annunciators they serve: **PCB 2** at the top for the window heat annunciators, **PCB 3** at the bottom for the probe annunciators.
 
 ### PCB 1 — socket A1 on Overhead_4
 
