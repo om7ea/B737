@@ -144,8 +144,6 @@ The rear of the panel. **PCB 1** and **PCB 2** are the boards with the blue scre
 | 7 | ALTERNATE FLAPS — UP |
 | 8 | ALTERNATE FLAPS — DOWN |
 
-**The switches share a single ground return.** Each switch takes one of its terminals to its own pin. The opposite terminals are commoned — daisy-chained from one switch to the next — and the chain ends at a **-** (ground) contact.
-
 ### PCB 2 — socket D6 on Overhead_1b
 
 | Pin | Switch |
@@ -181,6 +179,8 @@ The four annunciators in the upper half of the panel. Three of them read **LOW P
 | 8 | LOW PRESSURE — FLT CONTROL B |
 
 Headers 1 to 4 are not populated.
+
+**The switches share a single ground return.** Each switch takes one of its terminals to its own pin. The opposite terminals are commoned — daisy-chained from one switch to the next — and the chain ends at a **-** (ground) contact.
 
 ---
 

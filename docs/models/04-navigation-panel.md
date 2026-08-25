@@ -132,8 +132,6 @@ The four toggle switches. Each of them is a three-position ON/OFF/ON switch, so 
 | 7 | VHF NAV — BOTH ON 1 |
 | 8 | VHF NAV — BOTH ON 2 |
 
-**The switches share a single ground return.** Each switch takes one of its terminals to its own pin. The opposite terminals are commoned — daisy-chained from one switch to the next — and the chain ends at a **-** (ground) contact.
-
 ### PCB 2 — socket A1 on Overhead_1b
 
 The SOURCE rotary switch, at the bottom left of the panel. All three of its positions are wired, each to its own pin.
@@ -145,6 +143,8 @@ The SOURCE rotary switch, at the bottom left of the panel. All three of its posi
 | 8 | SOURCE — AUTO |
 
 Pins 1 to 5 are not used.
+
+**The switches share a single ground return.** Each switch takes one of its terminals to its own pin. The opposite terminals are commoned — daisy-chained from one switch to the next — and the chain ends at a **-** (ground) contact.
 
 ---
 
