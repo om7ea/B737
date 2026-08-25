@@ -133,8 +133,6 @@ The rear of the panel. **PCB 1** and **PCB 2** are the boards with the blue scre
 
 ### PCB 1 — socket D4 on Overhead_1a
 
-The FLT CONTROL, SPOILER A and ALTERNATE FLAPS switches. Both FLT CONTROL switches are three-position ON/OFF/ON, so each of them takes **two pins**, one per active position — in the centre OFF position neither pin is connected.
-
 | Pin | Switch |
 |---:|---|
 | 1 | FLT CONTROL B — STBY RUD |
@@ -146,8 +144,6 @@ The FLT CONTROL, SPOILER A and ALTERNATE FLAPS switches. Both FLT CONTROL switch
 | 7 | ALTERNATE FLAPS — UP |
 | 8 | ALTERNATE FLAPS — DOWN |
 
-Pin 6 is the guarded ARM switch under the red guard. Pins 7 and 8 are the UP/DOWN switch beside it, which is the momentary one — it springs back to the centre, so its pins are only connected while the switch is held.
-
 **The switches share a single ground return.** Each switch takes one of its terminals to its own pin on this PCB. The opposite terminals are commoned — daisy-chained from one switch to the next — and the chain ends at a **-** (ground) contact on this board.
 
 ### PCB 2 — socket D6 on Overhead_1b
@@ -156,8 +152,6 @@ Pin 6 is the guarded ARM switch under the red guard. Pins 7 and 8 are the UP/DOW
 |---:|---|
 | 7 | SPOILER B |
 | 8 | YAW DAMPER |
-
-**These two switches are on a board of their own.** The panel has ten switch inputs and a Direct PCB has eight pins, so SPOILER B and YAW DAMPER go to a second board — and its patch cable goes to a different MEGA 2560 than everything else on the panel. SPOILER A and SPOILER B therefore do not share a board, even though the two switches sit side by side.
 
 The remaining pins on this board are not used. Its two switches have their own ground return: the opposite terminals are commoned and the chain ends at a **-** (ground) contact on this board.
 
