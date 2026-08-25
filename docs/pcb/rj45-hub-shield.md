@@ -47,7 +47,7 @@ A total of **7** PCBs are required for the complete project — one for each of 
 > The shop lists these headers and sockets by the number of positions in one row, so a 2×21 part is sold as *21Pin*.
 
 > **Note**
-> The MEGA 2560 PRO MINI itself is not part of this BOM — see [What to order](../system-overview.md#what-to-order) in the system overview.
+> The MEGA 2560 PRO MINI itself is not part of this BOM — see [Hardware](../system-overview.md#hardware-inside-the-panel) in the system overview.
 
 ---
 

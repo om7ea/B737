@@ -31,13 +31,14 @@ MobiFlight does the heavy lifting: switches and LEDs are configured in its graph
 
 ## Hardware (inside the panel)
 
-| Component | Quantity | Purpose |
-|---|---|---|
-| **Mega 2560 PRO MINI** | 7× | Each board drives one group of panels |
-| **USB hub** | 1× | Connects all seven boards to the single USB cable |
-| **External power supplies** | 2× | One 12 V unit for the backlighting, one 5 V unit for the electronics |
-| **RJ45 breakout PCBs** | 53× | Link the individual panels to the boards — see [PCB documentation](pcb/README.md) |
-| **RJ45 Hub Shield PCBs** | 7× | One per board — brings nine RJ45 sockets to the Mega 2560 |
+| Component | Qty | Purpose | Reference |
+|---|---:|---|---|
+| **MEGA 2560 PRO MINI** | 7× | Each board drives one group of panels. 5 V (embed), CH340G, ATmega2560-16AU; supplied with the male pin headers | [Product I used](../images/parts/AE_mega.png) |
+| **USB hub** | 1× | Connects all seven boards to the single USB cable. 7 ports, USB 3.0 | [Product I used](../images/parts/AE_usb_hub.png) |
+| **USB cable** | 7× | Board to hub. USB-A to micro USB, 1 m; sold in packs — I bought 10 and used 7 | [Product I used](../images/parts/AE_usb_cable.png) |
+| **External power supplies** | 2× | One 12 V unit for the backlighting, one 5 V unit for the electronics | see [Power supply](#power-supply) |
+| **RJ45 Hub Shield PCBs** | 7× | One per board — brings nine RJ45 sockets to the Mega 2560 | [PCB docs](pcb/rj45-hub-shield.md) |
+| **RJ45 breakout PCBs** | 53× | Link the individual panels to the boards | [PCB docs](pcb/README.md) |
 
 Each Mega 2560 is registered in MobiFlight as a separate device, which keeps the configuration manageable and makes it easy to work on one section of the overhead at a time.
 
@@ -50,14 +51,6 @@ The **PRO MINI** form factor is what matters here: the board is a fraction of th
 <img src="../images/board_positions.png" alt="Where the seven boards sit inside the panel" width="450">
 
 Where the seven boards sit inside my panel, each with its RJ45 Hub Shield. Which panels every board drives is still to be documented.
-
-### What to order
-
-| Qty | Part | Reference |
-|---:|---|---|
-| 7× | **MEGA 2560 PRO MINI** — 5 V (embed), CH340G, ATmega2560-16AU; supplied with the male pin headers | [Product I used](../images/parts/AE_mega.png) |
-| 1× | **USB hub** — 7 ports, USB 3.0; one port per board | [Product I used](../images/parts/AE_usb_hub.png) |
-| 7× | **USB cable** — USB-A to micro USB, 1 m; connects each board to the hub. Sold in packs — I bought 10 and used 7 | [Product I used](../images/parts/AE_usb_cable.png) |
 
 ---
 
