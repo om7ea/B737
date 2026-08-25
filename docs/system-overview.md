@@ -24,8 +24,7 @@ All electronics are enclosed inside the panel and connected to an internal USB h
 
 MobiFlight does the heavy lifting: switches and LEDs are configured in its graphical interface, so **no programming is required**. The boards run the standard MobiFlight firmware, which MobiFlight uploads for you when the board is first added.
 
-> **Coming soon**
-> The MobiFlight configuration files for the whole overhead panel will be published in this repository.
+The complete configuration — the board definitions and the mapping for every switch, button and LED — is published here: **[MobiFlight Configuration →](mobiflight.md)**
 
 ---
 
@@ -90,4 +89,3 @@ These sections are still to be written:
 
 - **Power supply details** — current rating of each supply, and how power is distributed inside the panel
 - **Board assignment** — which panels are connected to which Mega 2560
-- **MobiFlight configuration** — the complete configuration files will be published here

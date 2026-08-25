@@ -38,7 +38,7 @@ All electronics are enclosed inside the panel and connected to an internal USB h
 | 🖨️ **[UV Print Files](docs/uv-print.md)** | Printable panel graphics and printing instructions |
 | 🛩️ **[Models](docs/models/README.md)** | Build notes for the frame, the shared components and each panel |
 | 🎨 **[Filaments](docs/filaments.md)** | The filaments I used and their colours |
-| 🖥️ **MobiFlight configuration** | 🚧 *Coming soon* — the configuration files will be published here |
+| 🖥️ **[MobiFlight Configuration](docs/mobiflight.md)** | The complete MobiFlight configuration — board definitions and the simulator mapping |
 
 ---
 

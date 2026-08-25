@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ModuleType>MobiFlight Mega</ModuleType>
+  <ModuleName>Overhead_4</ModuleName>
+  <PowerSavingTime>600</PowerSavingTime>
+  <Output Name="D0_1" Pin="2" />
+  <Output Name="D0_2" Pin="3" />
+  <Output Name="D0_3" Pin="4" />
+  <Output Name="D0_4" Pin="5" />
+  <Output Name="D0_5" Pin="6" />
+  <Output Name="D0_6" Pin="21" />
+  <Output Name="D0_7" Pin="20" />
+  <Output Name="D0_8" Pin="7" />
+  <Output Name="D1_1" Pin="8" />
+  <Output Name="D1_2" Pin="9" />
+  <Output Name="D1_3" Pin="10" />
+  <Output Name="D1_4" Pin="11" />
+  <Output Name="D1_5" Pin="12" />
+  <Output Name="D1_6" Pin="13" />
+  <Output Name="D1_7" Pin="14" />
+  <Output Name="D1_8" Pin="15" />
+  <Output Name="D2_3" Pin="18" />
+  <Output Name="D2_4" Pin="19" />
+  <Button Name="D2_5" Pin="22" />
+  <Button Name="D2_6" Pin="23" />
+  <Button Name="D2_7" Pin="24" />
+  <Button Name="D2_8" Pin="25" />
+  <Button Name="D3_5" Pin="30" />
+  <Servo Name="D3_6" DataPin="31" />
+  <Servo Name="D3_7" DataPin="32" />
+  <Servo Name="D3_8" DataPin="33" />
+  <Output Name="D4_1" Pin="34" />
+  <Output Name="D4_2" Pin="35" />
+  <Output Name="D4_3" Pin="36" />
+  <Output Name="D4_4" Pin="37" />
+  <Output Name="D4_5" Pin="38" />
+  <Output Name="D4_6" Pin="39" />
+  <Output Name="D5_1" Pin="42" />
+  <Output Name="D5_2" Pin="43" />
+  <Output Name="D5_3" Pin="44" />
+  <Output Name="D5_4" Pin="45" />
+  <Button Name="D6_5" Pin="50" />
+  <Button Name="D6_6" Pin="51" />
+  <Button Name="D6_7" Pin="52" />
+  <Button Name="D6_8" Pin="53" />
+  <Button Name="A1_1" Pin="54" />
+  <Button Name="A1_2" Pin="55" />
+  <Button Name="A1_3" Pin="56" />
+  <Button Name="A1_4" Pin="57" />
+  <Button Name="A1_5" Pin="58" />
+  <Button Name="A1_6" Pin="59" />
+  <Button Name="A1_7" Pin="60" />
+  <Button Name="A1_8" Pin="61" />
+  <Output Name="A2_1" Pin="62" />
+  <Output Name="A2_2" Pin="63" />
+  <Output Name="A2_3" Pin="64" />
+  <Output Name="A2_4" Pin="65" />
+  <Output Name="A2_5" Pin="66" />
+  <Output Name="A2_6" Pin="67" />
+  <Output Name="A2_7" Pin="68" />
+  <Output Name="A2_8" Pin="69" />
+</Config>

@@ -1,0 +1,3 @@
+# MobiFlight configuration files are machine-written - store them byte-for-byte
+*.mfmc -text
+*.mfproj -text
