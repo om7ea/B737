@@ -37,7 +37,7 @@ MobiFlight does the heavy lifting: switches and LEDs are configured in its graph
 | **USB cable** | 7× | Board to hub. USB-A to micro USB, 1 m; sold in packs — I bought 10 and used 7 | [Product I used](../images/parts/AE_usb_cable.png) |
 | **MEGA 2560 PRO MINI** | 7× | Each board drives one group of panels. 5 V (embed), CH340G, ATmega2560-16AU; supplied with the male pin headers | [Product I used](../images/parts/AE_mega.png) |
 | **RJ45 Hub Shield PCBs** | 7× | One per board — brings nine RJ45 sockets to the Mega 2560 | [PCB docs](pcb/rj45-hub-shield.md) |
-| **Panels** | — | The overhead panels themselves. Each connects to a board with one Ethernet patch cable; new ones are released over time | [Models](models/README.md) |
+| **Panels** | — | The overhead panels themselves. Each connects to a board with one or more Ethernet patch cables; new ones are released over time | [Models](models/README.md) |
 
 Each Mega 2560 is registered in MobiFlight as a separate device, which keeps the configuration manageable and makes it easy to work on one section of the overhead at a time.
 
@@ -78,7 +78,7 @@ At the board end the cables plug into an **RJ45 Hub Shield** — a shield that s
 
 <img src="../images/connection_chain.png" alt="Connection chain from a panel to the PC" width="600">
 
-The chain for a single panel: panel PCB → Ethernet patch cable → MEGA 2560 PRO MINI with the RJ45 Hub Shield → micro USB cable → USB hub → PC. The same chain repeats for every panel; one board takes up to nine panel cables.
+The chain for a single connection: panel PCB → Ethernet patch cable → MEGA 2560 PRO MINI with the RJ45 Hub Shield → micro USB cable → USB hub → PC. A panel may need more than one cable, and one board takes up to nine.
 
 See [PCB Manufacturing Files](pcb/README.md) for details, BOM and wiring.
 
