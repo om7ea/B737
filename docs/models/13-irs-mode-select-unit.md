@@ -105,7 +105,56 @@ The annunciators are a separate model shared with the other panels — they are 
 | 1× | [RJ45 Direct](../pcb/rj45-direct.md) | pins 1–8 | [📥 PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip) |
 | 1× | [RJ45 LED Driver](../pcb/rj45-driver.md) | headers 1–8 | [📥 PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip) |
 
-Mounting and connections are shown in [step 4](#4-backlight-panel--pcbs-and-dc-jack) of the assembly diagram.
+Mounting and connections are shown in [step 4](#4-backlight-panel--pcbs-and-dc-jack) of the assembly diagram. Which annunciator and which switch each connection carries is in [Wiring](#wiring).
+
+---
+
+## Wiring
+
+Both rotary switches and eight of the nine annunciators go to the two PCBs on this panel, and both boards reach the same MEGA 2560 — `Overhead_2a`. Each PCB is connected by one Ethernet patch cable to a socket on the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md). The ninth annunciator, GPS, is wired to another panel — see below.
+
+| PCB | Patch cable goes to | Connections used |
+|---|---|---|
+| **PCB 1** | socket **D2** on **Overhead_2a** | pins 1–8 |
+| **PCB 2** | socket **D1** on **Overhead_2a** | headers 1–8 |
+
+The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shield.
+
+<img src="../../images/panels/13-irs-mode-select-wiring-pcbs.jpg" alt="Rear of the panel with the two PCBs marked" width="700">
+
+The rear of the panel. **PCB 1** is the board with the blue screw terminals, **PCB 2** the one with the eight ZH headers.
+
+### PCB 1 — socket D2 on Overhead_2a
+
+| Pin | Switch |
+|---:|---|
+| 1 | IRS L — NAV |
+| 2 | IRS L — ATT |
+| 3 | IRS L — OFF |
+| 4 | IRS L — ALIGN |
+| 5 | IRS R — ATT |
+| 6 | IRS R — ALIGN |
+| 7 | IRS R — OFF |
+| 8 | IRS R — NAV |
+
+### PCB 2 — socket D1 on Overhead_2a
+
+Every annunciator text appears twice — **L** is the group of four above the left knob, **R** the group above the right one.
+
+| Header | Annunciator |
+|---:|---|
+| 1 | ALIGN — R |
+| 2 | ON DC — R |
+| 3 | DC FAIL — R |
+| 4 | FAULT — R |
+| 5 | FAULT — L |
+| 6 | DC FAIL — L |
+| 7 | ON DC — L |
+| 8 | ALIGN — L |
+
+**The GPS annunciator is not on this panel's PCBs.** All eight headers of the LED driver are taken by the eight annunciators above, so GPS is wired across to **header 2** of a PCB on the IRS Display Unit, whose patch cable goes to socket **A1** on **Overhead_2a**. It is the red and black pair leaving the panel at the top of the photo above, ending in a loose white connector.
+
+**The switches share a single ground return.** Each switch position takes its own pin. The common terminals of the two switches are daisy-chained together and the chain ends at a **-** (ground) contact.
 
 ---
 
