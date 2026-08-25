@@ -38,8 +38,6 @@ MobiFlight does the heavy lifting: switches and LEDs are configured in its graph
 | **MEGA 2560 PRO MINI** | 7× | Each board drives one group of panels. 5 V (embed), CH340G, ATmega2560-16AU; supplied with the male pin headers | [Product I used](../images/parts/AE_mega.png) |
 | **RJ45 Hub Shield PCBs** | 7× | One per board — brings nine RJ45 sockets to the Mega 2560 | [PCB docs](pcb/rj45-hub-shield.md) |
 | **RJ45 breakout PCBs** | 53× | Link the individual panels to the boards | [PCB docs](pcb/README.md) |
-| **External power supply 5 V** | 1× | All other electronics — the Mega boards, annunciator LEDs, servos, displays | see [Power supply](#power-supply) |
-| **External power supply 12 V** | 1× | Panel backlighting | see [Power supply](#power-supply) |
 
 Each Mega 2560 is registered in MobiFlight as a separate device, which keeps the configuration manageable and makes it easy to work on one section of the overhead at a time.
 
