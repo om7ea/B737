@@ -10,7 +10,7 @@
 
 ## Purpose
 
-A shield for the **MEGA 2560 PRO MINI**. It plugs straight onto the board and breaks the I/O out to **nine RJ45 sockets**, so up to nine panel cables connect directly at the board end instead of being wired to it one by one.
+A shield for the **MEGA 2560 PRO MINI**. It plugs straight onto the board and gives it **nine RJ45 sockets**.
 
 The sockets are silkscreened **D0–D6** for the digital groups and **A1, A2** for the analog ones. The power terminal feeds **5 V** into the shield, which supplies both the RJ45 sockets and the MEGA 2560 PRO MINI itself.
 
@@ -18,7 +18,7 @@ Board size: **81.5 × 58.5 mm**.
 
 ## Quantity
 
-A total of **7** PCBs are required for the complete project — one for each of the seven [MEGA 2560 PRO MINI boards](../system-overview.md#the-boards). I recommend ordering a few extra in case some are damaged during assembly.
+A total of **7** PCBs are required for the complete project — one for each of the seven [MEGA 2560 PRO MINI boards](../system-overview.md#the-boards).
 
 ---
 
@@ -55,4 +55,3 @@ The **pin headers usually come in the bag with the MEGA 2560 PRO MINI**, so ther
 - The RJ45 sockets, the 47 µF electrolytic capacitor and the optional power LED go on the **top** side. The pin headers and the 100 nF capacitor go on the **bottom** side.
 - I soldered the **pin headers into the shield** and the **female sockets into the MEGA 2560 PRO MINI**, so the shield sits on top of the board. The other way round works just as well.
 - The 100 nF capacitor has no footprint of its own — solder it directly across the two power terminal pads on the underside, in parallel with the 47 µF.
-- Each RJ45 connector has two plastic mounting posts; make sure both drop into their holes before soldering, otherwise the connector sits crooked.
