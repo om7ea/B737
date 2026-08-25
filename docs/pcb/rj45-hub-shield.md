@@ -47,6 +47,21 @@ A total of **7** PCBs are required for the complete project — one for each of 
 
 ## Assembly Notes
 
+<table>
+<tbody>
+<tr>
+<td><img src="../../images/pcb/PCB_RJ45_Hub_Shield_mega.jpg" alt="MEGA 2560 PRO MINI with the female sockets soldered in" width="400"></td>
+<td><img src="../../images/pcb/PCB_RJ45_Hub_Shield_assembled.jpg" alt="The shield plugged onto the MEGA 2560 PRO MINI" width="400"></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td>The MEGA 2560 PRO MINI with the female sockets soldered in</td>
+<td>The shield plugged onto the board</td>
+</tr>
+</tbody>
+</table>
+
 - The RJ45 sockets, the 47 µF electrolytic capacitor and the optional power LED go on the **top** side. The pin headers and the 100 nF capacitor go on the **bottom** side.
 - I soldered the **pin headers into the shield** and the **female sockets into the MEGA 2560 PRO MINI**, so the shield sits on top of the board. The other way round works just as well.
 - The 100 nF capacitor has no footprint of its own — solder it directly across the two power terminal pads on the underside, in parallel with the 47 µF.
