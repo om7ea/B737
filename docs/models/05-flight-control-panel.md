@@ -108,7 +108,85 @@ The annunciators are a separate model shared with the other panels — they are 
 | 1× | [RJ45 LED Driver](../pcb/rj45-driver.md) | headers 1–5 | [📥 PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip) |
 | 1× | [RJ45 LED Driver](../pcb/rj45-driver.md) | headers 5–8 | [📥 PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip) |
 
-Mounting and connections are shown in [step 4](#4-backlight-panel--pcbs-and-dc-jack) of the assembly diagram.
+Mounting and connections are shown in [step 4](#4-backlight-panel--pcbs-and-dc-jack) of the assembly diagram. Which annunciator and which switch each connection carries is in [Wiring](#wiring).
+
+---
+
+## Wiring
+
+The nine annunciators and the ten switch inputs take four PCBs, and they do not all hang off the same MEGA 2560 — three go to `Overhead_1a`, one to `Overhead_1b`. Each PCB is connected by one Ethernet patch cable to a socket on the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md).
+
+| PCB | Patch cable goes to | Connections used |
+|---|---|---|
+| **PCB 1** | socket **D4** on **Overhead_1a** | pins 1–8 |
+| **PCB 2** | socket **D6** on **Overhead_1b** | pins 7–8 |
+| **PCB 3** | socket **D5** on **Overhead_1a** | headers 1–5 |
+| **PCB 4** | socket **D6** on **Overhead_1a** | headers 5–8 |
+
+Two of the cables go to a socket marked **D6**, but on different hub shields — PCB 2 to the one on `Overhead_1b`, PCB 4 to the one on `Overhead_1a`.
+
+The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shield.
+
+<img src="../../images/panels/05-flight-control-wiring-pcbs.jpg" alt="Rear of the panel with the four PCBs marked" width="700">
+
+The rear of the panel. **PCB 1** and **PCB 2** are the boards with the blue screw terminals — eight of them on PCB 1, two on PCB 2. Of the other two, **PCB 3** has five ZH headers wired and **PCB 4** four.
+
+### PCB 1 — socket D4 on Overhead_1a
+
+The FLT CONTROL, SPOILER A and ALTERNATE FLAPS switches. Both FLT CONTROL switches are three-position ON/OFF/ON, so each of them takes **two pins**, one per active position — in the centre OFF position neither pin is connected.
+
+| Pin | Switch |
+|---:|---|
+| 1 | FLT CONTROL B — STBY RUD |
+| 2 | FLT CONTROL A — STBY RUD |
+| 3 | FLT CONTROL B — B ON |
+| 4 | FLT CONTROL A — A ON |
+| 5 | SPOILER A |
+| 6 | ALTERNATE FLAPS ARM |
+| 7 | ALTERNATE FLAPS — UP |
+| 8 | ALTERNATE FLAPS — DOWN |
+
+Pin 6 is the guarded ARM switch under the red guard. Pins 7 and 8 are the UP/DOWN switch beside it, which is the momentary one — it springs back to the centre, so its pins are only connected while the switch is held.
+
+**The switches share a single ground return.** Each switch takes one of its terminals to its own pin on this PCB. The opposite terminals are commoned — daisy-chained from one switch to the next — and the chain ends at a **-** (ground) contact on this board.
+
+### PCB 2 — socket D6 on Overhead_1b
+
+| Pin | Switch |
+|---:|---|
+| 7 | SPOILER B |
+| 8 | YAW DAMPER |
+
+**These two switches are on a board of their own.** The panel has ten switch inputs and a Direct PCB has eight pins, so SPOILER B and YAW DAMPER go to a second board — and its patch cable goes to a different MEGA 2560 than everything else on the panel. SPOILER A and SPOILER B therefore do not share a board, even though the two switches sit side by side.
+
+The remaining pins on this board are not used. Its two switches have their own ground return: the opposite terminals are commoned and the chain ends at a **-** (ground) contact on this board.
+
+### PCB 3 — socket D5 on Overhead_1a
+
+The five annunciators in the lower half of the panel — the four-high column at the bottom right, plus the YAW DAMPER annunciator above the yaw damper switch.
+
+| Header | Annunciator |
+|---:|---|
+| 1 | MACH TRIM FAIL |
+| 2 | AUTO SLAT FAIL |
+| 3 | SPEED TRIM FAIL |
+| 4 | FEEL DIFF PRESS |
+| 5 | YAW DAMPER |
+
+Headers 6 to 8 are not populated.
+
+### PCB 4 — socket D6 on Overhead_1a
+
+The four annunciators in the upper half of the panel. Three of them read **LOW PRESSURE**, so the printed text does not tell them apart: two sit directly under the FLT CONTROL switches, the third under STANDBY HYD below LOW QUANTITY.
+
+| Header | Annunciator |
+|---:|---|
+| 5 | LOW PRESSURE — STANDBY HYD |
+| 6 | LOW QUANTITY |
+| 7 | LOW PRESSURE — FLT CONTROL A |
+| 8 | LOW PRESSURE — FLT CONTROL B |
+
+Headers 1 to 4 are not populated.
 
 ---
 
