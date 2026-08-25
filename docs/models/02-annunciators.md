@@ -20,7 +20,7 @@
 <table>
 <tr>
 <td align="center" width="50%"><img src="../../images/panels/02-annunciators-photo-1-assembled.png" alt="Assembled annunciator with its cable"><br><sub>A single assembled annunciator</sub></td>
-<td align="center" width="50%"><img src="../../images/panels/02-annunciators-photo-2-finished.jpg" alt="Finished annunciator fitted into a panel"><br><sub>Finished annunciator fitted into a panel</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/02-annunciators-photo-2-finished.png" alt="Finished annunciator fitted into a panel"><br><sub>Finished annunciator fitted into a panel</sub></td>
 </tr>
 <tr>
 <td align="center" width="50%"><img src="../../images/panels/02-annunciators-photo-3-parts.png" alt="The six printed parts of one annunciator"><br><sub>The six printed parts of one annunciator</sub></td>
@@ -175,6 +175,6 @@ Apply a small amount of hot glue between the wires and attach the **pcb-holder-c
 <table>
 <tr>
 <td align="center" width="50%"><img src="../../images/panels/02-annunciators-step-8-cover.jpg" alt="Hot glue applied between the wires before fitting the cover"><br><sub>Hot glue applied between the wires</sub></td>
-<td align="center" width="50%"><img src="../../images/panels/02-annunciators-photo-2-finished.jpg" alt="The finished annunciator"><br><sub>The finished annunciator</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/02-annunciators-step-8-finished.jpg" alt="The finished annunciator"><br><sub>The finished annunciator</sub></td>
 </tr>
 </table>
