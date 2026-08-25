@@ -31,8 +31,10 @@ A total of **7** PCBs are required for the complete project — one for each of 
 | 1× | **Ceramic capacitor 100 nF** | |
 | 1× | **KF301-2P screw terminal** — 5.08 mm pitch, for the 5 V input | [Product I used](../../images/parts/AE_KF301.png) |
 | or 2× | **4.8 mm PCB male Faston terminal** — one leg clipped off, this is what I used | [Product I used](../../images/parts/AE_plug_male.png) |
-| 1 set | **2.54 mm double-row pin headers** — see the table below | |
-| 1 set | **2.54 mm double-row female sockets** — same sizes, soldered into the MEGA 2560 PRO MINI | |
+| 1 set | **2.54 mm double-row pin headers** — 2×21 + 2×16 + 2×3, see the table below | |
+| 1× | **2×21 female socket** — 2.54 mm double row, soldered into the MEGA 2560 PRO MINI | [Product I used](../../images/parts/AE_socket_2x21.png) |
+| 1× | **2×16 female socket** — 2.54 mm double row, soldered into the MEGA 2560 PRO MINI | [Product I used](../../images/parts/AE_socket_2x16.png) |
+| 1× | **2×3 female socket** — 2.54 mm double row, soldered into the MEGA 2560 PRO MINI | [Product I used](../../images/parts/AE_socket_2x3.png) |
 | 1× | **330 Ω resistor (0805)** — optional | |
 | 1× | **Green LED (0805)** — optional | |
 
@@ -46,7 +48,7 @@ The shield carries the full pin count of the MEGA 2560 PRO MINI in three double 
 | 1× | 2×16 | 32 |
 | 1× | 2×3 | 6 |
 
-The **pin headers usually come in the bag with the MEGA 2560 PRO MINI**, so there is no need to buy them separately. Only the matching **female sockets** have to be ordered.
+The **pin headers usually come in the bag with the MEGA 2560 PRO MINI**, so there is no need to buy them separately. Only the **female sockets** have to be ordered — the shop lists them by the number of positions per row, so a 2×21 socket is sold as *21Pin*.
 
 ---
 
