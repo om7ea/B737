@@ -53,6 +53,14 @@ The PCB designs released so far. All Gerber files are ready to be uploaded direc
 </tbody>
 <tbody>
 <tr>
+<td><a href="rj45-hub-shield.md"><img src="../../images/pcb/PCB_RJ45_Hub_Shield_top.png" width="200"></a></td>
+<td><a href="rj45-hub-shield.md"><strong>5. RJ45 Hub Shield</strong></a></td>
+<td>7×</td>
+<td>Connects RJ45 cables to a MEGA 2560 PRO MINI</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
 <td></td>
 <td>…</td>
 <td>—</td>

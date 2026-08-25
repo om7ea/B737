@@ -37,6 +37,7 @@ MobiFlight does the heavy lifting: switches and LEDs are configured in its graph
 | **USB hub** | 1× | Connects all seven boards to the single USB cable |
 | **External power supplies** | 2× | One 12 V unit for the backlighting, one 5 V unit for the electronics |
 | **RJ45 breakout PCBs** | 53× | Link the individual panels to the boards — see [PCB documentation](pcb/README.md) |
+| **RJ45 Hub Shield PCBs** | 7× | One per board — brings nine RJ45 sockets to the Mega 2560 |
 
 Each Mega 2560 is registered in MobiFlight as a separate device, which keeps the configuration manageable and makes it easy to work on one section of the overhead at a time.
 
@@ -74,6 +75,8 @@ Panels attach to the boards through RJ45 connectors, using standard Ethernet pat
 - **RJ45 Direct** — buttons, toggle switches, rotary switches, servos, displays
 - **RJ45 LED Driver** — up to 8 annunciators; the ULN2803 driver powers the LEDs so the board is not overloaded
 - **RJ45 Combined** — 4 driven annunciator channels + 4 direct connections
+
+At the board end the cables plug into an **RJ45 Hub Shield** — a shield that sits on top of the Mega 2560 PRO MINI and brings nine RJ45 sockets to it, so no panel cable has to be wired to the board pin by pin.
 
 See [PCB Manufacturing Files](pcb/README.md) for details, BOM and wiring.
 
