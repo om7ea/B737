@@ -7,7 +7,9 @@
 ---
 
 > **Note**
-> The annunciators are shared across the whole overhead panel — they are not part of any individual panel model. A total of **125** are needed for the complete project.
+> The annunciators are shared across the whole overhead panel — they are not part of any individual panel model. A total of **121** annunciators of this standard size are needed for the complete project.
+>
+> The overhead also uses two large special annunciators with two LEDs each — one yellow and one white. They are not part of this model; their printable parts come with the Engine and Oxygen panel model.
 >
 > For the PCB, bill of materials, switch type and wiring, see [Annunciator PCB](../pcb/annunciator.md).
 
@@ -47,9 +49,9 @@ The project uses several types of annunciator:
 | 2× | black | white |
 | 8× | blue | white |
 | 9× | blue | white, two brightness levels (DIM/BRIGHT) |
-| 2× | black | large special annunciators |
+| 2× | black | large special annunciators, one yellow and one white LED |
 
-The two large special annunciators are **not** part of this model — their printable parts are included in the Engine and Oxygen panel model.
+The last row is the two large special annunciators described in the note at the top of the page — they are not part of this model.
 
 ---
 
