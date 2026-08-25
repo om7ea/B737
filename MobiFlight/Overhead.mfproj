@@ -3,7 +3,7 @@
   "ConfigFiles": [
     {
       "Label": "Overhead",
-      "FileName": "C:\\Users\\Marek\\Desktop\\Kokpit\\Mobiflight\\Overhead.mcc",
+      "FileName": "Overhead.mcc",
       "ReferenceOnly": false,
       "EmbedContent": true,
       "ConfigItems": [
