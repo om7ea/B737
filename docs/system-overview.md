@@ -48,7 +48,7 @@ The **PRO MINI** form factor is what matters here: the board is a fraction of th
 
 <img src="../images/board_positions.png" alt="Where the seven boards sit inside the panel" width="450">
 
-Where the seven boards sit inside my panel, each with its RJ45 Hub Shield. Which panels every board drives is still to be documented.
+Where the seven boards sit inside my panel, each with its RJ45 Hub Shield. Which board and which socket a panel connects to is in the **Wiring** section of that panel's [model page](models/README.md).
 
 ---
 
@@ -85,7 +85,6 @@ See [PCB Manufacturing Files](pcb/README.md) for details, BOM and wiring.
 
 ## 🚧 To be documented
 
-These sections are still to be written:
+This section is still to be written:
 
 - **Power supply details** — current rating of each supply, and how power is distributed inside the panel
-- **Board assignment** — which panels are connected to which Mega 2560
