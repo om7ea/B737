@@ -94,7 +94,53 @@ The annunciators are a separate model shared with the other panels — they are 
 | 1× | [RJ45 Direct](../pcb/rj45-direct.md) | pins 5–8 | [📥 PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip) |
 | 1× | [RJ45 LED Driver](../pcb/rj45-driver.md) | headers 1–6 | [📥 PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip) |
 
-Mounting and connections are shown in [step 5](#5-backlight-panel--pcbs-and-dc-jack) of the assembly diagram.
+Mounting and connections are shown in [step 5](#5-backlight-panel--pcbs-and-dc-jack) of the assembly diagram. Which switch and which annunciator each connection carries is in [Wiring](#wiring).
+
+---
+
+## Wiring
+
+The four toggle switches and the six annunciators are on two different PCBs, but both reach the **same** MEGA 2560 — `Overhead_4`. Each PCB is connected by one Ethernet patch cable to a socket on the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md).
+
+| PCB | Patch cable goes to | Connections used |
+|---|---|---|
+| **PCB 1** — [RJ45 Direct](../pcb/rj45-direct.md) | socket **D6** on **Overhead_4** | pins 5–8 |
+| **PCB 2** — [RJ45 LED Driver](../pcb/rj45-driver.md) | socket **D4** on **Overhead_4** | headers 1–6 |
+
+The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shield.
+
+> **Socket D6 carries only four channels, and they are numbered 5–8.**
+> The other eight sockets carry eight channels each. D6 is short because pins 0 and 1 of the MEGA 2560 are taken by the USB serial link and cannot be used for anything else. A PCB on D6 therefore always starts at pin 5 — it is not an arbitrary choice, and pins 1–4 of that PCB have nothing behind them.
+
+<img src="../../images/panels/10-hydraulic-wiring-pcbs.jpg" alt="Rear of the panel with the two PCBs marked" width="700">
+
+The rear of the panel. **PCB 1** is the one with the blue screw terminals going down to the switches; **PCB 2** carries the red and black annunciator wiring.
+
+### PCB 1 — socket D6 on Overhead_4
+
+| Pin | Switch |
+|---:|---|
+| 5 | ENG 1 |
+| 6 | ELEC 2 |
+| 7 | ELEC 1 |
+| 8 | ENG 2 |
+
+Pins 5 to 8 follow the switches left to right as they appear on the front of the panel.
+
+### PCB 2 — socket D4 on Overhead_4
+
+| Header | Annunciator |
+|---:|---|
+| 1 | LOW PRESSURE — ENG 2 |
+| 2 | LOW PRESSURE — ENG 1 |
+| 3 | OVERHEAT — B |
+| 4 | LOW PRESSURE — ELEC 2 |
+| 5 | OVERHEAT — A |
+| 6 | LOW PRESSURE — ELEC 1 |
+
+Headers 7 and 8 are not populated.
+
+Four of the annunciators read **LOW PRESSURE** and two read **OVERHEAT**, so the printed text alone does not tell them apart. Each LOW PRESSURE sits directly above the pump switch it belongs to, and the two OVERHEAT annunciators belong to hydraulic systems **A** and **B**, marked at the bottom of the panel.
 
 ---
 
