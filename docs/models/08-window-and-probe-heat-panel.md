@@ -135,8 +135,6 @@ The rear of the panel. **PCB 1** is the one with the blue screw terminals. The o
 
 **The TAT TEST button is not on this panel's PCBs.** All eight pins of the Direct board are used by the switches above, so the push button is wired across to pin 5 of the Combined PCB on the [Anti-ice Panel](09-anti-ice-panel.md). It is the loose white wire leaving the panel at the bottom of the photo above.
 
-**The switches share a single ground return.** Each switch takes one of its terminals to its own pin on the Direct PCB. The opposite terminals are commoned — daisy-chained from one switch to the next — and the chain ends at a **-** (ground) contact.
-
 ### PCB 2 — socket A2 on Overhead_4
 
 The eight window heat annunciators, at the top of the panel. The four **ON** annunciators are the green ones; the four **OVERHEAT** are yellow.
@@ -166,6 +164,9 @@ The eight probe annunciators, in the two columns at the bottom of the panel. Hea
 | 6 | L ELEV PITOT |
 | 7 | L ALPHA VANE |
 | 8 | TEMP PROBE |
+
+
+**The switches share a single ground return.** Each switch takes one of its terminals to its own pin on the Direct PCB. The opposite terminals are commoned — daisy-chained from one switch to the next — and the chain ends at a **-** (ground) contact.
 
 ---
 

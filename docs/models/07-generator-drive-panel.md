@@ -145,9 +145,10 @@ Both DRIVE annunciators carry the same printed text; the **1** and **2** above t
 
 **The STANDBY POWER switch takes two pins.** It is the three-position ON/OFF/ON switch in the middle of the panel, and each of its two active positions needs its own connection: pin 6 for BAT, pin 7 for AUTO. In the centre OFF position neither pin is connected.
 
-**The switches share a single ground return.** Each switch takes one of its terminals to its own pin on the PCB. The opposite terminals are commoned — daisy-chained from one switch to the next — and the chain ends at a **-** (ground) contact.
-
 The three guards are mechanical covers only — they are not wired to anything.
+
+
+**The switches share a single ground return.** Each switch takes one of its terminals to its own pin on the PCB. The opposite terminals are commoned — daisy-chained from one switch to the next — and the chain ends at a **-** (ground) contact.
 
 ---
 
