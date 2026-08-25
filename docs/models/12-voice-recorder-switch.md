@@ -86,8 +86,6 @@ This panel has no PCB and no patch cable of its own. Its single switch is wired 
 
 **Both wires come from that panel**, the signal and the ground return, so nothing here connects to a MEGA 2560 directly.
 
-The Temperature Control Panel has not been released yet; its own wiring will be documented with that model.
-
 ---
 
 ## Backlight
