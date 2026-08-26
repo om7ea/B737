@@ -164,6 +164,15 @@ These are not panels. The frame carries the whole overhead, and the components b
 <td><a href="14-irs-display-unit.md">Notes</a></td>
 </tr>
 </tbody>
+<tbody>
+<tr>
+<td><a href="15-pseu-panel.md"><img src="../../images/panels/15-pseu-photo-1-front.jpg" width="200"></a></td>
+<td align="right">15</td>
+<td>PSEU Panel</td>
+<td><a href="https://makerworld.com/en/models/3223471-boeing-737-overhead-pseu-panel">Model</a></td>
+<td><a href="15-pseu-panel.md">Notes</a></td>
+</tr>
+</tbody>
 </table>
 
 More panels are currently in preparation.
