@@ -61,6 +61,14 @@ The PCB designs released so far. All Gerber files are ready to be uploaded direc
 </tbody>
 <tbody>
 <tr>
+<td><a href="irs-keyboard.md"><img src="../../images/pcb/PCB_IRS_Keyboard_top.png" width="200"></a></td>
+<td><a href="irs-keyboard.md"><strong>6. IRS Keyboard</strong></a></td>
+<td>1×</td>
+<td>The 12-key keypad of the IRS Display Unit</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
 <td></td>
 <td>…</td>
 <td>—</td>
