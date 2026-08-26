@@ -182,7 +182,7 @@ Pin 4 is not used. Pin 2 is the ZH header, not a screw terminal.
 
 <img src="../../images/panels/14-irs-display-wiring-rear.png" alt="The panel with the backlight panel removed" width="700">
 
-With the backlight panel removed. Both rotary switches land on the keyboard board's 3-pin screw terminal and on the screw terminals of the board above it, and the LCD's four wires leave to the left.
+With the backlight panel removed. The wires of the lower rotary switch, **SYS DSPL**, run into the screw terminals of the keyboard board and not to PCB 1: the keypad uses only twelve of the sixteen signals the board's two RJ45 cables can carry, and the spare ones take the two switch positions and the GPS annunciator.
 
 **The two switches share a single ground return.** Each switch takes one of its terminals to its own pin. The opposite terminals are commoned — daisy-chained from one switch to the next — and the chain ends at a **-** (ground) contact.
 
