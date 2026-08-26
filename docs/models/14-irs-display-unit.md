@@ -135,6 +135,8 @@ The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shi
 
 The rear of the panel. **PCB 1** is the green board with the blue screw terminals. **RJ45 2** and **RJ45 3** are the two sockets of the keyboard board underneath — of that board only the two sockets and the connector edge show through the cut-out.
 
+The keys are wired by the keyboard PCB itself, so nothing on RJ45 2 and RJ45 3 can be connected the wrong way round. The only connections that have to be made correctly are the ones on **PCB 1** and the two **SYS DSPL** pins on RJ45 3.
+
 ### PCB 1 — socket D0 on Overhead_2a
 
 | Pin | Connection |
@@ -151,16 +153,16 @@ The rear of the panel. **PCB 1** is the green board with the blue screw terminal
 
 ### RJ45 2 — socket A2 on Overhead_2a
 
-| Pin | Key |
+| Pin | Connection |
 |---:|---|
-| 1 | 8 |
-| 2 | 7 |
-| 3 | 6 |
-| 4 | 5 |
-| 5 | 4 |
-| 6 | 3 |
-| 7 | 2 |
-| 8 | 1 |
+| 1 | Key 8 |
+| 2 | Key 7 |
+| 3 | Key 6 |
+| 4 | Key 5 |
+| 5 | Key 4 |
+| 6 | Key 3 |
+| 7 | Key 2 |
+| 8 | Key 1 |
 
 ### RJ45 3 — socket A1 on Overhead_2a
 
@@ -169,10 +171,10 @@ The rear of the panel. **PCB 1** is the green board with the blue screw terminal
 | 1 | SYS DSPL — L |
 | 2 | GPS annunciator |
 | 3 | SYS DSPL — R |
-| 5 | CLR |
-| 6 | 0 |
-| 7 | ENT |
-| 8 | 9 |
+| 5 | Key CLR |
+| 6 | Key 0 |
+| 7 | Key ENT |
+| 8 | Key 9 |
 
 Pin 4 is not used. Pin 2 is the ZH header, not a screw terminal.
 
