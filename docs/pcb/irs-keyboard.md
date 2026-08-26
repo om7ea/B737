@@ -59,3 +59,10 @@ Only **1** PCB is required for the complete project.
 - The push buttons and their LEDs go on the **front** side of the board. The RJ45 sockets, the ZH header, the two screw terminals and all the SMD resistors go on the **back**.
 - The LED is soldered into the board, not into the switch. Push its leads through the holes in the switch body first, then solder them on the back of the board.
 - **Check the polarity of every LED before you solder it.** Hold its leads against their pads with the board powered and turn the LED round if it does not light. Solder it only once it lights.
+
+### Resistor Placement
+
+<img src="../../images/pcb/PCB_IRS_Keyboard_resistors.png" alt="The back of the board with the resistors marked" width="700">
+
+- **Purple** — the twelve **220 Ω** resistors, one per button LED.
+- **Yellow** — the single **150 Ω** resistor for the GPS annunciator of the IRS Mode Select Unit.
