@@ -115,7 +115,7 @@ The grub screws that hold the two knobs on their shafts are **M3×5** — see [R
 | 1× | [RJ45 Direct](../pcb/rj45-direct.md) | pins 1–7 | [📥 PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip) |
 | 1× | [IRS Keyboard](../pcb/irs-keyboard.md) | both RJ45 sockets | [📥 PCB_IRS_Keyboard.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_IRS_Keyboard.zip) |
 
-Mounting is shown in [step 3](#3-bottom-panel--diffuser-rotary-switches-lcd-and-keyboard) and [step 5](#5-backlight-panel--pcb-and-dc-jack) of the assembly diagram. What each connection carries is in [Wiring](#wiring).
+Mounting is shown in [step 2](#2-bottom-panel--diffuser-rotary-switches-lcd-and-keyboard) and [step 5](#5-backlight-panel--pcb-and-dc-jack) of the assembly diagram. What each connection carries is in [Wiring](#wiring).
 
 ---
 
@@ -206,19 +206,19 @@ Powered from the **12 V** supply — see [Power supply](../system-overview.md#po
 
 Screw abbreviations used in the diagrams: **FH** = flat head, **DH** = dome head.
 
-### 1. Top panel
+### 1. Buttons
 
-<img src="../../images/panels/14-irs-display-01-top-panel.png" alt="Top panel assembly" width="700">
-
-### 2. Buttons
-
-<img src="../../images/panels/14-irs-display-02-buttons.png" alt="Button caps fitted to the keyboard PCB" width="500">
+<img src="../../images/panels/14-irs-display-01-buttons.png" alt="Button caps fitted to the keyboard PCB" width="500">
 
 Push the printed top and base of each button together and fit them over the switches on the keyboard PCB.
 
-### 3. Bottom panel — diffuser, rotary switches, LCD and keyboard
+### 2. Bottom panel — diffuser, rotary switches, LCD and keyboard
 
-<img src="../../images/panels/14-irs-display-03-bottom-panel.png" alt="Bottom panel assembly" width="700">
+<img src="../../images/panels/14-irs-display-02-bottom-panel.png" alt="Bottom panel assembly" width="700">
+
+### 3. Top panel
+
+<img src="../../images/panels/14-irs-display-03-top-panel.png" alt="Top panel assembly" width="700">
 
 ### 4. Backlight panel — LED strips
 
