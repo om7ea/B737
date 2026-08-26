@@ -1,6 +1,6 @@
 # 6. IRS Keyboard
 
-<img src="../../images/pcb/PCB_IRS_Keyboard_top.png" alt="IRS Keyboard PCB - top" width="300"><img src="../../images/pcb/PCB_IRS_Keyboard_bottom.png" alt="IRS Keyboard PCB - bottom" width="300">
+<img src="../../images/pcb/PCB_IRS_Keyboard_top.png" alt="IRS Keyboard PCB - top" width="300"><img src="../../images/pcb/PCB_IRS_Keyboard_bottom.png" alt="IRS Keyboard PCB - bottom" width="300"><img src="../../images/pcb/PCB_IRS_Keyboard_keycaps.png" alt="IRS Keyboard PCB - with the keycaps" width="300">
 
 [📥 Download Gerber files - PCB_IRS_Keyboard.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_IRS_Keyboard.zip)
 
@@ -42,19 +42,6 @@ Only **1** PCB is required for the complete project.
 ---
 
 ## Assembly Notes
-
-<table>
-<tbody>
-<tr>
-<td><img src="../../images/pcb/PCB_IRS_Keyboard_keycaps.png" alt="The keyboard PCB with the printed keycaps pushed on" width="400"></td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td>The printed keycaps of the IRS Display Unit push straight onto the switches</td>
-</tr>
-</tbody>
-</table>
 
 - The push buttons and their LEDs go on the **front** side of the board. The RJ45 sockets, the ZH header, the two screw terminals and all the SMD resistors go on the **back**.
 - The LED is soldered into the board, not into the switch. Push its leads through the holes in the switch body first, then solder them on the back of the board.
