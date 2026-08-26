@@ -173,6 +173,15 @@ These are not panels. The frame carries the whole overhead, and the components b
 <td><a href="15-pseu-panel.md">Notes</a></td>
 </tr>
 </tbody>
+<tbody>
+<tr>
+<td><a href="16-landing-gear-indicator-panel.md"><img src="../../images/panels/16-landing-gear-photo-1-front.jpg" width="200"></a></td>
+<td align="right">16</td>
+<td>Landing Gear Indicator Panel</td>
+<td><a href="https://makerworld.com/en/models/3223506-boeing-737-overhead-landing-gear-indicator-panel">Model</a></td>
+<td><a href="16-landing-gear-indicator-panel.md">Notes</a></td>
+</tr>
+</tbody>
 </table>
 
 More panels are currently in preparation.

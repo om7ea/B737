@@ -7,7 +7,7 @@
 ---
 
 > **Note**
-> This is the only panel that is **not connected to the PC**, and it has **no backlighting** — just as it is on the real aircraft.
+> This is the only panel that is **not connected to the PC**, and the only **panel with text** that is **not backlit** — just as it is on the real aircraft.
 
 ---
 
