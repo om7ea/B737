@@ -152,7 +152,7 @@ Every annunciator text appears twice — **L** is the group of four above the le
 | 7 | ON DC — L |
 | 8 | ALIGN — L |
 
-**The GPS annunciator is not on this panel's PCBs.** All eight headers of the LED driver are taken by the eight annunciators above, so GPS is wired across to **header 2** of a PCB on the IRS Display Unit, whose patch cable goes to socket **A1** on **Overhead_2a**. It is the red and black pair leaving the panel at the top of the photo above, ending in a loose white connector.
+**The GPS annunciator is not on this panel's PCBs.** All eight headers of the LED driver are taken by the eight annunciators above, so GPS is wired across to **header 2** of the keyboard PCB on the [IRS Display Unit](14-irs-display-unit.md), whose patch cable goes to socket **A1** on **Overhead_2a**. It is the red and black pair leaving the panel at the top of the photo above, ending in a loose white connector.
 
 **The switches share a single ground return.** Each switch position takes its own pin. The common terminals of the two switches are daisy-chained together and the chain ends at a **-** (ground) contact.
 

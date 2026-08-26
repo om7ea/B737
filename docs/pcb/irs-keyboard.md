@@ -10,7 +10,7 @@
 
 ## Purpose
 
-Designed for the keypad of the **IRS Display Unit**. It carries the twelve illuminated push buttons of the keyboard, each with its own LED, and reaches the MEGA 2560 PRO MINI through two RJ45 cables.
+Designed for the keypad of the **[IRS Display Unit](../models/14-irs-display-unit.md)**. It carries the twelve illuminated push buttons of the keyboard, each with its own LED, and reaches the MEGA 2560 PRO MINI through two RJ45 cables.
 
 The board also drives the **GPS annunciator of the [IRS Mode Select Unit](../models/13-irs-mode-select-unit.md)**, which connects to the ZH header — that is what the 150 Ω resistor is for.
 
