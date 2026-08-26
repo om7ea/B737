@@ -180,6 +180,9 @@ Pin 4 is not used. Pin 2 is the ZH header, not a screw terminal.
 
 **The GPS annunciator on pin 2 belongs to the [IRS Mode Select Unit](13-irs-mode-select-unit.md).** All eight headers of that panel's LED driver are taken by its own annunciators, so its GPS annunciator is wired across to this board.
 
+> **Note**
+> The GPS annunciator is the only one in the whole overhead that works with inverted logic. This is how the keyboard PCB is designed. While the simulator is running it behaves like any other annunciator and you will not notice anything. When the simulator is not running it is the only annunciator that lights up, while all the others stay dark.
+
 <img src="../../images/panels/14-irs-display-wiring-rear.png" alt="The panel with the backlight panel removed" width="700">
 
 With the backlight panel removed. The wires from the lower rotary switch, **SYS DSPL**, go to the screw terminals on the keyboard board, not to PCB 1. The two RJ45 cables of that board can carry 16 signals, but the keypad needs only 12. The spare ones are used for the two switch positions and for the GPS annunciator.
