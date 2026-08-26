@@ -160,7 +160,7 @@ These are not panels. The frame carries the whole overhead, and the components b
 <td><a href="14-irs-display-unit.md"><img src="../../images/panels/14-irs-display-photo-1-front.jpg" width="200"></a></td>
 <td align="right">14</td>
 <td>IRS Display Unit</td>
-<td>🚧</td>
+<td><a href="https://makerworld.com/en/models/3222680-boeing-737-overhead-irs-display-unit">Model</a></td>
 <td><a href="14-irs-display-unit.md">Notes</a></td>
 </tr>
 </tbody>

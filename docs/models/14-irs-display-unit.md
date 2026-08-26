@@ -1,5 +1,7 @@
 # 14. IRS Display Unit
 
+[📦 Download the printable model on MakerWorld](https://makerworld.com/en/models/3222680-boeing-737-overhead-irs-display-unit)
+
 [← Back to model list](README.md)
 
 ---
@@ -121,17 +123,17 @@ Mounting is shown in [step 3](#3-bottom-panel--diffuser-rotary-switches-lcd-and-
 
 Both PCBs reach the same MEGA 2560 — `Overhead_2a` — and the panel takes **three** Ethernet patch cables to the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md), because the keyboard board has two RJ45 sockets of its own.
 
-| PCB | Patch cable goes to | Connections used |
+| Cable | Patch cable goes to | Connections used |
 |---|---|---|
 | **PCB 1** | socket **D0** on **Overhead_2a** | pins 1–7 |
-| **PCB 2** | socket **A1** on **Overhead_2a** | pins 1–3 and 5–8 |
-| **PCB 2** | socket **A2** on **Overhead_2a** | pins 1–8 |
+| **RJ45 2** | socket **A2** on **Overhead_2a** | pins 1–8 |
+| **RJ45 3** | socket **A1** on **Overhead_2a** | pins 1–3 and 5–8 |
 
 The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shield.
 
-<img src="../../images/panels/14-irs-display-wiring-pcbs.jpg" alt="Rear of the panel with the two PCBs marked" width="700">
+<img src="../../images/panels/14-irs-display-wiring-pcbs.jpg" alt="Rear of the panel with the PCB and the two RJ45 sockets marked" width="700">
 
-The rear of the panel. **PCB 1** is the green board with the blue screw terminals. **PCB 2** is the keyboard board underneath — only its two RJ45 sockets and its connector edge show through the cut-out. Of those two sockets, the one **nearer the screw terminals** is the one on **A1**.
+The rear of the panel. **PCB 1** is the green board with the blue screw terminals. **RJ45 2** and **RJ45 3** are the two sockets of the keyboard board underneath — of that board only the two sockets and the connector edge show through the cut-out.
 
 ### PCB 1 — socket D0 on Overhead_2a
 
@@ -147,7 +149,20 @@ The rear of the panel. **PCB 1** is the green board with the blue screw terminal
 
 **The LCD is powered from this board.** A KF301 2-pin screw terminal is fitted at the **pin 8** position and carries nothing but **5 V** and **ground** across to the interface module. Pin 8 itself is not used as an input.
 
-### PCB 2 — socket A1 on Overhead_2a
+### RJ45 2 — socket A2 on Overhead_2a
+
+| Pin | Key |
+|---:|---|
+| 1 | 8 |
+| 2 | 7 |
+| 3 | 6 |
+| 4 | 5 |
+| 5 | 4 |
+| 6 | 3 |
+| 7 | 2 |
+| 8 | 1 |
+
+### RJ45 3 — socket A1 on Overhead_2a
 
 | Pin | Connection |
 |---:|---|
@@ -162,19 +177,6 @@ The rear of the panel. **PCB 1** is the green board with the blue screw terminal
 Pin 4 is not used. Pin 2 is the ZH header, not a screw terminal.
 
 **The GPS annunciator on pin 2 belongs to the [IRS Mode Select Unit](13-irs-mode-select-unit.md).** All eight headers of that panel's LED driver are taken by its own annunciators, so its GPS annunciator is wired across to this board.
-
-### PCB 2 — socket A2 on Overhead_2a
-
-| Pin | Key |
-|---:|---|
-| 1 | 8 |
-| 2 | 7 |
-| 3 | 6 |
-| 4 | 5 |
-| 5 | 4 |
-| 6 | 3 |
-| 7 | 2 |
-| 8 | 1 |
 
 <img src="../../images/panels/14-irs-display-wiring-rear.png" alt="The panel with the backlight panel removed" width="700">
 
