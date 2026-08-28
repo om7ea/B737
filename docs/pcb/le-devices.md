@@ -64,7 +64,7 @@ The two boards seen from the front, in the position they take in the panel — t
 
 All sixteen resistors sit in one row along the bottom edge of the back of the board.
 
-<img src="../../images/pcb/PCB_LE_Devices_resistors.png" alt="The back of the board with the resistor values marked" width="450">
+<img src="../../images/pcb/PCB_LE_Devices_resistor_values.png" alt="The back of the board with the resistor values marked" width="354">
 
 - **Yellow** — the six **330 Ω** resistors, one per yellow LED.
 - **Green** — the ten **2.2 kΩ** resistors, one per green LED.
