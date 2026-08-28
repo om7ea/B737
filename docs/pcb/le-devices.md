@@ -59,3 +59,12 @@ The two boards seen from the front, in the position they take in the panel — t
 - **Yellow** — the **TRANSIT** lamps: the top LED of every group, 6 per board, **12** in total.
 - **Green** — the **EXT** and **FULL EXT** lamps: everything below, 10 per board, **20** in total.
 
+
+### Resistor Placement
+
+All sixteen resistors sit in one row along the bottom edge of the back of the board.
+
+<img src="../../images/pcb/PCB_LE_Devices_resistors.png" alt="The back of the board with the resistor values marked" width="450">
+
+- **Yellow** — the six **330 Ω** resistors, one per yellow LED.
+- **Green** — the ten **2.2 kΩ** resistors, one per green LED.
