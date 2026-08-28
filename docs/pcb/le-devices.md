@@ -1,6 +1,8 @@
 # 7. LE Devices
 
-<img src="../../images/pcb/PCB_LE_Devices_top.png" alt="LE Devices PCB - front" width="300"><img src="../../images/pcb/PCB_LE_Devices_bottom.png" alt="LE Devices PCB - back" width="300">
+<img src="../../images/pcb/PCB_LE_Devices_sides.png" alt="LE Devices PCB - both sides" width="380"><img src="../../images/pcb/PCB_LE_Devices_connectors.png" alt="LE Devices PCB - both sides with the connectors fitted" width="380">
+
+[📥 Download Gerber files - PCB_LE_Devices.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_LE_Devices.zip)
 
 [← Back to PCB overview](README.md)
 
@@ -37,9 +39,7 @@ Each board takes 2× ULN2803, 2× RJ45, 2× Faston terminals and 16 LEDs with th
 
 ## Assembly Notes
 
-<img src="../../images/pcb/PCB_LE_Devices_sides.png" alt="The two sides of the LE Devices PCB" width="700">
-
-- **Look at the photos carefully before you populate the board.** One design serves both halves of the panel, so the second board comes out mirrored — this is the easiest place in the whole project to get it wrong.
-- The two RJ45 connectors, the two ULN2803 and the two Faston terminals go on the **front** of the board. The 16 SMD resistors go on the **back**, in a single row along the bottom edge — one per LED.
-- The `+` and `−` marks beside the Faston terminals are printed on both faces of the board, and they swap sides when you turn the board over. Go by the mark on the face you are looking at, not by the position.
-- Every LED position is marked for polarity on both faces as well.
+- **Look at the photos carefully before you populate the board.** One design serves both halves of the panel, and the mirroring is easy to get wrong.
+- The two ULN2803 and the 16 SMD resistors are surface mounted. They sit on opposite faces of the board — the drivers on one side, the resistors in a single row along the bottom edge on the other — and they are the same on both boards.
+- The **LEDs**, the **Faston terminals** and the **RJ45 connectors** are the parts that make the difference. On the second board they are pushed in from the opposite side of the board, which mirrors the whole layout for the other half of the panel.
+- The `+` and `−` marks beside the Faston terminals are printed on both faces of the board and swap sides when you turn it over. Go by the mark on the face you are working from, not by the position. The polarity of every LED position is marked on both faces as well.
