@@ -54,7 +54,7 @@ Each board takes 2× ULN2803, 2× RJ45, 2× Faston terminals and 16 LEDs with th
 
 The two boards seen from the front, in the position they take in the panel — the left board is the left half of the display, the right board the right half.
 
-<img src="../../images/pcb/PCB_LE_Devices_led_colours.png" alt="The LED positions of both boards, coloured by LED colour" width="700">
+<img src="../../images/pcb/PCB_LE_Devices_leds.png" alt="The LED positions of both boards, coloured by LED colour" width="700">
 
 - **Yellow** — the **TRANSIT** lamps: the top LED of every group, 6 per board, **12** in total.
 - **Green** — the **EXT** and **FULL EXT** lamps: everything below, 10 per board, **20** in total.
