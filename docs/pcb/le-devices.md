@@ -49,7 +49,6 @@ Each board takes 2× ULN2803, 2× RJ45, 2× Faston terminals and 16 LEDs with th
 - **Look at the photos carefully before you populate the board.** One design serves both halves of the panel, and the mirroring is easy to get wrong.
 - The two ULN2803 and the 16 SMD resistors are surface mounted. They sit on opposite faces of the board — the drivers on one side, the resistors in a single row along the bottom edge on the other — and they are the same on both boards.
 - The **LEDs**, the **Faston terminals** and the **RJ45 connectors** are the parts that make the difference. On the second board they are pushed in from the opposite side of the board, which mirrors the whole layout for the other half of the panel.
-- The `+` and `−` marks beside the Faston terminals are printed on both faces of the board and swap sides when you turn it over. Go by the mark on the face you are working from, not by the position. The polarity of every LED position is marked on both faces as well.
 
 ### LED Colours
 
@@ -60,4 +59,3 @@ The two boards seen from the front, in the position they take in the panel — t
 - **Yellow** — the **TRANSIT** lamps: the top LED of every group, 6 per board, **12** in total.
 - **Green** — the **EXT** and **FULL EXT** lamps: everything below, 10 per board, **20** in total.
 
-The groups of three are the eight **SLATS** (TRANSIT, EXT, FULL EXT), the groups of two the four **LE FLAPS** (TRANSIT, EXT). The slats sit on the outer sides of the display, the flaps in the middle.
