@@ -69,6 +69,14 @@ The PCB designs released so far. All Gerber files are ready to be uploaded direc
 </tbody>
 <tbody>
 <tr>
+<td><a href="le-devices.md"><img src="../../images/pcb/PCB_LE_Devices.png" width="200"></a></td>
+<td><a href="le-devices.md"><strong>7. LE Devices</strong></a></td>
+<td>2×</td>
+<td>The indicator lights of the LE Devices and ELT Panel</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
 <td></td>
 <td>…</td>
 <td>—</td>
