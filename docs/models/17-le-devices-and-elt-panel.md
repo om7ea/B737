@@ -21,6 +21,11 @@
 <td align="center" width="50%"><img src="../../images/panels/17-le-devices-photo-4-pcbs.jpg" alt="Rear of the bottom panel with the two LE Devices PCBs"><br><sub>Rear of the bottom panel — the two LE Devices PCBs</sub></td>
 </tr>
 </tbody>
+<tbody>
+<tr>
+<td align="center" colspan="2"><img src="../../images/panels/17-le-devices-photo-5-rear.jpg" alt="Rear of the finished panel with the backlight panel fitted"><br><sub>Rear side — the backlight panel with the four RJ45 sockets and the Combined PCB</sub></td>
+</tr>
+</tbody>
 </table>
 
 ---
@@ -195,7 +200,7 @@ Headers 1 and 2 and pins 7 and 8 are not used.
 **Header 4 serves a different panel.** It carries the single annunciator of the [PSEU Panel](15-pseu-panel.md), which has no PCB of its own.
 
 > **Note**
-> The ELT annunciator on header 3 and the ELT switch on pin 5 are wired, but they have no configuration in the [MobiFlight project](../mobiflight.md) — the ELT has no counterpart in the simulator. The lamp stays dark and the switch does nothing.
+> The ELT annunciator on header 3 and the ELT switch on pin 5 are wired, but they have no configuration in the [MobiFlight project](../mobiflight.md) — the PMDG 737-800 exposes no variable for the ELT. The lamp stays dark and the switch does nothing.
 
 **The switch and the push button share a single ground return.** Each takes one of its terminals to its own pin. The opposite terminals are commoned — daisy-chained from one to the other — and the chain ends at a **-** (ground) contact.
 
