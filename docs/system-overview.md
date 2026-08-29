@@ -58,32 +58,37 @@ The panel does **not** draw its power from the USB cable. It is fed by **two sep
 
 | Supply | Powers |
 |---|---|
-| **12 V** | Panel backlighting |
+| **12 V** | Panel backlighting and the flood light |
 | **5 V** | All other electronics — the Mega boards, annunciator LEDs, servos, displays |
 
 The USB cable therefore carries data only. This keeps the load off the PC's USB port, which matters with 125 annunciators in the finished panel.
 
 #### 12 V
 
-The 12 V rail feeds the backlighting only. It enters through a **DC socket on the back of the panel**, next to the 5 V socket and the USB connector, and is distributed inside like this:
+The 12 V rail feeds the panel lighting only. It enters through a **DC socket on the back of the panel**, next to the 5 V socket and the USB connector, and goes first to two PWM dimmers:
 
-> DC socket → **PWM dimmer** → **splice connectors** → **five branches**, one per column of panels → **DC plug** on each backlit panel
+| Dimmer | Controls |
+|---|---|
+| **Backlight** | The brightness of the whole overhead backlight |
+| **Flood light** | The overhead flood light |
 
-The dimmer is an ordinary PWM LED dimmer taken out of its housing — only its board is used, mounted on the plate behind the Center Middle Panel. It sets the brightness of the whole backlight.
+Both are ordinary PWM LED dimmers taken out of their housings. The board **and** its potentiometer are reused from each, so the two knobs on the Center Middle Panel are the original dimmer potentiometers; the two boards sit on the plate behind that panel. On the real aircraft the second knob sets the brightness of the circuit breaker panel, and the flood light is controlled from a panel outside the overhead — it drives the flood light here so that the knob and its dimmer are put to use.
 
-From the dimmer the supply reaches a pair of lever-type splice connectors, one lever in and five out on each: one connector carries **+12 V** (yellow), the other the **return** (black). The five branches that leave them each feed one column of panels.
+> DC socket → **backlight dimmer** → **splice connectors** → **five branches**, one per column of panels → **DC plug** on each backlit panel
+
+The backlight dimmer feeds a pair of lever-type splice connectors, one lever in and five out on each: one connector carries **+12 V** (yellow), the other **GND** (black). The five branches that leave them each feed one column of panels. The flood light dimmer feeds the flood light directly, on a connector of its own.
 
 <img src="../images/12v_distribution.png" alt="How 12 V is distributed inside the panel" width="620">
 
-The 12 V distribution drawn over a photo of the panel from behind. Yellow is +12 V, black the return.
+The 12 V distribution drawn over a photo of the panel from behind. Yellow is +12 V, black GND.
 
-Every backlit panel takes its 12 V through a **DC plug with a screw terminal**, which is what each green circle on the drawing stands for — there are **25** of them in the panel.
+Every backlit panel takes its 12 V through a **DC plug with a screw terminal**, and so does the flood light. Each green circle on the drawing is one of these — there are **25** of them in the panel.
 
 <img src="../images/12v_dc_jack.png" alt="A green circle on the drawing is a DC plug with a screw terminal" width="330">
 
-<img src="../images/12v_dimmer_detail.png" alt="The dimmer and the splice connectors close up" width="380">
+<img src="../images/12v_dimmer_detail.png" alt="The dimmers and the splice connectors close up" width="380">
 
-The middle of the drawing close up: the two splice connectors on top, the two dimmer boards below.
+The middle of the drawing close up: the two splice connectors on top and the two dimmer boards below — flood light on the left, backlight on the right.
 
 ---
 
