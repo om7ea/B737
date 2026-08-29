@@ -76,8 +76,7 @@ The guard goes on the ELT switch, the push button is the LE DEVICES TEST button.
 | 4× | Flat head M3×12 | bottom + standoff |
 | 8× | Flat head M4×16 | bottom + main frame |
 | 2× | Dome head M3×5 | PCB + backlight |
-| 6× | Dome head M3×10 | bottom + LE Devices PCB |
-| 12× | Dome head M3×8 | top + bottom, backlight + standoff |
+| 18× | Dome head M3×8 | bottom + LE Devices PCB, top + bottom, backlight + standoff |
 
 ---
 
