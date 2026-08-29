@@ -18,12 +18,13 @@
 <tbody>
 <tr>
 <td align="center" width="50%"><img src="../../images/panels/17-le-devices-photo-3-diffuser.jpg" alt="Bottom panel with the diffusers fitted and the LEDs showing through"><br><sub>Diffusers fitted and the LEDs showing through, before the top panels go on</sub></td>
-<td align="center" width="50%"><img src="../../images/panels/17-le-devices-photo-4-pcbs.jpg" alt="Rear of the bottom panel with the two LE Devices PCBs"><br><sub>Rear of the bottom panel — the two LE Devices PCBs</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/17-le-devices-photo-4-pcb-mounting.jpg" alt="Rear of the bottom panel with the two LE Devices PCBs"><br><sub>Rear of the bottom panel — the two LE Devices PCBs</sub></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
-<td align="center" colspan="2"><img src="../../images/panels/17-le-devices-photo-5-rear.jpg" alt="Rear of the finished panel with the backlight panel fitted"><br><sub>Rear side — the backlight panel with the four RJ45 sockets and the Combined PCB</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/17-le-devices-photo-5-rear.jpg" alt="Rear of the finished panel with the backlight panel fitted"><br><sub>Rear side — the backlight panel with the four RJ45 sockets and the Combined PCB</sub></td>
+<td align="center" width="50%"></td>
 </tr>
 </tbody>
 </table>
