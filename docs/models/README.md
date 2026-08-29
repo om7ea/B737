@@ -182,6 +182,15 @@ These are not panels. The frame carries the whole overhead, and the components b
 <td><a href="16-landing-gear-indicator-panel.md">Notes</a></td>
 </tr>
 </tbody>
+<tbody>
+<tr>
+<td><a href="17-le-devices-and-elt-panel.md"><img src="../../images/panels/17-le-devices-photo-1-front.jpg" width="200"></a></td>
+<td align="right">17</td>
+<td>LE Devices and ELT Panel</td>
+<td><a href="https://makerworld.com/en/models/3233836-boeing-737-overhead-le-devices-and-elt-panel">Model</a></td>
+<td><a href="17-le-devices-and-elt-panel.md">Notes</a></td>
+</tr>
+</tbody>
 </table>
 
 More panels are currently in preparation.

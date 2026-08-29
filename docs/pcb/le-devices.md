@@ -17,7 +17,7 @@
 
 ## Purpose
 
-Designed for the **LE Devices and ELT Panel**. It carries the indicator LEDs of the leading edge devices display — 16 LEDs per board — and reaches the MEGA 2560 PRO MINI through two RJ45 cables. The LEDs are driven by the same **ULN2803** used on the annunciator driver boards.
+Designed for the **[LE Devices and ELT Panel](../models/17-le-devices-and-elt-panel.md)**. It carries the indicator LEDs of the leading edge devices display — 16 LEDs per board — and reaches the MEGA 2560 PRO MINI through two RJ45 cables. The LEDs are driven by the same **ULN2803** used on the annunciator driver boards.
 
 ## Quantity
 
