@@ -105,7 +105,7 @@ The annunciators are a separate model shared with the other panels — they are 
 
 The two LE Devices boards carry the 32 indicator lamps of the display. They are the same board — the design is symmetrical and the second one is populated mirrored, for the other half of the panel. Read [LE Devices](../pcb/le-devices.md) before you solder them.
 
-Mounting is shown in [step 2](#2-bottom-panel--le-devices-pcbs) and [step 5](#5-backlight-panel--combined-pcb-and-dc-jack) of the assembly diagram. Which lamp and which switch each connection carries is in [Wiring](#wiring).
+Mounting is shown in [step 3](#3-bottom-panel--le-devices-pcbs) and [step 5](#5-backlight-panel--combined-pcb-and-dc-jack) of the assembly diagram. Which lamp and which switch each connection carries is in [Wiring](#wiring).
 
 ---
 
@@ -225,13 +225,13 @@ Screw abbreviations used in the diagrams: **FH** = flat head, **DH** = dome head
 
 <img src="../../images/panels/17-le-devices-01-bottom-panel.png" alt="Bottom panel assembly" width="700">
 
-### 2. Bottom panel — LE Devices PCBs
+### 2. Top panels
 
-<img src="../../images/panels/17-le-devices-02-pcbs-fitted.png" alt="The two LE Devices PCBs screwed to the bottom panel" width="700">
+<img src="../../images/panels/17-le-devices-02-top-panels.png" alt="The two top panels screwed to the bottom panel" width="700">
 
-### 3. Top panels
+### 3. Bottom panel — LE Devices PCBs
 
-<img src="../../images/panels/17-le-devices-03-top-panels.png" alt="The two top panels screwed to the bottom panel" width="700">
+<img src="../../images/panels/17-le-devices-03-pcbs-fitted.png" alt="The two LE Devices PCBs screwed to the bottom panel" width="700">
 
 ### 4. Backlight panel — LED strips
 
