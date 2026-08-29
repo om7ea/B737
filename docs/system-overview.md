@@ -63,6 +63,28 @@ The panel does **not** draw its power from the USB cable. It is fed by **two sep
 
 The USB cable therefore carries data only. This keeps the load off the PC's USB port, which matters with 125 annunciators in the finished panel.
 
+#### 12 V
+
+The 12 V rail feeds the backlighting only. It enters through a **DC socket on the back of the panel**, next to the 5 V socket and the USB connector, and is distributed inside like this:
+
+> DC socket → **PWM dimmer** → **splice connectors** → **five branches**, one per column of panels → **DC plug** on each backlit panel
+
+The dimmer is an ordinary PWM LED dimmer taken out of its housing — only its board is used, mounted on the plate behind the Center Middle Panel. It sets the brightness of the whole backlight.
+
+From the dimmer the supply reaches a pair of lever-type splice connectors, one lever in and five out on each: one connector carries **+12 V** (yellow), the other the **return** (black). The five branches that leave them each feed one column of panels.
+
+<img src="../images/12v_distribution.png" alt="How 12 V is distributed inside the panel" width="620">
+
+The 12 V distribution drawn over a photo of the panel from behind. Yellow is +12 V, black the return.
+
+Every backlit panel takes its 12 V through a **DC plug with a screw terminal**, which is what each green circle on the drawing stands for — there are **25** of them in the panel.
+
+<img src="../images/12v_dc_jack.png" alt="A green circle on the drawing is a DC plug with a screw terminal" width="330">
+
+<img src="../images/12v_dimmer_detail.png" alt="The dimmer and the splice connectors close up" width="380">
+
+The middle of the drawing close up: the two splice connectors on top, the two dimmer boards below.
+
 ---
 
 ### Connection to panels
@@ -87,4 +109,4 @@ See [PCB Manufacturing Files](pcb/README.md) for details, BOM and wiring.
 
 This section is still to be written:
 
-- **Power supply details** — current rating of each supply, and how power is distributed inside the panel
+- **Power supply details** — current rating of each supply, and how the 5 V is distributed inside the panel
