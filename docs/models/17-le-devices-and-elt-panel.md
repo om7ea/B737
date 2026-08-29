@@ -227,7 +227,7 @@ Screw abbreviations used in the diagrams: **FH** = flat head, **DH** = dome head
 
 ### 2. Bottom panel — LE Devices PCBs
 
-<img src="../../images/panels/17-le-devices-02-pcbs.png" alt="The two LE Devices PCBs screwed to the bottom panel" width="700">
+<img src="../../images/panels/17-le-devices-02-pcbs-fitted.png" alt="The two LE Devices PCBs screwed to the bottom panel" width="700">
 
 ### 3. Top panels
 
