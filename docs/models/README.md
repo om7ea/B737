@@ -209,6 +209,15 @@ These are not panels. The frame carries the whole overhead, and the components b
 <td><a href="19-center-upper-panel.md">Notes</a></td>
 </tr>
 </tbody>
+<tbody>
+<tr>
+<td><a href="20-center-lower-panel.md"><img src="../../images/panels/20-center-lower-thumbnail.jpg" width="200"></a></td>
+<td align="right">20</td>
+<td>Center Lower Panel</td>
+<td><a href="https://makerworld.com/en/models/3238455-boeing-737-overhead-center-lower-panel">Model</a></td>
+<td><a href="20-center-lower-panel.md">Notes</a></td>
+</tr>
+</tbody>
 </table>
 
 More panels are currently in preparation.
