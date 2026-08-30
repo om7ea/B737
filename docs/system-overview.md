@@ -76,7 +76,7 @@ Both are ordinary PWM LED dimmers taken out of their housings. The board **and**
 
 > DC socket → **backlight dimmer** → **splice connectors** → **five branches**, one per column of panels → **DC plug** on each backlit panel
 
-The backlight dimmer feeds a pair of lever-type splice connectors, one lever in and five out on each: one connector carries **+12 V** (yellow), the other **GND** (black). The five branches that leave them each feed one column of panels. The flood light dimmer feeds the flood light directly, on a connector of its own.
+The backlight dimmer feeds a pair of lever-type splice connectors, one lever in and five out on each: one connector carries **+12 V** (yellow), the other **GND** (black). They are screwed to the back of the [Flood Light](models/18-flood-light.md) panel. The five branches that leave them each feed one column of panels. The flood light dimmer feeds the flood light directly, on a connector of its own.
 
 <img src="../images/12v_distribution.png" alt="How 12 V is distributed inside the panel" width="620">
 

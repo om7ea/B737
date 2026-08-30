@@ -191,6 +191,15 @@ These are not panels. The frame carries the whole overhead, and the components b
 <td><a href="17-le-devices-and-elt-panel.md">Notes</a></td>
 </tr>
 </tbody>
+<tbody>
+<tr>
+<td><a href="18-flood-light.md"><img src="../../images/panels/18-flood-light-thumbnail.jpg" width="200"></a></td>
+<td align="right">18</td>
+<td>Flood Light</td>
+<td><a href="https://makerworld.com/en/models/3237863-boeing-737-overhead-flood-light">Model</a></td>
+<td><a href="18-flood-light.md">Notes</a></td>
+</tr>
+</tbody>
 </table>
 
 More panels are currently in preparation.
