@@ -72,7 +72,7 @@ The 12 V rail feeds the panel lighting only. It enters through a **DC socket on 
 | **Backlight** | The brightness of the whole overhead backlight |
 | **Flood light** | The overhead flood light |
 
-Both are ordinary PWM LED dimmers taken out of their housings. The board **and** its potentiometer are reused from each, so the two knobs on the Center Middle Panel are the original dimmer potentiometers; the two boards sit on the plate behind that panel. On the real aircraft the second knob sets the brightness of the circuit breaker panel, and the flood light is controlled from a panel outside the overhead — it drives the flood light here so that the knob and its dimmer are put to use.
+Both are ordinary PWM LED dimmers taken out of their housings. The board **and** its potentiometer are reused from each, so the two knobs on the [Center Upper Panel](models/19-center-upper-panel.md) are the original dimmer potentiometers; the two boards are screwed to the back of that panel. Its **PANEL** knob is the backlight dimmer and its **CIRCUIT BREAKER** knob the flood light one. On the real aircraft the CIRCUIT BREAKER knob sets the brightness of the circuit breaker panel, and the flood light is controlled from a panel outside the overhead — it drives the flood light here so that the knob and its dimmer are put to use.
 
 > DC socket → **backlight dimmer** → **splice connectors** → **five branches**, one per column of panels → **DC plug** on each backlit panel
 
