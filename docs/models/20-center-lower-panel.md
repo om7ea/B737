@@ -164,7 +164,7 @@ This is the Combined PCB, so it carries both kinds of connection: the ZH headers
 | 6 | EMER EXIT LIGHTS — OFF |
 | 7 | NO SMOKING |
 
-Headers 1 and 2 are not populated, and neither is pin 8. The assembly drawing marks pins 5–8 and shows a four-way screw terminal on this board — a three-way one covers everything that is used.
+Headers 1 and 2 are not populated, and neither is pin 8.
 
 **All the switches and buttons share a single ground return.** Each takes one of its terminals to its own pin. The opposite terminals are commoned — daisy-chained from one to the next — and the chain ends at a **-** (ground) contact.
 
@@ -197,7 +197,7 @@ The seven M4×8 screws in this drawing are the ones that later hold the finished
 
 ### 3. Backlight panel — PCBs and DC jack
 
-<img src="../../images/panels/20-center-lower-03-backlight-pcbs.png" alt="Backlight panel with the two PCBs and the DC jack" width="700">
+<img src="../../images/panels/20-center-lower-03-pcbs-and-dc-jack.png" alt="Backlight panel with the two PCBs and the DC jack" width="700">
 
 ### 4. Top panel
 
