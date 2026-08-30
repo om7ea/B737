@@ -23,12 +23,12 @@
 <tbody>
 <tr>
 <td align="center" width="50%"><img src="../../images/panels/18-flood-light-photo-3-bottom-panel.jpg" alt="Printed bottom panel"><br><sub>Bottom panel — the four outer holes go to the main frame, the two inner ones to the standoffs</sub></td>
-<td align="center" width="50%"><img src="../../images/panels/18-flood-light-photo-4-led-strips.jpg" alt="Backlight panel with the two LED strips and the DC jack"><br><sub>Backlight panel — the two LED strips and the DC jack</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/18-flood-light-photo-4-backlight-panel.jpg" alt="Backlight panel with the two LED strips and the DC jack"><br><sub>Backlight panel — the two LED strips and the DC jack</sub></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
-<td align="center" width="50%"><img src="../../images/panels/18-flood-light-photo-5-splice-connectors.jpg" alt="Rear of the backlight panel with the two splice connectors"><br><sub>Rear side — the two splice connectors and the DC jack</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/18-flood-light-photo-5-rear.jpg" alt="Rear of the backlight panel with the two splice connectors"><br><sub>Rear side — the two splice connectors and the DC jack</sub></td>
 <td align="center" width="50%"></td>
 </tr>
 </tbody>
@@ -59,11 +59,11 @@
 
 ## Electronic Components
 
-| Qty | Part |
-|---:|---|
-| 2× | Splice connector F15, 1 in / 5 out |
+| Qty | Part | Reference |
+|---:|---|---|
+| 2× | **Splice connector F15** — lever type, 1 in / 5 out | [Product I used](../../images/parts/AE_splice_F15.png) |
 
-These are lever-type splice connectors and they serve the **whole overhead**, not just this panel: one carries **+12 V**, the other **GND**, and the five outputs of each feed one column of panels. See [12 V](../system-overview.md#12-v) in the System Overview for the full distribution.
+They serve the **whole overhead**, not just this panel: one carries **+12 V**, the other **GND**, and the five outputs of each feed one column of panels. See [12 V](../system-overview.md#12-v) in the System Overview for the full distribution.
 
 ---
 
