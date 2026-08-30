@@ -115,7 +115,7 @@ The annunciators are a separate model shared with the other panels — they are 
 | Qty | PCB | Connections used | Gerber files |
 |---:|---|---|---|
 | 1× | [RJ45 Direct](../pcb/rj45-direct.md) | pins 1–8 | [📥 PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip) |
-| 1× | [RJ45 Combined](../pcb/rj45-combined.md) | headers 3–4, pins 5–8 | [📥 PCB_RJ45_Combined.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Combined.zip) |
+| 1× | [RJ45 Combined](../pcb/rj45-combined.md) | headers 3–4, pins 5–7 | [📥 PCB_RJ45_Combined.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Combined.zip) |
 
 Mounting is shown in [step 3](#3-backlight-panel--pcbs-and-dc-jack) of the assembly diagram. Which switch and which annunciator each connection carries is in [Wiring](#wiring).
 
@@ -128,7 +128,7 @@ The panel takes **two** Ethernet patch cables to the [RJ45 Hub Shield](../pcb/rj
 | PCB | Patch cable goes to | Connections used |
 |---|---|---|
 | **PCB 1** | socket **D2** on **Overhead_3** | pins 1–8 |
-| **PCB 2** | socket **A2** on **Overhead_3** | headers 3–4, pins 5–8 |
+| **PCB 2** | socket **A2** on **Overhead_3** | headers 3–4, pins 5–7 |
 
 <img src="../../images/panels/20-center-lower-wiring-pcbs.jpg" alt="Rear of the panel with the two PCBs marked" width="620">
 
@@ -164,10 +164,7 @@ This is the Combined PCB, so it carries both kinds of connection: the ZH headers
 | 6 | EMER EXIT LIGHTS — OFF |
 | 7 | NO SMOKING |
 
-Headers 1 and 2 are not populated.
-
-> **Note**
-> Pin 8 of PCB 2 is wired, but nothing in the [MobiFlight project](../mobiflight.md) uses it — the simulator reads the NO SMOKING switch from pin 7 alone.
+Headers 1 and 2 are not populated, and neither is pin 8. The assembly drawing marks pins 5–8 and shows a four-way screw terminal on this board — a three-way one covers everything that is used.
 
 **All the switches and buttons share a single ground return.** Each takes one of its terminals to its own pin. The opposite terminals are commoned — daisy-chained from one to the next — and the chain ends at a **-** (ground) contact.
 
