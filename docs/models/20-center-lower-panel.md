@@ -164,7 +164,7 @@ This is the Combined PCB, so it carries both kinds of connection: the ZH headers
 | 6 | EMER EXIT LIGHTS — OFF |
 | 7 | NO SMOKING |
 
-Headers 1 and 2 are not populated, and neither is pin 8.
+Headers 1 and 2 are not populated, and neither is pin 8. The screw terminal on the board — in the photo above and in the assembly diagram — has four positions and so reaches pin 8. I fitted one size too big by mistake; a three-way terminal is all this board needs.
 
 **All the switches and buttons share a single ground return.** Each takes one of its terminals to its own pin. The opposite terminals are commoned — daisy-chained from one to the next — and the chain ends at a **-** (ground) contact.
 
