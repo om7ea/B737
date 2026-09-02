@@ -151,7 +151,7 @@ A gauge has three connections. Which PCB and which socket they land on depends o
 >
 > Lift the small tabs on the plastic housing, pull those two crimped contacts out and swap them over. Brown stays where it is. (On some SG90s the yellow wire is orange instead — it is the signal wire either way.)
 
-The 12 V for the scale backlight is brought over from the panel's own backlighting with two **lever-type splice connectors**, one for +12 V and one for GND. Where they sit is up to you — both on the gauge works fine. On my own build it varies from panel to panel: the leads coming out of some backlight panels were short, so one connector had to stay on the panel and only the other went on the gauge.
+The 12 V for the scale backlight is brought over from the panel's own backlighting with two **lever-type splice connectors**, one for +12 V and one for GND. Where they sit is up to you — both on the gauge works fine, and so does one on the gauge and one on the panel. There is nothing to screw them to, so **glue them down with super glue.**
 
 ---
 
