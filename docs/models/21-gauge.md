@@ -19,13 +19,7 @@
 <tbody>
 <tr>
 <td align="center" width="50%"><img src="../../images/panels/21-gauge-photo-1-front.jpg" alt="Finished gauge, front"><br><sub>A finished gauge — this one carries the FUEL TEMP scale</sub></td>
-<td align="center" width="50%"><img src="../../images/panels/21-gauge-photo-2-rear.jpg" alt="Rear of the gauge with the servo, the pointer LED and the splice connector"><br><sub>Rear side — the servo on its cover, the pointer LED behind it and the splice connector for the 12 V</sub></td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td align="center" width="50%"><img src="../../images/panels/21-gauge-photo-3-side.jpg" alt="The gauge from the side, showing the two backlight LED strips"><br><sub>From the side — the two backlight LED strips inside the housing</sub></td>
-<td align="center" width="50%"></td>
+<td align="center" width="50%"><img src="../../images/panels/21-gauge-photo-2-side.jpg" alt="The gauge from the side, showing the two backlight LED strips"><br><sub>From the side — the two backlight LED strips inside the housing</sub></td>
 </tr>
 </tbody>
 </table>
@@ -110,7 +104,7 @@ The three self-tapping screws that come with the servo are used as well: two hol
 |---:|---|
 | 1× | A4 PDF — gauge scales |
 
-One sheet carries the scales for all the gauges of the overhead, so a single print covers all four of these instruments. The PDF and the printing instructions are on the [UV Print Files](../uv-print.md) page.
+One sheet carries the scales for all the gauges of the overhead. The PDF and the printing instructions are on the [UV Print Files](../uv-print.md) page.
 
 ---
 
@@ -128,7 +122,9 @@ The two strips sit inside the housing, one on each side, and light the white top
 
 The pointer has a light of its own: a white 5 mm LED under the pointer shaft, shining up through the transparent 7-tooth gear and the acrylic rod into the pointer. It runs on **5 V** with a **150 Ω** resistor in series.
 
-<img src="../../images/panels/21-gauge-photo-4-pointer-led.jpg" alt="The pointer LED and its series resistor behind the servo" width="300">
+<img src="../../images/panels/21-gauge-photo-3-pointer-led.jpg" alt="The pointer LED and its series resistor behind the servo" width="300">
+
+There are two resistors in the photo rather than one — I had no 150 Ω to hand and made the value up from two in parallel. One resistor of the right value does the same job.
 
 > **Note**
 > The pointer lighting works, but the effect is weak. White PLA does not carry light well over the length of a pointer, so the pointer glows rather than lights up. It is worth building — but do not expect the pointer to stand out the way the scale does.
@@ -146,9 +142,16 @@ A gauge has three connections. Which PCB and which socket they land on depends o
 | Scale backlight | 12 V | the backlighting of the panel the gauge is fitted in |
 
 > **⚠️ The servo plug has to be rewired**
-> The three wires do not leave the SG90 in the order the RJ45 Direct PCB expects, so the servo will **not** work if you plug it in as it comes. Lift the small tabs on the plastic housing, pull the three crimped contacts out and put them back so that every wire lands where it belongs: **brown** on the **-** (ground) contact, **red** on **+**, and **orange** on the numbered channel. Check it against the silkscreen on the board before you power the panel up.
+> The SG90 does not leave the factory in the order the RJ45 Direct PCB expects, so the servo will **not** work if you plug it in as it comes. **Swap the red and the yellow wire:**
+>
+> | | Wire order in the plug |
+> |---|---|
+> | As delivered | brown — red — yellow |
+> | **Needed** | **brown — yellow — red** |
+>
+> Lift the small tabs on the plastic housing, pull those two crimped contacts out and swap them over. Brown stays where it is. (On some SG90s the yellow wire is orange instead — it is the signal wire either way.)
 
-The 12 V for the scale backlight is brought over from the panel's own backlighting with **lever-type splice connectors** — one for +12 V and one for GND.
+The 12 V for the scale backlight is brought over from the panel's own backlighting with two **lever-type splice connectors**, one for +12 V and one for GND. Where they sit is up to you — both on the gauge works fine. On my own build it varies from panel to panel: the leads coming out of some backlight panels were short, so one connector had to stay on the panel and only the other went on the gauge.
 
 ---
 
@@ -157,5 +160,3 @@ The 12 V for the scale backlight is brought over from the panel's own backlighti
 Screw abbreviations used in the diagram: **DH** = dome head.
 
 <img src="../../images/panels/21-gauge-01-assembly.png" alt="Exploded view of one gauge" width="800">
-
-From the front: the pointer and the acrylic rod, then the top plate with the first MR52ZZ bearing, the backlight plate with the second bearing, the 7-tooth gear on the shaft, the cover with the servo, and the 14-tooth gear on the servo shaft.
