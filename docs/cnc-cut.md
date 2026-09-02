@@ -2,15 +2,13 @@
 
 Acrylic windows for the gauges and for the AC and DC Meter Panel.
 
-[📦 Download all five DXF files](https://raw.githubusercontent.com/om7ea/B737/main/docs/cnc_cut/cnc_cut.zip)
-
 [← Back to main page](../README.md)
 
 ---
 
 ## Cuts
 
-Five shapes, **nine pieces** in total. The **File** column names the drawing inside the ZIP. All five previews are drawn to the same scale, so the sizes can be compared against each other.
+Five shapes, **nine pieces** in total. Each drawing downloads on its own - the file is zipped, because GitHub shows a bare `.dxf` as text instead of saving it. All five previews are drawn to the same scale, so the sizes can be compared against each other.
 
 <table>
 <thead>
@@ -24,8 +22,8 @@ Five shapes, **nine pieces** in total. The **File** column names the drawing ins
 </thead>
 <tbody>
 <tr>
-<td align="center"><img src="../images/cnc/cnc_gauge_48-8.png" width="150"></td>
-<td><b>cnc_gauge_48-8.dxf</b></td>
+<td align="center"><a href="https://raw.githubusercontent.com/om7ea/B737/main/docs/cnc_cut/cnc_gauge_48-8.zip"><img src="../images/cnc/cnc_gauge_48-8.png" width="150"></a></td>
+<td><a href="https://raw.githubusercontent.com/om7ea/B737/main/docs/cnc_cut/cnc_gauge_48-8.zip"><b>cnc_gauge_48-8.dxf</b></a></td>
 <td>Ø 48.8 mm</td>
 <td align="right">5×</td>
 <td>Fuel Control, Generator Bus, Air Conditioning Control, Cabin Altitude and Bleed Air Control panels</td>
@@ -33,8 +31,8 @@ Five shapes, **nine pieces** in total. The **File** column names the drawing ins
 </tbody>
 <tbody>
 <tr>
-<td align="center"><img src="../images/cnc/cnc_gauge_78-9.png" width="150"></td>
-<td><b>cnc_gauge_78-9.dxf</b></td>
+<td align="center"><a href="https://raw.githubusercontent.com/om7ea/B737/main/docs/cnc_cut/cnc_gauge_78-9.zip"><img src="../images/cnc/cnc_gauge_78-9.png" width="150"></a></td>
+<td><a href="https://raw.githubusercontent.com/om7ea/B737/main/docs/cnc_cut/cnc_gauge_78-9.zip"><b>cnc_gauge_78-9.dxf</b></a></td>
 <td>Ø 78.9 mm</td>
 <td align="right">1×</td>
 <td>Cabin Altitude Panel - the large two-needle gauge</td>
@@ -42,8 +40,8 @@ Five shapes, **nine pieces** in total. The **File** column names the drawing ins
 </tbody>
 <tbody>
 <tr>
-<td align="center"><img src="../images/cnc/cnc_gauge_43-8.png" width="150"></td>
-<td><b>cnc_gauge_43-8.dxf</b></td>
+<td align="center"><a href="https://raw.githubusercontent.com/om7ea/B737/main/docs/cnc_cut/cnc_gauge_43-8.zip"><img src="../images/cnc/cnc_gauge_43-8.png" width="150"></a></td>
+<td><a href="https://raw.githubusercontent.com/om7ea/B737/main/docs/cnc_cut/cnc_gauge_43-8.zip"><b>cnc_gauge_43-8.dxf</b></a></td>
 <td>Ø 43.8 mm</td>
 <td align="right">1×</td>
 <td>Engine and Oxygen Panel</td>
@@ -51,8 +49,8 @@ Five shapes, **nine pieces** in total. The **File** column names the drawing ins
 </tbody>
 <tbody>
 <tr>
-<td align="center"><img src="../images/cnc/cnc_gauge_29-8.png" width="150"></td>
-<td><b>cnc_gauge_29-8.dxf</b></td>
+<td align="center"><a href="https://raw.githubusercontent.com/om7ea/B737/main/docs/cnc_cut/cnc_gauge_29-8.zip"><img src="../images/cnc/cnc_gauge_29-8.png" width="150"></a></td>
+<td><a href="https://raw.githubusercontent.com/om7ea/B737/main/docs/cnc_cut/cnc_gauge_29-8.zip"><b>cnc_gauge_29-8.dxf</b></a></td>
 <td>Ø 29.8 mm, with two Ø 3.3 mm holes 20 mm apart</td>
 <td align="right">1×</td>
 <td>Cabin Pressure Control Panel</td>
@@ -60,8 +58,8 @@ Five shapes, **nine pieces** in total. The **File** column names the drawing ins
 </tbody>
 <tbody>
 <tr>
-<td align="center"><img src="../images/cnc/cnc_meter_window.png" width="150"></td>
-<td><b>cnc_meter_window.dxf</b></td>
+<td align="center"><a href="https://raw.githubusercontent.com/om7ea/B737/main/docs/cnc_cut/cnc_meter_window.zip"><img src="../images/cnc/cnc_meter_window.png" width="150"></a></td>
+<td><a href="https://raw.githubusercontent.com/om7ea/B737/main/docs/cnc_cut/cnc_meter_window.zip"><b>cnc_meter_window.dxf</b></a></td>
 <td>96 × 46 mm, corners rounded to R 4.5 mm</td>
 <td align="right">1×</td>
 <td>AC and DC Meter Panel</td>
