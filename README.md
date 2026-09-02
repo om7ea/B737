@@ -36,6 +36,7 @@ All electronics are enclosed inside the panel and connected to an internal USB h
 | ⚙️ **[System Overview](docs/system-overview.md)** | How the panel connects to the simulator - software, boards, wiring |
 | 🔌 **[PCB Manufacturing Files](docs/pcb/README.md)** | Gerber downloads, BOM and assembly for each PCB design |
 | 🖨️ **[UV Print Files](docs/uv-print.md)** | Printable panel graphics and printing instructions |
+| ✂️ **[CNC Cut Files](docs/cnc-cut.md)** | Acrylic windows for the gauges and the meter panel, with the DXF files |
 | 🛩️ **[Models](docs/models/README.md)** | Build notes for the frame, the shared models and each panel |
 | 🎨 **[Filaments](docs/filaments.md)** | The filaments I used and their colours |
 | 🖥️ **[MobiFlight Configuration](docs/mobiflight.md)** | The complete MobiFlight configuration - board definitions and the simulator mapping |
