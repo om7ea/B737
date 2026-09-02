@@ -1,4 +1,4 @@
-# 21. Temperature and Climb Gauge
+# 21. Temperature and Climb Gauges
 
 📦 *The MakerWorld link will be added here.*
 
@@ -7,7 +7,7 @@
 ---
 
 > **Note**
-> The gauge is shared across the overhead panel — it is not part of any individual panel model. **4** of them are needed for the complete project, one on each of these panels: **Fuel Control Panel**, **Generator Bus Panel**, **Air Conditioning Control Panel** and **Cabin Altitude Panel**.
+> These gauges are shared across the overhead panel — they are not part of any individual panel model. **4** of them are needed for the complete project, one on each of these panels: **Fuel Control Panel**, **Generator Bus Panel**, **Air Conditioning Control Panel** and **Cabin Altitude Panel**.
 >
 > All four are built from the same parts. What makes each one a different instrument is the UV-printed scale stuck to its face and the shape of its pointer.
 

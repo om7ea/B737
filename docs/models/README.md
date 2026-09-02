@@ -47,10 +47,10 @@ These are not panels. The frame carries the whole overhead; the rest are compone
 </tbody>
 <tbody>
 <tr>
-<td><a href="21-temperature-and-climb-gauge.md"><img src="../../images/panels/21-temp-climb-photo-1-front.jpg" width="200"></a></td>
-<td>Temperature and Climb Gauge</td>
+<td><a href="21-temperature-and-climb-gauges.md"><img src="../../images/panels/21-temp-climb-photo-1-front.jpg" width="200"></a></td>
+<td>Temperature and Climb Gauges</td>
 <td>🚧</td>
-<td><a href="21-temperature-and-climb-gauge.md">Notes</a></td>
+<td><a href="21-temperature-and-climb-gauges.md">Notes</a></td>
 </tr>
 </tbody>
 <tbody>
