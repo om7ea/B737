@@ -8,7 +8,7 @@ Acrylic windows for the gauges and for the AC and DC Meter Panel.
 
 ## Cuts
 
-Five shapes, **nine pieces** in total. Each drawing downloads on its own - the file is zipped, because GitHub shows a bare `.dxf` as text instead of saving it.
+Five shapes, **nine pieces** in total. The drawings are zipped, because GitHub shows a bare `.dxf` as text instead of saving it.
 
 <table>
 <thead>
