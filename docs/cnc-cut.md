@@ -67,7 +67,7 @@ Five shapes, **nine pieces** in total. All five previews are drawn to the same s
 </tbody>
 </table>
 
-The four round pieces are the windows of the gauges. Which instrument sits behind each one is on that panel's own page.
+**Every piece is fitted into the panel itself, not into the instrument behind it.** The four round ones cover the gauge openings in the panel; which instrument sits behind each one is on that panel's own page.
 
 ---
 
