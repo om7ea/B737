@@ -18,7 +18,7 @@
 <tbody>
 <tr>
 <td align="center" width="50%"><img src="../../images/panels/13-irs-mode-select-photo-3-diffuser.jpg" alt="Diffuser panel and rotary switches fitted"><br><sub>Diffuser panel and rotary switches fitted, before the top panel goes on</sub></td>
-<td align="center" width="50%"><img src="../../images/panels/13-irs-mode-select-photo-4-rear.jpg" alt="Rear of the panel with PCBs and wiring"><br><sub>Rear side — PCBs, wiring and DC jack</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/13-irs-mode-select-photo-4-rear.jpg" alt="Rear of the panel with PCBs and wiring"><br><sub>Rear side - PCBs, wiring and DC jack</sub></td>
 </tr>
 </tbody>
 </table>
@@ -60,7 +60,7 @@
 
 ## Rotary Knobs
 
-The knobs for the two IRS mode selectors are a separate model shared with the other panels — they are **not included** in this download.
+The knobs for the two IRS mode selectors are a separate model shared with the other panels - they are **not included** in this download.
 
 | | |
 |---|---|
@@ -88,7 +88,7 @@ The knobs for the two IRS mode selectors are a separate model shared with the ot
 | 7× | Black background, yellow LED |
 | 2× | Black background, white LED |
 
-The annunciators are a separate model shared with the other panels — they are **not included** in this download.
+The annunciators are a separate model shared with the other panels - they are **not included** in this download.
 
 | | |
 |---|---|
@@ -111,7 +111,7 @@ Mounting and connections are shown in [step 4](#4-backlight-panel--pcbs-and-dc-j
 
 ## Wiring
 
-Both rotary switches and eight of the nine annunciators go to the two PCBs on this panel, and both boards reach the same MEGA 2560 — `Overhead_2a`. Each PCB is connected by one Ethernet patch cable to a socket on the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md). The ninth annunciator, GPS, is wired to another panel — see below.
+Both rotary switches and eight of the nine annunciators go to the two PCBs on this panel, and both boards reach the same MEGA 2560 - `Overhead_2a`. Each PCB is connected by one Ethernet patch cable to a socket on the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md). The ninth annunciator, GPS, is wired to another panel - see below.
 
 | PCB | Patch cable goes to | Connections used |
 |---|---|---|
@@ -124,33 +124,33 @@ The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shi
 
 The rear of the panel. **PCB 1** is the board with the blue screw terminals, **PCB 2** the one with the eight ZH headers.
 
-### PCB 1 — socket D2 on Overhead_2a
+### PCB 1 - socket D2 on Overhead_2a
 
 | Pin | Switch |
 |---:|---|
-| 1 | IRS L — NAV |
-| 2 | IRS L — ATT |
-| 3 | IRS L — OFF |
-| 4 | IRS L — ALIGN |
-| 5 | IRS R — ATT |
-| 6 | IRS R — ALIGN |
-| 7 | IRS R — OFF |
-| 8 | IRS R — NAV |
+| 1 | IRS L - NAV |
+| 2 | IRS L - ATT |
+| 3 | IRS L - OFF |
+| 4 | IRS L - ALIGN |
+| 5 | IRS R - ATT |
+| 6 | IRS R - ALIGN |
+| 7 | IRS R - OFF |
+| 8 | IRS R - NAV |
 
-### PCB 2 — socket D1 on Overhead_2a
+### PCB 2 - socket D1 on Overhead_2a
 
-Every annunciator text appears twice — **L** is the group of four above the left knob, **R** the group above the right one.
+Every annunciator text appears twice - **L** is the group of four above the left knob, **R** the group above the right one.
 
 | Header | Annunciator |
 |---:|---|
-| 1 | ALIGN — R |
-| 2 | ON DC — R |
-| 3 | DC FAIL — R |
-| 4 | FAULT — R |
-| 5 | FAULT — L |
-| 6 | DC FAIL — L |
-| 7 | ON DC — L |
-| 8 | ALIGN — L |
+| 1 | ALIGN - R |
+| 2 | ON DC - R |
+| 3 | DC FAIL - R |
+| 4 | FAULT - R |
+| 5 | FAULT - L |
+| 6 | DC FAIL - L |
+| 7 | ON DC - L |
+| 8 | ALIGN - L |
 
 **The GPS annunciator is not on this panel's PCBs.** All eight headers of the LED driver are taken by the eight annunciators above, so GPS is wired across to **header 2** of the keyboard PCB on the [IRS Display Unit](14-irs-display-unit.md), whose patch cable goes to socket **A1** on **Overhead_2a**. It is the red and black pair leaving the panel at the top of the photo above, ending in a loose white connector.
 
@@ -165,7 +165,7 @@ Every annunciator text appears twice — **L** is the group of four above the le
 | 3× | LED strip |
 | 1× | DC jack 5.5 × 2.5 mm |
 
-Powered from the **12 V** supply — see [Power supply](../system-overview.md#power-supply).
+Powered from the **12 V** supply - see [Power supply](../system-overview.md#power-supply).
 
 ---
 
@@ -177,14 +177,14 @@ Screw abbreviations used in the diagrams: **FH** = flat head, **DH** = dome head
 
 <img src="../../images/panels/13-irs-mode-select-01-top-panel.png" alt="Top panel assembly" width="700">
 
-### 2. Bottom panel — diffuser, rotary switches, annunciators and standoffs
+### 2. Bottom panel - diffuser, rotary switches, annunciators and standoffs
 
 <img src="../../images/panels/13-irs-mode-select-02-bottom-panel.png" alt="Bottom panel assembly" width="700">
 
-### 3. Backlight panel — LED strips
+### 3. Backlight panel - LED strips
 
 <img src="../../images/panels/13-irs-mode-select-03-backlight-leds.png" alt="Backlight LED strips" width="700">
 
-### 4. Backlight panel — PCBs and DC jack
+### 4. Backlight panel - PCBs and DC jack
 
 <img src="../../images/panels/13-irs-mode-select-04-backlight-pcb.png" alt="Backlight panel PCB mounting" width="700">

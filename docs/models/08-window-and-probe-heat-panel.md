@@ -18,7 +18,7 @@
 <tbody>
 <tr>
 <td align="center" width="50%"><img src="../../images/panels/08-window-probe-heat-photo-3-diffuser.jpg" alt="Diffuser panel fitted"><br><sub>Diffuser panel fitted, before the top panel goes on</sub></td>
-<td align="center" width="50%"><img src="../../images/panels/08-window-probe-heat-photo-4-rear.jpg" alt="Rear of the panel with PCBs and wiring"><br><sub>Rear side — PCBs, wiring and DC jack</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/08-window-probe-heat-photo-4-rear.jpg" alt="Rear of the panel with PCBs and wiring"><br><sub>Rear side - PCBs, wiring and DC jack</sub></td>
 </tr>
 </tbody>
 </table>
@@ -81,7 +81,7 @@
 | 12× | Black background, yellow LED |
 | 4× | Black background, green LED |
 
-The annunciators are a separate model shared with the other panels — they are **not included** in this download.
+The annunciators are a separate model shared with the other panels - they are **not included** in this download.
 
 | | |
 |---|---|
@@ -104,7 +104,7 @@ Mounting and connections are shown in [step 5](#5-backlight-panel--pcbs-and-dc-j
 
 ## Wiring
 
-This panel takes three PCBs, and all three reach the **same** MEGA 2560 — `Overhead_4`. Each PCB is connected by one Ethernet patch cable to a socket on the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md).
+This panel takes three PCBs, and all three reach the **same** MEGA 2560 - `Overhead_4`. Each PCB is connected by one Ethernet patch cable to a socket on the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md).
 
 | PCB | Patch cable goes to | Connections used |
 |---|---|---|
@@ -118,39 +118,39 @@ The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shi
 
 The rear of the panel. **PCB 1** is the one with the blue screw terminals. The other two sit next to the annunciators they serve: **PCB 2** at the top for the window heat annunciators, **PCB 3** at the bottom for the probe annunciators.
 
-### PCB 1 — socket A1 on Overhead_4
+### PCB 1 - socket A1 on Overhead_4
 
 | Pin | Switch |
 |---:|---|
-| 1 | PROBE HEAT — B |
-| 2 | WINDOW HEAT — R SIDE |
-| 3 | WINDOW HEAT — R FWD |
-| 4 | WINDOW HEAT — L FWD |
-| 5 | TEST — OVHT |
-| 6 | PROBE HEAT — A |
-| 7 | WINDOW HEAT — L SIDE |
-| 8 | TEST — PWR TEST |
+| 1 | PROBE HEAT - B |
+| 2 | WINDOW HEAT - R SIDE |
+| 3 | WINDOW HEAT - R FWD |
+| 4 | WINDOW HEAT - L FWD |
+| 5 | TEST - OVHT |
+| 6 | PROBE HEAT - A |
+| 7 | WINDOW HEAT - L SIDE |
+| 8 | TEST - PWR TEST |
 
 **The TEST switch takes two pins.** It is the three-position (ON)/OFF/(ON) switch in the middle of the panel, and each of its two active positions needs its own connection: pin 5 for OVHT, pin 8 for PWR TEST.
 
 **The TAT TEST button is not on this panel's PCBs.** All eight pins of the Direct board are used by the switches above, so the push button is wired across to pin 5 of the Combined PCB on the [Anti-ice Panel](09-anti-ice-panel.md). It is the loose white wire leaving the panel at the bottom of the photo above.
 
-### PCB 2 — socket A2 on Overhead_4
+### PCB 2 - socket A2 on Overhead_4
 
 The eight window heat annunciators, at the top of the panel. The four **ON** annunciators are the green ones; the four **OVERHEAT** are yellow.
 
 | Header | Annunciator |
 |---:|---|
-| 1 | ON — R SIDE |
-| 2 | ON — R FWD |
-| 3 | ON — L FWD |
-| 4 | ON — L SIDE |
-| 5 | OVERHEAT — L SIDE |
-| 6 | OVERHEAT — L FWD |
-| 7 | OVERHEAT — R FWD |
-| 8 | OVERHEAT — R SIDE |
+| 1 | ON - R SIDE |
+| 2 | ON - R FWD |
+| 3 | ON - L FWD |
+| 4 | ON - L SIDE |
+| 5 | OVERHEAT - L SIDE |
+| 6 | OVERHEAT - L FWD |
+| 7 | OVERHEAT - R FWD |
+| 8 | OVERHEAT - R SIDE |
 
-### PCB 3 — socket D0 on Overhead_4
+### PCB 3 - socket D0 on Overhead_4
 
 The eight probe annunciators, in the two columns at the bottom of the panel. Headers 1 to 4 serve the right-hand column, 5 to 8 the left-hand one.
 
@@ -166,7 +166,7 @@ The eight probe annunciators, in the two columns at the bottom of the panel. Hea
 | 8 | TEMP PROBE |
 
 
-**The switches share a single ground return.** Each switch takes one of its terminals to its own pin on the Direct PCB. The opposite terminals are commoned — daisy-chained from one switch to the next — and the chain ends at a **-** (ground) contact.
+**The switches share a single ground return.** Each switch takes one of its terminals to its own pin on the Direct PCB. The opposite terminals are commoned - daisy-chained from one switch to the next - and the chain ends at a **-** (ground) contact.
 
 ---
 
@@ -177,7 +177,7 @@ The eight probe annunciators, in the two columns at the bottom of the panel. Hea
 | 5× | LED strip |
 | 1× | DC jack 5.5 × 2.5 mm |
 
-Powered from the **12 V** supply — see [Power supply](../system-overview.md#power-supply).
+Powered from the **12 V** supply - see [Power supply](../system-overview.md#power-supply).
 
 ---
 
@@ -189,7 +189,7 @@ Screw abbreviations used in the diagrams: **FH** = flat head, **DH** = dome head
 
 <img src="../../images/panels/08-window-probe-heat-01-top-panel.png" alt="Top panel assembly" width="700">
 
-### 2. Bottom panel — switches, button, annunciators and standoffs
+### 2. Bottom panel - switches, button, annunciators and standoffs
 
 <img src="../../images/panels/08-window-probe-heat-02-bottom-panel.png" alt="Bottom panel assembly" width="700">
 
@@ -197,10 +197,10 @@ Screw abbreviations used in the diagrams: **FH** = flat head, **DH** = dome head
 
 <img src="../../images/panels/08-window-probe-heat-03-diffuser.png" alt="Diffuser panel assembly" width="700">
 
-### 4. Backlight panel — LED strips
+### 4. Backlight panel - LED strips
 
 <img src="../../images/panels/08-window-probe-heat-04-backlight-leds.png" alt="Backlight LED strips" width="700">
 
-### 5. Backlight panel — PCBs and DC jack
+### 5. Backlight panel - PCBs and DC jack
 
 <img src="../../images/panels/08-window-probe-heat-05-backlight-pcb.png" alt="Backlight panel PCB mounting" width="700">

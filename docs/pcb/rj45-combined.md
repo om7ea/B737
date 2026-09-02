@@ -20,15 +20,15 @@ A total of **6** PCBs are required for the complete project. I recommend orderin
 
 ---
 
-## Bill of Materials (BOM) — per PCB
+## Bill of Materials (BOM) - per PCB
 
 | Qty | Part | Reference |
 |---:|---|---|
-| 1× | **RJ45 connector** — 5224 8P8C in-line, vertical 180°, full plastic | [Product I used](../../images/parts/AE_RJ45.png) |
+| 1× | **RJ45 connector** - 5224 8P8C in-line, vertical 180°, full plastic | [Product I used](../../images/parts/AE_RJ45.png) |
 | 3× | **4.8 mm PCB male Faston terminal** | [Product I used](../../images/parts/AE_plug_male.png) |
-| 1–4× | **Header ZH 1.5 4P** — buy the set (connectors + cables) | [Product I used](../../images/parts/AE_ZH.png) |
-| 1–4× | **SMD 0805 resistors** — values are the same as in the [RJ45 LED Driver table](rj45-driver.md#resistor-values) | |
+| 1–4× | **Header ZH 1.5 4P** - buy the set (connectors + cables) | [Product I used](../../images/parts/AE_ZH.png) |
+| 1–4× | **SMD 0805 resistors** - values are the same as in the [RJ45 LED Driver table](rj45-driver.md#resistor-values) | |
 | 1× | **ULN2803** | [Product I used](../../images/parts/AE_ULN2803.png) |
-| as required | **KF301 PCB screw terminals** — 2P/3P/4P | [Product I used](../../images/parts/AE_KF301.png) |
-| 1× | **330 Ω resistor (0805)** — optional | |
-| 1× | **Green LED (0805)** — optional | |
+| as required | **KF301 PCB screw terminals** - 2P/3P/4P | [Product I used](../../images/parts/AE_KF301.png) |
+| 1× | **330 Ω resistor (0805)** - optional | |
+| 1× | **Green LED (0805)** - optional | |

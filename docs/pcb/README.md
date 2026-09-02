@@ -79,7 +79,7 @@ The PCB designs released so far. All Gerber files are ready to be uploaded direc
 <tr>
 <td></td>
 <td>…</td>
-<td>—</td>
+<td>-</td>
 <td><em>More designs will follow as new panels are released</em></td>
 </tr>
 </tbody>

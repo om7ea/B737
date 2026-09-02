@@ -7,7 +7,7 @@
 ---
 
 > **Note**
-> The two knobs on this panel are the brightness controls for the **whole overhead**. The dimmers behind them are bought boards that have to be taken out of their housings — see [Dimmers](#dimmers).
+> The two knobs on this panel are the brightness controls for the **whole overhead**. The dimmers behind them are bought boards that have to be taken out of their housings - see [Dimmers](#dimmers).
 
 ---
 
@@ -29,12 +29,12 @@
 <tbody>
 <tr>
 <td align="center" width="50%"><img src="../../images/panels/19-center-upper-photo-5-diffuser-fitted.jpg" alt="Diffuser panel fitted into the bottom panel"><br><sub>The diffuser fitted into the bottom panel, before the top panel goes on</sub></td>
-<td align="center" width="50%"><img src="../../images/panels/19-center-upper-photo-6-rear.jpg" alt="Rear of the finished panel"><br><sub>Rear side — the two dimmer boards, the DC jack and the Combined PCB</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/19-center-upper-photo-6-rear.jpg" alt="Rear of the finished panel"><br><sub>Rear side - the two dimmer boards, the DC jack and the Combined PCB</sub></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
-<td align="center" width="50%"><img src="../../images/panels/19-center-upper-photo-7-side.jpg" alt="The finished panel from the side"><br><sub>From the side — how deep the panel builds up</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/19-center-upper-photo-7-side.jpg" alt="The finished panel from the side"><br><sub>From the side - how deep the panel builds up</sub></td>
 <td align="center" width="50%"></td>
 </tr>
 </tbody>
@@ -78,7 +78,7 @@ The two toggle switches are EQUIP COOLING SUPPLY and EQUIP COOLING EXHAUST.
 
 ## Rotary Knobs
 
-The knobs for the two dimmers are a separate model shared with the other panels — they are **not included** in this download. Both are the **General knob**; the dimmer potentiometers have splined shafts.
+The knobs for the two dimmers are a separate model shared with the other panels - they are **not included** in this download. Both are the **General knob**; the dimmer potentiometers have splined shafts.
 
 | | |
 |---|---|
@@ -93,9 +93,9 @@ The brightness controls of the whole overhead sit on this panel: the knobs on it
 
 | Qty | Part | Reference |
 |---:|---|---|
-| 2× | **PWM LED dimmer** — 12–24 V, rotary knob | [Product I used](../../images/parts/AE_dimmer.png) |
+| 2× | **PWM LED dimmer** - 12–24 V, rotary knob | [Product I used](../../images/parts/AE_dimmer.png) |
 
-Each dimmer is sold as a finished unit in a plastic housing. Take the board and its potentiometer out of the housing and use them as they are — **nothing has to be desoldered**, the potentiometer stays on the lead it comes with.
+Each dimmer is sold as a finished unit in a plastic housing. Take the board and its potentiometer out of the housing and use them as they are - **nothing has to be desoldered**, the potentiometer stays on the lead it comes with.
 
 <img src="../../images/panels/19-center-upper-dimmer-parts.jpg" alt="Dimmer board and potentiometer after the housing is removed" width="340">
 
@@ -127,7 +127,7 @@ On the real aircraft the CIRCUIT BREAKER knob sets the brightness of the circuit
 |---:|---|
 | 3× | Black background, yellow LED |
 
-The annunciators are a separate model shared with the other panels — they are **not included** in this download.
+The annunciators are a separate model shared with the other panels - they are **not included** in this download.
 
 | | |
 |---|---|
@@ -142,7 +142,7 @@ The annunciators are a separate model shared with the other panels — they are 
 | Qty | PCB | Connections used | Gerber files |
 |---:|---|---|---|
 | 1× | [RJ45 Combined](../pcb/rj45-combined.md) | headers 1–3, pins 5–6 | [📥 PCB_RJ45_Combined.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Combined.zip) |
-| 2× | Dimmer board | — | bought board, see [Dimmers](#dimmers) |
+| 2× | Dimmer board | - | bought board, see [Dimmers](#dimmers) |
 
 Mounting is shown in [step 3](#3-backlight-panel--pcb-dc-jack-and-dimmers) of the assembly diagram. Which lamp and which switch each connection carries is in [Wiring](#wiring).
 
@@ -158,19 +158,19 @@ The three annunciators and the two toggle switches are all on one [RJ45 Combined
 
 <img src="../../images/panels/19-center-upper-wiring-pcb.jpg" alt="Rear of the panel with the Combined PCB and the two dimmer boards marked" width="620">
 
-The rear of the panel. **PCB 1** is the green board with the RJ45 socket and the blue screw terminal. The two boards above it are the [dimmers](#dimmers) — they have no connection to the simulator.
+The rear of the panel. **PCB 1** is the green board with the RJ45 socket and the blue screw terminal. The two boards above it are the [dimmers](#dimmers) - they have no connection to the simulator.
 
 The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shield.
 
-### PCB 1 — socket A1 on Overhead_3
+### PCB 1 - socket A1 on Overhead_3
 
 This is the Combined PCB, so it carries both kinds of connection: the ZH headers drive annunciators, the screw terminals are direct.
 
 | Header | Annunciator |
 |---:|---|
-| 1 | OFF — supply cooling |
+| 1 | OFF - supply cooling |
 | 2 | SMOKE |
-| 3 | OFF — exhaust cooling |
+| 3 | OFF - exhaust cooling |
 
 | Pin | Switch |
 |---:|---|
@@ -179,7 +179,7 @@ This is the Combined PCB, so it carries both kinds of connection: the ZH headers
 
 Header 4 and pins 7 and 8 are not used.
 
-**The two switches share a single ground return.** Each takes one of its terminals to its own pin. The opposite terminals are commoned — daisy-chained from one to the other — and the chain ends at a **-** (ground) contact.
+**The two switches share a single ground return.** Each takes one of its terminals to its own pin. The opposite terminals are commoned - daisy-chained from one to the other - and the chain ends at a **-** (ground) contact.
 
 ---
 
@@ -190,7 +190,7 @@ Header 4 and pins 7 and 8 are not used.
 | 5× | LED strip |
 | 1× | DC jack 5.5 × 2.5 mm |
 
-Powered from the **12 V** supply — see [Power supply](../system-overview.md#power-supply). Like every other backlit panel, its brightness is set by the PANEL knob on this panel's own face.
+Powered from the **12 V** supply - see [Power supply](../system-overview.md#power-supply). Like every other backlit panel, its brightness is set by the PANEL knob on this panel's own face.
 
 ---
 
@@ -198,17 +198,17 @@ Powered from the **12 V** supply — see [Power supply](../system-overview.md#po
 
 Screw abbreviations used in the diagrams: **FH** = flat head, **DH** = dome head.
 
-### 1. Bottom panel — diffuser, annunciators, switches and potentiometers
+### 1. Bottom panel - diffuser, annunciators, switches and potentiometers
 
 <img src="../../images/panels/19-center-upper-01-bottom-panel.png" alt="Bottom panel with the diffuser, annunciators, switches, potentiometers and standoffs" width="700">
 
 The six M4×8 screws in this drawing are the ones that later hold the finished panel on the main frame.
 
-### 2. Backlight panel — LED strips
+### 2. Backlight panel - LED strips
 
 <img src="../../images/panels/19-center-upper-02-backlight-leds.png" alt="The five backlight LED strips" width="700">
 
-### 3. Backlight panel — PCB, DC jack and dimmers
+### 3. Backlight panel - PCB, DC jack and dimmers
 
 <img src="../../images/panels/19-center-upper-03-backlight-pcb.png" alt="Backlight panel with the Combined PCB, the DC jack and the two dimmer boards" width="700">
 

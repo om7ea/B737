@@ -24,7 +24,7 @@
 <tbody>
 <tr>
 <td align="center" width="50%"><img src="../../images/panels/20-center-lower-photo-5-diffuser-fitted.jpg" alt="Diffuser panel fitted into the bottom panel"><br><sub>The diffuser fitted into the bottom panel, before the top panel goes on</sub></td>
-<td align="center" width="50%"><img src="../../images/panels/20-center-lower-photo-6-rear.jpg" alt="Rear of the finished panel"><br><sub>Rear side — the two PCBs and the DC jack</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/20-center-lower-photo-6-rear.jpg" alt="Rear of the finished panel"><br><sub>Rear side - the two PCBs and the DC jack</sub></td>
 </tr>
 </tbody>
 </table>
@@ -71,7 +71,7 @@ The three-position switches are EMER EXIT LIGHTS and FASTEN BELTS, the two-posit
 
 ## Rotary Knobs
 
-The knob for the R WIPER selector is a separate model shared with the other panels — it is **not included** in this download.
+The knob for the R WIPER selector is a separate model shared with the other panels - it is **not included** in this download.
 
 | | |
 |---|---|
@@ -100,7 +100,7 @@ The knob for the R WIPER selector is a separate model shared with the other pane
 
 The yellow one is NOT ARMED, the blue one is CALL.
 
-The annunciators are a separate model shared with the other panels — they are **not included** in this download.
+The annunciators are a separate model shared with the other panels - they are **not included** in this download.
 
 | | |
 |---|---|
@@ -123,7 +123,7 @@ Mounting is shown in [step 3](#3-backlight-panel--pcbs-and-dc-jack) of the assem
 
 ## Wiring
 
-The panel takes **two** Ethernet patch cables to the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md). Both go to the same MEGA 2560 — `Overhead_3`.
+The panel takes **two** Ethernet patch cables to the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md). Both go to the same MEGA 2560 - `Overhead_3`.
 
 | PCB | Patch cable goes to | Connections used |
 |---|---|---|
@@ -136,20 +136,20 @@ The rear of the panel. **PCB 1** is the lower board, the one with the eight-way 
 
 The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shield.
 
-### PCB 1 — socket D2 on Overhead_3
+### PCB 1 - socket D2 on Overhead_3
 
 | Pin | Switch |
 |---:|---|
-| 1 | R WIPER — HIGH |
-| 2 | R WIPER — LOW |
-| 3 | R WIPER — INT |
-| 4 | R WIPER — PARK |
+| 1 | R WIPER - HIGH |
+| 2 | R WIPER - LOW |
+| 3 | R WIPER - INT |
+| 4 | R WIPER - PARK |
 | 5 | ATTEND |
 | 6 | GRD CALL |
-| 7 | FASTEN BELTS — OFF |
-| 8 | FASTEN BELTS — ON |
+| 7 | FASTEN BELTS - OFF |
+| 8 | FASTEN BELTS - ON |
 
-### PCB 2 — socket A2 on Overhead_3
+### PCB 2 - socket A2 on Overhead_3
 
 This is the Combined PCB, so it carries both kinds of connection: the ZH headers drive annunciators, the screw terminals are direct.
 
@@ -160,13 +160,13 @@ This is the Combined PCB, so it carries both kinds of connection: the ZH headers
 
 | Pin | Switch |
 |---:|---|
-| 5 | EMER EXIT LIGHTS — ON |
-| 6 | EMER EXIT LIGHTS — OFF |
+| 5 | EMER EXIT LIGHTS - ON |
+| 6 | EMER EXIT LIGHTS - OFF |
 | 7 | NO SMOKING |
 
-Headers 1 and 2 are not populated, and neither is pin 8. The screw terminal on the board — in the photo above and in the assembly diagram — has four positions and so reaches pin 8. I fitted one size too big by mistake; a three-way terminal is all this board needs.
+Headers 1 and 2 are not populated, and neither is pin 8. The screw terminal on the board - in the photo above and in the assembly diagram - has four positions and so reaches pin 8. I fitted one size too big by mistake; a three-way terminal is all this board needs.
 
-**All the switches and buttons share a single ground return.** Each takes one of its terminals to its own pin. The opposite terminals are commoned — daisy-chained from one to the next — and the chain ends at a **-** (ground) contact.
+**All the switches and buttons share a single ground return.** Each takes one of its terminals to its own pin. The opposite terminals are commoned - daisy-chained from one to the next - and the chain ends at a **-** (ground) contact.
 
 ---
 
@@ -177,7 +177,7 @@ Headers 1 and 2 are not populated, and neither is pin 8. The screw terminal on t
 | 7× | LED strip |
 | 1× | DC jack 5.5 × 2.5 mm |
 
-Powered from the **12 V** supply — see [Power supply](../system-overview.md#power-supply).
+Powered from the **12 V** supply - see [Power supply](../system-overview.md#power-supply).
 
 ---
 
@@ -185,17 +185,17 @@ Powered from the **12 V** supply — see [Power supply](../system-overview.md#po
 
 Screw abbreviations used in the diagrams: **FH** = flat head, **DH** = dome head.
 
-### 1. Bottom panel — diffuser, annunciators and switches
+### 1. Bottom panel - diffuser, annunciators and switches
 
 <img src="../../images/panels/20-center-lower-01-bottom-panel.png" alt="Bottom panel with the diffuser, annunciators, switches, rotary switch and standoffs" width="700">
 
 The seven M4×8 screws in this drawing are the ones that later hold the finished panel on the main frame.
 
-### 2. Backlight panel — LED strips
+### 2. Backlight panel - LED strips
 
 <img src="../../images/panels/20-center-lower-02-backlight-leds.png" alt="The seven backlight LED strips" width="700">
 
-### 3. Backlight panel — PCBs and DC jack
+### 3. Backlight panel - PCBs and DC jack
 
 <img src="../../images/panels/20-center-lower-03-pcbs-and-dc-jack.png" alt="Backlight panel with the two PCBs and the DC jack" width="700">
 

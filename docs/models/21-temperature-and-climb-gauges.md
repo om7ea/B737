@@ -7,7 +7,7 @@
 ---
 
 > **Note**
-> These gauges are shared across the overhead panel — they are not part of any individual panel model. **4** of them are needed for the complete project, one on each of these panels: **Fuel Control Panel**, **Generator Bus Panel**, **Air Conditioning Control Panel** and **Cabin Altitude Panel**.
+> These gauges are shared across the overhead panel - they are not part of any individual panel model. **4** of them are needed for the complete project, one on each of these panels: **Fuel Control Panel**, **Generator Bus Panel**, **Air Conditioning Control Panel** and **Cabin Altitude Panel**.
 >
 > All four are built from the same parts. What makes each one a different instrument is the UV-printed scale stuck to its face and the shape of its needle.
 
@@ -18,8 +18,8 @@
 <table>
 <tbody>
 <tr>
-<td align="center" width="50%"><img src="../../images/panels/21-temp-climb-photo-1-front.jpg" alt="Finished gauge, front"><br><sub>A finished gauge — this one carries the FUEL TEMP scale</sub></td>
-<td align="center" width="50%"><img src="../../images/panels/21-temp-climb-photo-2-side.jpg" alt="The gauge from the side, showing the two backlight LED strips"><br><sub>From the side — the two backlight LED strips inside the housing</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/21-temp-climb-photo-1-front.jpg" alt="Finished gauge, front"><br><sub>A finished gauge - this one carries the FUEL TEMP scale</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/21-temp-climb-photo-2-side.jpg" alt="The gauge from the side, showing the two backlight LED strips"><br><sub>From the side - the two backlight LED strips inside the housing</sub></td>
 </tr>
 </tbody>
 </table>
@@ -28,11 +28,11 @@
 
 ## How It Works
 
-The needle is driven by an **SG90 servo** through a pair of printed gears. The **14-tooth** gear sits on the servo, the **7-tooth** gear on the needle shaft, so the needle turns **twice as far as the servo** — the 180° of an SG90 become a full turn of the dial.
+The needle is driven by an **SG90 servo** through a pair of printed gears. The **14-tooth** gear sits on the servo, the **7-tooth** gear on the needle shaft, so the needle turns **twice as far as the servo** - the 180° of an SG90 become a full turn of the dial.
 
 The needle shaft itself is a **2 mm acrylic rod** running in two **MR52ZZ** ball bearings, one in the top plate and one in the backlight plate. The rod is not only a shaft: a white LED underneath shines up through it, so the rod also carries light into the needle. The 7-tooth gear sits in that light path, which is why it is printed in **transparent** PLA.
 
-The dial itself is lit separately, by two LED strips inside the housing — see [Backlight](#backlight).
+The dial itself is lit separately, by two LED strips inside the housing - see [Backlight](#backlight).
 
 ---
 
@@ -52,7 +52,7 @@ The finished gauge is a 52 × 52 mm box, about 32 mm deep without the servo.
 
 | Per gauge | Total for 4 | Part | Colour | Notes |
 |---:|---:|---|---|---|
-| 1× | 4× | top | White | the front plate — the UV-printed scale goes on it and it diffuses the backlight |
+| 1× | 4× | top | White | the front plate - the UV-printed scale goes on it and it diffuses the backlight |
 | 1× | 4× | backlight | Black | print with **supports** |
 | 1× | 4× | cover | Black | the servo bracket; print with **supports** |
 | 1× | 4× | gear 14t | Black | on the servo |
@@ -69,7 +69,7 @@ Each needle is two parts: a white blade and a black centre cap that covers its h
 | 1× | hand-temp_white + hand-temp_black | White + Black | Air Conditioning Control Panel |
 | 1× | hand-climb-white + hand-climb-black | White + Black | Cabin Altitude Panel |
 
-Mixing the needles up does no harm — they all fit and they all work.
+Mixing the needles up does no harm - they all fit and they all work.
 
 ---
 
@@ -77,13 +77,13 @@ Mixing the needles up does no harm — they all fit and they all work.
 
 | Per gauge | Total for 4 | Part | Reference |
 |---:|---:|---|---|
-| 1× | 4× | **Servo SG90** — 180°, plastic gears | [Product I used](../../images/parts/AE_servo_SG90.png) |
-| 2× | 8× | **Ball bearing MR52ZZ** — 2 × 5 × 2.5 mm | [Product I used](../../images/parts/AE_bearing_MR52ZZ.png) |
-| 1× | 4× | **Acrylic rod** — 2 mm, transparent; the needle shaft is cut from it | [Product I used](../../images/parts/AE_acrylic_rod.png) |
-| 1× | 4× | **White 5 mm flat top LED** — the same one the annunciators use | [Product I used](../../images/parts/AE_led_white.png) |
-| 1× | 4× | **150 Ω resistor** — in series with the white LED | |
-| 2× | 8× | **LED strip** — the scale backlight | |
-| 2× | 8× | **Splice connector** — lever type, for the 12 V of the scale backlight | |
+| 1× | 4× | **Servo SG90** - 180°, plastic gears | [Product I used](../../images/parts/AE_servo_SG90.png) |
+| 2× | 8× | **Ball bearing MR52ZZ** - 2 × 5 × 2.5 mm | [Product I used](../../images/parts/AE_bearing_MR52ZZ.png) |
+| 1× | 4× | **Acrylic rod** - 2 mm, transparent; the needle shaft is cut from it | [Product I used](../../images/parts/AE_acrylic_rod.png) |
+| 1× | 4× | **White 5 mm flat top LED** - the same one the annunciators use | [Product I used](../../images/parts/AE_led_white.png) |
+| 1× | 4× | **150 Ω resistor** - in series with the white LED | |
+| 2× | 8× | **LED strip** - the scale backlight | |
+| 2× | 8× | **Splice connector** - lever type, for the 12 V of the scale backlight | |
 
 The three self-tapping screws that come with the servo are used as well: two hold the servo to the cover, the third fastens the 14-tooth gear to the servo shaft.
 
@@ -102,7 +102,7 @@ The three self-tapping screws that come with the servo are used as well: two hol
 
 | Qty | File |
 |---:|---|
-| 1× | A4 PDF — gauge scales |
+| 1× | A4 PDF - gauge scales |
 
 One sheet carries the scales for all the gauges of the overhead. The PDF and the printing instructions are on the [UV Print Files](../uv-print.md) page.
 
@@ -116,7 +116,7 @@ One sheet carries the scales for all the gauges of the overhead. The PDF and the
 |---:|---:|---|
 | 2× | 8× | LED strip |
 
-The two strips sit inside the housing, one on each side, and light the white top plate from behind. They run on **12 V** taken from the backlighting of the panel the gauge is fitted in, so the gauge dims together with that panel — see [Power supply](../system-overview.md#power-supply).
+The two strips sit inside the housing, one on each side, and light the white top plate from behind. They run on **12 V** taken from the backlighting of the panel the gauge is fitted in, so the gauge dims together with that panel - see [Power supply](../system-overview.md#power-supply).
 
 ### Needle
 
@@ -127,7 +127,7 @@ The needle has a light of its own: a white 5 mm LED under the needle shaft, shin
 The photo shows more than one resistor because I had no 150 Ω to hand and made the value up from three in parallel. One resistor of the right value does the same job.
 
 > **Note**
-> The needle lighting works, but the effect is weak. White PLA does not carry light well over the length of a needle, so the needle glows rather than lights up. It is worth building — but do not expect the needle to stand out the way the scale does.
+> The needle lighting works, but the effect is weak. White PLA does not carry light well over the length of a needle, so the needle glows rather than lights up. It is worth building - but do not expect the needle to stand out the way the scale does.
 
 ---
 
@@ -146,12 +146,12 @@ A gauge has three connections. Which PCB and which socket they land on depends o
 >
 > | | Wire order in the plug |
 > |---|---|
-> | As delivered | brown — red — yellow |
-> | **Needed** | **brown — yellow — red** |
+> | As delivered | brown - red - yellow |
+> | **Needed** | **brown - yellow - red** |
 >
-> Lift the small tabs on the plastic housing, pull those two crimped contacts out and swap them over. Brown stays where it is. (On some SG90s the yellow wire is orange instead — it is the signal wire either way.)
+> Lift the small tabs on the plastic housing, pull those two crimped contacts out and swap them over. Brown stays where it is. (On some SG90s the yellow wire is orange instead - it is the signal wire either way.)
 
-The 12 V for the scale backlight is brought over from the panel's own backlighting with two **lever-type splice connectors**, one for +12 V and one for GND. Where they sit is up to you — both on the gauge works fine, and so does one on the gauge and one on the panel. On my own build it varies from panel to panel: the leads coming out of some backlight panels were short, so one connector had to stay on the panel and only the other went on the gauge. There is nothing to screw them to, so **glue them down with super glue.**
+The 12 V for the scale backlight is brought over from the panel's own backlighting with two **lever-type splice connectors**, one for +12 V and one for GND. Where they sit is up to you - both on the gauge works fine, and so does one on the gauge and one on the panel. On my own build it varies from panel to panel: the leads coming out of some backlight panels were short, so one connector had to stay on the panel and only the other went on the gauge. There is nothing to screw them to, so **glue them down with super glue.**
 
 ---
 

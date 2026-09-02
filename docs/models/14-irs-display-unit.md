@@ -18,7 +18,7 @@
 <tbody>
 <tr>
 <td align="center" width="50%"><img src="../../images/panels/14-irs-display-photo-3-bottom-panel.jpg" alt="Bottom panel with the diffuser, rotary switches, LCD and keyboard fitted"><br><sub>Diffuser, rotary switches, LCD and keyboard fitted, before the top panel goes on</sub></td>
-<td align="center" width="50%"><img src="../../images/panels/14-irs-display-photo-4-rear.jpg" alt="Rear of the panel with the PCBs and the DC jack"><br><sub>Rear side — PCBs, wiring and DC jack</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/14-irs-display-photo-4-rear.jpg" alt="Rear of the panel with the PCBs and the DC jack"><br><sub>Rear side - PCBs, wiring and DC jack</sub></td>
 </tr>
 </tbody>
 </table>
@@ -58,7 +58,7 @@
 |---:|---|
 | 2× | Rotary switch RS26, 12 positions |
 
-The RS26 has an adjustable number of positions — set the **DSPL SEL** switch to **5** and the **SYS DSPL** switch to **2**.
+The RS26 has an adjustable number of positions - set the **DSPL SEL** switch to **5** and the **SYS DSPL** switch to **2**.
 
 The twelve keypad buttons are not listed here. They are soldered to the [IRS Keyboard PCB](../pcb/irs-keyboard.md) and are part of its BOM.
 
@@ -66,7 +66,7 @@ The twelve keypad buttons are not listed here. They are soldered to the [IRS Key
 
 ## Rotary Knobs
 
-The knobs for the two selectors are a separate model shared with the other panels — they are **not included** in this download.
+The knobs for the two selectors are a separate model shared with the other panels - they are **not included** in this download.
 
 | Qty | Knob |
 |---:|---|
@@ -84,12 +84,12 @@ The knobs for the two selectors are a separate model shared with the other panel
 
 | Qty | Part | Reference |
 |---:|---|---|
-| 1× | **Large 1601 LCD** — 16×1 characters, white text on a black background | [Product I used](../../images/parts/AE_lcd_1601.png) |
+| 1× | **Large 1601 LCD** - 16×1 characters, white text on a black background | [Product I used](../../images/parts/AE_lcd_1601.png) |
 | 1× | **I²C LCD interface module** | [Product I used](../../images/parts/AE_i2c_module.png) |
 
 <img src="../../images/panels/14-irs-display-photo-5-lcd.png" alt="The I²C module on the back of the LCD" width="700">
 
-The interface module solders onto the LCD's 16-pin header. Its four wires are **GND**, **VCC**, **SDA** and **SCL** — where they go is in [Wiring](#wiring).
+The interface module solders onto the LCD's 16-pin header. Its four wires are **GND**, **VCC**, **SDA** and **SCL** - where they go is in [Wiring](#wiring).
 
 ---
 
@@ -104,7 +104,7 @@ The interface module solders onto the LCD's 16-pin header. Its four wires are **
 | 2× | Dome head M3×5 | PCB + backlight |
 | 12× | Dome head M3×8 | top + bottom, backlight + standoff |
 
-The grub screws that hold the two knobs on their shafts are **M3×5** — see [Rotary Knobs](03-rotary-knobs.md#screws).
+The grub screws that hold the two knobs on their shafts are **M3×5** - see [Rotary Knobs](03-rotary-knobs.md#screws).
 
 ---
 
@@ -121,7 +121,7 @@ Mounting is shown in [step 2](#2-bottom-panel--diffuser-rotary-switches-lcd-and-
 
 ## Wiring
 
-Both PCBs reach the same MEGA 2560 — `Overhead_2a` — and the panel takes **three** Ethernet patch cables to the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md), because the keyboard board has two RJ45 sockets of its own.
+Both PCBs reach the same MEGA 2560 - `Overhead_2a` - and the panel takes **three** Ethernet patch cables to the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md), because the keyboard board has two RJ45 sockets of its own.
 
 | Cable | Patch cable goes to | Connections used |
 |---|---|---|
@@ -133,25 +133,25 @@ The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shi
 
 <img src="../../images/panels/14-irs-display-wiring-pcbs.jpg" alt="Rear of the panel with the PCB and the two RJ45 sockets marked" width="700">
 
-The rear of the panel. **PCB 1** is the green board with the blue screw terminals. **RJ45 2** and **RJ45 3** are the two sockets of the keyboard board underneath — of that board only the two sockets and the connector edge show through the cut-out.
+The rear of the panel. **PCB 1** is the green board with the blue screw terminals. **RJ45 2** and **RJ45 3** are the two sockets of the keyboard board underneath - of that board only the two sockets and the connector edge show through the cut-out.
 
 The keys are wired by the keyboard PCB itself, so nothing on RJ45 2 and RJ45 3 can be connected the wrong way round. The only connections that have to be made correctly are the ones on **PCB 1** and the two **SYS DSPL** pins on RJ45 3.
 
-### PCB 1 — socket D0 on Overhead_2a
+### PCB 1 - socket D0 on Overhead_2a
 
 | Pin | Connection |
 |---:|---|
-| 1 | DSPL SEL — TEST |
-| 2 | DSPL SEL — TK/GS |
-| 3 | DSPL SEL — PROS |
-| 4 | DSPL SEL — WIND |
-| 5 | DSPL SEL — HDG/STS |
-| 6 | LCD — SCL |
-| 7 | LCD — SDA |
+| 1 | DSPL SEL - TEST |
+| 2 | DSPL SEL - TK/GS |
+| 3 | DSPL SEL - PROS |
+| 4 | DSPL SEL - WIND |
+| 5 | DSPL SEL - HDG/STS |
+| 6 | LCD - SCL |
+| 7 | LCD - SDA |
 
 **The LCD is powered from this board.** A KF301 2-pin screw terminal is fitted at the **pin 8** position and carries nothing but **5 V** and **ground** across to the interface module. Pin 8 itself is not used as an input.
 
-### RJ45 2 — socket A2 on Overhead_2a
+### RJ45 2 - socket A2 on Overhead_2a
 
 | Pin | Connection |
 |---:|---|
@@ -164,13 +164,13 @@ The keys are wired by the keyboard PCB itself, so nothing on RJ45 2 and RJ45 3 c
 | 7 | Key 2 |
 | 8 | Key 1 |
 
-### RJ45 3 — socket A1 on Overhead_2a
+### RJ45 3 - socket A1 on Overhead_2a
 
 | Pin | Connection |
 |---:|---|
-| 1 | SYS DSPL — L |
+| 1 | SYS DSPL - L |
 | 2 | GPS annunciator |
-| 3 | SYS DSPL — R |
+| 3 | SYS DSPL - R |
 | 5 | Key CLR |
 | 6 | Key 0 |
 | 7 | Key ENT |
@@ -187,7 +187,7 @@ Pin 4 is not used. Pin 2 is the ZH header, not a screw terminal.
 
 With the backlight panel removed. The wires from the lower rotary switch, **SYS DSPL**, go to the screw terminals on the keyboard board, not to PCB 1. The two RJ45 cables of that board can carry 16 signals, but the keypad needs only 12. The spare ones are used for the two switch positions and for the GPS annunciator.
 
-**The two switches share a single ground return.** Each switch takes one of its terminals to its own pin. The opposite terminals are commoned — daisy-chained from one switch to the next — and the chain ends at a **-** (ground) contact.
+**The two switches share a single ground return.** Each switch takes one of its terminals to its own pin. The opposite terminals are commoned - daisy-chained from one switch to the next - and the chain ends at a **-** (ground) contact.
 
 ---
 
@@ -198,7 +198,7 @@ With the backlight panel removed. The wires from the lower rotary switch, **SYS 
 | 3× | LED strip |
 | 1× | DC jack 5.5 × 2.5 mm |
 
-Powered from the **12 V** supply — see [Power supply](../system-overview.md#power-supply).
+Powered from the **12 V** supply - see [Power supply](../system-overview.md#power-supply).
 
 ---
 
@@ -212,7 +212,7 @@ Screw abbreviations used in the diagrams: **FH** = flat head, **DH** = dome head
 
 Push the printed top and base of each button together and fit them over the switches on the keyboard PCB.
 
-### 2. Bottom panel — diffuser, rotary switches, LCD and keyboard
+### 2. Bottom panel - diffuser, rotary switches, LCD and keyboard
 
 <img src="../../images/panels/14-irs-display-02-bottom-panel.png" alt="Bottom panel assembly" width="700">
 
@@ -220,10 +220,10 @@ Push the printed top and base of each button together and fit them over the swit
 
 <img src="../../images/panels/14-irs-display-03-top-panel.png" alt="Top panel assembly" width="700">
 
-### 4. Backlight panel — LED strips
+### 4. Backlight panel - LED strips
 
 <img src="../../images/panels/14-irs-display-04-backlight-leds.png" alt="Backlight LED strips" width="700">
 
-### 5. Backlight panel — PCB and DC jack
+### 5. Backlight panel - PCB and DC jack
 
 <img src="../../images/panels/14-irs-display-05-backlight-pcb.png" alt="Backlight panel PCB mounting" width="700">

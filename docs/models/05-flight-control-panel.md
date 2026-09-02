@@ -23,7 +23,7 @@
 </tbody>
 <tbody>
 <tr>
-<td align="center" width="50%"><img src="../../images/panels/05-flight-control-photo-5-rear.jpg" alt="Rear of the panel with the four PCBs and wiring"><br><sub>Rear side — the four PCBs, wiring and DC jack</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/05-flight-control-photo-5-rear.jpg" alt="Rear of the panel with the four PCBs and wiring"><br><sub>Rear side - the four PCBs, wiring and DC jack</sub></td>
 <td width="50%"></td>
 </tr>
 </tbody>
@@ -89,7 +89,7 @@ The four black guards go on the FLT CONTROL and SPOILER switches, the red one on
 |---:|---|
 | 9× | Black background, yellow LED |
 
-The annunciators are a separate model shared with the other panels — they are **not included** in this download.
+The annunciators are a separate model shared with the other panels - they are **not included** in this download.
 
 | | |
 |---|---|
@@ -114,7 +114,7 @@ Mounting and connections are shown in [step 4](#4-backlight-panel--pcbs-and-dc-j
 
 ## Wiring
 
-The nine annunciators and the ten switch inputs take four PCBs, and they do not all hang off the same MEGA 2560 — three go to `Overhead_1a`, one to `Overhead_1b`. Each PCB is connected by one Ethernet patch cable to a socket on the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md).
+The nine annunciators and the ten switch inputs take four PCBs, and they do not all hang off the same MEGA 2560 - three go to `Overhead_1a`, one to `Overhead_1b`. Each PCB is connected by one Ethernet patch cable to a socket on the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md).
 
 | PCB | Patch cable goes to | Connections used |
 |---|---|---|
@@ -123,28 +123,28 @@ The nine annunciators and the ten switch inputs take four PCBs, and they do not 
 | **PCB 3** | socket **D5** on **Overhead_1a** | headers 1–5 |
 | **PCB 4** | socket **D6** on **Overhead_1a** | headers 5–8 |
 
-Two of the cables go to a socket marked **D6**, but on different hub shields — PCB 2 to the one on `Overhead_1b`, PCB 4 to the one on `Overhead_1a`.
+Two of the cables go to a socket marked **D6**, but on different hub shields - PCB 2 to the one on `Overhead_1b`, PCB 4 to the one on `Overhead_1a`.
 
 The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shield.
 
 <img src="../../images/panels/05-flight-control-wiring-pcbs.jpg" alt="Rear of the panel with the four PCBs marked" width="700">
 
-The rear of the panel. **PCB 1** and **PCB 2** are the boards with the blue screw terminals — eight of them on PCB 1, two on PCB 2. Of the other two, **PCB 3** has five ZH headers wired and **PCB 4** four.
+The rear of the panel. **PCB 1** and **PCB 2** are the boards with the blue screw terminals - eight of them on PCB 1, two on PCB 2. Of the other two, **PCB 3** has five ZH headers wired and **PCB 4** four.
 
-### PCB 1 — socket D4 on Overhead_1a
+### PCB 1 - socket D4 on Overhead_1a
 
 | Pin | Switch |
 |---:|---|
-| 1 | FLT CONTROL B — STBY RUD |
-| 2 | FLT CONTROL A — STBY RUD |
-| 3 | FLT CONTROL B — B ON |
-| 4 | FLT CONTROL A — A ON |
+| 1 | FLT CONTROL B - STBY RUD |
+| 2 | FLT CONTROL A - STBY RUD |
+| 3 | FLT CONTROL B - B ON |
+| 4 | FLT CONTROL A - A ON |
 | 5 | SPOILER A |
 | 6 | ALTERNATE FLAPS ARM |
-| 7 | ALTERNATE FLAPS — UP |
-| 8 | ALTERNATE FLAPS — DOWN |
+| 7 | ALTERNATE FLAPS - UP |
+| 8 | ALTERNATE FLAPS - DOWN |
 
-### PCB 2 — socket D6 on Overhead_1b
+### PCB 2 - socket D6 on Overhead_1b
 
 | Pin | Switch |
 |---:|---|
@@ -153,9 +153,9 @@ The rear of the panel. **PCB 1** and **PCB 2** are the boards with the blue scre
 
 The remaining pins on this board are not used.
 
-### PCB 3 — socket D5 on Overhead_1a
+### PCB 3 - socket D5 on Overhead_1a
 
-The five annunciators in the lower half of the panel — the four-high column at the bottom right, plus the YAW DAMPER annunciator above the yaw damper switch.
+The five annunciators in the lower half of the panel - the four-high column at the bottom right, plus the YAW DAMPER annunciator above the yaw damper switch.
 
 | Header | Annunciator |
 |---:|---|
@@ -167,20 +167,20 @@ The five annunciators in the lower half of the panel — the four-high column at
 
 Headers 6 to 8 are not populated.
 
-### PCB 4 — socket D6 on Overhead_1a
+### PCB 4 - socket D6 on Overhead_1a
 
 The four annunciators in the upper half of the panel. Three of them read **LOW PRESSURE**, so the printed text does not tell them apart: two sit directly under the FLT CONTROL switches, the third under STANDBY HYD below LOW QUANTITY.
 
 | Header | Annunciator |
 |---:|---|
-| 5 | LOW PRESSURE — STANDBY HYD |
+| 5 | LOW PRESSURE - STANDBY HYD |
 | 6 | LOW QUANTITY |
-| 7 | LOW PRESSURE — FLT CONTROL A |
-| 8 | LOW PRESSURE — FLT CONTROL B |
+| 7 | LOW PRESSURE - FLT CONTROL A |
+| 8 | LOW PRESSURE - FLT CONTROL B |
 
 Headers 1 to 4 are not populated.
 
-**The switches share a single ground return.** Each switch takes one of its terminals to its own pin. The opposite terminals are commoned — daisy-chained from one switch to the next — and the chain ends at a **-** (ground) contact.
+**The switches share a single ground return.** Each switch takes one of its terminals to its own pin. The opposite terminals are commoned - daisy-chained from one switch to the next - and the chain ends at a **-** (ground) contact.
 
 ---
 
@@ -191,7 +191,7 @@ Headers 1 to 4 are not populated.
 | 10× | LED strip |
 | 1× | DC jack 5.5 × 2.5 mm |
 
-Powered from the **12 V** supply — see [Power supply](../system-overview.md#power-supply).
+Powered from the **12 V** supply - see [Power supply](../system-overview.md#power-supply).
 
 ---
 
@@ -203,14 +203,14 @@ Screw abbreviations used in the diagrams: **FH** = flat head, **DH** = dome head
 
 <img src="../../images/panels/05-flight-control-01-top-panel.png" alt="Top panel assembly" width="700">
 
-### 2. Bottom panel — diffuser, switches, annunciators and standoffs
+### 2. Bottom panel - diffuser, switches, annunciators and standoffs
 
 <img src="../../images/panels/05-flight-control-02-bottom-panel.png" alt="Bottom panel assembly" width="700">
 
-### 3. Backlight panel — LED strips
+### 3. Backlight panel - LED strips
 
 <img src="../../images/panels/05-flight-control-03-backlight-leds.png" alt="Backlight LED strips" width="700">
 
-### 4. Backlight panel — PCBs and DC jack
+### 4. Backlight panel - PCBs and DC jack
 
 <img src="../../images/panels/05-flight-control-04-backlight-pcb.png" alt="Backlight panel PCB mounting" width="700">

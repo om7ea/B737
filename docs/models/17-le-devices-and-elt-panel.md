@@ -18,12 +18,12 @@
 <tbody>
 <tr>
 <td align="center" width="50%"><img src="../../images/panels/17-le-devices-photo-3-diffuser.jpg" alt="Bottom panel with the diffusers fitted and the LEDs showing through"><br><sub>Diffusers fitted and the LEDs showing through, before the top panels go on</sub></td>
-<td align="center" width="50%"><img src="../../images/panels/17-le-devices-photo-4-pcb-mounting.jpg" alt="Rear of the bottom panel with the two LE Devices PCBs"><br><sub>Rear of the bottom panel — the two LE Devices PCBs</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/17-le-devices-photo-4-pcb-mounting.jpg" alt="Rear of the bottom panel with the two LE Devices PCBs"><br><sub>Rear of the bottom panel - the two LE Devices PCBs</sub></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
-<td align="center" width="50%"><img src="../../images/panels/17-le-devices-photo-5-rear.jpg" alt="Rear of the finished panel with the backlight panel fitted"><br><sub>Rear side — the backlight panel with the four RJ45 sockets and the Combined PCB</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/17-le-devices-photo-5-rear.jpg" alt="Rear of the finished panel with the backlight panel fitted"><br><sub>Rear side - the backlight panel with the four RJ45 sockets and the Combined PCB</sub></td>
 <td align="center" width="50%"></td>
 </tr>
 </tbody>
@@ -86,7 +86,7 @@ The guard goes on the ELT switch, the push button is the LE DEVICES TEST button.
 |---:|---|
 | 1× | Black background, yellow LED |
 
-The annunciators are a separate model shared with the other panels — they are **not included** in this download.
+The annunciators are a separate model shared with the other panels - they are **not included** in this download.
 
 | | |
 |---|---|
@@ -103,7 +103,7 @@ The annunciators are a separate model shared with the other panels — they are 
 | 2× | [LE Devices](../pcb/le-devices.md) | 16 LEDs and 2 RJ45 sockets each | [📥 PCB_LE_Devices.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_LE_Devices.zip) |
 | 1× | [RJ45 Combined](../pcb/rj45-combined.md) | headers 3–4, pins 5–6 | [📥 PCB_RJ45_Combined.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Combined.zip) |
 
-The two LE Devices boards carry the 32 indicator lamps of the display. They are the same board — the design is symmetrical and the second one is populated mirrored, for the other half of the panel. Read [LE Devices](../pcb/le-devices.md) before you solder them.
+The two LE Devices boards carry the 32 indicator lamps of the display. They are the same board - the design is symmetrical and the second one is populated mirrored, for the other half of the panel. Read [LE Devices](../pcb/le-devices.md) before you solder them.
 
 Mounting is shown in [step 3](#3-bottom-panel--le-devices-pcbs) and [step 5](#5-backlight-panel--combined-pcb-and-dc-jack) of the assembly diagram. Which lamp and which switch each connection carries is in [Wiring](#wiring).
 
@@ -111,7 +111,7 @@ Mounting is shown in [step 3](#3-bottom-panel--le-devices-pcbs) and [step 5](#5-
 
 ## Wiring
 
-Everything on this panel reaches the same MEGA 2560 — `Overhead_1a`. The panel takes **five** Ethernet patch cables to the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md), because each of the two LE Devices boards has two RJ45 sockets of its own.
+Everything on this panel reaches the same MEGA 2560 - `Overhead_1a`. The panel takes **five** Ethernet patch cables to the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md), because each of the two LE Devices boards has two RJ45 sockets of its own.
 
 | Cable | Patch cable goes to | Connections used |
 |---|---|---|
@@ -125,74 +125,74 @@ The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shi
 
 <img src="../../images/panels/17-le-devices-wiring-pcbs.jpg" alt="Rear of the panel with the four RJ45 sockets and the Combined PCB marked" width="700">
 
-The rear of the panel. **PCB 3** is the green board with the blue screw terminal. **RJ45 1** to **RJ45 4** are the sockets of the two LE Devices boards underneath — of those boards only the sockets and the Faston terminals show through the backlight panel.
+The rear of the panel. **PCB 3** is the green board with the blue screw terminal. **RJ45 1** to **RJ45 4** are the sockets of the two LE Devices boards underneath - of those boards only the sockets and the Faston terminals show through the backlight panel.
 
 The lamps are soldered into the LE Devices boards, so nothing on RJ45 1 to RJ45 4 can be connected the wrong way round. The four tables below are there for fault-finding.
 
-### RJ45 1 — socket A2 on Overhead_1a
+### RJ45 1 - socket A2 on Overhead_1a
 
 | Header | Lamp |
 |---:|---|
-| 1 | SLATS 6 — EXT |
-| 2 | SLATS 6 — TRANSIT |
-| 3 | SLATS 7 — FULL EXT |
-| 4 | SLATS 7 — EXT |
-| 5 | SLATS 7 — TRANSIT |
-| 6 | SLATS 8 — FULL EXT |
-| 7 | SLATS 8 — EXT |
-| 8 | SLATS 8 — TRANSIT |
+| 1 | SLATS 6 - EXT |
+| 2 | SLATS 6 - TRANSIT |
+| 3 | SLATS 7 - FULL EXT |
+| 4 | SLATS 7 - EXT |
+| 5 | SLATS 7 - TRANSIT |
+| 6 | SLATS 8 - FULL EXT |
+| 7 | SLATS 8 - EXT |
+| 8 | SLATS 8 - TRANSIT |
 
-### RJ45 2 — socket D1 on Overhead_1a
-
-| Header | Lamp |
-|---:|---|
-| 1 | LE FLAPS 3 — TRANSIT |
-| 2 | LE FLAPS 3 — EXT |
-| 3 | LE FLAPS 4 — EXT |
-| 4 | LE FLAPS 4 — TRANSIT |
-| 5 | SLATS 5 — FULL EXT |
-| 6 | SLATS 5 — EXT |
-| 7 | SLATS 5 — TRANSIT |
-| 8 | SLATS 6 — FULL EXT |
-
-### RJ45 3 — socket D2 on Overhead_1a
+### RJ45 2 - socket D1 on Overhead_1a
 
 | Header | Lamp |
 |---:|---|
-| 1 | SLATS 4 — TRANSIT |
-| 2 | SLATS 4 — EXT |
-| 3 | SLATS 4 — FULL EXT |
-| 4 | LE FLAPS 1 — TRANSIT |
-| 5 | LE FLAPS 1 — EXT |
-| 6 | LE FLAPS 2 — EXT |
-| 7 | LE FLAPS 2 — TRANSIT |
-| 8 | SLATS 3 — FULL EXT |
+| 1 | LE FLAPS 3 - TRANSIT |
+| 2 | LE FLAPS 3 - EXT |
+| 3 | LE FLAPS 4 - EXT |
+| 4 | LE FLAPS 4 - TRANSIT |
+| 5 | SLATS 5 - FULL EXT |
+| 6 | SLATS 5 - EXT |
+| 7 | SLATS 5 - TRANSIT |
+| 8 | SLATS 6 - FULL EXT |
 
-### RJ45 4 — socket D3 on Overhead_1a
+### RJ45 3 - socket D2 on Overhead_1a
 
 | Header | Lamp |
 |---:|---|
-| 1 | SLATS 3 — EXT |
-| 2 | SLATS 1 — TRANSIT |
-| 3 | SLATS 1 — EXT |
-| 4 | SLATS 1 — FULL EXT |
-| 5 | SLATS 2 — TRANSIT |
-| 6 | SLATS 2 — EXT |
-| 7 | SLATS 2 — FULL EXT |
-| 8 | SLATS 3 — TRANSIT |
+| 1 | SLATS 4 - TRANSIT |
+| 2 | SLATS 4 - EXT |
+| 3 | SLATS 4 - FULL EXT |
+| 4 | LE FLAPS 1 - TRANSIT |
+| 5 | LE FLAPS 1 - EXT |
+| 6 | LE FLAPS 2 - EXT |
+| 7 | LE FLAPS 2 - TRANSIT |
+| 8 | SLATS 3 - FULL EXT |
 
-### PCB 3 — socket D0 on Overhead_1a
+### RJ45 4 - socket D3 on Overhead_1a
+
+| Header | Lamp |
+|---:|---|
+| 1 | SLATS 3 - EXT |
+| 2 | SLATS 1 - TRANSIT |
+| 3 | SLATS 1 - EXT |
+| 4 | SLATS 1 - FULL EXT |
+| 5 | SLATS 2 - TRANSIT |
+| 6 | SLATS 2 - EXT |
+| 7 | SLATS 2 - FULL EXT |
+| 8 | SLATS 3 - TRANSIT |
+
+### PCB 3 - socket D0 on Overhead_1a
 
 This is the Combined PCB, so it carries both kinds of connection: the ZH headers drive annunciators, the screw terminals are direct.
 
 | Header | Annunciator |
 |---:|---|
 | 3 | ELT |
-| 4 | PSEU — **not on this panel**, see below |
+| 4 | PSEU - **not on this panel**, see below |
 
 | Pin | Switch |
 |---:|---|
-| 5 | ELT — ARM/ON |
+| 5 | ELT - ARM/ON |
 | 6 | LE DEVICES TEST |
 
 Headers 1 and 2 and pins 7 and 8 are not used.
@@ -200,9 +200,9 @@ Headers 1 and 2 and pins 7 and 8 are not used.
 **Header 4 serves a different panel.** It carries the single annunciator of the [PSEU Panel](15-pseu-panel.md), which has no PCB of its own.
 
 > **Note**
-> The ELT annunciator on header 3 and the ELT switch on pin 5 are wired, but they have no configuration in the [MobiFlight project](../mobiflight.md) — the PMDG 737-800 exposes no variable for the ELT. The lamp stays dark and the switch does nothing.
+> The ELT annunciator on header 3 and the ELT switch on pin 5 are wired, but they have no configuration in the [MobiFlight project](../mobiflight.md) - the PMDG 737-800 exposes no variable for the ELT. The lamp stays dark and the switch does nothing.
 
-**The switch and the push button share a single ground return.** Each takes one of its terminals to its own pin. The opposite terminals are commoned — daisy-chained from one to the other — and the chain ends at a **-** (ground) contact.
+**The switch and the push button share a single ground return.** Each takes one of its terminals to its own pin. The opposite terminals are commoned - daisy-chained from one to the other - and the chain ends at a **-** (ground) contact.
 
 ---
 
@@ -213,7 +213,7 @@ Headers 1 and 2 and pins 7 and 8 are not used.
 | 4× | LED strip |
 | 1× | DC jack 5.5 × 2.5 mm |
 
-Powered from the **12 V** supply — see [Power supply](../system-overview.md#power-supply).
+Powered from the **12 V** supply - see [Power supply](../system-overview.md#power-supply).
 
 ---
 
@@ -221,7 +221,7 @@ Powered from the **12 V** supply — see [Power supply](../system-overview.md#po
 
 Screw abbreviations used in the diagrams: **FH** = flat head, **DH** = dome head.
 
-### 1. Bottom panel — diffusers, switch, button and standoffs
+### 1. Bottom panel - diffusers, switch, button and standoffs
 
 <img src="../../images/panels/17-le-devices-01-bottom-panel.png" alt="Bottom panel assembly" width="700">
 
@@ -229,14 +229,14 @@ Screw abbreviations used in the diagrams: **FH** = flat head, **DH** = dome head
 
 <img src="../../images/panels/17-le-devices-02-top-panels.png" alt="The two top panels screwed to the bottom panel" width="700">
 
-### 3. Bottom panel — LE Devices PCBs
+### 3. Bottom panel - LE Devices PCBs
 
 <img src="../../images/panels/17-le-devices-03-pcbs-fitted.png" alt="The two LE Devices PCBs screwed to the bottom panel" width="700">
 
-### 4. Backlight panel — LED strips
+### 4. Backlight panel - LED strips
 
 <img src="../../images/panels/17-le-devices-04-backlight-leds.png" alt="Backlight LED strips" width="700">
 
-### 5. Backlight panel — Combined PCB and DC jack
+### 5. Backlight panel - Combined PCB and DC jack
 
 <img src="../../images/panels/17-le-devices-05-backlight-pcb.png" alt="Backlight panel with the Combined PCB and the DC jack" width="700">

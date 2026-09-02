@@ -7,9 +7,9 @@
 ---
 
 > **Note**
-> The annunciators are shared across the whole overhead panel — they are not part of any individual panel model. A total of **121** annunciators of this standard size are needed for the complete project.
+> The annunciators are shared across the whole overhead panel - they are not part of any individual panel model. A total of **121** annunciators of this standard size are needed for the complete project.
 >
-> The overhead also uses two large special annunciators with two LEDs each — one yellow and one white. They are not part of this model; their printable parts come with the Engine and Oxygen panel model.
+> The overhead also uses two large special annunciators with two LEDs each - one yellow and one white. They are not part of this model; their printable parts come with the Engine and Oxygen panel model.
 >
 > For the PCB, bill of materials, switch type and wiring, see [Annunciator PCB](../pcb/annunciator.md).
 
@@ -38,7 +38,7 @@
 
 The annunciators have **built-in push buttons**, so they can reproduce the behaviour of the annunciators on the real aircraft. Pressing an annunciator lights it up, exactly as it does on the real overhead panel.
 
-Each annunciator carries two tact switches and one LED on its own small PCB — see [Annunciator PCB](../pcb/annunciator.md).
+Each annunciator carries two tact switches and one LED on its own small PCB - see [Annunciator PCB](../pcb/annunciator.md).
 
 ---
 
@@ -55,7 +55,7 @@ The project uses several types of annunciator:
 | 9× | blue | white, two brightness levels (DIM/BRIGHT) |
 | 2× | black | large special annunciators, one yellow and one white LED |
 
-The last row is the two large special annunciators described in the note at the top of the page — they are not part of this model.
+The last row is the two large special annunciators described in the note at the top of the page - they are not part of this model.
 
 ---
 
@@ -93,7 +93,7 @@ The inner-part can be quite challenging to print. Its upper section may wobble d
 
 | Qty | File |
 |---:|---|
-| 1× | A4 PDF — annunciator labels |
+| 1× | A4 PDF - annunciator labels |
 
 The PDF and the printing instructions are on the [UV Print Files](../uv-print.md) page.
 
@@ -109,7 +109,7 @@ The PDF and the printing instructions are on the [UV Print Files](../uv-print.md
 
 ## Assembly Diagram
 
-One annunciator, exploded — from the table-frame on the left to the PCB and its cable on the right:
+One annunciator, exploded - from the table-frame on the left to the PCB and its cable on the right:
 
 <img src="../../images/panels/02-annunciators-exploded.png" alt="Exploded view of one annunciator" width="800">
 
@@ -159,7 +159,7 @@ Complete this step **only once you have the assembled RJ45 LED driver**, so that
 > **⚠️ Test before you glue**
 > Assemble the parts completely **without glue** first and test the mechanism to make sure that both buttons work correctly and move freely. Only glue once you have confirmed that everything works.
 >
-> In some cases the mechanism may not work correctly — only one of the two buttons responds, neither button responds, or the buttons stay permanently pressed. If this happens, disassemble the parts **immediately** and find the cause before the glue sets. Otherwise the mechanism can end up permanently glued in the wrong position, and the outer-part and pcb-holder may have to be destroyed to take it apart.
+> In some cases the mechanism may not work correctly - only one of the two buttons responds, neither button responds, or the buttons stay permanently pressed. If this happens, disassemble the parts **immediately** and find the cause before the glue sets. Otherwise the mechanism can end up permanently glued in the wrong position, and the outer-part and pcb-holder may have to be destroyed to take it apart.
 >
 > A slow-setting adhesive with a working time of about 1 minute is the safer choice. I used standard super glue myself without any problems.
 

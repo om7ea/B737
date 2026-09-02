@@ -23,7 +23,7 @@
 </tbody>
 <tbody>
 <tr>
-<td align="center" width="50%"><img src="../../images/panels/04-navigation-photo-5-rear.jpg" alt="Rear of the panel with PCBs and wiring"><br><sub>Rear side — PCBs, wiring and DC jack</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/04-navigation-photo-5-rear.jpg" alt="Rear of the panel with PCBs and wiring"><br><sub>Rear side - PCBs, wiring and DC jack</sub></td>
 <td width="50%"></td>
 </tr>
 </tbody>
@@ -69,7 +69,7 @@ The rotary switch is the SOURCE selector, the four toggle switches are VHF NAV, 
 
 ## Rotary Knob
 
-The knob for the SOURCE selector is a separate model shared with the other panels — it is **not included** in this download.
+The knob for the SOURCE selector is a separate model shared with the other panels - it is **not included** in this download.
 
 | | |
 |---|---|
@@ -104,7 +104,7 @@ Mounting and connections are shown in [step 4](#4-backlight-panel--pcbs-and-dc-j
 
 ## Wiring
 
-There are no annunciators on this panel — everything on it is a switch input. The five switches need eleven connections, more than one Direct PCB has pins for, so they are split over two boards. Both reach the **same** MEGA 2560 — `Overhead_1b`. Each PCB is connected by one Ethernet patch cable to a socket on the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md).
+There are no annunciators on this panel - everything on it is a switch input. The five switches need eleven connections, more than one Direct PCB has pins for, so they are split over two boards. Both reach the **same** MEGA 2560 - `Overhead_1b`. Each PCB is connected by one Ethernet patch cable to a socket on the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md).
 
 | PCB | Patch cable goes to | Connections used |
 |---|---|---|
@@ -117,34 +117,34 @@ The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shi
 
 The rear of the panel. **PCB 1** is the one with all eight screw terminals fitted; **PCB 2** has only three.
 
-### PCB 1 — socket A2 on Overhead_1b
+### PCB 1 - socket A2 on Overhead_1b
 
-The four toggle switches. Each of them is a three-position ON/OFF/ON switch, so each takes **two pins**, one per active position — in the centre NORMAL position neither pin is connected.
+The four toggle switches. Each of them is a three-position ON/OFF/ON switch, so each takes **two pins**, one per active position - in the centre NORMAL position neither pin is connected.
 
 | Pin | Switch |
 |---:|---|
-| 1 | CONTROL PANEL — BOTH ON 2 |
-| 2 | CONTROL PANEL — BOTH ON 1 |
-| 3 | FMC — BOTH ON L |
-| 4 | FMC — BOTH ON R |
-| 5 | IRS — BOTH ON L |
-| 6 | IRS — BOTH ON R |
-| 7 | VHF NAV — BOTH ON 1 |
-| 8 | VHF NAV — BOTH ON 2 |
+| 1 | CONTROL PANEL - BOTH ON 2 |
+| 2 | CONTROL PANEL - BOTH ON 1 |
+| 3 | FMC - BOTH ON L |
+| 4 | FMC - BOTH ON R |
+| 5 | IRS - BOTH ON L |
+| 6 | IRS - BOTH ON R |
+| 7 | VHF NAV - BOTH ON 1 |
+| 8 | VHF NAV - BOTH ON 2 |
 
-### PCB 2 — socket A1 on Overhead_1b
+### PCB 2 - socket A1 on Overhead_1b
 
 The SOURCE rotary switch, at the bottom left of the panel. All three of its positions are wired, each to its own pin.
 
 | Pin | Switch |
 |---:|---|
-| 6 | SOURCE — ALL ON 2 |
-| 7 | SOURCE — ALL ON 1 |
-| 8 | SOURCE — AUTO |
+| 6 | SOURCE - ALL ON 2 |
+| 7 | SOURCE - ALL ON 1 |
+| 8 | SOURCE - AUTO |
 
 Pins 1 to 5 are not used.
 
-**The switches share a single ground return.** Each switch takes one of its terminals to its own pin. The opposite terminals are commoned — daisy-chained from one switch to the next — and the chain ends at a **-** (ground) contact.
+**The switches share a single ground return.** Each switch takes one of its terminals to its own pin. The opposite terminals are commoned - daisy-chained from one switch to the next - and the chain ends at a **-** (ground) contact.
 
 ---
 
@@ -155,7 +155,7 @@ Pins 1 to 5 are not used.
 | 9× | LED strip |
 | 1× | DC jack 5.5 × 2.5 mm |
 
-Powered from the **12 V** supply — see [Power supply](../system-overview.md#power-supply).
+Powered from the **12 V** supply - see [Power supply](../system-overview.md#power-supply).
 
 ---
 
@@ -167,14 +167,14 @@ Screw abbreviations used in the diagrams: **FH** = flat head, **DH** = dome head
 
 <img src="../../images/panels/04-navigation-01-top-panel.png" alt="Top panel assembly" width="700">
 
-### 2. Bottom panel — switches, diffuser and standoffs
+### 2. Bottom panel - switches, diffuser and standoffs
 
 <img src="../../images/panels/04-navigation-02-bottom-panel.png" alt="Bottom panel assembly" width="700">
 
-### 3. Backlight panel — LED strips
+### 3. Backlight panel - LED strips
 
 <img src="../../images/panels/04-navigation-03-backlight-leds.png" alt="Backlight LED strips" width="700">
 
-### 4. Backlight panel — PCBs and DC jack
+### 4. Backlight panel - PCBs and DC jack
 
 <img src="../../images/panels/04-navigation-04-backlight-pcb.png" alt="Backlight panel PCB mounting" width="700">

@@ -18,17 +18,17 @@ A total of **20** PCBs are required for the complete project. I recommend orderi
 
 ---
 
-## Bill of Materials (BOM) — per PCB
+## Bill of Materials (BOM) - per PCB
 
 | Qty | Part | Reference |
 |---:|---|---|
-| 1× | **RJ45 connector** — 5224 8P8C in-line, vertical 180°, full plastic | [Product I used](../../images/parts/AE_RJ45.png) |
+| 1× | **RJ45 connector** - 5224 8P8C in-line, vertical 180°, full plastic | [Product I used](../../images/parts/AE_RJ45.png) |
 | 2× | **4.8 mm PCB male Faston terminal** | [Product I used](../../images/parts/AE_plug_male.png) |
-| 1–8× | **Header ZH 1.5 4P** — buy the set (connectors + cables) | [Product I used](../../images/parts/AE_ZH.png) |
-| 1–8× | **SMD 0805 resistors** — see the table below for values | |
+| 1–8× | **Header ZH 1.5 4P** - buy the set (connectors + cables) | [Product I used](../../images/parts/AE_ZH.png) |
+| 1–8× | **SMD 0805 resistors** - see the table below for values | |
 | 1× | **ULN2803** | [Product I used](../../images/parts/AE_ULN2803.png) |
-| 1× | **330 Ω resistor (0805)** — optional | |
-| 1× | **Green LED (0805)** — optional | |
+| 1× | **330 Ω resistor (0805)** - optional | |
+| 1× | **Green LED (0805)** - optional | |
 
 ### Resistor Values
 
@@ -36,5 +36,5 @@ A total of **20** PCBs are required for the complete project. I recommend orderi
 |---|---|
 | yellow LED | 150 Ω |
 | green LED | 330 Ω |
-| white LED — no dual brightness annunciator | 250 Ω |
-| white LED — dual brightness annunciator | 100 Ω |
+| white LED - no dual brightness annunciator | 250 Ω |
+| white LED - dual brightness annunciator | 100 Ω |

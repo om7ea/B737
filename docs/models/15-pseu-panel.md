@@ -48,7 +48,7 @@
 |---:|---|
 | 1× | Black background, yellow LED |
 
-The annunciators are a separate model shared with the other panels — they are **not included** in this download.
+The annunciators are a separate model shared with the other panels - they are **not included** in this download.
 
 | | |
 |---|---|
@@ -60,7 +60,7 @@ The annunciators are a separate model shared with the other panels — they are 
 
 ## Wiring
 
-This panel has no PCB and no patch cable of its own. Its single annunciator is wired across to a PCB on the **[LE Devices and ELT Panel](17-le-devices-and-elt-panel.md)**, where it takes header **4** — that PCB's cable goes to socket **D0** on **Overhead_1a**.
+This panel has no PCB and no patch cable of its own. Its single annunciator is wired across to a PCB on the **[LE Devices and ELT Panel](17-le-devices-and-elt-panel.md)**, where it takes header **4** - that PCB's cable goes to socket **D0** on **Overhead_1a**.
 
 The ZH cable to the annunciator comes from that panel, so nothing here connects to a MEGA 2560 directly.
 

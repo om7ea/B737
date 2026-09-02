@@ -18,27 +18,27 @@ Board size: **81.5 × 58.5 mm**.
 
 ## Quantity
 
-A total of **7** PCBs are required for the complete project — one for each of the seven [MEGA 2560 PRO MINI boards](../system-overview.md#the-boards).
+A total of **7** PCBs are required for the complete project - one for each of the seven [MEGA 2560 PRO MINI boards](../system-overview.md#the-boards).
 
 ---
 
-## Bill of Materials (BOM) — for all 7 PCBs
+## Bill of Materials (BOM) - for all 7 PCBs
 
 | Qty | Part | Reference |
 |---:|---|---|
 | 7× | **PCB** | download the Gerber files above |
-| 63× | **RJ45 connector** — 5224 8P8C in-line, vertical 180°, full plastic | [Product I used](../../images/parts/AE_RJ45.png) |
-| 7× | **Electrolytic capacitor 47 µF / 16 V** — radial, 3.5 mm lead pitch | |
+| 63× | **RJ45 connector** - 5224 8P8C in-line, vertical 180°, full plastic | [Product I used](../../images/parts/AE_RJ45.png) |
+| 7× | **Electrolytic capacitor 47 µF / 16 V** - radial, 3.5 mm lead pitch | |
 | 7× | **Ceramic capacitor 100 nF** | |
-| 14× | **4.8 mm PCB male Faston terminal** — one leg clipped off, this is what I used | [Product I used](../../images/parts/AE_plug_male.png) |
-| 7× | **2×21 pin header** — 2.54 mm double row, usually supplied with the MEGA 2560 PRO MINI | |
-| 7× | **2×16 pin header** — 2.54 mm double row, usually supplied with the MEGA 2560 PRO MINI | |
-| 7× | **2×3 pin header** — 2.54 mm double row, usually supplied with the MEGA 2560 PRO MINI | |
-| 7× | **2×21 female socket** — 2.54 mm double row, soldered into the MEGA 2560 PRO MINI | [Product I used](../../images/parts/AE_socket_2x21.png) |
-| 7× | **2×16 female socket** — 2.54 mm double row, soldered into the MEGA 2560 PRO MINI | [Product I used](../../images/parts/AE_socket_2x16.png) |
-| 7× | **2×3 female socket** — 2.54 mm double row, soldered into the MEGA 2560 PRO MINI | [Product I used](../../images/parts/AE_socket_2x3.png) |
-| 7× | **330 Ω resistor (0805)** — optional | |
-| 7× | **Green LED (0805)** — optional | |
+| 14× | **4.8 mm PCB male Faston terminal** - one leg clipped off, this is what I used | [Product I used](../../images/parts/AE_plug_male.png) |
+| 7× | **2×21 pin header** - 2.54 mm double row, usually supplied with the MEGA 2560 PRO MINI | |
+| 7× | **2×16 pin header** - 2.54 mm double row, usually supplied with the MEGA 2560 PRO MINI | |
+| 7× | **2×3 pin header** - 2.54 mm double row, usually supplied with the MEGA 2560 PRO MINI | |
+| 7× | **2×21 female socket** - 2.54 mm double row, soldered into the MEGA 2560 PRO MINI | [Product I used](../../images/parts/AE_socket_2x21.png) |
+| 7× | **2×16 female socket** - 2.54 mm double row, soldered into the MEGA 2560 PRO MINI | [Product I used](../../images/parts/AE_socket_2x16.png) |
+| 7× | **2×3 female socket** - 2.54 mm double row, soldered into the MEGA 2560 PRO MINI | [Product I used](../../images/parts/AE_socket_2x3.png) |
+| 7× | **330 Ω resistor (0805)** - optional | |
+| 7× | **Green LED (0805)** - optional | |
 
 > **Note**
 > The 5 V input footprint is 5.08 mm, so a [KF301-2P screw terminal](../../images/parts/AE_KF301.png) fits it just as well as the two Faston tabs. Use whichever you prefer.
@@ -47,7 +47,7 @@ A total of **7** PCBs are required for the complete project — one for each of 
 > The shop lists these headers and sockets by the number of positions in one row, so a 2×21 part is sold as *21Pin*.
 
 > **Note**
-> The MEGA 2560 PRO MINI itself is not part of this BOM — see [Hardware](../system-overview.md#hardware-inside-the-panel) in the system overview.
+> The MEGA 2560 PRO MINI itself is not part of this BOM - see [Hardware](../system-overview.md#hardware-inside-the-panel) in the system overview.
 
 ---
 
@@ -70,4 +70,4 @@ A total of **7** PCBs are required for the complete project — one for each of 
 
 - The RJ45 sockets, the 47 µF electrolytic capacitor and the optional power LED go on the **top** side. The pin headers and the 100 nF capacitor go on the **bottom** side.
 - I soldered the **pin headers into the shield** and the **female sockets into the MEGA 2560 PRO MINI**, so the shield sits on top of the board. The other way round works just as well.
-- The 100 nF capacitor has no footprint of its own — solder it directly across the two power terminal pads on the underside, in parallel with the 47 µF.
+- The 100 nF capacitor has no footprint of its own - solder it directly across the two power terminal pads on the underside, in parallel with the 47 µF.

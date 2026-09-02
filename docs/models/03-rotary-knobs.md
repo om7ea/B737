@@ -7,7 +7,7 @@
 ---
 
 > **Note**
-> The knobs are shared across the whole overhead panel — they are not part of any individual panel model. **21** knobs are needed for the complete project. Each panel page lists the knobs that panel uses.
+> The knobs are shared across the whole overhead panel - they are not part of any individual panel model. **21** knobs are needed for the complete project. Each panel page lists the knobs that panel uses.
 
 ---
 

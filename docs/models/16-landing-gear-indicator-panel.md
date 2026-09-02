@@ -12,7 +12,7 @@
 <tbody>
 <tr>
 <td align="center" width="50%"><img src="../../images/panels/16-landing-gear-photo-1-front.jpg" alt="Finished Landing Gear Indicator Panel, front"><br><sub>Finished panel</sub></td>
-<td align="center" width="50%"><img src="../../images/panels/16-landing-gear-photo-2-rear.jpg" alt="Rear of the panel with the three annunciators"><br><sub>Rear side — the three annunciators and their cables</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/16-landing-gear-photo-2-rear.jpg" alt="Rear of the panel with the three annunciators"><br><sub>Rear side - the three annunciators and their cables</sub></td>
 </tr>
 </tbody>
 </table>
@@ -49,7 +49,7 @@
 |---:|---|
 | 3× | Black background, green LED |
 
-The annunciators are a separate model shared with the other panels — they are **not included** in this download.
+The annunciators are a separate model shared with the other panels - they are **not included** in this download.
 
 | | |
 |---|---|

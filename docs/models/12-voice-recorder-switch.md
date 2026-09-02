@@ -24,13 +24,13 @@
 <tbody>
 <tr>
 <td align="center" width="50%"><img src="../../images/panels/12-voice-recorder-switch-photo-5-diffuser-fitted.jpg" alt="Diffuser panel fitted into the bottom panel"><br><sub>Diffuser panel fitted, before the top panel goes on</sub></td>
-<td align="center" width="50%"><img src="../../images/panels/12-voice-recorder-switch-photo-6-backlight-leds.jpg" alt="Inside of the backlight panel with the LED strip"><br><sub>Backlight panel from the inside — LED strip and DC jack wiring</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/12-voice-recorder-switch-photo-6-backlight-leds.jpg" alt="Inside of the backlight panel with the LED strip"><br><sub>Backlight panel from the inside - LED strip and DC jack wiring</sub></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
-<td align="center" width="50%"><img src="../../images/panels/12-voice-recorder-switch-photo-7-backlight-dc-jack.jpg" alt="Outside of the backlight panel with the DC jack"><br><sub>Backlight panel from the outside — DC jack</sub></td>
-<td align="center" width="50%"><img src="../../images/panels/12-voice-recorder-switch-photo-8-rear.jpg" alt="Rear of the assembled panel"><br><sub>Rear side — backlight panel mounted, switch terminals and DC jack</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/12-voice-recorder-switch-photo-7-backlight-dc-jack.jpg" alt="Outside of the backlight panel with the DC jack"><br><sub>Backlight panel from the outside - DC jack</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/12-voice-recorder-switch-photo-8-rear.jpg" alt="Rear of the assembled panel"><br><sub>Rear side - backlight panel mounted, switch terminals and DC jack</sub></td>
 </tr>
 </tbody>
 </table>
@@ -82,7 +82,7 @@
 
 ## Wiring
 
-This panel has no PCB and no patch cable of its own. Its single switch is wired across to a PCB on the **Temperature Control Panel**, where it takes pin **5** — that PCB's cable goes to socket **A2** on **Overhead_5**.
+This panel has no PCB and no patch cable of its own. Its single switch is wired across to a PCB on the **Temperature Control Panel**, where it takes pin **5** - that PCB's cable goes to socket **A2** on **Overhead_5**.
 
 **Both wires come from that panel**, the signal and the ground return, so nothing here connects to a MEGA 2560 directly.
 
@@ -95,7 +95,7 @@ This panel has no PCB and no patch cable of its own. Its single switch is wired 
 | 1× | LED strip |
 | 1× | DC jack 5.5 × 2.5 mm |
 
-Powered from the **12 V** supply — see [Power supply](../system-overview.md#power-supply).
+Powered from the **12 V** supply - see [Power supply](../system-overview.md#power-supply).
 
 ---
 
@@ -107,14 +107,14 @@ Screw abbreviations used in the diagrams: **FH** = flat head, **DH** = dome head
 
 <img src="../../images/panels/12-voice-recorder-switch-01-top-panel.png" alt="Top panel assembly" width="700">
 
-### 2. Bottom panel — diffuser, switch and standoffs
+### 2. Bottom panel - diffuser, switch and standoffs
 
 <img src="../../images/panels/12-voice-recorder-switch-02-bottom-panel.png" alt="Bottom panel assembly" width="700">
 
-### 3. Backlight panel — LED strip
+### 3. Backlight panel - LED strip
 
 <img src="../../images/panels/12-voice-recorder-switch-03-backlight-leds.png" alt="Backlight LED strip" width="700">
 
-### 4. Backlight panel — DC jack
+### 4. Backlight panel - DC jack
 
 <img src="../../images/panels/12-voice-recorder-switch-04-backlight-dc-jack.png" alt="Backlight panel DC jack mounting" width="700">

@@ -3,7 +3,7 @@
 This repository contains supplementary manufacturing files for the corresponding MakerWorld project. Additional files and resources will be added gradually as new models are published on MakerWorld.
 
 > **Note**
-> This repository contains only supplementary manufacturing files. The 3D printable parts are available on MakerWorld — see the [model list](docs/models/README.md) for a link to each one.
+> This repository contains only supplementary manufacturing files. The 3D printable parts are available on MakerWorld - see the [model list](docs/models/README.md) for a link to each one.
 
 ## Photos
 
@@ -15,7 +15,7 @@ This repository contains supplementary manufacturing files for the corresponding
 
 ## How It Works
 
-All electronics are enclosed inside the panel and connected to an internal USB hub, so the finished panel needs just **one USB cable to the PC** — plus its own power supplies.
+All electronics are enclosed inside the panel and connected to an internal USB hub, so the finished panel needs just **one USB cable to the PC** - plus its own power supplies.
 
 <img src="images/system_overview.png" alt="System overview diagram" width="800">
 
@@ -23,7 +23,7 @@ All electronics are enclosed inside the panel and connected to an internal USB h
 
 **Inside the panel:** 7× **Mega 2560 PRO MINI** boards, each driving one group of panels, all connected to an internal USB hub. Panels attach to the boards through RJ45 connectors using standard Ethernet patch cables.
 
-**Power:** the panel is powered externally, not through the USB cable. It uses **two separate power supplies** — a **12 V** supply for the backlighting and a **5 V** supply for the rest of the electronics.
+**Power:** the panel is powered externally, not through the USB cable. It uses **two separate power supplies** - a **12 V** supply for the backlighting and a **5 V** supply for the rest of the electronics.
 
 📖 **[Full system overview →](docs/system-overview.md)**
 
@@ -33,12 +33,12 @@ All electronics are enclosed inside the panel and connected to an internal USB h
 
 | | Contents |
 |---|---|
-| ⚙️ **[System Overview](docs/system-overview.md)** | How the panel connects to the simulator — software, boards, wiring |
+| ⚙️ **[System Overview](docs/system-overview.md)** | How the panel connects to the simulator - software, boards, wiring |
 | 🔌 **[PCB Manufacturing Files](docs/pcb/README.md)** | Gerber downloads, BOM and assembly for each PCB design |
 | 🖨️ **[UV Print Files](docs/uv-print.md)** | Printable panel graphics and printing instructions |
 | 🛩️ **[Models](docs/models/README.md)** | Build notes for the frame, the shared models and each panel |
 | 🎨 **[Filaments](docs/filaments.md)** | The filaments I used and their colours |
-| 🖥️ **[MobiFlight Configuration](docs/mobiflight.md)** | The complete MobiFlight configuration — board definitions and the simulator mapping |
+| 🖥️ **[MobiFlight Configuration](docs/mobiflight.md)** | The complete MobiFlight configuration - board definitions and the simulator mapping |
 
 ---
 

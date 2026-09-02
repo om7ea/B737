@@ -7,7 +7,7 @@
 ---
 
 > **Note**
-> This is the only panel whose controls and indicators are **not connected to the PC**, and the only **panel with text** that is **not backlit** — just as it is on the real aircraft.
+> This is the only panel whose controls and indicators are **not connected to the PC**, and the only **panel with text** that is **not backlit** - just as it is on the real aircraft.
 
 ---
 
@@ -23,7 +23,7 @@
 <tbody>
 <tr>
 <td align="center" width="50%"><img src="../../images/panels/11-voice-recorder-photo-3-components.jpg" alt="Jack and buttons fitted to the top panel"><br><sub>Headphone jack and buttons fitted to the top panel</sub></td>
-<td align="center" width="50%"><img src="../../images/panels/11-voice-recorder-photo-4-rear.jpg" alt="Rear of the panel with microphone and standoffs"><br><sub>Rear side — microphone, LED and standoffs</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/11-voice-recorder-photo-4-rear.jpg" alt="Rear of the panel with microphone and standoffs"><br><sub>Rear side - microphone, LED and standoffs</sub></td>
 </tr>
 </tbody>
 </table>

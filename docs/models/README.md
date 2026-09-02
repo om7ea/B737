@@ -1,6 +1,6 @@
 # Models
 
-Build notes for the individual models. The printable parts themselves are published on MakerWorld — the pages linked below contain the print settings and assembly instructions for each model.
+Build notes for the individual models. The printable parts themselves are published on MakerWorld - the pages linked below contain the print settings and assembly instructions for each model.
 
 [← Back to main page](../../README.md)
 
@@ -10,7 +10,7 @@ The models are listed in the order in which they were released on MakerWorld.
 
 ## Frame and Shared Models
 
-These are not panels. The frame carries the whole overhead; the rest are components and instruments that go into the panels — some of them into several.
+These are not panels. The frame carries the whole overhead; the rest are components and instruments that go into the panels - some of them into several.
 
 <table>
 <thead>

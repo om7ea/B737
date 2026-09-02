@@ -18,13 +18,13 @@ A total of **27** PCBs are required for the complete project. I recommend orderi
 
 ---
 
-## Bill of Materials (BOM) — per PCB
+## Bill of Materials (BOM) - per PCB
 
 | Qty | Part | Reference |
 |---:|---|---|
-| 1× | **RJ45 connector** — 5224 8P8C in-line, vertical 180°, full plastic | [Product I used](../../images/parts/AE_RJ45.png) |
+| 1× | **RJ45 connector** - 5224 8P8C in-line, vertical 180°, full plastic | [Product I used](../../images/parts/AE_RJ45.png) |
 | 3× | **4.8 mm PCB male Faston terminal** | [Product I used](../../images/parts/AE_plug_male.png) |
-| as required | **KF301 PCB screw terminals** — 2P/3P/4P | [Product I used](../../images/parts/AE_KF301.png) |
+| as required | **KF301 PCB screw terminals** - 2P/3P/4P | [Product I used](../../images/parts/AE_KF301.png) |
 | as required | **2.54 mm male pin header** | |
-| 1× | **330 Ω resistor (0805)** — optional | |
-| 1× | **Green LED (0805)** — optional | |
+| 1× | **330 Ω resistor (0805)** - optional | |
+| 1× | **Green LED (0805)** - optional | |
