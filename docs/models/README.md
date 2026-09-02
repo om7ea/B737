@@ -49,7 +49,7 @@ These are not panels. The frame carries the whole overhead; the rest are compone
 <tr>
 <td><a href="21-temperature-and-climb-gauges.md"><img src="../../images/panels/21-temp-climb-photo-1-front.jpg" width="200"></a></td>
 <td>Temperature and Climb Gauges</td>
-<td>🚧</td>
+<td><a href="https://makerworld.com/en/models/3251829-boeing-737-overhead-temperature-and-climb-gauges">Model</a></td>
 <td><a href="21-temperature-and-climb-gauges.md">Notes</a></td>
 </tr>
 </tbody>

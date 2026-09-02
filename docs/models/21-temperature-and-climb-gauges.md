@@ -1,6 +1,6 @@
 # 21. Temperature and Climb Gauges
 
-📦 *The MakerWorld link will be added here.*
+[📦 Download the printable model on MakerWorld](https://makerworld.com/en/models/3251829-boeing-737-overhead-temperature-and-climb-gauges)
 
 [← Back to model list](README.md)
 
