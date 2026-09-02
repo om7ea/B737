@@ -8,9 +8,9 @@ The numbering follows the order in which the models were released on MakerWorld.
 
 ---
 
-## Frame and Shared Components
+## Frame and Shared Models
 
-These are not panels. The frame carries the whole overhead, and the components below are reused across many panels.
+These are not panels. The frame carries the whole overhead, and the models below are reused across many panels.
 
 <table>
 <thead>
@@ -47,6 +47,15 @@ These are not panels. The frame carries the whole overhead, and the components b
 <td>Rotary Knobs</td>
 <td><a href="https://makerworld.com/en/models/3066127-boeing-737-overhead-rotary-knobs">Model</a></td>
 <td><a href="03-rotary-knobs.md">Notes</a></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td><a href="21-gauge.md"><img src="../../images/panels/21-gauge-photo-1-front.jpg" width="200"></a></td>
+<td align="right">21</td>
+<td>Gauge</td>
+<td>🚧</td>
+<td><a href="21-gauge.md">Notes</a></td>
 </tr>
 </tbody>
 </table>
