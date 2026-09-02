@@ -88,4 +88,4 @@ The grey sheet is what gives the meter panel window its dark, switched-off look 
 
 I cut all nine pieces myself on my own CNC router.
 
-The DXF files are drawn **1:1 in millimetres** and each outline is the finished edge of the piece, so the cutter has to run outside the line by its own radius.
+The DXF files are drawn **1:1 in millimetres**.
