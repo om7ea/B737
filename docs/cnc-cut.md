@@ -8,7 +8,7 @@ Acrylic windows for the gauges and for the AC and DC Meter Panel.
 
 ## Cuts
 
-Five shapes, **nine pieces** in total. Each drawing downloads on its own - the file is zipped, because GitHub shows a bare `.dxf` as text instead of saving it. All five previews are drawn to the same scale, so the sizes can be compared against each other.
+Five shapes, **nine pieces** in total. Each drawing downloads on its own - the file is zipped, because GitHub shows a bare `.dxf` as text instead of saving it.
 
 <table>
 <thead>
@@ -67,7 +67,7 @@ Five shapes, **nine pieces** in total. Each drawing downloads on its own - the f
 </tbody>
 </table>
 
-**Every piece is fitted into the panel itself, not into the instrument behind it.** The four round ones cover the gauge openings in the panel; which instrument sits behind each one is on that panel's own page.
+**Every piece is fitted into the panel, not into the instrument behind it - with one exception: the Ø 29.8 mm window goes into the gauge itself.** Which instrument sits behind each of the round windows is on that panel's own page.
 
 ---
 
