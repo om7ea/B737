@@ -67,7 +67,7 @@ Five shapes, **nine pieces** in total. The drawings are zipped, because GitHub s
 </tbody>
 </table>
 
-**Every piece is fitted into the panel, not into the instrument behind it - with one exception: the Ø 29.8 mm window goes into the gauge itself.** Which instrument sits behind each of the round windows is on that panel's own page.
+Which instrument sits behind each of the round windows is on that panel's own page.
 
 ---
 
