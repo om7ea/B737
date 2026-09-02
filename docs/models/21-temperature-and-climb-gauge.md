@@ -1,4 +1,4 @@
-# 21. Gauge
+# 21. Temperature and Climb Gauge
 
 📦 *The MakerWorld link will be added here.*
 
@@ -18,8 +18,8 @@
 <table>
 <tbody>
 <tr>
-<td align="center" width="50%"><img src="../../images/panels/21-gauge-photo-1-front.jpg" alt="Finished gauge, front"><br><sub>A finished gauge — this one carries the FUEL TEMP scale</sub></td>
-<td align="center" width="50%"><img src="../../images/panels/21-gauge-photo-2-side.jpg" alt="The gauge from the side, showing the two backlight LED strips"><br><sub>From the side — the two backlight LED strips inside the housing</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/21-temp-climb-photo-1-front.jpg" alt="Finished gauge, front"><br><sub>A finished gauge — this one carries the FUEL TEMP scale</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/21-temp-climb-photo-2-side.jpg" alt="The gauge from the side, showing the two backlight LED strips"><br><sub>From the side — the two backlight LED strips inside the housing</sub></td>
 </tr>
 </tbody>
 </table>
@@ -122,7 +122,7 @@ The two strips sit inside the housing, one on each side, and light the white top
 
 The pointer has a light of its own: a white 5 mm LED under the pointer shaft, shining up through the transparent 7-tooth gear and the acrylic rod into the pointer. It runs on **5 V** with a **150 Ω** resistor in series.
 
-<img src="../../images/panels/21-gauge-photo-3-pointer-led.jpg" alt="The pointer LED and its series resistor behind the servo" width="300">
+<img src="../../images/panels/21-temp-climb-photo-3-pointer-led.jpg" alt="The pointer LED and its series resistor behind the servo" width="300">
 
 The photo shows more than one resistor because I had no 150 Ω to hand and made the value up from three in parallel. One resistor of the right value does the same job.
 
@@ -159,7 +159,7 @@ The 12 V for the scale backlight is brought over from the panel's own backlighti
 
 Screw abbreviations used in the diagram: **DH** = dome head.
 
-<img src="../../images/panels/21-gauge-01-assembly.png" alt="Exploded view of one gauge" width="800">
+<img src="../../images/panels/21-temp-climb-01-assembly.png" alt="Exploded view of one gauge" width="800">
 
 > **Note**
 > Three of the joints may need a drop of super glue, depending on how tight they come out of your printer: the **7-tooth gear** on the acrylic rod, the **white pointer** on the acrylic rod, and the **black centre cap** on the white pointer.

@@ -51,11 +51,11 @@ These are not panels. The frame carries the whole overhead, and the models below
 </tbody>
 <tbody>
 <tr>
-<td><a href="21-gauge.md"><img src="../../images/panels/21-gauge-photo-1-front.jpg" width="200"></a></td>
+<td><a href="21-temperature-and-climb-gauge.md"><img src="../../images/panels/21-temp-climb-photo-1-front.jpg" width="200"></a></td>
 <td align="right">21</td>
-<td>Gauge</td>
+<td>Temperature and Climb Gauge</td>
 <td>🚧</td>
-<td><a href="21-gauge.md">Notes</a></td>
+<td><a href="21-temperature-and-climb-gauge.md">Notes</a></td>
 </tr>
 </tbody>
 </table>
