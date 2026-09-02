@@ -124,7 +124,7 @@ The pointer has a light of its own: a white 5 mm LED under the pointer shaft, sh
 
 <img src="../../images/panels/21-gauge-photo-3-pointer-led.jpg" alt="The pointer LED and its series resistor behind the servo" width="300">
 
-There are two resistors in the photo rather than one — I had no 150 Ω to hand and made the value up from two in parallel. One resistor of the right value does the same job.
+The photo shows more than one resistor because I had no 150 Ω to hand and made the value up from three in parallel. One resistor of the right value does the same job.
 
 > **Note**
 > The pointer lighting works, but the effect is weak. White PLA does not carry light well over the length of a pointer, so the pointer glows rather than lights up. It is worth building — but do not expect the pointer to stand out the way the scale does.
