@@ -159,7 +159,7 @@ The 12 V for the scale backlight is brought over from the panel's own backlighti
 
 Screw abbreviations used in the diagram: **DH** = dome head.
 
-<img src="../../images/panels/21-temp-climb-01-assembly.png" alt="Exploded view of one gauge" width="800">
+<img src="../../images/panels/21-temp-climb-01-exploded.png" alt="Exploded view of one gauge" width="800">
 
 > **Note**
 > Three of the joints may need a drop of super glue, depending on how tight they come out of your printer: the **7-tooth gear** on the acrylic rod, the **white needle** on the acrylic rod, and the **black centre cap** on the white needle.
