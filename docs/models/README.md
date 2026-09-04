@@ -236,6 +236,14 @@ These are not panels. The frame carries the whole overhead; the rest are compone
 <td><a href="20-center-lower-panel.md">Notes</a></td>
 </tr>
 </tbody>
+<tbody>
+<tr>
+<td><a href="22-fuel-control-panel.md"><img src="../../images/panels/22-fuel-control-thumbnail.jpg" width="200"></a></td>
+<td>Fuel Control Panel</td>
+<td><a href="https://makerworld.com/en/models/3260961-boeing-737-overhead-fuel-control-panel">Model</a></td>
+<td><a href="22-fuel-control-panel.md">Notes</a></td>
+</tr>
+</tbody>
 </table>
 
 More panels are currently in preparation.
