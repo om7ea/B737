@@ -61,6 +61,9 @@
 
 The six toggle switches are the FUEL PUMPS switches, the rotary switch is CROSS FEED.
 
+> **Note**
+> With the knob already fitted, I turned the CROSS FEED selector hard against its end stop until the stop broke off inside the switch. What is left is a switch that turns continuously in both directions instead of running out of travel. I used the same trick on the AC and DC Meter Panel.
+
 ---
 
 ## Rotary Knobs
@@ -162,7 +165,7 @@ The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shi
 
 <img src="../../images/panels/22-fuel-control-wiring-pcbs.jpg" alt="Rear of the panel with the four PCBs marked" width="700">
 
-The rear of the panel. **PCB 1** and **PCB 3** are the two boards side by side under the gauge, each one wired to the annunciators of the half of the panel it sits on - and because this is the view from behind, that half is on the opposite side when you turn the panel over. **PCB 2** is below them, mounted on its side, with only two of its headers populated. **PCB 4** is the board with the blue eight-way screw terminal; the black pin header beside it is where the servo plugs in.
+The rear of the panel. **PCB 1** and **PCB 3** are the two boards side by side under the gauge, each one wired to the annunciators of the half of the panel it sits on. **PCB 2** is below them, mounted on its side, with only two of its headers populated. **PCB 4** is the board with the blue eight-way screw terminal; the black pin header beside it is where the servo plugs in.
 
 ### PCB 1 - socket D0 on Overhead_1b
 
