@@ -81,7 +81,7 @@ The knob for the CROSS FEED selector is a separate model shared with the other p
 
 ## Gauge
 
-The FUEL TEMP instrument is a separate model shared with three other panels - it is **not included** in this download. The bezel and the acrylic window in front of it are part of this panel.
+The FUEL TEMP instrument is a separate model shared with three other panels - it is **not included** in this download. The bezel that rings it is part of this panel; the acrylic window between the two is not printed at all, it is cut - see [CNC Cut Files](#cnc-cut-files).
 
 | | |
 |---|---|
@@ -162,7 +162,7 @@ The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shi
 
 <img src="../../images/panels/22-fuel-control-wiring-pcbs.jpg" alt="Rear of the panel with the four PCBs marked" width="700">
 
-The rear of the panel. **PCB 1** and **PCB 3** are the pair in the middle, one for each half of the panel, and **PCB 2** below them is mounted on its side with only two of its headers populated. **PCB 4** is the board with the blue eight-way screw terminal; the black pin header beside it is where the servo plugs in.
+The rear of the panel. **PCB 1** and **PCB 3** are the two boards side by side under the gauge, each one wired to the annunciators of the half of the panel it sits on - and because this is the view from behind, that half is on the opposite side when you turn the panel over. **PCB 2** is below them, mounted on its side, with only two of its headers populated. **PCB 4** is the board with the blue eight-way screw terminal; the black pin header beside it is where the servo plugs in.
 
 ### PCB 1 - socket D0 on Overhead_1b
 
@@ -219,7 +219,7 @@ All six LOW PRESSURE annunciators carry the same printed text. Each one sits dir
 
 Pins 1 to 4 follow the four lower switches left to right as they appear on the front of the panel.
 
-The CROSS FEED selector is wired as a two-position switch: one contact of the SR16 goes to pin 6, and the other seven positions stay unused.
+The CROSS FEED selector is wired as a two-position switch, and it takes **two** contacts of the SR16 - the two that face each other. Both go to pin 6, so the selector stays closed when the knob is turned on through 180°, the way the bar-shaped knob suggests it should.
 
 The gauge takes two more connections from this board that are not on the screw terminal: the servo's **+5 V** and **GND**, and the **+5 V** and **GND** of the needle LED, all from the pin headers. Its scale backlight runs on 12 V from this panel's own backlighting, through the lever-type splice connector above the gauge. The servo plug has to be rewired before it will work - see [Temperature and Climb Gauges](21-temperature-and-climb-gauges.md#wiring).
 
@@ -244,7 +244,7 @@ Screw abbreviations used in the diagrams: **FH** = flat head, **DH** = dome head
 
 ### 1. Bottom panel - diffuser, annunciators, gauge and switches
 
-<img src="../../images/panels/22-fuel-control-01-bottom-panel.png" alt="Bottom panel with the diffuser, annunciators, gauge, switches and standoffs" width="700">
+<img src="../../images/panels/22-fuel-control-01-bottom-panel-components.png" alt="Bottom panel with the diffuser, annunciators, gauge, switches and standoffs" width="700">
 
 The six M4×16 screws in this drawing are the ones that later hold the finished panel on the main frame.
 
