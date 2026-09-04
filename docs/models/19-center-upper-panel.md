@@ -144,7 +144,7 @@ The annunciators are a separate model shared with the other panels - they are **
 | 1× | [RJ45 Combined](../pcb/rj45-combined.md) | headers 1–3, pins 5–6 | [📥 PCB_RJ45_Combined.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Combined.zip) |
 | 2× | Dimmer board | - | bought board, see [Dimmers](#dimmers) |
 
-Mounting is shown in [step 3](#3-backlight-panel--pcb-dc-jack-and-dimmers) of the assembly diagram. Which lamp and which switch each connection carries is in [Wiring](#wiring).
+Mounting is shown in [step 3](#3-backlight-panel---pcb-dc-jack-and-dimmers) of the assembly diagram. Which lamp and which switch each connection carries is in [Wiring](#wiring).
 
 ---
 

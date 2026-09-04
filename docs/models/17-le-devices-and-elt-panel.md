@@ -105,7 +105,7 @@ The annunciators are a separate model shared with the other panels - they are **
 
 The two LE Devices boards carry the 32 indicator lamps of the display. They are the same board - the design is symmetrical and the second one is populated mirrored, for the other half of the panel. Read [LE Devices](../pcb/le-devices.md) before you solder them.
 
-Mounting is shown in [step 3](#3-bottom-panel--le-devices-pcbs) and [step 5](#5-backlight-panel--combined-pcb-and-dc-jack) of the assembly diagram. Which lamp and which switch each connection carries is in [Wiring](#wiring).
+Mounting is shown in [step 3](#3-bottom-panel---le-devices-pcbs) and [step 5](#5-backlight-panel---combined-pcb-and-dc-jack) of the assembly diagram. Which lamp and which switch each connection carries is in [Wiring](#wiring).
 
 ---
 

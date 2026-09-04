@@ -80,7 +80,7 @@ The annunciators are a separate model shared with the other panels - they are **
 | 1× | [RJ45 LED Driver](../pcb/rj45-driver.md) | headers 1–8 - **PCB 1** | [📥 PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip) |
 | 1× | [RJ45 LED Driver](../pcb/rj45-driver.md) | headers 1–4 - **PCB 2** | [📥 PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip) |
 
-Mounting is shown in [step 2](#2-backlight-panel--pcbs) of the assembly diagram. Which annunciator each header drives, and which board each PCB connects to, is in [Wiring](#wiring).
+Mounting is shown in [step 2](#2-backlight-panel---pcbs) of the assembly diagram. Which annunciator each header drives, and which board each PCB connects to, is in [Wiring](#wiring).
 
 ---
 

@@ -115,7 +115,7 @@ The grub screws that hold the two knobs on their shafts are **M3×5** - see [Rot
 | 1× | [RJ45 Direct](../pcb/rj45-direct.md) | pins 1–7 | [📥 PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip) |
 | 1× | [IRS Keyboard](../pcb/irs-keyboard.md) | both RJ45 sockets | [📥 PCB_IRS_Keyboard.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_IRS_Keyboard.zip) |
 
-Mounting is shown in [step 2](#2-bottom-panel--diffuser-rotary-switches-lcd-and-keyboard) and [step 5](#5-backlight-panel--pcb-and-dc-jack) of the assembly diagram. What each connection carries is in [Wiring](#wiring).
+Mounting is shown in [step 2](#2-bottom-panel---diffuser-rotary-switches-lcd-and-keyboard) and [step 5](#5-backlight-panel---pcb-and-dc-jack) of the assembly diagram. What each connection carries is in [Wiring](#wiring).
 
 ---
 
