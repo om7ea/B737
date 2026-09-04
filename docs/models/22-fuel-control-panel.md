@@ -12,7 +12,7 @@
 <tbody>
 <tr>
 <td align="center" width="50%"><img src="../../images/panels/22-fuel-control-photo-1-front.jpg" alt="Finished Fuel Control Panel, front"><br><sub>Finished panel</sub></td>
-<td align="center" width="50%"><img src="../../images/panels/22-fuel-control-photo-2-top-panel.jpg" alt="Printed top panel"><br><sub>Top panel, printed and UV printed</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/22-fuel-control-photo-2-top-panel.jpg" alt="Printed top panel"><br><sub>Top panel - Bone White, with the lettering and the lines in Black and Jade White</sub></td>
 </tr>
 </tbody>
 <tbody>
@@ -202,7 +202,7 @@ Headers 1, 2 and 5 to 8 are not populated.
 All six LOW PRESSURE annunciators carry the same printed text. Each one sits directly above the pump switch it belongs to, and the qualifier in the tables is the marking beside that switch: **CTR L** and **CTR R** for the centre tank pumps, **1 FWD**, **1 AFT**, **2 FWD** and **2 AFT** for the four below.
 
 > **Note**
-> The four VALVE CLOSED annunciators are driven on their **dim** input only. They are the dual brightness type, so each has a second connector that feeds the LED without the 150 Ω resistor - see [Annunciator PCB](../pcb/annunciator.md). Their bright inputs are wired as well, on headers 1 and 7 of PCB 1 and 1 and 2 of PCB 3, but those four headers have no configuration in the [MobiFlight project](../mobiflight.md), so the four lamps only ever light dim. VALVE OPEN is the one annunciator on this panel that is driven at both levels.
+> All five blue annunciators are the dual brightness type and all five are **wired** for it: each has a second connector that feeds the LED without the 150 Ω resistor - see [Annunciator PCB](../pcb/annunciator.md). Only VALVE OPEN is driven at both levels; the four **bright** rows above have no configuration in the [MobiFlight project](../mobiflight.md), so those four lamps light dim only. I did not find a way to read the second brightness level out of the PMDG 737-800 - the wiring is there, so anyone who finds it only has to add the configuration.
 
 ### PCB 4 - socket D3 on Overhead_1b
 
