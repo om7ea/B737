@@ -112,11 +112,7 @@ One sheet carries the scales for all the gauges of the overhead. The PDF and the
 
 ### Scale
 
-| Per gauge | Total for 4 | Part |
-|---:|---:|---|
-| 2× | 8× | LED strip |
-
-The two strips sit inside the housing, one on each side, and light the white top plate from behind. They run on **12 V** taken from the backlighting of the panel the gauge is fitted in, so the gauge dims together with that panel - see [Power supply](../system-overview.md#power-supply).
+The scale is lit by two LED strips inside the housing, one on each side, shining through the white top plate from behind. They run on **12 V** taken from the backlighting of the panel the gauge is fitted in, so the gauge dims together with that panel - see [Power supply](../system-overview.md#power-supply).
 
 ### Needle
 
