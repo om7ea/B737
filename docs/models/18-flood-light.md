@@ -82,10 +82,10 @@ The four M4 screws are covered by the top panel, so the finished panel shows onl
 
 ## Flood Light
 
-| Qty | Part |
-|---:|---|
-| 2× | LED strip |
-| 1× | DC jack 5.5 × 2.5 mm |
+| Qty | Part | Reference |
+|---:|---|---|
+| 2× | LED strip | [Product I used](../../images/parts/AE_led_strip.png) |
+| 1× | DC jack 5.5 × 2.5 mm | |
 
 The strips sit in the recess of the backlight panel and shine out through the transparent window. They run on **12 V** from the flood light dimmer, on a DC plug of their own - the second dimmer channel described in [12 V](../system-overview.md#12-v). They are therefore independent of the overhead backlighting: their brightness is set by the CIRCUIT BREAKER knob on the [Center Upper Panel](19-center-upper-panel.md).
 

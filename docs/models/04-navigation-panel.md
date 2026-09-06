@@ -150,10 +150,10 @@ Pins 1 to 5 are not used.
 
 ## Backlight
 
-| Qty | Part |
-|---:|---|
-| 9× | LED strip |
-| 1× | DC jack 5.5 × 2.5 mm |
+| Qty | Part | Reference |
+|---:|---|---|
+| 9× | LED strip | [Product I used](../../images/parts/AE_led_strip.png) |
+| 1× | DC jack 5.5 × 2.5 mm | |
 
 Powered from the **12 V** supply - see [Power supply](../system-overview.md#power-supply).
 

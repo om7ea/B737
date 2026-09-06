@@ -208,10 +208,10 @@ Headers 1 and 2 and pins 7 and 8 are not used.
 
 ## Backlight
 
-| Qty | Part |
-|---:|---|
-| 4× | LED strip |
-| 1× | DC jack 5.5 × 2.5 mm |
+| Qty | Part | Reference |
+|---:|---|---|
+| 4× | LED strip | [Product I used](../../images/parts/AE_led_strip.png) |
+| 1× | DC jack 5.5 × 2.5 mm | |
 
 Powered from the **12 V** supply - see [Power supply](../system-overview.md#power-supply).
 

@@ -232,10 +232,10 @@ The gauge takes two more connections from this board that are not on the screw t
 
 ## Backlight
 
-| Qty | Part |
-|---:|---|
-| 8× | LED strip |
-| 1× | DC jack 5.5 × 2.5 mm |
+| Qty | Part | Reference |
+|---:|---|---|
+| 8× | LED strip | [Product I used](../../images/parts/AE_led_strip.png) |
+| 1× | DC jack 5.5 × 2.5 mm | |
 
 Powered from the **12 V** supply - see [Power supply](../system-overview.md#power-supply).
 
