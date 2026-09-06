@@ -149,7 +149,7 @@ Four of the annunciators read **LOW PRESSURE** and two read **OVERHEAT**, so the
 | Qty | Part | Reference |
 |---:|---|---|
 | 3× | LED strip | [Product I used](../../images/parts/AE_led_strip.png) |
-| 1× | DC jack 5.5 × 2.5 mm | |
+| 1× | DC jack 5.5 × 2.5 mm | [Product I used](../../images/parts/AE_dc_jack.png) |
 
 Powered from the **12 V** supply - see [Power supply](../system-overview.md#power-supply).
 
