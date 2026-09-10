@@ -77,6 +77,14 @@ The PCB designs released so far. All Gerber files are ready to be uploaded direc
 </tbody>
 <tbody>
 <tr>
+<td><a href="ac-dc-meter.md"><img src="../../images/pcb/PCB_AC_DC_Meter.png" width="200"></a></td>
+<td><a href="ac-dc-meter.md"><strong>8. AC and DC Meter</strong></a></td>
+<td>1×</td>
+<td>The five digital displays of the AC and DC Meter Panel</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
 <td></td>
 <td>…</td>
 <td>-</td>
