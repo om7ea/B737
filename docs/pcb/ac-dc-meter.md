@@ -35,9 +35,6 @@ Only **1** PCB is required for the complete project.
 | 1× | **100 nF ceramic capacitor** | |
 | 1× | **10 µF / 25 V electrolytic capacitor** | |
 
-> **Note**
-> The displays are sold in packs of five, which is exactly what this board takes. The MAX7219 comes in lots of ten, so one lot covers the two needed here with plenty to spare.
-
 ---
 
 ## Connections
