@@ -137,6 +137,11 @@ The annunciators are a separate model shared with the other panels - they are **
 
 This is the round window that goes in front of the FUEL TEMP gauge, behind the bezel. The drawing, the material and the cutting notes are on the [CNC Cut Files](../cnc-cut.md) page.
 
+The window is glued to the bezel.
+
+> **Note**
+> Do not use cyanoacrylate (superglue) for that joint. As it cures it leaves a white film on the surface around the joint, not only where the glue was applied, and on a clear window it is impossible to miss. A two-part epoxy is a good choice instead.
+
 ---
 
 ## PCB
