@@ -252,6 +252,14 @@ These are not panels. The frame carries the whole overhead; the rest are compone
 <td><a href="23-generator-bus-panel.md">Notes</a></td>
 </tr>
 </tbody>
+<tbody>
+<tr>
+<td><a href="24-air-conditioning-control-panel.md"><img src="../../images/panels/24-air-conditioning-thumbnail.jpg" width="200"></a></td>
+<td>Air Conditioning Control Panel</td>
+<td><a href="https://makerworld.com/en/models/3286939-boeing-737-overhead-air-conditioning-panel">Model</a></td>
+<td><a href="24-air-conditioning-control-panel.md">Notes</a></td>
+</tr>
+</tbody>
 </table>
 
 More panels are currently in preparation.

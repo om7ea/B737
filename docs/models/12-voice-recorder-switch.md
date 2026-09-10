@@ -82,7 +82,7 @@
 
 ## Wiring
 
-This panel has no PCB and no patch cable of its own. Its single switch is wired across to a PCB on the **Temperature Control Panel**, where it takes pin **5** - that PCB's cable goes to socket **A2** on **Overhead_5**.
+This panel has no PCB and no patch cable of its own. Its single switch is wired across to a PCB on the [Air Conditioning Control Panel](24-air-conditioning-control-panel.md), where it takes pin **5** - that PCB's cable goes to socket **A2** on **Overhead_5**.
 
 **Both wires come from that panel**, the signal and the ground return, so nothing here connects to a MEGA 2560 directly.
 
