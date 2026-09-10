@@ -62,7 +62,7 @@
 The six toggle switches are the FUEL PUMPS switches, the rotary switch is CROSS FEED.
 
 > **Note**
-> With the knob already fitted, I turned the CROSS FEED selector hard against its end stop until the stop broke off inside the switch. What is left is a switch that turns continuously in both directions instead of running out of travel. I used the same trick on the AC and DC Meter Panel.
+> With the knob already fitted, I turned the CROSS FEED selector hard against its end stop until the stop broke off inside the switch. What is left is a switch that turns continuously in both directions instead of running out of travel. I used the same trick on the [AC and DC Meter Panel](26-ac-and-dc-meter-panel.md).
 
 ---
 

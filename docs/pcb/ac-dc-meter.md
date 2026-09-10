@@ -17,7 +17,7 @@
 
 ## Purpose
 
-Designed for the **AC and DC Meter Panel**. It carries the five three-digit displays of that panel and reaches the MEGA 2560 PRO MINI over five wires. The digits are driven by two **MAX7219** display drivers, chained one behind the other so that the whole board works off a single serial link.
+Designed for the **[AC and DC Meter Panel](../models/26-ac-and-dc-meter-panel.md)**. It carries the five three-digit displays of that panel and reaches the MEGA 2560 PRO MINI over five wires. The digits are driven by two **MAX7219** display drivers, chained one behind the other so that the whole board works off a single serial link.
 
 ## Quantity
 
