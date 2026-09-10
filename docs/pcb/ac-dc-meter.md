@@ -9,6 +9,8 @@
 </tbody>
 </table>
 
+[📥 Download Gerber files - PCB_AC_DC_Meter.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_AC_DC_Meter.zip)
+
 [← Back to PCB overview](README.md)
 
 ---
@@ -45,7 +47,7 @@ Five wires are soldered straight into the pads in the middle of the board - ther
 | Pad | Wire colour on my board |
 |---|---|
 | VCC | red |
-| LOAD | brown |
+| LOAD (CS) | brown |
 | GND | black |
 | CLK | yellow |
 | DIN | white |
