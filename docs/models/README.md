@@ -264,7 +264,7 @@ These are not panels. The frame carries the whole overhead; the rest are compone
 <tr>
 <td><a href="25-pressurization-altitude-info.md"><img src="../../images/panels/25-pressurization-info-thumbnail.jpg" width="200"></a></td>
 <td>Pressurization Altitude Info</td>
-<td>🚧</td>
+<td><a href="https://makerworld.com/en/models/3287240-boeing-737-overhead-pressurization-altitude-info">Model</a></td>
 <td><a href="25-pressurization-altitude-info.md">Notes</a></td>
 </tr>
 </tbody>

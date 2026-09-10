@@ -1,5 +1,7 @@
 # 25. Pressurization Altitude Info
 
+[📦 Download the printable model on MakerWorld](https://makerworld.com/en/models/3287240-boeing-737-overhead-pressurization-altitude-info)
+
 [← Back to model list](README.md)
 
 ---
