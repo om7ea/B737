@@ -59,13 +59,14 @@
 
 ## Switches and Buttons
 
-| Qty | Type |
-|---:|---|
-| 1× | KN3(C)-101 or KN3(C)-102, ON/OFF |
-| 1× | Rotary switch SR16, 8 positions |
-| 3× | Potentiometer 10 kΩ |
+| Qty | Type | Reference |
+|---:|---|---|
+| 1× | KN3(C)-101 or KN3(C)-102, ON/OFF | |
+| 1× | Rotary switch SR16, 8 positions | |
+| 3× | **Potentiometer 10 kΩ** - WH148, 3-pin, 20 mm shank | [Product I used](../../images/parts/AE_potentiometer.png) |
+| 3× | **Dupont lead** - 3-pin female, 2.54 mm | [Product I used](../../images/parts/AE_dupont.png) |
 
-The toggle switch is TRIM AIR. The rotary switch is the AIR TEMP source selector, and seven of its eight positions are used. The three potentiometers are the CONT CAB, FWD CAB and AFT CAB temperature knobs; each one is wired with a 3-pin female Dupont lead.
+The toggle switch is TRIM AIR. The rotary switch is the AIR TEMP source selector, and seven of its eight positions are used. The three potentiometers are the CONT CAB, FWD CAB and AFT CAB temperature knobs, and each one is wired with one of the Dupont leads.
 
 ---
 
@@ -103,10 +104,10 @@ The needle to fit is **hand-temp_white + hand-temp_black**, and the scale is the
 | Qty | Screw | Joins |
 |---:|---|---|
 | 2× | Flat head M3×6 | bottom + diffuser |
-| 4× | Flat head M3×12 | bottom + standoff |
+| 2× | Flat head M3×12 | bottom + standoff |
 | 4× | Flat head M4×16 | bottom + main frame |
 | 6× | Dome head M3×5 | PCB + backlight |
-| 13× | Dome head M3×8 | top + bottom, top + diffuser, bottom + standoff, backlight + standoff |
+| 15× | Dome head M3×8 | top + bottom, top + diffuser, diffuser + standoff, backlight + standoff |
 | 2× | Dome head M3×12 | bottom + gauge |
 
 The four M4×16 screws each take one of the printed M4 washers.
@@ -166,7 +167,7 @@ The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shi
 
 <img src="../../images/panels/24-air-conditioning-wiring-pcbs.jpg" alt="Rear of the panel with the three PCBs marked" width="700">
 
-The rear of the panel. **PCB 1** is the board with the small white connectors and the red-and-black cables running off to the annunciators. **PCB 2** and **PCB 3** both take screw terminals: eight of them on **PCB 3**, holding the white wires of the AIR TEMP selector, and a single two-way one on **PCB 2**, whose three-pin headers carry the temperature potentiometers.
+The rear of the panel. **PCB 1** is the board with the small white connectors and the red-and-black cables running off to the annunciators. **PCB 2** and **PCB 3** both take screw terminals: seven of them on **PCB 3**, holding the white wires of the AIR TEMP selector, and a single two-way one on **PCB 2**, whose three-pin headers carry the temperature potentiometers. The eighth position on **PCB 3** has no screw terminal fitted - it is the gauge servo connection, which goes on the pin headers instead. The white and brown wire leaving the top of the panel are the pair that feeds the [Voice Recorder Switch](12-voice-recorder-switch.md).
 
 ### PCB 1 - socket A1 on Overhead_5
 
@@ -205,7 +206,7 @@ Pin 5 does not belong to this panel. It carries the toggle switch of the [Voice 
 | 7 | AIR TEMP - SUPPLY DUCT FWD |
 | 8 | TEMP gauge - servo signal |
 
-The gauge takes four more connections that do not go through a screw terminal, all of them from the pin headers of PCB 3: the servo's **+5 V** and **GND**, and the **+5 V** and **GND** of the needle LED. Its scale backlight runs on 12 V from this panel's own backlighting, through the lever-type splice connectors beside the servo. The servo plug has to be rewired before it will work - see [Temperature and Climb Gauges](21-temperature-and-climb-gauges.md#wiring).
+None of the gauge connections go through a screw terminal. The servo signal on pin 8, the servo's **+5 V** and **GND** and the **+5 V** and **GND** of the needle LED all sit on the pin headers of PCB 3. Its scale backlight runs on 12 V from this panel's own backlighting, through the lever-type splice connectors beside the servo. The servo plug has to be rewired before it will work - see [Temperature and Climb Gauges](21-temperature-and-climb-gauges.md#wiring).
 
 Each potentiometer takes its **+5 V** and **GND** from the pin headers of PCB 2 as well, so its 3-pin Dupont lead plugs straight onto the board.
 
@@ -230,9 +231,7 @@ Screw abbreviations used in the diagrams: **FH** = flat head, **DH** = dome head
 
 ### 1. Bottom panel - diffuser, gauge, annunciators, switches and potentiometers
 
-<img src="../../images/panels/24-air-conditioning-01-bottom-panel-components.png" alt="Bottom panel with the diffuser, gauge, bezel, annunciators, switches, potentiometers and standoffs" width="700">
-
-The four M4×16 screws in this drawing are the ones that later hold the finished panel on the main frame.
+<img src="../../images/panels/24-air-conditioning-01-bottom-panel-parts.png" alt="Bottom panel with the diffuser, gauge, bezel, annunciators, switches, potentiometers and standoffs" width="700">
 
 ### 2. Backlight panel - LED strips
 
