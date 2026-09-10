@@ -47,7 +47,7 @@
 
 ## Glue
 
-The info plate is glued into the recess in the bottom panel - nothing screws the two together.
+The info plate is glued onto the bottom panel. It is exactly as tall as the panel, so the top and bottom edges line up by themselves and the only thing to get right is the sideways position - leave the same amount of the bottom panel showing at each end.
 
 > **Note**
 > Do not use cyanoacrylate (superglue) here. As it cures it leaves a white film on the surface around the joint, not only where the glue was applied, and that shows on a black plate. A two-part epoxy is a good choice instead.
