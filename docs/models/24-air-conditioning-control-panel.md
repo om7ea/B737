@@ -167,7 +167,7 @@ The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shi
 
 <img src="../../images/panels/24-air-conditioning-wiring-pcbs.jpg" alt="Rear of the panel with the three PCBs marked" width="700">
 
-The rear of the panel. **PCB 1** is the board with the small white connectors and the red-and-black cables running off to the annunciators. **PCB 2** and **PCB 3** both take screw terminals: seven of them on **PCB 3**, holding the white wires of the AIR TEMP selector, and a single two-way one on **PCB 2**, whose three-pin headers carry the temperature potentiometers. The eighth position on **PCB 3** has no screw terminal fitted - it is the gauge servo connection, which goes on the pin headers instead. The white and brown wire leaving the top of the panel are the pair that feeds the [Voice Recorder Switch](12-voice-recorder-switch.md).
+The rear of the panel. **PCB 1** is the board with the small white connectors and the red-and-black cables running off to the annunciators. **PCB 3** has a row of seven screw terminals, holding the white wires of the AIR TEMP selector; its eighth position has no screw terminal fitted, because the gauge servo goes on the pin headers instead. **PCB 2** has a single two-way screw terminal, and the three-pin headers beside it carry the temperature potentiometers. The white and brown wire leaving the top of the panel are the pair that feeds the [Voice Recorder Switch](12-voice-recorder-switch.md).
 
 ### PCB 1 - socket A1 on Overhead_5
 
@@ -208,7 +208,7 @@ Pin 5 does not belong to this panel. It carries the toggle switch of the [Voice 
 
 None of the gauge connections go through a screw terminal. The servo signal on pin 8, the servo's **+5 V** and **GND** and the **+5 V** and **GND** of the needle LED all sit on the pin headers of PCB 3. Its scale backlight runs on 12 V from this panel's own backlighting, through the lever-type splice connectors beside the servo. The servo plug has to be rewired before it will work - see [Temperature and Climb Gauges](21-temperature-and-climb-gauges.md#wiring).
 
-Each potentiometer takes its **+5 V** and **GND** from the pin headers of PCB 2 as well, so its 3-pin Dupont lead plugs straight onto the board.
+Each potentiometer is connected to PCB 2 by a 3-pin Dupont lead, and the middle pin of the potentiometer goes to the middle pin of the connector.
 
 **All the switches share a single ground return.** Each switch takes one of its terminals to its own pin on the Direct PCB. The opposite terminals are commoned - daisy-chained from one switch to the next - and the chain ends at a **-** (ground) contact.
 
