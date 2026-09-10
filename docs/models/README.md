@@ -260,6 +260,14 @@ These are not panels. The frame carries the whole overhead; the rest are compone
 <td><a href="24-air-conditioning-control-panel.md">Notes</a></td>
 </tr>
 </tbody>
+<tbody>
+<tr>
+<td><a href="25-pressurization-altitude-info.md"><img src="../../images/panels/25-pressurization-info-thumbnail.jpg" width="200"></a></td>
+<td>Pressurization Altitude Info</td>
+<td>🚧</td>
+<td><a href="25-pressurization-altitude-info.md">Notes</a></td>
+</tr>
+</tbody>
 </table>
 
 More panels are currently in preparation.
