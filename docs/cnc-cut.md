@@ -44,7 +44,7 @@ Five shapes, **nine pieces** in total. The drawings are zipped, because GitHub s
 <td><a href="https://raw.githubusercontent.com/om7ea/B737/main/docs/cnc_cut/cnc_gauge_43-8.zip"><b>cnc_gauge_43-8.dxf</b></a></td>
 <td>Ø 43.8 mm</td>
 <td align="right">1×</td>
-<td>Engine and Oxygen Panel</td>
+<td><a href="models/30-engine-and-oxygen-panel.md">Engine and Oxygen Panel</a></td>
 </tr>
 </tbody>
 <tbody>

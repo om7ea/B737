@@ -23,7 +23,7 @@ The project includes several types of annunciators:
 | 2× | black | white |
 | 8× | blue | white |
 | 9× | blue | white, two brightness levels (DIM/BRIGHT) |
-| 2× | black | large special annunciators in the Engine Panel - two PCBs each, white LED in the upper section and yellow LED in the lower section |
+| 2× | black | large special annunciators in the [Engine and Oxygen Panel](../models/30-engine-and-oxygen-panel.md) - two PCBs each, white LED in the upper section and yellow LED in the lower section |
 
 > **Note**
 > The dual brightness annunciators are optional. They are only required if you want to reproduce the two brightness levels. For a simpler build, omit them and use the standard version instead.

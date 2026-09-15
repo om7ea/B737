@@ -292,6 +292,14 @@ These are not panels. The frame carries the whole overhead; the rest are compone
 <td><a href="28-recorder-and-stall-panel.md">Notes</a></td>
 </tr>
 </tbody>
+<tbody>
+<tr>
+<td><a href="30-engine-and-oxygen-panel.md"><img src="../../images/panels/30-engine-oxygen-thumbnail.jpg" width="200"></a></td>
+<td>Engine and Oxygen Panel</td>
+<td><a href="https://makerworld.com/en/models/3311720-boeing-737-overhead-engine-and-oxygen-panel">Model</a></td>
+<td><a href="30-engine-and-oxygen-panel.md">Notes</a></td>
+</tr>
+</tbody>
 </table>
 
 More panels are currently in preparation.

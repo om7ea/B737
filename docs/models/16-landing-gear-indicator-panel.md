@@ -61,7 +61,7 @@ The annunciators are a separate model shared with the other panels - they are **
 
 ## Wiring
 
-This panel has no PCB and no patch cable of its own. All three annunciators are wired across to a PCB on the **Engine and Oxygen Panel**, whose cable goes to socket **D3** on **Overhead_2a**.
+This panel has no PCB and no patch cable of its own. All three annunciators are wired across to a PCB on the **[Engine and Oxygen Panel](30-engine-and-oxygen-panel.md)**, whose cable goes to socket **D3** on **Overhead_2a**.
 
 | Header | Annunciator |
 |---:|---|

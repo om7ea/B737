@@ -7,7 +7,7 @@
 ---
 
 > **Note**
-> This gauge is a model of its own - it is not part of any panel model. **One** is needed for the complete project, on the **Engine and Oxygen Panel**.
+> This gauge is a model of its own - it is not part of any panel model. **One** is needed for the complete project, on the **[Engine and Oxygen Panel](30-engine-and-oxygen-panel.md)**.
 >
 > It is built the same way as the [Temperature and Climb Gauges](21-temperature-and-climb-gauges.md). What makes it a different instrument is the UV-printed scale stuck to its face - OXY PRESS, PSI × 100 - the shape of its needle, and the size of the body itself: this one is a **49 × 49 mm** box, not 52 × 52 mm.
 
