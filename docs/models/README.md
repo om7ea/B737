@@ -284,6 +284,14 @@ These are not panels. The frame carries the whole overhead; the rest are compone
 <td><a href="27-interphone-and-dome-panel.md">Notes</a></td>
 </tr>
 </tbody>
+<tbody>
+<tr>
+<td><a href="28-recorder-and-stall-panel.md"><img src="../../images/panels/28-recorder-stall-thumbnail.jpg" width="200"></a></td>
+<td>Recorder and Stall Panel</td>
+<td><a href="https://makerworld.com/en/models/3309626-boeing-737-overhead-recorder-and-stall-panel">Model</a></td>
+<td><a href="28-recorder-and-stall-panel.md">Notes</a></td>
+</tr>
+</tbody>
 </table>
 
 More panels are currently in preparation.
