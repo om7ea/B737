@@ -1,5 +1,7 @@
 # 29. Oxygen Pressure Gauge
 
+[📦 Download the printable model on MakerWorld](https://makerworld.com/en/models/3309881-boeing-737-overhead-oxygen-pressure-gauge)
+
 [← Back to model list](README.md)
 
 ---
@@ -7,7 +9,7 @@
 > **Note**
 > This gauge is a model of its own - it is not part of any panel model. **One** is needed for the complete project, on the **Engine and Oxygen Panel**.
 >
-> It is built the same way as the [Temperature and Climb Gauges](21-temperature-and-climb-gauges.md). What makes it a different instrument is the UV-printed scale stuck to its face - OXY PRESS, PSI × 100 - and the shape of its needle.
+> It is built the same way as the [Temperature and Climb Gauges](21-temperature-and-climb-gauges.md). What makes it a different instrument is the UV-printed scale stuck to its face - OXY PRESS, PSI × 100 - the shape of its needle, and the size of the body itself: this one is a **49 × 49 mm** box, not 52 × 52 mm.
 
 ---
 

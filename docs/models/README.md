@@ -57,7 +57,7 @@ These are not panels. The frame carries the whole overhead; the rest are compone
 <tr>
 <td><a href="29-oxygen-pressure-gauge.md"><img src="../../images/panels/29-oxygen-gauge-thumbnail.jpg" width="200"></a></td>
 <td>Oxygen Pressure Gauge</td>
-<td>🚧</td>
+<td><a href="https://makerworld.com/en/models/3309881-boeing-737-overhead-oxygen-pressure-gauge">Model</a></td>
 <td><a href="29-oxygen-pressure-gauge.md">Notes</a></td>
 </tr>
 </tbody>
