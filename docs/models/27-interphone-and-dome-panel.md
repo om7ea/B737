@@ -128,7 +128,7 @@ The rear of the panel. The board carries a three-way blue screw terminal at the 
 
 Pin 8 does not belong to this panel. It drives the **Crew oxygen pressure gauge servo on the Engine and Oxygen Panel**: the PCBs on that panel are fully taken, so I feed the gauge from this board instead. The servo takes three of the pin headers at the pin 8 position - the signal, **GND** and **+5 V** - and its plug has to be rewired before it will work, see [Temperature and Climb Gauges](21-temperature-and-climb-gauges.md#wiring).
 
-That gauge's **needle LED** is fed from this board as well: its **+5 V** and **GND** come from the pin headers too, so four of the connections this board carries never reach a screw terminal.
+That gauge's **needle LED** is fed from this board as well: its **+5 V** and **GND** come from the pin headers too.
 
 **Both switches share a single ground return.** Each switch takes one of its terminals to its own pin on the Direct PCB. The opposite terminals are commoned - daisy-chained from one switch to the next - and the chain ends at a **-** (ground) contact.
 
