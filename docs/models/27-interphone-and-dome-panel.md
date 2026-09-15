@@ -113,7 +113,7 @@ The panel takes **one** Ethernet patch cable to the [RJ45 Hub Shield](../pcb/rj4
 
 The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shield.
 
-<img src="../../images/panels/27-interphone-dome-wiring-pcb.jpg" alt="Rear of the panel with the PCB and the two pin header groups marked" width="620">
+<img src="../../images/panels/27-interphone-dome-wiring-rear.jpg" alt="Rear of the panel with the PCB and the two pin header groups marked" width="620">
 
 The rear of the panel. The board carries a three-way blue screw terminal at the pin 1 end; the brown wire runs up to the SERVICE INTERPHONE switch, the two white ones down to DOME WHITE. Both marked groups of pin headers belong to the Crew oxygen pressure gauge - all three pins at position **8** for the servo, and the outer two at position **7**, the **-** and the **+**, for the needle LED. The middle pin at position 7 stays free.
 

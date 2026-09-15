@@ -119,7 +119,7 @@ The panel takes **two** Ethernet patch cables to the [RJ45 Hub Shield](../pcb/rj
 
 The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shield.
 
-<img src="../../images/panels/28-recorder-stall-wiring-pcbs.jpg" alt="Rear of the panel with the two PCBs marked" width="620">
+<img src="../../images/panels/28-recorder-stall-wiring-rear.jpg" alt="Rear of the panel with the two PCBs marked" width="620">
 
 The rear of the panel. **PCB 1** is the board with the blue screw terminals - a two-way and a three-way block side by side make up the five pins it uses. **PCB 2** is the board with the small white connector and the red-and-black pair running off to the annunciator.
 
