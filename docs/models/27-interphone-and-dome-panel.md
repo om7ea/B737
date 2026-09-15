@@ -79,7 +79,7 @@ The two-position switch is SERVICE INTERPHONE, the three-position one is DOME WH
 |---:|---|---|
 | 2× | Flat head M3×12 | bottom + standoff |
 | 2× | Dome head M3×5 | PCB + backlight |
-| 4× | Dome head M3×8 | backlight + standoff |
+| 6× | Dome head M3×8 | top + bottom, backlight + standoff |
 | 4× | Dome head M4×10 | bottom + main frame |
 
 ---
@@ -90,7 +90,7 @@ The two-position switch is SERVICE INTERPHONE, the three-position one is DOME WH
 |---:|---|---|---|
 | 1× | [RJ45 Direct](../pcb/rj45-direct.md) | pins 1–3 and 8 | [📥 PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip) |
 
-Which switch each connection carries is in [Wiring](#wiring).
+Mounting is shown in [step 3](#3-backlight-panel---pcb-and-dc-jack) of the assembly diagram. Which switch each connection carries is in [Wiring](#wiring).
 
 ---
 
@@ -131,3 +131,29 @@ Pin 8 does not belong to this panel. It drives the **Crew oxygen pressure gauge 
 | 1× | DC jack 5.5 × 2.5 mm | [Product I used](../../images/parts/AE_dc_jack.png) |
 
 Powered from the **12 V** supply - see [Power supply](../system-overview.md#power-supply).
+
+---
+
+## Assembly Diagram
+
+Screw abbreviations used in the diagrams: **FH** = flat head, **DH** = dome head.
+
+### 1. Bottom panel - diffuser, switches and standoffs
+
+<img src="../../images/panels/27-interphone-dome-01-bottom-panel.png" alt="Bottom panel with the diffuser, the two switches and the standoffs" width="700">
+
+### 2. Backlight panel - LED strips
+
+<img src="../../images/panels/27-interphone-dome-02-backlight-leds.png" alt="The two backlight LED strips" width="700">
+
+### 3. Backlight panel - PCB and DC jack
+
+<img src="../../images/panels/27-interphone-dome-03-pcb-and-dc-jack.png" alt="Backlight panel with the PCB and the DC jack" width="700">
+
+### 4. Top panel
+
+<img src="../../images/panels/27-interphone-dome-04-top-panel.png" alt="Top panel screwed into the recess of the bottom panel" width="700">
+
+### 5. Panel on the main frame
+
+<img src="../../images/panels/27-interphone-dome-05-main-frame.png" alt="The finished panel screwed to the main frame" width="700">
