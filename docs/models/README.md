@@ -55,10 +55,10 @@ These are not panels. The frame carries the whole overhead; the rest are compone
 </tbody>
 <tbody>
 <tr>
-<td><img src="../../images/panels/oxygen-pressure-gauge-thumbnail.jpg" width="200"></td>
+<td><a href="29-oxygen-pressure-gauge.md"><img src="../../images/panels/29-oxygen-gauge-thumbnail.jpg" width="200"></a></td>
 <td>Oxygen Pressure Gauge</td>
 <td>🚧</td>
-<td>🚧</td>
+<td><a href="29-oxygen-pressure-gauge.md">Notes</a></td>
 </tr>
 </tbody>
 <tbody>
