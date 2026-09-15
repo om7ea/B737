@@ -126,7 +126,7 @@ The rear of the panel. The board carries a three-way blue screw terminal at the 
 | 3 | DOME WHITE - DIM |
 | 8 | Crew oxygen pressure gauge - servo signal |
 
-Pin 8 does not belong to this panel. It drives the **Crew oxygen pressure gauge servo on the Engine and Oxygen Panel**: I chose to feed that servo from this board instead of from the Recorder and Stall Panel, because this one has seven of its eight pins free. The servo takes three of the pin headers at the pin 8 position - the signal, **GND** and **+5 V** - and its plug has to be rewired before it will work, see [Temperature and Climb Gauges](21-temperature-and-climb-gauges.md#wiring).
+Pin 8 does not belong to this panel. It drives the **Crew oxygen pressure gauge servo on the Engine and Oxygen Panel**: the PCBs on that panel are fully taken, so I feed the gauge from this board instead. The servo takes three of the pin headers at the pin 8 position - the signal, **GND** and **+5 V** - and its plug has to be rewired before it will work, see [Temperature and Climb Gauges](21-temperature-and-climb-gauges.md#wiring).
 
 That gauge's **needle LED** is fed from this board as well: its **+5 V** and **GND** come from the pin headers too, so four of the connections this board carries never reach a screw terminal.
 
