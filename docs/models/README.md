@@ -276,6 +276,14 @@ These are not panels. The frame carries the whole overhead; the rest are compone
 <td><a href="26-ac-and-dc-meter-panel.md">Notes</a></td>
 </tr>
 </tbody>
+<tbody>
+<tr>
+<td><a href="27-interphone-and-dome-panel.md"><img src="../../images/panels/27-interphone-dome-thumbnail.jpg" width="200"></a></td>
+<td>Interphone and Dome Panel</td>
+<td><a href="https://makerworld.com/en/models/3309341-boeing-737-overhead-interphone-and-dome-panel">Model</a></td>
+<td><a href="27-interphone-and-dome-panel.md">Notes</a></td>
+</tr>
+</tbody>
 </table>
 
 More panels are currently in preparation.
