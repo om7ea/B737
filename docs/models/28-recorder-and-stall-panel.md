@@ -44,6 +44,7 @@
 | 1× | Connection | |
 | 2× | PCB frame | |
 | 8× | M4 washer | |
+| 2× | Gluing jig | one for each plate, see [Glue](#glue) - not part of the finished panel |
 
 ---
 
