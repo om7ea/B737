@@ -104,6 +104,10 @@ The scale is lit by two LED strips inside the housing, one on each side, shining
 
 The two strips are not wired straight across that 12 V: an **820 Ω resistor** goes in series with the pair. The white top plate passes far more light than the printed face of a panel does, so on the bare supply the scale burns out much brighter than the lettering around it. The resistor holds it back to the brightness of the rest of the overhead.
 
+The two strips sit in parallel and the resistor goes in the lead feeding them, close to the strips.
+
+<img src="../../images/panels/gauge-backlight-resistor.png" alt="The two LED strips in parallel with the series resistor in the supply lead" width="420">
+
 ### Needle
 
 The needle has a light of its own: a white 5 mm LED under the needle shaft, shining up through the transparent 7-tooth gear and the acrylic rod into the needle. It runs on **5 V** with a **150 Ω** resistor in series.
