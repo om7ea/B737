@@ -73,6 +73,15 @@ The two-position switch is SERVICE INTERPHONE, the three-position one is DOME WH
 
 ---
 
+## Glue
+
+The plate is glued onto the bottom panel.
+
+> **Note**
+> Do not use cyanoacrylate (superglue) here. As it cures it leaves a white film on the surface around the joint, not only where the glue was applied, and that shows on a black plate. A two-part epoxy is a good choice instead.
+
+---
+
 ## Screws
 
 | Qty | Screw | Joins |
