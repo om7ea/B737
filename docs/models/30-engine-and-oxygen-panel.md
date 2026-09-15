@@ -180,7 +180,7 @@ The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shi
 
 <img src="../../images/panels/30-engine-oxygen-wiring-pcbs.jpg" alt="Rear of the panel with the two PCBs marked" width="620">
 
-The rear of the panel. **PCB 1** is the board with the eight ZH headers and nothing else on it; **PCB 2** is the one with the blue screw terminal block down its side and the two-way terminal on its top edge. The gauge is at the bottom right, with its servo and the two pairs of lever-type splice connectors that feed its scale.
+The rear of the panel. **PCB 1** is the board with the eight white ZH headers and no screw terminals; **PCB 2** is the one with the blue screw terminal block down its side and the two-way terminal on its top edge. The gauge is at the bottom right, with its servo and the two pairs of lever-type splice connectors that feed its scale.
 
 ### PCB 1 - socket D3 on Overhead_2a
 
