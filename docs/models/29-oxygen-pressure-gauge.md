@@ -70,6 +70,7 @@ The dial itself is lit separately, by two LED strips inside the housing - see [B
 | 1× | **White 5 mm flat top LED** - the same one the annunciators use | [Product I used](../../images/parts/AE_led_white.png) |
 | 1× | **150 Ω resistor** - in series with the white LED | |
 | 2× | **LED strip** - the scale backlight | [Product I used](../../images/parts/AE_led_strip.png) |
+| 1× | **820 Ω resistor** - in series with the two LED strips | |
 | 2× | **Splice connector** - lever type, for the 12 V of the scale backlight | |
 
 The three self-tapping screws that come with the servo are used as well: two hold the servo to the cover, the third fastens the 14-tooth gear to the servo shaft.
@@ -101,6 +102,8 @@ One sheet carries the scales for all the gauges of the overhead. The PDF and the
 
 The scale is lit by two LED strips inside the housing, one on each side, shining through the white top plate from behind. They run on **12 V** taken from the backlighting of the Engine and Oxygen Panel, so the gauge dims together with that panel - see [Power supply](../system-overview.md#power-supply).
 
+The two strips are not wired straight across that 12 V: an **820 Ω resistor** goes in series with the pair. The white top plate passes far more light than the printed face of a panel does, so on the bare supply the scale burns out much brighter than the lettering around it. The resistor holds it back to the brightness of the rest of the overhead.
+
 ### Needle
 
 The needle has a light of its own: a white 5 mm LED under the needle shaft, shining up through the transparent 7-tooth gear and the acrylic rod into the needle. It runs on **5 V** with a **150 Ω** resistor in series.
@@ -120,7 +123,7 @@ The gauge has three connections.
 |---|---|---|
 | Servo | 5 V | the control signal, **+5 V** and **GND**, all three from the pin headers at **pin 8** of the RJ45 Direct PCB on the [Interphone and Dome Panel](27-interphone-and-dome-panel.md#wiring) |
 | Needle LED | 5 V | **+5 V** and **GND** from the **-** and **+** pins at position **7** of the same board |
-| Scale backlight | 12 V | the backlighting of the Engine and Oxygen Panel |
+| Scale backlight | 12 V | the backlighting of the Engine and Oxygen Panel, through an **820 Ω** resistor - see [Backlight](#backlight) |
 
 > **⚠️ The servo plug has to be rewired**
 > The SG90 does not leave the factory in the order the RJ45 Direct PCB expects, so the servo will **not** work if you plug it in as it comes. **Swap the red and the yellow wire:**
