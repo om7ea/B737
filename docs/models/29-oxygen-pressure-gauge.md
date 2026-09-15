@@ -122,8 +122,6 @@ The gauge has three connections.
 | Needle LED | 5 V | **+5 V** and **GND** from the **-** and **+** pins at position **7** of the same board |
 | Scale backlight | 12 V | the backlighting of the Engine and Oxygen Panel |
 
-The two 5 V connections do not come from the Engine and Oxygen Panel, the panel the gauge is fitted in - the PCBs on that panel are fully taken.
-
 > **⚠️ The servo plug has to be rewired**
 > The SG90 does not leave the factory in the order the RJ45 Direct PCB expects, so the servo will **not** work if you plug it in as it comes. **Swap the red and the yellow wire:**
 >
