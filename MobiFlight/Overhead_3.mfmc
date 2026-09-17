@@ -55,4 +55,5 @@
   <Button Name="D0_3" Pin="4" />
   <Button Name="D0_4" Pin="5" />
   <Button Name="D0_5" Pin="6" />
+  <Servo Name="D1_8" DataPin="15" />
 </Config>

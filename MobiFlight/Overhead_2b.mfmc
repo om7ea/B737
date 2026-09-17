@@ -69,5 +69,4 @@
   <Button Name="D3_5" Pin="30" />
   <Button Name="D3_7" Pin="32" />
   <Button Name="D3_8" Pin="33" />
-  <Servo Name="D3_6" DataPin="31" />
 </Config>

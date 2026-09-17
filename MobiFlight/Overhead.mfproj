@@ -8739,26 +8739,26 @@
           },
           "TestValue": {
             "type": 1,
-            "Float64": 201.0,
+            "Float64": 0.0,
             "String": null
           },
           "Device": {
-            "Name": "D3_6",
-            "Address": "D3_6",
+            "Name": "D1_8",
+            "Address": "D1_8",
             "Min": "0",
             "Max": "255",
             "MaxRotationPercent": "100",
             "Type": "Servo"
           },
           "DeviceType": "Servo",
-          "DeviceName": "D3_6",
+          "DeviceName": "D1_8",
           "GUID": "4c683da1-65ab-4635-81a7-01e35614d03d",
           "Active": true,
           "Name": "Overhead_4_Oxygen panel_Servo",
           "Type": "OutputConfigItem",
           "Controller": {
-            "Name": "Overhead_2b",
-            "Serial": "SN-536-893"
+            "Name": "Overhead_3",
+            "Serial": "SN-9FB-4DA"
           },
           "Modifiers": {
             "Items": [
