@@ -6807,7 +6807,7 @@
           "DeviceName": "D5_3",
           "GUID": "91500729-a933-43c2-903d-1c73655c4ad3",
           "Active": true,
-          "Name": "Overhead_2_L wiper_Rot-low",
+          "Name": "Overhead_2_L wiper_Rot-int",
           "Type": "InputConfigItem",
           "Controller": {
             "Name": "Overhead_2b",
@@ -6836,7 +6836,7 @@
           "DeviceName": "D5_2",
           "GUID": "b152294c-edb0-4dfb-bff1-12c4eab09728",
           "Active": true,
-          "Name": "Overhead_2_L wiper_Rot-int",
+          "Name": "Overhead_2_L wiper_Rot-low",
           "Type": "InputConfigItem",
           "Controller": {
             "Name": "Overhead_2b",

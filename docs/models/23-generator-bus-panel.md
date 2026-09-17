@@ -218,8 +218,8 @@ Headers 1 to 4 are not populated.
 | Pin | Switch |
 |---:|---|
 | 1 | L WIPER - HIGH |
-| 2 | L WIPER - INT |
-| 3 | L WIPER - LOW |
+| 2 | L WIPER - LOW |
+| 3 | L WIPER - INT |
 | 4 | L WIPER - PARK |
 | 5 | APU GEN - right, ON |
 | 6 | APU GEN - right, OFF |
