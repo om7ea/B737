@@ -69,6 +69,11 @@ The USB cable therefore carries data only. This keeps the load off the PC's USB 
 
 The draw figures are the most I measured on my panel - the 12 V one with the backlight at full brightness. I recommend a supply with about twice that rating, so that it never runs at its limit.
 
+> **⚠️ Cut the red wire in the USB cable to the PC**
+> The USB cable between the USB hub and the PC has to be modified. Strip back its outer sheath - there are four wires inside: red, black, white and green. **Cut the red wire** (+5 V) and leave the other three connected.
+>
+> This is very important. The 5 V electronics can draw around 2 A. If you forget to connect the 5 V supply, the panel will try to draw that current from the PC through the USB cable, and that can destroy the USB port in your PC.
+
 #### 12 V
 
 The 12 V rail feeds the panel lighting only. It enters through a **DC socket on the back of the panel**, next to the 5 V socket and the USB connector, and goes first to two PWM dimmers:
