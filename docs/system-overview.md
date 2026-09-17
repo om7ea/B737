@@ -56,12 +56,14 @@ Where the seven boards sit inside my panel, each with its RJ45 Hub Shield. Which
 
 The panel does **not** draw its power from the USB cable. It is fed by **two separate external power supplies**:
 
-| Supply | Powers |
-|---|---|
-| **12 V** | Panel backlighting and the flood light |
-| **5 V** | All other electronics - the Mega boards, annunciator LEDs, servos, displays |
+| Supply | Powers | Measured draw | Recommended supply |
+|---|---|---:|---:|
+| **12 V** | Panel backlighting and the flood light | 2.5 A | 5 A |
+| **5 V** | All other electronics - the Mega boards, annunciator LEDs, servos, displays | about 2 A | 4 A |
 
 The USB cable therefore carries data only. This keeps the load off the PC's USB port, which matters with 125 annunciators in the finished panel.
+
+The draw figures are the most I measured on my panel - the 12 V one with the backlight at full brightness. I recommend a supply with about twice that rating, so that it never runs at its limit.
 
 #### 12 V
 
@@ -114,4 +116,4 @@ See [PCB Manufacturing Files](pcb/README.md) for details, BOM and wiring.
 
 This section is still to be written:
 
-- **Power supply details** - current rating of each supply, and how the 5 V is distributed inside the panel
+- **5 V distribution** - how the 5 V is distributed inside the panel
