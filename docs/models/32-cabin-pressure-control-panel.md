@@ -135,7 +135,7 @@ The socket labels **D0-D6**, **A1** and **A2** are silkscreened on the hub shiel
 
 <img src="../../images/panels/32-cabin-pressure-wiring-rear.jpg" alt="Rear of the panel with the two PCBs marked" width="700">
 
-The rear of the panel. **PCB 1** is the upper board, the one with four blue screw terminals and the flat ribbon cable coming in from the display modules; the gauge servo lands on its pin headers. **PCB 2** is the lower board, with a row of seven screw terminals holding the white wires of the mode selector, the VALVE switch and the LAND ALT encoder. The two orange lever connectors at the top of the panel are the 12 V tap for the gauge backlight.
+The rear of the panel. **PCB 1** is the upper board, the one with five blue screw terminals. **PCB 2** is the lower board, with a row of seven screw terminals holding the white wires of the mode selector, the VALVE switch and the LAND ALT encoder. The two orange lever connectors at the top of the panel are the 12 V tap for the gauge backlight.
 
 ### PCB 1 - socket D4 on Overhead_5
 
