@@ -109,3 +109,11 @@ The LAND ALT module is fed from the first one, so its five-pin header goes on th
 
 > **Note**
 > The wire colours of the Dupont cable mean nothing here - they do not follow the colours used anywhere else in this project. Go by the pad names printed on the boards, or by the photo of the two joined modules above.
+
+---
+
+## Schematic
+
+<img src="../../images/pcb/PCB_Cabin_Pressure_Display_LED_schematic.png" alt="Cabin Pressure Display board 1 schematic" width="600"><br><sub>Board 1 - Display</sub>
+
+<img src="../../images/pcb/PCB_Cabin_Pressure_Display_MAX_schematic.png" alt="Cabin Pressure Display board 2 schematic" width="700"><br><sub>Board 2 - MAX7219 driver</sub>
