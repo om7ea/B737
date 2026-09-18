@@ -9,8 +9,8 @@
 </tbody>
 <tbody>
 <tr>
-<td align="center"><img src="../../images/pcb/PCB_AC_DC_Meter_bare_front.jpg" alt="AC and DC Meter PCB - bare board, front" width="380"><br><sub>Bare board - front</sub></td>
-<td align="center"><img src="../../images/pcb/PCB_AC_DC_Meter_bare_rear.jpg" alt="AC and DC Meter PCB - bare board, rear" width="380"><br><sub>Bare board - rear</sub></td>
+<td align="center"><img src="../../images/pcb/PCB_AC_DC_Meter_bare_board_front.jpg" alt="AC and DC Meter PCB - bare board, front" width="380"><br><sub>Bare board - front</sub></td>
+<td align="center"><img src="../../images/pcb/PCB_AC_DC_Meter_bare_board_rear.jpg" alt="AC and DC Meter PCB - bare board, rear" width="380"><br><sub>Bare board - rear</sub></td>
 </tr>
 </tbody>
 </table>
