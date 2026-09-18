@@ -53,7 +53,7 @@ Five shapes, **nine pieces** in total. The drawings are zipped, because GitHub s
 <td><a href="https://raw.githubusercontent.com/om7ea/B737/main/docs/cnc_cut/cnc_gauge_29-8.zip"><b>cnc_gauge_29-8.dxf</b></a></td>
 <td>Ø 29.8 mm, with two Ø 3.3 mm holes 20 mm apart</td>
 <td align="right">1×</td>
-<td><a href="models/31-outflow-valve-gauge.md">Outflow Valve Gauge</a> on the Cabin Pressure Control Panel</td>
+<td><a href="models/31-outflow-valve-gauge.md">Outflow Valve Gauge</a> on the <a href="models/32-cabin-pressure-control-panel.md">Cabin Pressure Control Panel</a></td>
 </tr>
 </tbody>
 <tbody>

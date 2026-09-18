@@ -25,7 +25,7 @@
 
 ## Purpose
 
-Designed for the **Cabin Pressure Control Panel**. One module drives one six-digit display of that panel, and the panel carries two of them - FLT ALT and LAND ALT. The digits are driven by a **MAX7219**, the same driver as on the [AC and DC Meter](ac-dc-meter.md) board.
+Designed for the **[Cabin Pressure Control Panel](../models/32-cabin-pressure-control-panel.md)**. One module drives one six-digit display of that panel, and the panel carries two of them - FLT ALT and LAND ALT. The digits are driven by a **MAX7219**, the same driver as on the [AC and DC Meter](ac-dc-meter.md) board.
 
 This is **two boards soldered into a single module**. Board 1 carries the display, board 2 carries the MAX7219, and the two double row pin headers that join them are soldered into both boards - the module cannot be taken apart again. Each board has its own outline and its own Gerber file, so both have to be ordered.
 
@@ -92,7 +92,7 @@ Board 2 has two five-pad connectors, an input and an output, and the silkscreen 
 
 **Only one of the two is populated on each module**, so the two modules are not built the same way.
 
-The FLT ALT module is the one the signal arrives at. Its five wires are soldered straight into the input pads - there is no connector - and they run to the RJ45 Direct PCB on the Cabin Pressure Control Panel. Its five-pin header goes on the **output**.
+The FLT ALT module is the one the signal arrives at. Its five wires are soldered straight into the input pads - there is no connector - and they run to the RJ45 Direct PCB on the [Cabin Pressure Control Panel](../models/32-cabin-pressure-control-panel.md#wiring). Its five-pin header goes on the **output**.
 
 | Input pad | Wire colour on my board |
 |---|---|

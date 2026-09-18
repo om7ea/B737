@@ -7,7 +7,7 @@
 ---
 
 > **Note**
-> This gauge is a model of its own - it is not part of any panel model. **One** is needed for the complete project, on the **Cabin Pressure Control Panel**.
+> This gauge is a model of its own - it is not part of any panel model. **One** is needed for the complete project, on the **[Cabin Pressure Control Panel](32-cabin-pressure-control-panel.md)**.
 >
 > It is built like the other gauges of the overhead, with two differences. Only the scale is lit - the needle carries no light of its own. And the acrylic window is screwed straight onto the gauge instead of being glued behind the bezel of a panel.
 
@@ -119,7 +119,7 @@ The gauge has two connections.
 
 | Connection | Supply | Comes from |
 |---|---|---|
-| Servo | 5 V | the control signal, **+5 V** and **GND**, all three from the pin headers at **pin 6** of the RJ45 Direct PCB on the Cabin Pressure Control Panel - socket **D4** on **Overhead_5** |
+| Servo | 5 V | the control signal, **+5 V** and **GND**, all three from the pin headers at **pin 6** of the RJ45 Direct PCB on the [Cabin Pressure Control Panel](32-cabin-pressure-control-panel.md#wiring) - socket **D4** on **Overhead_5** |
 | Scale backlight | 12 V | the backlighting of the Cabin Pressure Control Panel, through an **820 Ω** resistor - see [Backlight](#backlight) |
 
 > **⚠️ The servo plug has to be rewired**

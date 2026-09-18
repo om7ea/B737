@@ -300,6 +300,14 @@ These are not panels. The frame carries the whole overhead; the rest are compone
 <td><a href="30-engine-and-oxygen-panel.md">Notes</a></td>
 </tr>
 </tbody>
+<tbody>
+<tr>
+<td><a href="32-cabin-pressure-control-panel.md"><img src="../../images/panels/32-cabin-pressure-thumbnail.jpg" width="200"></a></td>
+<td>Cabin Pressure Control Panel</td>
+<td><a href="https://makerworld.com/en/models/3324181-boeing-737-overhead-cabin-pressure-control-panel">Model</a></td>
+<td><a href="32-cabin-pressure-control-panel.md">Notes</a></td>
+</tr>
+</tbody>
 </table>
 
 More panels are currently in preparation.
