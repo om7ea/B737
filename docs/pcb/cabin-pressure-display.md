@@ -61,6 +61,15 @@ The board carries nothing but the display and the two headers that reach board 2
 
 ## Board 2 - MAX7219 driver
 
+<table>
+<tbody>
+<tr>
+<td align="center"><img src="../../images/pcb/PCB_Cabin_Pressure_Display_max_bottom.jpg" alt="Cabin Pressure Display board 2 - component side" width="380"><br><sub>Component side</sub></td>
+<td align="center"><img src="../../images/pcb/PCB_Cabin_Pressure_Display_max_top.jpg" alt="Cabin Pressure Display board 2 - reverse side" width="380"><br><sub>Reverse side</sub></td>
+</tr>
+</tbody>
+</table>
+
 | Qty | Part | Reference |
 |---:|---|---|
 | 1× | **MAX7219EWG** - SOP24, surface mount | [Product I used](../../images/parts/AE_MAX7219.png) |
