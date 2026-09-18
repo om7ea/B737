@@ -147,7 +147,7 @@ The rear of the panel. **PCB 1** is the upper board, the one with five blue scre
 | 4-5 | FLT ALT encoder |
 | 6 | Outflow Valve Gauge - servo signal |
 
-Pin 7 is not used.
+Pins 7 and 8 are not used.
 
 The gauge servo takes its signal, **+5 V** and **GND** from the three-pin header on this board. The servo plug has to be rewired before it will work - see [Outflow Valve Gauge](31-outflow-valve-gauge.md#wiring).
 
