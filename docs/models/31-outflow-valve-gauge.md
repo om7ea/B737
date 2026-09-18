@@ -19,7 +19,7 @@
 <tbody>
 <tr>
 <td align="center" width="50%"><img src="../../images/panels/31-outflow-valve-photo-1-front.jpg" alt="Finished Outflow Valve Gauge, front"><br><sub>The finished gauge</sub></td>
-<td align="center" width="50%"><img src="../../images/panels/31-outflow-valve-photo-2-side.jpg" alt="The gauge from the side, showing the LED strip, the servo and the resistor"><br><sub>From the side - the LED strip bent around the housing, the servo and the series resistor</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/31-outflow-valve-photo-2-top.jpg" alt="The gauge from above, showing the LED strip, the servo and the resistor"><br><sub>From above - the LED strip bent around the housing, the servo and the series resistor</sub></td>
 </tr>
 </tbody>
 </table>
