@@ -141,7 +141,9 @@ The rear of the panel. **PCB 1** is the upper board, the one with five blue scre
 
 | Pin | Connection |
 |---:|---|
-| 1-3 | FLT ALT and LAND ALT displays - the MAX7219 serial link |
+| 1 | FLT ALT and LAND ALT displays - LOAD |
+| 2 | FLT ALT and LAND ALT displays - CLK |
+| 3 | FLT ALT and LAND ALT displays - DIN |
 | 4-5 | FLT ALT encoder |
 | 6 | Outflow Valve Gauge - servo signal |
 
