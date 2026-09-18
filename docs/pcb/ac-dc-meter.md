@@ -7,6 +7,12 @@
 <td align="center"><img src="../../images/pcb/PCB_AC_DC_Meter_rear.png" alt="AC and DC Meter PCB - rear view" width="380"><br><sub>Rear view</sub></td>
 </tr>
 </tbody>
+<tbody>
+<tr>
+<td align="center"><img src="../../images/pcb/PCB_AC_DC_Meter_bare_front.jpg" alt="AC and DC Meter PCB - bare board, front" width="380"><br><sub>Bare board - front</sub></td>
+<td align="center"><img src="../../images/pcb/PCB_AC_DC_Meter_bare_rear.jpg" alt="AC and DC Meter PCB - bare board, rear" width="380"><br><sub>Bare board - rear</sub></td>
+</tr>
+</tbody>
 </table>
 
 [📥 Download Gerber files - PCB_AC_DC_Meter.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_AC_DC_Meter.zip)
