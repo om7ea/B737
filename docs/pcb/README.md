@@ -85,6 +85,14 @@ The PCB designs released so far. All Gerber files are ready to be uploaded direc
 </tbody>
 <tbody>
 <tr>
+<td><a href="cabin-pressure-display.md"><img src="../../images/pcb/PCB_Cabin_Pressure_Display_top.jpg" width="200"></a></td>
+<td><a href="cabin-pressure-display.md"><strong>9. Cabin Pressure Display</strong></a></td>
+<td>2× of each board</td>
+<td>The FLT ALT and LAND ALT displays of the Cabin Pressure Control Panel</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
 <td></td>
 <td>…</td>
 <td>-</td>
