@@ -149,7 +149,7 @@ The rear of the panel. **PCB 1** is the upper board, the one with five blue scre
 
 Pin 7 is not used.
 
-None of the gauge servo connections go through a screw terminal. Its signal, **+5 V** and **GND** all come from the three-pin header on this board. The servo plug has to be rewired before it will work - see [Outflow Valve Gauge](31-outflow-valve-gauge.md#wiring).
+The gauge servo takes its signal, **+5 V** and **GND** from the three-pin header on this board. The servo plug has to be rewired before it will work - see [Outflow Valve Gauge](31-outflow-valve-gauge.md#wiring).
 
 The five wires of the FLT ALT display module are soldered straight into its input pads and reach this board; the output of that module feeds the LAND ALT module through a Dupont cable. Which pad is which is on the [Cabin Pressure Display](../pcb/cabin-pressure-display.md) page. Position **8** carries no signal - its screw terminal is the **5 V** and **GND** supply for the two display modules.
 
