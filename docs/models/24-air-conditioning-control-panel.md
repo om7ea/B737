@@ -64,7 +64,7 @@
 | 1× | KN3(C)-101 or KN3(C)-102, ON/OFF | |
 | 1× | Rotary switch SR16, 8 positions | |
 | 3× | **Potentiometer 10 kΩ** - WH148, 3-pin, 20 mm shank | [Product I used](../../images/parts/AE_potentiometer.png) |
-| 3× | **Dupont lead** - 3-pin female, 2.54 mm | [Product I used](../../images/parts/AE_dupont.png) |
+| 3× | **Dupont lead** - 3-pin female, 2.54 mm | [Product I used](../../images/parts/AE_dupont_3p.png) |
 
 The toggle switch is TRIM AIR. The rotary switch is the AIR TEMP source selector, and seven of its eight positions are used. The three potentiometers are the CONT CAB, FWD CAB and AFT CAB temperature knobs, and each one is wired with one of the Dupont leads.
 

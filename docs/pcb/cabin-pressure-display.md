@@ -105,7 +105,7 @@ The LAND ALT module is fed from the first one, so its five-pin header goes on th
 
 | Qty | Part | Reference |
 |---:|---|---|
-| 1× | **5-pin Dupont cable** - 2.54 mm, female to female, 10 cm | [Product I used](../../images/parts/AE_dupont.png) |
+| 1× | **5-pin Dupont cable** - 2.54 mm, female to female, 10 cm | [Product I used](../../images/parts/AE_dupont_5p.png) |
 
 > **Note**
 > The wire colours of the Dupont cable mean nothing here - they do not follow the colours used anywhere else in this project. Go by the pad names printed on the boards, or by the photo of the two joined modules above.
