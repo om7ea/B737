@@ -1,8 +1,8 @@
 # PCB Manufacturing Files (Gerber)
 
-The PCB designs released so far. All Gerber files are ready to be uploaded directly to a PCB manufacturer.
+Every PCB design of the project. All Gerber files are ready to be uploaded directly to a PCB manufacturer.
 
-> **This is not the final list.** Further PCB designs will be added as new panels are released. Check back for updates.
+> **This list is complete.** These nine designs cover the whole overhead, so everything can be ordered in one go.
 
 [← Back to main page](../../README.md)
 
@@ -89,14 +89,6 @@ The PCB designs released so far. All Gerber files are ready to be uploaded direc
 <td><a href="cabin-pressure-display.md"><strong>9. Cabin Pressure Display</strong></a></td>
 <td>2×&nbsp;Board&nbsp;1&nbsp;(display)<br>2×&nbsp;Board&nbsp;2&nbsp;(MAX7219)</td>
 <td>The FLT ALT and LAND ALT displays of the Cabin Pressure Control Panel</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td></td>
-<td>…</td>
-<td>-</td>
-<td><em>More designs will follow as new panels are released</em></td>
 </tr>
 </tbody>
 </table>
