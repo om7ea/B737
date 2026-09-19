@@ -81,7 +81,7 @@ These are not panels. The frame carries the whole overhead; the rest are compone
 <tr>
 <td><a href="33-duct-pressure-gauge.md"><img src="../../images/panels/33-duct-pressure-render-assembled.png" width="200"></a></td>
 <td>Duct Pressure Gauge</td>
-<td>🚧</td>
+<td><a href="https://makerworld.com/en/models/3330434-boeing-737-overhead-duct-pressure-gauge">Model</a></td>
 <td><a href="33-duct-pressure-gauge.md">Notes</a></td>
 </tr>
 </tbody>

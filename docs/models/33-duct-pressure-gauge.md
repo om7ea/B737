@@ -1,5 +1,7 @@
 # 33. Duct Pressure Gauge
 
+[📦 Download the printable model on MakerWorld](https://makerworld.com/en/models/3330434-boeing-737-overhead-duct-pressure-gauge)
+
 [← Back to model list](README.md)
 
 ---
@@ -55,13 +57,15 @@ The dial itself is lit separately, by two LED strips inside the housing - see [B
 | 1× | inner | White | the round dial behind the face, with the second UV-printed scale on it |
 | 1× | shielding outer+inner | Black | the ring wall between the two printed faces |
 | 1× | backlight | Black | the rear plate; carries the second MR63ZZ bearing |
-| 1× | gears cover | White | the bracket for the two servos |
+| 1× | gears cover | Black | the bracket for the two servos |
 | 1× | pipe gear (3 mm) | Transparent | 9 teeth, on the acrylic pipe; in the light path of the needle LED |
 | 1× | rod gear (2 mm) | Transparent | 9 teeth, on the acrylic rod; in the light path of the needle LED |
-| 2× | servo gear | White | 14 teeth, on the servo shafts |
-| 1× | L needle | White | on the acrylic pipe |
-| 1× | R needle | White | on the acrylic rod |
+| 2× | servo gear | Black | 14 teeth, on the servo shafts |
+| 1× | L needle | White + Black | on the acrylic pipe; the letter **L** is printed in black |
+| 1× | R needle | White + Black | on the acrylic rod; the letter **R** is printed in black |
 | 1× | needle cap | Black | covers the hub of the R needle |
+
+All the parts print on a **Smooth** PEI plate.
 
 ---
 
@@ -107,7 +111,7 @@ Two of the scales on that sheet belong to this gauge: the square **DUCT PRESS** 
 
 ### Scale
 
-The scale is lit by two LED strips inside the housing, shining through the white outer and inner parts from behind. They run on **12 V** taken from the backlighting of the Pneumatic Panel, so the gauge dims together with that panel - see [Power supply](../system-overview.md#power-supply).
+The scale is lit by two LED strips inside the housing, one on each side, shining through the white outer and inner parts from behind. They run on **12 V** taken from the backlighting of the Pneumatic Panel, so the gauge dims together with that panel - see [Power supply](../system-overview.md#power-supply).
 
 The two strips are not wired straight across that 12 V: an **820 Ω resistor** goes in series with the pair. The white parts pass far more light than the printed face of a panel does, so on the bare supply the scale burns out much brighter than the lettering around it. The resistor holds it back to the brightness of the rest of the overhead.
 
@@ -120,7 +124,7 @@ The two strips sit in parallel and the resistor goes in the lead feeding them, c
 The needles have a light of their own: a white 5 mm LED in the gears cover, between the two servos, shining up through the transparent gears and on into the acrylic pipe and the acrylic rod. It runs on **5 V** with a **150 Ω** resistor in series, and it lights both needles at once.
 
 > **Note**
-> The needle lighting works, but the effect is weak, exactly as on the other gauges of the overhead. White PLA does not carry light well over the length of a needle, so a needle glows rather than lights up.
+> The needle lighting works, but the effect is weak. White PLA does not carry light well over the length of a needle, so a needle glows rather than lights up. It is worth building - but do not expect the needles to stand out the way the scale does.
 
 ---
 
@@ -132,7 +136,7 @@ The gauge has four connections.
 |---|---|---|
 | L needle servo | 5 V | the control signal, **+5 V** and **GND**, all three from the pin headers at **pin 7** of the [RJ45 Direct](../pcb/rj45-direct.md) PCB on the **Pneumatic Panel** - socket **D2** on **Overhead_5** |
 | R needle servo | 5 V | the same three, from the pin headers at **pin 6** of that board |
-| Needle LED | 5 V | **+5 V** and **GND** from a **-** and **+** pin pair on the same board |
+| Needle LED | 5 V | **+5 V** and **GND** from the Pneumatic Panel, through a **150 Ω** resistor - see [Backlight](#backlight) |
 | Scale backlight | 12 V | the backlighting of the Pneumatic Panel, through an **820 Ω** resistor - see [Backlight](#backlight) |
 
 > **⚠️ Both servo plugs have to be rewired**
@@ -198,74 +202,79 @@ Screw abbreviations used below: **DH** = dome head.
 </tbody>
 <tbody>
 <tr>
-<td width="55%"><b>8.</b> Screw the <b>backlight</b> part on with 4× DH M3×8.</td>
-<td align="center"><img src="../../images/panels/33-duct-pressure-step-08.png" alt="The backlight part screwed on with four M3x8 screws" width="380"></td>
+<td colspan="2"><b>8.</b> Fit the two <b>LED strips</b> inside the housing, one on each side, and bring their leads out. They have to go in before the backlight part closes the housing - see <a href="#backlight">Backlight</a>.</td>
 </tr>
 </tbody>
 <tbody>
 <tr>
-<td width="55%"><b>9.</b> Press the second <b>MR63ZZ</b> bearing into the backlight part.</td>
-<td align="center"><img src="../../images/panels/33-duct-pressure-step-09.png" alt="The second MR63ZZ bearing pressed into the backlight part" width="380"></td>
+<td width="55%"><b>9.</b> Screw the <b>backlight</b> part on with 4× DH M3×8.</td>
+<td align="center"><img src="../../images/panels/33-duct-pressure-step-09.png" alt="The backlight part screwed on with four M3x8 screws" width="380"></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
-<td width="55%"><b>10.</b> Push the <b>acrylic pipe</b> through both bearings. If it will not go, warm it with a hair dryer to soften it slightly. I used a 20 mm length.</td>
-<td align="center"><img src="../../images/panels/33-duct-pressure-step-10.png" alt="The acrylic pipe pushed through both bearings" width="380"></td>
+<td width="55%"><b>10.</b> Press the second <b>MR63ZZ</b> bearing into the backlight part.</td>
+<td align="center"><img src="../../images/panels/33-duct-pressure-step-10.png" alt="The second MR63ZZ bearing pressed into the backlight part" width="380"></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
-<td width="55%"><b>11.</b> From the front, glue the <b>L needle</b> onto the pipe with super glue.</td>
-<td align="center"><img src="../../images/panels/33-duct-pressure-step-11.png" alt="The L needle glued onto the acrylic pipe from the front" width="380"></td>
+<td width="55%"><b>11.</b> Push the <b>acrylic pipe</b> through both bearings. If it will not go, warm it with a hair dryer to soften it slightly. I used a 20 mm length.</td>
+<td align="center"><img src="../../images/panels/33-duct-pressure-step-11.png" alt="The acrylic pipe pushed through both bearings" width="380"></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
-<td width="55%"><b>12.</b> From the back, glue the <b>pipe gear</b> - 9 teeth, 3 mm high - onto the acrylic pipe.</td>
-<td align="center"><img src="../../images/panels/33-duct-pressure-step-12.png" alt="The 3 mm pipe gear glued onto the acrylic pipe from the back" width="380"></td>
+<td width="55%"><b>12.</b> From the front, glue the <b>L needle</b> onto the pipe with super glue.</td>
+<td align="center"><img src="../../images/panels/33-duct-pressure-step-12.png" alt="The L needle glued onto the acrylic pipe from the front" width="380"></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
-<td width="55%"><b>13.</b> Press the <b>MR52ZZ</b> bearing into the pipe gear.</td>
-<td align="center"><img src="../../images/panels/33-duct-pressure-step-13.png" alt="The MR52ZZ bearing pressed into the pipe gear" width="380"></td>
+<td width="55%"><b>13.</b> From the back, glue the <b>pipe gear</b> - 9 teeth, 3 mm high - onto the acrylic pipe.</td>
+<td align="center"><img src="../../images/panels/33-duct-pressure-step-13.png" alt="The 3 mm pipe gear glued onto the acrylic pipe from the back" width="380"></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
-<td width="55%"><b>14.</b> Push the <b>acrylic rod</b> through the MR52ZZ bearing and on down the inside of the pipe. I used 27 mm, but it is safer to cut it to length once it is in place.</td>
-<td align="center"><img src="../../images/panels/33-duct-pressure-step-14.png" alt="The acrylic rod pushed through the bearing into the pipe" width="380"></td>
+<td width="55%"><b>14.</b> Press the <b>MR52ZZ</b> bearing into the pipe gear.</td>
+<td align="center"><img src="../../images/panels/33-duct-pressure-step-14.png" alt="The MR52ZZ bearing pressed into the pipe gear" width="380"></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
-<td width="55%"><b>15.</b> From the front, glue the <b>R needle</b> onto the rod.</td>
-<td align="center"><img src="../../images/panels/33-duct-pressure-step-15.png" alt="The R needle glued onto the acrylic rod from the front" width="380"></td>
+<td width="55%"><b>15.</b> Push the <b>acrylic rod</b> through the MR52ZZ bearing and on down the inside of the pipe. I used 27 mm, but it is safer to cut it to length once it is in place.</td>
+<td align="center"><img src="../../images/panels/33-duct-pressure-step-15.png" alt="The acrylic rod pushed through the bearing into the pipe" width="380"></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
-<td width="55%"><b>16.</b> Glue the black <b>needle cap</b> onto the R needle.</td>
-<td align="center"><img src="../../images/panels/33-duct-pressure-step-16.png" alt="The black cap glued onto the hub of the R needle" width="380"></td>
+<td width="55%"><b>16.</b> From the front, glue the <b>R needle</b> onto the rod.</td>
+<td align="center"><img src="../../images/panels/33-duct-pressure-step-16.png" alt="The R needle glued onto the acrylic rod from the front" width="380"></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
-<td width="55%"><b>17.</b> Glue the <b>rod gear</b> - 9 teeth, 2 mm high - onto the acrylic rod.</td>
-<td align="center"><img src="../../images/panels/33-duct-pressure-step-17.png" alt="The 2 mm rod gear glued onto the acrylic rod" width="380"></td>
+<td width="55%"><b>17.</b> Glue the black <b>needle cap</b> onto the R needle.</td>
+<td align="center"><img src="../../images/panels/33-duct-pressure-step-17.png" alt="The black cap glued onto the hub of the R needle" width="380"></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
-<td width="55%"><b>18.</b> Put the gears cover with its two servos in place and screw it down with 2× DH M3×5.</td>
-<td align="center"><img src="../../images/panels/33-duct-pressure-step-18.png" alt="The gears cover with both servos screwed onto the backlight part" width="380"></td>
+<td width="55%"><b>18.</b> Glue the <b>rod gear</b> - 9 teeth, 2 mm high - onto the acrylic rod.</td>
+<td align="center"><img src="../../images/panels/33-duct-pressure-step-18.png" alt="The 2 mm rod gear glued onto the acrylic rod" width="380"></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
-<td width="55%"><b>19.</b> Push the white <b>LED</b> - the one with the 150 Ω resistor - into the hole between the two servos.</td>
-<td align="center"><img src="../../images/panels/33-duct-pressure-step-19.png" alt="The white LED pushed into the hole between the two servos" width="380"></td>
+<td width="55%"><b>19.</b> Put the gears cover with its two servos in place and screw it down with 2× DH M3×5.</td>
+<td align="center"><img src="../../images/panels/33-duct-pressure-step-19.png" alt="The gears cover with both servos screwed onto the backlight part" width="380"></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="55%"><b>20.</b> Push the white <b>LED</b> - the one with the 150 Ω resistor - into the hole between the two servos.</td>
+<td align="center"><img src="../../images/panels/33-duct-pressure-step-20.png" alt="The white LED pushed into the hole between the two servos" width="380"></td>
 </tr>
 </tbody>
 </table>
