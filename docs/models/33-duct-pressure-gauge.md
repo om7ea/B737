@@ -74,7 +74,7 @@ All the parts print on a **Smooth** PEI plate.
 | Qty | Part | Reference |
 |---:|---|---|
 | 2× | **Servo SG90** - 180°, plastic gears | [Product I used](../../images/parts/AE_servo_SG90.png) |
-| 2× | **Ball bearing MR63ZZ** - 3 × 6 × 2.5 mm | |
+| 2× | **Ball bearing MR63ZZ** - 3 × 6 × 2.5 mm | [Product I used](../../images/parts/AE_bearing_MR63ZZ.png) |
 | 1× | **Ball bearing MR52ZZ** - 2 × 5 × 2.5 mm | [Product I used](../../images/parts/AE_bearing_MR52ZZ.png) |
 | 1× | **Acrylic pipe** - 2.1 × 3 × 200 mm, transparent; the shaft of the L needle is cut from it | [Product I used](../../images/parts/AE_acrylic_pipe.png) |
 | 1× | **Acrylic rod** - 2 mm, transparent; the shaft of the R needle is cut from it | [Product I used](../../images/parts/AE_acrylic_rod.png) |
