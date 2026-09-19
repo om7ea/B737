@@ -9,7 +9,7 @@
 > **Note**
 > This gauge is a model of its own - it is not part of any panel model. **One** is needed for the complete project, on the **Pneumatic Panel**.
 >
-> It is the only instrument of the overhead with **two needles**. Both turn on the same axis, the L needle on an acrylic pipe and the R needle on an acrylic rod running inside that pipe, and each one has a servo of its own.
+> It is a **two-needle** instrument. Both needles turn on the same axis, the L needle on an acrylic pipe and the R needle on an acrylic rod running inside that pipe, and each one has a servo of its own.
 
 ---
 
