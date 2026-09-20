@@ -278,6 +278,3 @@ Screw abbreviations used below: **DH** = dome head.
 </tr>
 </tbody>
 </table>
-
-> **Note**
-> The needles and the needle cap are glued on the front of the gauge, where the glue is on show. As it cures, cyanoacrylate (super glue) leaves a white film on the surface around the joint, not only where it was applied. Use as little of it as you can, or a two-part epoxy instead.
