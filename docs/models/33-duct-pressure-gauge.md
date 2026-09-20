@@ -172,14 +172,14 @@ Screw abbreviations used below: **DH** = dome head.
 </tbody>
 <tbody>
 <tr>
-<td width="55%"><b>3.</b> Stick the printed dial onto the <b>inner</b> part.</td>
-<td align="center"><img src="../../images/panels/33-duct-pressure-step-03.png" alt="The printed dial stuck onto the inner part" width="380"></td>
+<td width="55%"><b>3.</b> Stick the printed foil onto the <b>inner</b> part.</td>
+<td align="center"><img src="../../images/panels/33-duct-pressure-step-03.png" alt="The printed foil stuck onto the inner part" width="380"></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
-<td width="55%"><b>4.</b> Stick the printed face onto the <b>outer</b> part.</td>
-<td align="center"><img src="../../images/panels/33-duct-pressure-step-04.png" alt="The printed face stuck onto the outer part" width="380"></td>
+<td width="55%"><b>4.</b> Stick the printed foil onto the <b>outer</b> part.</td>
+<td align="center"><img src="../../images/panels/33-duct-pressure-step-04.png" alt="The printed foil stuck onto the outer part" width="380"></td>
 </tr>
 </tbody>
 <tbody>
