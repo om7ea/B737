@@ -37,7 +37,7 @@ What keeps the two drives apart is height. The two servos sit at different depth
 
 Both shafts are light pipes too: a white LED in the gears cover shines up the rod and the pipe into the needles. The two gears at the back sit in that light path, which is why they are printed in **transparent** PLA.
 
-The dial itself is lit separately, by two LED strips behind the printed faces - see [Backlight](#backlight).
+The dial itself is lit separately, by two LED strips inside the backlight part - see [Backlight](#backlight).
 
 ---
 
@@ -115,7 +115,7 @@ Three of the scales on that sheet belong to this gauge: the large square **DIFF 
 
 ### Scale
 
-The scale is lit by two LED strips behind the printed faces, one on each side, shining through the white outer, middle and inner parts from behind. They run on **12 V** taken from the backlighting of the Cabin Altitude Panel, so the gauge dims together with that panel - see [Power supply](../system-overview.md#power-supply).
+The scale is lit by two LED strips inside the backlight part, one on each side of the centre bearing, shining through the white outer, middle and inner parts from behind. They run on **12 V** taken from the backlighting of the Cabin Altitude Panel, so the gauge dims together with that panel - see [Power supply](../system-overview.md#power-supply).
 
 The two strips are not wired straight across that 12 V: an **820 Ω resistor** goes in series with the pair. The white parts pass far more light than the printed face of a panel does, so on the bare supply the scale burns out much brighter than the lettering around it. The resistor holds it back to the brightness of the rest of the overhead.
 
@@ -224,7 +224,8 @@ Screw abbreviations used below: **DH** = dome head.
 </tbody>
 <tbody>
 <tr>
-<td colspan="2"><b>11.</b> Fit the two <b>LED strips</b> inside the outer part, one on each side of the shielding rings, and bring their leads out. Do not forget the <b>820 Ω resistor</b> in series with the pair - see <a href="#backlight">Backlight</a>. They have to go in before the backlight part is screwed on in the next step.</td>
+<td width="55%"><b>11.</b> Fit the two <b>LED strips</b> into the <b>backlight</b> part, one on each side of the centre bearing, facing the dial, and bring their leads out. The two are wired in parallel and the <b>820 Ω resistor</b> goes in the lead feeding them - see <a href="#backlight">Backlight</a>. They have to go in before the part is screwed on in the next step.</td>
+<td align="center"><img src="../../images/panels/35-cabin-alt-backlight-leds.png" alt="The two LED strips on the backlight part, wired in parallel with the series resistor" width="380"></td>
 </tr>
 </tbody>
 <tbody>
