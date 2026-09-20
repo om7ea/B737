@@ -136,7 +136,7 @@ The gauge has four connections.
 |---|---|---|
 | L needle servo | 5 V | the control signal, **+5 V** and **GND**, all three from the pin headers at **pin 7** of the [RJ45 Direct](../pcb/rj45-direct.md) PCB on the **[Pneumatic Panel](34-bleed-air-control-panel.md)** - socket **D2** on **Overhead_5** |
 | R needle servo | 5 V | the same three, from the pin headers at **pin 6** of that board |
-| Needle LED | 5 V | **+5 V** and **GND** from the Pneumatic Panel, through a **150 Ω** resistor - see [Backlight](#backlight) |
+| Needle LED | 5 V | **+5 V** and **GND** from the outer two pins at **position 8** of the other [RJ45 Direct](../pcb/rj45-direct.md) PCB on that panel - socket **D3** on **Overhead_5**. No signal is taken from there. The pair runs through a **150 Ω** resistor - see [Backlight](#backlight) |
 | Scale backlight | 12 V | the backlighting of the Pneumatic Panel, through an **820 Ω** resistor - see [Backlight](#backlight) |
 
 > **⚠️ Both servo plugs have to be rewired**
