@@ -181,7 +181,9 @@ The rear of the panel. **PCB 1** is the lowest board, the one with a row of eigh
 
 Pin 8 is not used.
 
-Neither servo connection goes through a screw terminal. Each one takes its signal, **+5 V** and **GND** from the pin headers at its own position on this board. Both servo plugs have to be rewired before they will work - see [Duct Pressure Gauge](33-duct-pressure-gauge.md#wiring). The gauge also draws the 5 V for its needle LEDs from this board, and the 12 V for its scale backlight from this panel's own backlighting, through the two orange lever-type splice connectors at the top of the panel.
+Neither servo connection goes through a screw terminal. Each one takes its signal, **+5 V** and **GND** from the pin headers at its own position on this board. Both servo plugs have to be rewired before they will work - see [Duct Pressure Gauge](33-duct-pressure-gauge.md#wiring).
+
+The gauge's **needle LEDs** are fed from **PCB 1** instead: their **+5 V** and **GND** come from the outer two pins at position **8** on that board, the **-** and the **+**. No signal is taken from there. The 12 V for the scale backlight comes from this panel's own backlighting, through the two orange lever-type splice connectors at the top of the panel.
 
 ### PCB 3 - socket D5 on Overhead_5
 
