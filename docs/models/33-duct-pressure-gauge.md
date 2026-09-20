@@ -18,7 +18,7 @@
 <table>
 <tbody>
 <tr>
-<td align="center"><img src="../../images/panels/33-duct-pressure-render-assembled.png" alt="The assembled Duct Pressure Gauge"><br><sub>The assembled gauge</sub></td>
+<td align="center"><img src="../../images/panels/33-duct-pressure-photo-1-front.jpg" alt="Finished Duct Pressure Gauge, front"><br><sub>The finished gauge</sub></td>
 </tr>
 </tbody>
 </table>
