@@ -35,7 +35,7 @@ Five shapes, **nine pieces** in total. The drawings are zipped, because GitHub s
 <td><a href="https://raw.githubusercontent.com/om7ea/B737/main/docs/cnc_cut/cnc_gauge_78-9.zip"><b>cnc_gauge_78-9.dxf</b></a></td>
 <td>Ø 78.9 mm</td>
 <td align="right">1×</td>
-<td>Cabin Altitude Panel - the large two-needle gauge</td>
+<td><a href="models/35-cabin-alt-diff-press-gauge.md">Cabin Alt / Diff Press Gauge</a> on the Cabin Altitude Panel</td>
 </tr>
 </tbody>
 <tbody>
