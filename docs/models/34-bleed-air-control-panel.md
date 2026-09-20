@@ -152,7 +152,7 @@ The socket labels **D0-D6**, **A1** and **A2** are silkscreened on the hub shiel
 
 <img src="../../images/panels/34-bleed-air-wiring-pcbs.jpg" alt="Rear of the panel with the four PCBs marked" width="700">
 
-The rear of the panel. **PCB 1** is the lowest board, the one with a row of eight blue screw terminals. **PCB 2** sits just above it, with a shorter block of screw terminals and the two three-wire servo cables on its pin headers. **PCB 3** and **PCB 4** are the upper pair, with the small white connectors and the red-and-black cables running off to the annunciators; **PCB 4** is the right-hand one, the only board with its topmost connector populated.
+The rear of the panel. **PCB 1** is the lowest board, the one with a row of eight blue screw terminals. **PCB 2** sits just above it, with a shorter block of screw terminals and the two three-wire servo cables on its pin headers. **PCB 3** and **PCB 4** are the upper pair, with the small white connectors and the red-and-black cables running off to the annunciators; seen from the rear, **PCB 3** is the left-hand one and **PCB 4** the right-hand one.
 
 ### PCB 1 - socket D3 on Overhead_5
 
