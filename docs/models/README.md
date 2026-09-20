@@ -308,6 +308,14 @@ These are not panels. The frame carries the whole overhead; the rest are compone
 <td><a href="32-cabin-pressure-control-panel.md">Notes</a></td>
 </tr>
 </tbody>
+<tbody>
+<tr>
+<td><a href="34-bleed-air-control-panel.md"><img src="../../images/panels/34-bleed-air-thumbnail.jpg" width="200"></a></td>
+<td>Bleed Air Control Panel</td>
+<td><a href="https://makerworld.com/en/models/3332584-boeing-737-overhead-bleed-air-control-panel">Model</a></td>
+<td><a href="34-bleed-air-control-panel.md">Notes</a></td>
+</tr>
+</tbody>
 </table>
 
 More panels are currently in preparation.

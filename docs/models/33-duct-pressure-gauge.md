@@ -7,7 +7,7 @@
 ---
 
 > **Note**
-> This gauge is a model of its own - it is not part of any panel model. **One** is needed for the complete project, on the **Pneumatic Panel**.
+> This gauge is a model of its own - it is not part of any panel model. **One** is needed for the complete project, on the **[Pneumatic Panel](34-bleed-air-control-panel.md)**.
 >
 > It is a **two-needle** instrument. Both needles turn on the same axis, the L needle on an acrylic pipe and the R needle on an acrylic rod running inside that pipe, and each one has a servo of its own.
 
@@ -134,7 +134,7 @@ The gauge has four connections.
 
 | Connection | Supply | Comes from |
 |---|---|---|
-| L needle servo | 5 V | the control signal, **+5 V** and **GND**, all three from the pin headers at **pin 7** of the [RJ45 Direct](../pcb/rj45-direct.md) PCB on the **Pneumatic Panel** - socket **D2** on **Overhead_5** |
+| L needle servo | 5 V | the control signal, **+5 V** and **GND**, all three from the pin headers at **pin 7** of the [RJ45 Direct](../pcb/rj45-direct.md) PCB on the **[Pneumatic Panel](34-bleed-air-control-panel.md)** - socket **D2** on **Overhead_5** |
 | R needle servo | 5 V | the same three, from the pin headers at **pin 6** of that board |
 | Needle LED | 5 V | **+5 V** and **GND** from the Pneumatic Panel, through a **150 Ω** resistor - see [Backlight](#backlight) |
 | Scale backlight | 12 V | the backlighting of the Pneumatic Panel, through an **820 Ω** resistor - see [Backlight](#backlight) |
