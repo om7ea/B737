@@ -233,20 +233,14 @@ Screw abbreviations used below: **DH** = dome head.
 </tbody>
 <tbody>
 <tr>
-<td width="55%"><b>12.</b> Put the <b>cover</b> with its servo in place, so that the two gears mesh.</td>
-<td align="center"><img src="../../images/panels/21-temp-climb-step-12.png" alt="The cover with the servo brought up to the backlight part" width="380"></td>
+<td width="55%"><b>12.</b> Put the <b>cover</b> with its servo in place, so that the two gears mesh, and screw it down with 2× DH M3×5.</td>
+<td align="center"><img src="../../images/panels/21-temp-climb-step-12.png" alt="The cover with the servo fitted onto the backlight part" width="380"></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
-<td width="55%"><b>13.</b> Screw the cover down with 2× DH M3×5.</td>
-<td align="center"><img src="../../images/panels/21-temp-climb-step-13.png" alt="The cover screwed onto the backlight part" width="380"></td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td width="55%"><b>14.</b> Push the white <b>LED</b> - the one with the 150 Ω resistor - into the hole in the cover, beside the servo.</td>
-<td align="center"><img src="../../images/panels/21-temp-climb-step-14.png" alt="The white LED pushed into the hole beside the servo" width="380"></td>
+<td width="55%"><b>13.</b> Push the white <b>LED</b> - the one with the 150 Ω resistor - into the hole in the cover, beside the servo.</td>
+<td align="center"><img src="../../images/panels/21-temp-climb-step-13.png" alt="The white LED pushed into the hole beside the servo" width="380"></td>
 </tr>
 </tbody>
 </table>
