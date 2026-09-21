@@ -215,20 +215,20 @@ Screw abbreviations used below: **DH** = dome head.
 </tbody>
 <tbody>
 <tr>
-<td width="55%"><b>9.</b> From the front, fit the white <b>needle</b> onto the rod.</td>
-<td align="center"><img src="../../images/panels/21-temp-climb-step-09.png" alt="The white needle fitted onto the acrylic rod from the front" width="380"></td>
+<td width="55%"><b>9.</b> From the front, glue the white <b>needle</b> onto the rod with super glue.</td>
+<td align="center"><img src="../../images/panels/21-temp-climb-step-09.png" alt="The white needle glued onto the acrylic rod from the front" width="380"></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
-<td width="55%"><b>10.</b> Fit the black <b>centre cap</b> onto the needle.</td>
-<td align="center"><img src="../../images/panels/21-temp-climb-step-10.png" alt="The black centre cap fitted onto the hub of the needle" width="380"></td>
+<td width="55%"><b>10.</b> Glue the black <b>centre cap</b> onto the end of the rod.</td>
+<td align="center"><img src="../../images/panels/21-temp-climb-step-10.png" alt="The black centre cap glued onto the end of the acrylic rod" width="380"></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
-<td width="55%"><b>11.</b> From the back, fit the <b>7-tooth gear</b> onto the acrylic rod.</td>
-<td align="center"><img src="../../images/panels/21-temp-climb-step-11.png" alt="The 7-tooth gear fitted onto the acrylic rod from the back" width="380"></td>
+<td width="55%"><b>11.</b> From the back, glue the <b>7-tooth gear</b> onto the acrylic rod.</td>
+<td align="center"><img src="../../images/panels/21-temp-climb-step-11.png" alt="The 7-tooth gear glued onto the acrylic rod from the back" width="380"></td>
 </tr>
 </tbody>
 <tbody>
@@ -250,6 +250,3 @@ Screw abbreviations used below: **DH** = dome head.
 </tr>
 </tbody>
 </table>
-
-> **Note**
-> Three of the joints may need a drop of super glue, depending on how tight they come out of your printer: the **7-tooth gear** on the acrylic rod, the **white needle** on the acrylic rod, and the **black centre cap** on the white needle.
