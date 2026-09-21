@@ -221,8 +221,8 @@ Screw abbreviations used below: **DH** = dome head.
 </tbody>
 <tbody>
 <tr>
-<td width="55%"><b>10.</b> Glue the black <b>centre cap</b> onto the end of the rod.</td>
-<td align="center"><img src="../../images/panels/21-temp-climb-step-10.png" alt="The black centre cap glued onto the end of the acrylic rod" width="380"></td>
+<td width="55%"><b>10.</b> Glue the black <b>centre cap</b> onto the needle.</td>
+<td align="center"><img src="../../images/panels/21-temp-climb-step-10.png" alt="The black centre cap glued onto the hub of the needle" width="380"></td>
 </tr>
 </tbody>
 <tbody>
