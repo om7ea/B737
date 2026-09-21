@@ -19,7 +19,7 @@
 <tbody>
 <tr>
 <td align="center" width="50%"><img src="../../images/panels/21-temp-climb-photo-1-front.jpg" alt="Finished gauge, front"><br><sub>A finished gauge - this one carries the FUEL TEMP scale</sub></td>
-<td align="center" width="50%"><img src="../../images/panels/21-temp-climb-photo-2-side.jpg" alt="The gauge from the side, showing the two backlight LED strips"><br><sub>From the side - the two backlight LED strips inside the housing</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/21-temp-climb-photo-2-side.jpg" alt="The gauge from the side, showing the two backlight LED strips"><br><sub>From the side - the two LED strips on the backlight part</sub></td>
 </tr>
 </tbody>
 </table>
@@ -32,7 +32,7 @@ The needle is driven by an **SG90 servo** through a pair of printed gears. The *
 
 The needle shaft itself is a **2 mm acrylic rod** running in two **MR52ZZ** ball bearings, one in the top plate and one in the backlight plate. The rod is not only a shaft: a white LED underneath shines up through it, so the rod also carries light into the needle. The 7-tooth gear sits in that light path, which is why it is printed in **transparent** PLA.
 
-The dial itself is lit separately, by two LED strips inside the housing - see [Backlight](#backlight).
+The dial itself is lit separately, by two LED strips on the backlight part - see [Backlight](#backlight).
 
 ---
 
@@ -113,7 +113,7 @@ One sheet carries the scales for all the gauges of the overhead. The PDF and the
 
 ### Scale
 
-The scale is lit by two LED strips inside the housing, one on each side, shining through the white top plate from behind. They run on **12 V** taken from the backlighting of the panel the gauge is fitted in, so the gauge dims together with that panel - see [Power supply](../system-overview.md#power-supply).
+The scale is lit by two LED strips on the backlight part, one on each side, shining through the white top plate from behind. They run on **12 V** taken from the backlighting of the panel the gauge is fitted in, so the gauge dims together with that panel - see [Power supply](../system-overview.md#power-supply).
 
 The two strips are not wired straight across that 12 V: an **820 Ω resistor** goes in series with the pair. The white top plate passes far more light than the printed face of a panel does, so on the bare supply the scale burns out much brighter than the lettering around it. The resistor holds it back to the brightness of the rest of the overhead.
 
