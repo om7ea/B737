@@ -158,11 +158,98 @@ The 12 V for the scale backlight is brought over from the panel's own backlighti
 
 ---
 
-## Assembly Diagram
+## Assembly
 
-Screw abbreviations used in the diagram: **DH** = dome head.
+Screw abbreviations used below: **DH** = dome head.
 
 <img src="../../images/panels/21-temp-climb-01-exploded.png" alt="Exploded view of one gauge" width="800">
+
+<table>
+<tbody>
+<tr>
+<td width="55%"><b>1.</b> Screw the <b>servo</b> to the <b>cover</b> with two of the screws that come in the servo bag.</td>
+<td align="center"><img src="../../images/panels/21-temp-climb-step-01.png" alt="The servo screwed to the cover" width="380"></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="55%"><b>2.</b> Fasten the <b>14-tooth gear</b> to the servo shaft, again with a screw from the servo bag.</td>
+<td align="center"><img src="../../images/panels/21-temp-climb-step-02.png" alt="The 14-tooth gear fastened to the servo shaft" width="380"></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="55%"><b>3.</b> Stick the printed foil onto the <b>top</b> part.</td>
+<td align="center"><img src="../../images/panels/21-temp-climb-step-03.png" alt="The printed foil stuck onto the top part" width="380"></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="55%"><b>4.</b> Press an <b>MR52ZZ</b> bearing into the top part.</td>
+<td align="center"><img src="../../images/panels/21-temp-climb-step-04.png" alt="The first MR52ZZ bearing pressed into the top part" width="380"></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="55%"><b>5.</b> Fit the two <b>LED strips</b> onto the <b>backlight</b> part and bring their leads out. The two are wired in parallel and the <b>820 Ω resistor</b> goes in the lead feeding them - see <a href="#backlight">Backlight</a>. They have to go on before the part is screwed on in the next step.</td>
+<td align="center"><img src="../../images/panels/21-temp-climb-backlight-leds.png" alt="The two LED strips on the backlight part, in parallel, with the series resistor in the supply lead" width="380"></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="55%"><b>6.</b> Screw the <b>backlight</b> part on with 4× DH M3×8.</td>
+<td align="center"><img src="../../images/panels/21-temp-climb-step-06.png" alt="The backlight part screwed on with four M3x8 screws" width="380"></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="55%"><b>7.</b> Press the second <b>MR52ZZ</b> bearing into the backlight part.</td>
+<td align="center"><img src="../../images/panels/21-temp-climb-step-07.png" alt="The second MR52ZZ bearing pressed into the backlight part" width="380"></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="55%"><b>8.</b> Push the <b>acrylic rod</b> through both bearings. I used a 26 mm length.</td>
+<td align="center"><img src="../../images/panels/21-temp-climb-step-08.png" alt="The acrylic rod pushed through both bearings" width="380"></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="55%"><b>9.</b> From the front, fit the white <b>needle</b> onto the rod.</td>
+<td align="center"><img src="../../images/panels/21-temp-climb-step-09.png" alt="The white needle fitted onto the acrylic rod from the front" width="380"></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="55%"><b>10.</b> Fit the black <b>centre cap</b> onto the needle.</td>
+<td align="center"><img src="../../images/panels/21-temp-climb-step-10.png" alt="The black centre cap fitted onto the hub of the needle" width="380"></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="55%"><b>11.</b> From the back, fit the <b>7-tooth gear</b> onto the acrylic rod.</td>
+<td align="center"><img src="../../images/panels/21-temp-climb-step-11.png" alt="The 7-tooth gear fitted onto the acrylic rod from the back" width="380"></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="55%"><b>12.</b> Put the <b>cover</b> with its servo in place, so that the two gears mesh.</td>
+<td align="center"><img src="../../images/panels/21-temp-climb-step-12.png" alt="The cover with the servo brought up to the backlight part" width="380"></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="55%"><b>13.</b> Screw the cover down with 2× DH M3×5.</td>
+<td align="center"><img src="../../images/panels/21-temp-climb-step-13.png" alt="The cover screwed onto the backlight part" width="380"></td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td width="55%"><b>14.</b> Push the white <b>LED</b> - the one with the 150 Ω resistor - into the hole in the cover, beside the servo.</td>
+<td align="center"><img src="../../images/panels/21-temp-climb-step-14.png" alt="The white LED pushed into the hole beside the servo" width="380"></td>
+</tr>
+</tbody>
+</table>
 
 > **Note**
 > Three of the joints may need a drop of super glue, depending on how tight they come out of your printer: the **7-tooth gear** on the acrylic rod, the **white needle** on the acrylic rod, and the **black centre cap** on the white needle.
