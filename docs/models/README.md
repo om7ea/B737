@@ -79,7 +79,7 @@ These are not panels. The frame carries the whole overhead; the rest are compone
 </tbody>
 <tbody>
 <tr>
-<td><a href="35-cabin-alt-diff-press-gauge.md"><img src="../../images/panels/35-cabin-alt-render-assembled.png" width="200"></a></td>
+<td><a href="35-cabin-alt-diff-press-gauge.md"><img src="../../images/panels/35-cabin-alt-thumbnail.jpg" width="200"></a></td>
 <td>Cabin Alt / Diff Press Gauge</td>
 <td><a href="https://makerworld.com/en/models/3334561-boeing-737-overhead-cabin-alt-diff-press-gauge">Model</a></td>
 <td><a href="35-cabin-alt-diff-press-gauge.md">Notes</a></td>

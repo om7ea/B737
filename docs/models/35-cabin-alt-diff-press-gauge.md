@@ -18,7 +18,8 @@
 <table>
 <tbody>
 <tr>
-<td align="center"><img src="../../images/panels/35-cabin-alt-render-assembled.png" alt="The assembled Cabin Alt / Diff Press Gauge" width="400"><br><sub>The assembled gauge</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/35-cabin-alt-photo-1-front.jpg" alt="Finished Cabin Alt / Diff Press Gauge, front"><br><sub>The finished gauge</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/35-cabin-alt-photo-2-rear.jpg" alt="The gauge from behind, showing the two servos on the gears cover"><br><sub>From behind - the two servos on the gears cover, each with its own gear on the shaft</sub></td>
 </tr>
 </tbody>
 </table>
