@@ -63,7 +63,7 @@ These are not panels. The frame carries the whole overhead; the rest are compone
 </tbody>
 <tbody>
 <tr>
-<td><a href="31-outflow-valve-gauge.md"><img src="../../images/panels/31-outflow-valve-thumbnail.jpg" width="200"></a></td>
+<td><a href="31-outflow-valve-gauge.md"><img src="../../images/panels/31-outflow-valve-photo-1-front.jpg" width="200"></a></td>
 <td>Outflow Valve Gauge</td>
 <td><a href="https://makerworld.com/en/models/3323749-boeing-737-overhead-outflow-valve-gauge">Model</a></td>
 <td><a href="31-outflow-valve-gauge.md">Notes</a></td>
