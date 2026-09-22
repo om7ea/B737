@@ -184,7 +184,7 @@ The three servos are driven from the three-pin headers and the button from a scr
 
 <img src="../../images/panels/36-cabin-altitude-pcb-links.jpg" alt="The four links soldered on the underside of the board" width="600">
 
-Each of the two headers now gives one **+5 V / GND** pair - one for the needle LED of each gauge. No signal is taken from them, and the screw terminals at those four positions carry nothing.
+Each of the two headers now gives one **+5 V / GND** pair - one for the needle LED of each gauge. No signal is taken from them.
 
 The scale backlight of both gauges runs on **12 V** from this panel's own backlighting, through the two orange lever-type splice connectors on the rear.
 
