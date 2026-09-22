@@ -1,5 +1,7 @@
 # 36. Cabin Altitude Panel
 
+[📦 Download the printable model on MakerWorld](https://makerworld.com/en/models/3342633-boeing-737-overhead-cabin-altitude-panel)
+
 [← Back to model list](README.md)
 
 ---

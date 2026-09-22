@@ -316,6 +316,14 @@ These are not panels. The frame carries the whole overhead; the rest are compone
 <td><a href="34-bleed-air-control-panel.md">Notes</a></td>
 </tr>
 </tbody>
+<tbody>
+<tr>
+<td><a href="36-cabin-altitude-panel.md"><img src="../../images/panels/36-cabin-altitude-thumbnail.jpg" width="200"></a></td>
+<td>Cabin Altitude Panel</td>
+<td><a href="https://makerworld.com/en/models/3342633-boeing-737-overhead-cabin-altitude-panel">Model</a></td>
+<td><a href="36-cabin-altitude-panel.md">Notes</a></td>
+</tr>
+</tbody>
 </table>
 
 More panels are currently in preparation.
