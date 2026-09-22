@@ -7,7 +7,7 @@
 ---
 
 > **Note**
-> This gauge is a model of its own - it is not part of any panel model. **One** is needed for the complete project, on the **Cabin Altitude Panel**.
+> This gauge is a model of its own - it is not part of any panel model. **One** is needed for the complete project, on the **[Cabin Altitude Panel](36-cabin-altitude-panel.md)**.
 >
 > It is a **two-needle** instrument, and the largest gauge of the overhead. Both needles turn on the same axis, the short CABIN ALT needle on an acrylic pipe and the long DIFF PRESS needle on an acrylic rod running inside that pipe, and each one has a servo of its own.
 
@@ -116,7 +116,7 @@ Three of the scales on that sheet belong to this gauge: the large square **DIFF 
 
 ### Scale
 
-The scale is lit by two LED strips inside the backlight part, one on each side, shining through the white outer, middle and inner parts from behind. They run on **12 V** taken from the backlighting of the Cabin Altitude Panel, so the gauge dims together with that panel - see [Power supply](../system-overview.md#power-supply).
+The scale is lit by two LED strips inside the backlight part, one on each side, shining through the white outer, middle and inner parts from behind. They run on **12 V** taken from the backlighting of the [Cabin Altitude Panel](36-cabin-altitude-panel.md), so the gauge dims together with that panel - see [Power supply](../system-overview.md#power-supply).
 
 The two strips are not wired straight across that 12 V: an **820 Ω resistor** goes in series with the pair. The white parts pass far more light than the printed face of a panel does, so on the bare supply the scale burns out much brighter than the lettering around it. The resistor holds it back to the brightness of the rest of the overhead.
 
@@ -139,9 +139,9 @@ The gauge has four connections.
 
 | Connection | Supply | Comes from |
 |---|---|---|
-| CABIN ALT needle servo | 5 V | the control signal, **+5 V** and **GND**, all three from the pin headers at **pin 7** of the [RJ45 Direct](../pcb/rj45-direct.md) PCB on the **Cabin Altitude Panel** - socket **D3** on **Overhead_4** |
+| CABIN ALT needle servo | 5 V | the control signal, **+5 V** and **GND**, all three from the pin headers at **pin 7** of the [RJ45 Direct](../pcb/rj45-direct.md) PCB on the **[Cabin Altitude Panel](36-cabin-altitude-panel.md)** - socket **D3** on **Overhead_4** |
 | DIFF PRESS needle servo | 5 V | the same three, from the pin headers at **pin 6** of that board |
-| Needle LED | 5 V | **+5 V** and **GND** from the Cabin Altitude Panel. The pair runs through a **150 Ω** resistor - see [Backlight](#backlight) |
+| Needle LED | 5 V | **+5 V** and **GND** from a two-pin header on that same board - see [the modified board](36-cabin-altitude-panel.md#the-modified-board). The pair runs through a **150 Ω** resistor - see [Backlight](#backlight) |
 | Scale backlight | 12 V | the backlighting of the Cabin Altitude Panel, through an **820 Ω** resistor - see [Backlight](#backlight) |
 
 > **⚠️ Both servo plugs have to be rewired**
