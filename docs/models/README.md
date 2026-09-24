@@ -324,6 +324,14 @@ These are not panels. The frame carries the whole overhead; the rest are compone
 <td><a href="36-cabin-altitude-panel.md">Notes</a></td>
 </tr>
 </tbody>
+<tbody>
+<tr>
+<td><a href="37-left-light-panel.md"><img src="../../images/panels/37-left-light-thumbnail.jpg" width="200"></a></td>
+<td>Left Light Panel</td>
+<td><a href="https://makerworld.com/en/models/3350617-boeing-737-overhead-left-light-panel">Model</a></td>
+<td><a href="37-left-light-panel.md">Notes</a></td>
+</tr>
+</tbody>
 </table>
 
 More panels are currently in preparation.
