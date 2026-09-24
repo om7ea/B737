@@ -85,6 +85,22 @@ These are not panels. The frame carries the whole overhead; the rest are compone
 <td><a href="35-cabin-alt-diff-press-gauge.md">Notes</a></td>
 </tr>
 </tbody>
+<tbody>
+<tr>
+<td></td>
+<td>Engine Start Switch</td>
+<td>🚧</td>
+<td>🚧</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td></td>
+<td>Backlight Blocking Strips</td>
+<td>🚧</td>
+<td>🚧</td>
+</tr>
+</tbody>
 </table>
 
 ---
