@@ -78,14 +78,12 @@ The four two-position switches are LOGO, ANTI COLLISION, WING and WHEEL WELL. Th
 
 | Qty | Screw | Joins |
 |---:|---|---|
-| 2× | Flat head M3×12 | bottom + standoff |
+| 3× | Flat head M3×12 | bottom + standoff |
 | 2× | Dome head M3×5 | PCB + backlight |
-| 9× | Dome head M3×8 | top + bottom, diffuser + standoff, backlight + standoff |
+| 8× | Dome head M3×8 | top + bottom, diffuser + standoff, backlight + standoff |
 | 7× | Dome head M4×8 | bottom + main frame, index plate + bottom |
 
-Of the seven M4×8 screws, six go into the main frame and the seventh holds the index plate and takes the printed flat washer. Of the nine M3×8, three hold the top panel, two hold the diffuser to its standoffs and four hold the backlight panel.
-
-Two of the four standoffs are screwed to the bottom panel with the M3×12 screws; the other two are screwed through the diffuser with M3×8.
+Three of the four standoffs are screwed to the bottom panel with the M3×12 screws; the fourth is screwed through the diffuser with M3×8.
 
 ---
 
@@ -147,7 +145,7 @@ Screw abbreviations used in the diagrams: **FH** = flat head, **DH** = dome head
 
 ### 1. Bottom panel - diffuser, index plate, switches and standoffs
 
-<img src="../../images/panels/38-right-light-01-bottom-panel-parts.png" alt="Bottom panel with the diffuser, the index plate, the five switches and the standoffs" width="700">
+<img src="../../images/panels/38-right-light-01-bottom-panel-assembly.png" alt="Bottom panel with the diffuser, the index plate, the five switches and the standoffs" width="700">
 
 ### 2. Backlight panel - LED strips
 
@@ -155,7 +153,7 @@ Screw abbreviations used in the diagrams: **FH** = flat head, **DH** = dome head
 
 ### 3. Backlight panel - PCB and DC jack
 
-<img src="../../images/panels/38-right-light-03-pcb-and-dc-jack.png" alt="Backlight panel with the RJ45 Direct PCB and the DC jack" width="700">
+<img src="../../images/panels/38-right-light-03-pcb-and-jack.png" alt="Backlight panel with the RJ45 Direct PCB and the DC jack" width="700">
 
 ### 4. Top panel
 
