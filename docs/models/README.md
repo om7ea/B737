@@ -351,6 +351,22 @@ These are not panels. The frame carries the whole overhead; the rest are compone
 <tbody>
 <tr>
 <td></td>
+<td>FWD Blank Panels</td>
+<td>🚧</td>
+<td>🚧</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td></td>
+<td>AFT Blank Panels</td>
+<td>🚧</td>
+<td>🚧</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td></td>
 <td>Rear Power and USB Panel</td>
 <td>🚧</td>
 <td>🚧</td>
