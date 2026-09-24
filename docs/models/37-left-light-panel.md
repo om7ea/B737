@@ -29,7 +29,7 @@
 </tbody>
 <tbody>
 <tr>
-<td align="center" width="50%"><img src="../../images/panels/37-left-light-panel-photo-7-rear.jpg" alt="Rear of the finished panel"><br><sub>Rear side - the two backlight panels, the PCB and the switch wiring</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/37-left-light-photo-7-rear.jpg" alt="Rear of the finished panel"><br><sub>Rear side - the two backlight panels, the PCB and the switch wiring</sub></td>
 <td align="center" width="50%"></td>
 </tr>
 </tbody>
@@ -111,7 +111,7 @@ The panel has a single PCB. It is connected by one Ethernet patch cable to a soc
 
 The socket labels **D0-D6**, **A1** and **A2** are silkscreened on the hub shield.
 
-<img src="../../images/panels/37-left-light-panel-wiring-rear.jpg" alt="Rear of the panel with the PCB marked" width="700">
+<img src="../../images/panels/37-left-light-wiring-rear.jpg" alt="Rear of the panel with the PCB marked" width="700">
 
 The rear of the panel. **PCB 1** is the only board, on its frame below the backlight panel that carries four of the switches. The white wires run from the board's screw terminals up to the switches; the brown wire daisy-chains the opposite terminals of all six switches together.
 

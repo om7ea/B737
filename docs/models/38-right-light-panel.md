@@ -11,20 +11,20 @@
 <table>
 <tbody>
 <tr>
-<td align="center" width="50%"><img src="../../images/panels/38-right-light-photo-1-front.jpg" alt="Finished Right Light Panel, front"><br><sub>Finished panel</sub></td>
-<td align="center" width="50%"><img src="../../images/panels/38-right-light-photo-2-top-panel.jpg" alt="The printed top panel"><br><sub>The top panel - Dark Gray with the lettering in Jade White</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/38-right-light-panel-photo-1-front.jpg" alt="Finished Right Light Panel, front"><br><sub>Finished panel</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/38-right-light-panel-photo-2-top-panel.jpg" alt="The printed top panel"><br><sub>The top panel - Dark Gray with the lettering in Jade White</sub></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
-<td align="center" width="50%"><img src="../../images/panels/38-right-light-photo-3-index-plate.jpg" alt="The printed INDEX TO LOCK plate"><br><sub>The index plate - Black with the lettering in Jade White</sub></td>
-<td align="center" width="50%"><img src="../../images/panels/38-right-light-photo-4-bottom-panel.jpg" alt="The printed bottom panel"><br><sub>The bottom panel - the opening is where the diffuser shows through</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/38-right-light-panel-photo-3-index-plate.jpg" alt="The printed INDEX TO LOCK plate"><br><sub>The index plate - Black with the lettering in Jade White</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/38-right-light-panel-photo-4-bottom-panel.jpg" alt="The printed bottom panel"><br><sub>The bottom panel - the opening is where the diffuser shows through</sub></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
-<td align="center" width="50%"><img src="../../images/panels/38-right-light-photo-5-diffuser.jpg" alt="The diffuser panel with the five switches fitted"><br><sub>The diffuser panel with all five switches fitted</sub></td>
-<td align="center" width="50%"><img src="../../images/panels/38-right-light-photo-6-diffuser-fitted.jpg" alt="Bottom panel with the diffuser and the switches fitted"><br><sub>The diffuser and the switches in the bottom panel, before the top panel goes on</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/38-right-light-panel-photo-5-diffuser.jpg" alt="The diffuser panel with the five switches fitted"><br><sub>The diffuser panel with all five switches fitted</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/38-right-light-panel-photo-6-diffuser-fitted.jpg" alt="Bottom panel with the diffuser and the switches fitted"><br><sub>The diffuser and the switches in the bottom panel, before the top panel goes on</sub></td>
 </tr>
 </tbody>
 <tbody>

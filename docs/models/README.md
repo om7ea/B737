@@ -350,7 +350,7 @@ These are not panels. The frame carries the whole overhead; the rest are compone
 </tbody>
 <tbody>
 <tr>
-<td><a href="38-right-light-panel.md"><img src="../../images/panels/38-right-light-thumbnail.jpg" width="200"></a></td>
+<td><a href="38-right-light-panel.md"><img src="../../images/panels/38-right-light-panel-thumbnail.jpg" width="200"></a></td>
 <td>Right Light Panel</td>
 <td><a href="https://makerworld.com/en/models/3350735-boeing-737-overhead-right-light-panel">Model</a></td>
 <td><a href="38-right-light-panel.md">Notes</a></td>
