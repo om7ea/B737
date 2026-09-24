@@ -11,25 +11,25 @@
 <table>
 <tbody>
 <tr>
-<td align="center" width="50%"><img src="../../images/panels/37-left-light-photo-1-front.jpg" alt="Finished Left Light Panel, front"><br><sub>Finished panel</sub></td>
-<td align="center" width="50%"><img src="../../images/panels/37-left-light-photo-2-top-panel.jpg" alt="The printed top panel"><br><sub>The top panel - Dark Gray with the lettering in Jade White</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/37-left-light-panel-photo-1-front.jpg" alt="Finished Left Light Panel, front"><br><sub>Finished panel</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/37-left-light-panel-photo-2-top-panel.jpg" alt="The printed top panel"><br><sub>The top panel - Dark Gray with the lettering in Jade White</sub></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
-<td align="center" width="50%"><img src="../../images/panels/37-left-light-photo-3-index-plate.jpg" alt="The printed INDEX TO LOCK plate"><br><sub>The index plate - Black with the lettering in Jade White</sub></td>
-<td align="center" width="50%"><img src="../../images/panels/37-left-light-photo-4-bottom-panel.jpg" alt="The printed bottom panel"><br><sub>The bottom panel - the two openings are where the diffuser shows through</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/37-left-light-panel-photo-3-index-plate.jpg" alt="The printed INDEX TO LOCK plate"><br><sub>The index plate - Black with the lettering in Jade White</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/37-left-light-panel-photo-4-bottom-panel.jpg" alt="The printed bottom panel"><br><sub>The bottom panel - the two openings are where the diffuser shows through</sub></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
-<td align="center" width="50%"><img src="../../images/panels/37-left-light-photo-5-diffuser.jpg" alt="The diffuser panel with the six switches fitted"><br><sub>The diffuser panel with all six switches fitted</sub></td>
-<td align="center" width="50%"><img src="../../images/panels/37-left-light-photo-6-diffuser-fitted.jpg" alt="Bottom panel with the diffuser and the switches fitted"><br><sub>The diffuser and the switches in the bottom panel, before the top panel goes on</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/37-left-light-panel-photo-5-diffuser.jpg" alt="The diffuser panel with the six switches fitted"><br><sub>The diffuser panel with all six switches fitted</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/37-left-light-panel-photo-6-diffuser-fitted.jpg" alt="Bottom panel with the diffuser and the switches fitted"><br><sub>The diffuser and the switches in the bottom panel, before the top panel goes on</sub></td>
 </tr>
 </tbody>
 <tbody>
 <tr>
-<td align="center" width="50%"><img src="../../images/panels/37-left-light-photo-7-rear.jpg" alt="Rear of the finished panel"><br><sub>Rear side - the two backlight panels, the PCB and the switch wiring</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/37-left-light-panel-photo-7-rear.jpg" alt="Rear of the finished panel"><br><sub>Rear side - the two backlight panels, the PCB and the switch wiring</sub></td>
 <td align="center" width="50%"></td>
 </tr>
 </tbody>
@@ -111,7 +111,7 @@ The panel has a single PCB. It is connected by one Ethernet patch cable to a soc
 
 The socket labels **D0-D6**, **A1** and **A2** are silkscreened on the hub shield.
 
-<img src="../../images/panels/37-left-light-wiring-rear.jpg" alt="Rear of the panel with the PCB marked" width="700">
+<img src="../../images/panels/37-left-light-panel-wiring-rear.jpg" alt="Rear of the panel with the PCB marked" width="700">
 
 The rear of the panel. **PCB 1** is the only board, on its frame below the backlight panel that carries four of the switches. The white wires run from the board's screw terminals up to the switches; the brown wire daisy-chains the opposite terminals of all six switches together.
 
