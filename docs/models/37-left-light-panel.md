@@ -50,17 +50,17 @@
 
 ## 3D Printed Parts
 
-| Qty | Part | Notes |
-|---:|---|---|
-| 1× | Top panel | print on a **Textured** PEI plate |
-| 1× | Bottom panel | print on a **Textured** PEI plate |
-| 1× | Index plate | the INDEX TO LOCK plate at the left end; print on a **Textured** PEI plate |
-| 1× | Diffuser panel | print on a **Smooth** PEI plate |
-| 1× | Backlight panel 1 | the four-switch half |
-| 1× | Backlight panel 2 | the two-switch half |
-| 1× | PCB frame | |
-| 7× | Standoff 16 mm | |
-| 1× | Flat washer | goes under the screw that holds the index plate |
+| Qty | Part | Colour | Notes |
+|---:|---|---|---|
+| 1× | Top panel | Dark Gray + White | the lettering is printed in Jade White; print on a **Textured** PEI plate |
+| 1× | Bottom panel | Dark Gray | print on a **Textured** PEI plate |
+| 1× | Index plate | Black + White | the INDEX TO LOCK plate at the left end, lettering in Jade White; print on a **Textured** PEI plate |
+| 1× | Diffuser panel | Transparent | print on a **Smooth** PEI plate |
+| 1× | Backlight panel 1 | Black | the four-switch half |
+| 1× | Backlight panel 2 | Black | the two-switch half |
+| 1× | PCB frame | Black | |
+| 7× | Standoff 16 mm | Black | |
+| 1× | Flat washer | Dark Gray | goes under the screw that holds the index plate |
 
 The diffuser is a single piece that runs the whole width of the panel. The bottom panel has two openings in it, so from the front the lit area looks like two separate windows.
 
