@@ -87,8 +87,6 @@ The five two-position switches are LANDING L and R, RUNWAY TURNOFF L and R, and 
 | 16× | Dome head M3×8 | top + bottom, diffuser + standoff, backlight + standoff |
 | 7× | Dome head M4×8 | bottom + main frame, index plate + bottom |
 
-Of the seven M4×8 screws, six go into the main frame alongside the single M4×12, and the seventh holds the index plate and takes the printed flat washer. Of the sixteen M3×8, five hold the top panel, four hold the diffuser to its standoffs and seven hold the two backlight panels.
-
 Three of the seven standoffs are screwed to the bottom panel with the M3×12 screws; the other four are screwed through the diffuser with M3×8.
 
 ---

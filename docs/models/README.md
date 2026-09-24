@@ -340,6 +340,20 @@ These are not panels. The frame carries the whole overhead; the rest are compone
 <td><a href="38-right-light-panel.md">Notes</a></td>
 </tr>
 </tbody>
+<tbody>
+<tr>
+<td></td>
+<td>Engine Start Panel</td>
+<td>🚧</td>
+<td>🚧</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td></td>
+<td>Rear Power and USB Panel</td>
+<td>🚧</td>
+<td>🚧</td>
+</tr>
+</tbody>
 </table>
-
-More panels are currently in preparation.
