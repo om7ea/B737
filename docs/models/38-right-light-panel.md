@@ -145,7 +145,7 @@ Screw abbreviations used in the diagrams: **FH** = flat head, **DH** = dome head
 
 ### 1. Bottom panel - diffuser, index plate, switches and standoffs
 
-<img src="../../images/panels/38-right-light-01-bottom-panel-assembly.png" alt="Bottom panel with the diffuser, the index plate, the five switches and the standoffs" width="700">
+<img src="../../images/panels/38-right-light-01-bottom-panel-build.png" alt="Bottom panel with the diffuser, the index plate, the five switches and the standoffs" width="700">
 
 ### 2. Backlight panel - LED strips
 
