@@ -69,7 +69,7 @@ The three screws and the single arm that come with the servo are used as well.
 > **Note**
 > On some servos the single arm that comes in the package is too long and does not fit into the case. In that case take the double arm, which has one side slightly shorter, and cut the other side off. You can also take the four-way arm and cut off the three sides you do not need.
 
-> **⚠️ Fit the servo arm only after MobiFlight has set the servo**\r
+> **⚠️ Fit the servo arm only after MobiFlight has set the servo**\
 > Do not fit the arm when you install the servo for the first time - leave the servo without it. If you use my [MobiFlight configuration](../mobiflight.md), the servo moves to the right position once it is connected to power and to the MEGA and MobiFlight is started. Only then fit the arm, exactly as in the photo on this page.
 
 ---
