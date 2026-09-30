@@ -358,10 +358,10 @@ These are not panels. The frame carries the whole overhead; the rest are compone
 </tbody>
 <tbody>
 <tr>
-<td></td>
+<td><a href="40-engine-start-panel.md"><img src="../../images/panels/40-engine-start-thumbnail.jpg" width="200"></a></td>
 <td>Engine Start Panel</td>
-<td>🚧</td>
-<td>🚧</td>
+<td><a href="https://makerworld.com/en/models/3376922-boeing-737-overhead-engine-start-panel">Model</a></td>
+<td><a href="40-engine-start-panel.md">Notes</a></td>
 </tr>
 </tbody>
 <tbody>

@@ -7,7 +7,7 @@
 ---
 
 > **Note**
-> **Two** are needed for the complete project, both on the **Engine Start Panel** - one for each engine.
+> **Two** are needed for the complete project, both on the **[Engine Start Panel](40-engine-start-panel.md)** - one for each engine.
 
 ---
 
