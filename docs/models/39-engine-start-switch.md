@@ -66,6 +66,9 @@ The MG90S has metal gears, so it copes with a heavier load than the SG90 used in
 
 The three screws and the single arm that come with the servo are used as well.
 
+> **Note**
+> On some servos the single arm that comes in the package is too long and does not fit into the case. In that case take the double arm, which has one side slightly shorter, and cut the other side off. You can also take the four-way arm and cut off the three sides you do not need.
+
 ---
 
 ## Screws
