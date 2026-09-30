@@ -156,7 +156,7 @@ Instructions for assembling the PCB are on the [Annunciator PCB](../pcb/annuncia
 
 Complete this step **only once you have the assembled RJ45 LED driver**, so that you can connect the annunciator PCB and test the mechanism while you work.
 
-> **⚠️ Test before you glue**
+> **⚠️ Test before you glue**\
 > Assemble the parts completely **without glue** first and test the mechanism to make sure that both buttons work correctly and move freely. Only glue once you have confirmed that everything works.
 >
 > In some cases the mechanism may not work correctly - only one of the two buttons responds, neither button responds, or the buttons stay permanently pressed. If this happens, disassemble the parts **immediately** and find the cause before the glue sets. Otherwise the mechanism can end up permanently glued in the wrong position, and the outer-part and pcb-holder may have to be destroyed to take it apart.

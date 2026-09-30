@@ -139,7 +139,7 @@ The gauge has four connections.
 | Needle LED | 5 V | **+5 V** and **GND** from the outer two pins at **position 8** of the other [RJ45 Direct](../pcb/rj45-direct.md) PCB on that panel - socket **D3** on **Overhead_5**. No signal is taken from there. The pair runs through a **150 Ω** resistor - see [Backlight](#backlight) |
 | Scale backlight | 12 V | the backlighting of the Pneumatic Panel, through an **820 Ω** resistor - see [Backlight](#backlight) |
 
-> **⚠️ Both servo plugs have to be rewired**
+> **⚠️ Both servo plugs have to be rewired**\
 > The SG90 does not leave the factory in the order the RJ45 Direct PCB expects, so a servo will **not** work if you plug it in as it comes. **Swap the red and the yellow wire:**
 >
 > | | Wire order in the plug |

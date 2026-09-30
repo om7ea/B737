@@ -122,7 +122,7 @@ The gauge has two connections.
 | Servo | 5 V | the control signal, **+5 V** and **GND**, all three from the pin headers at **pin 6** of the RJ45 Direct PCB on the [Cabin Pressure Control Panel](32-cabin-pressure-control-panel.md#wiring) - socket **D4** on **Overhead_5** |
 | Scale backlight | 12 V | the backlighting of the Cabin Pressure Control Panel, through an **820 Ω** resistor - see [Backlight](#backlight) |
 
-> **⚠️ The servo plug has to be rewired**
+> **⚠️ The servo plug has to be rewired**\
 > The SG90 does not leave the factory in the order the RJ45 Direct PCB expects, so the servo will **not** work if you plug it in as it comes. **Swap the red and the yellow wire:**
 >
 > | | Wire order in the plug |
