@@ -191,7 +191,7 @@ Screw abbreviations used in the diagrams: **FH** = flat head, **DH** = dome head
 
 ### 1. Bottom panel - switches and standoffs
 
-<img src="../../images/panels/40-engine-start-01-bottom-panel-parts.png" alt="Bottom panel with the toggle switch, the two Engine Start Switches and the standoffs" width="700">
+<img src="../../images/panels/40-engine-start-01-bottom-panel-assembly.png" alt="Bottom panel with the toggle switch, the two Engine Start Switches and the standoffs" width="700">
 
 ### 2. Backlight panel - LED strips
 
