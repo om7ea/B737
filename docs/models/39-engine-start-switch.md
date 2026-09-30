@@ -7,7 +7,7 @@
 ---
 
 > **Note**
-> This switch is a model of its own - it is not part of any panel model. **Two** are needed for the complete project, both on the **Engine Start Panel** - one for each engine.
+> **Two** are needed for the complete project, both on the **Engine Start Panel** - one for each engine.
 
 ---
 
@@ -25,7 +25,7 @@
 
 ## How It Works
 
-The knob turns a **12-position rotary switch RS26** through two printed rods, set to the four positions **GRD / OFF / CONT / FLT**. A spring keeps the knob pulled out, and out of **OFF** it can only be turned after it has been **pushed in** - without pushing, it does not turn.
+The knob turns a **rotary switch RS26** through two printed rods, set to the four positions **GRD / OFF / CONT / FLT**. A spring keeps the knob pulled out, and out of **OFF** it can only be turned after it has been **pushed in** - without pushing, it does not turn.
 
 An **MG90S servo** beside the switch turns the knob back from **GRD** to **OFF** once the simulator releases the starter, the way the real aircraft does it.
 
@@ -55,21 +55,6 @@ The RS26 has an adjustable end stop - set it to **4** positions.
 
 ---
 
-## Rotary Knobs
-
-The knobs are a separate model shared with the panels - they are **not included** in this download.
-
-| Per switch | Total for 2 | Part |
-|---:|---:|---|
-| 1× | 2× | General knob, D shaft |
-| 1× | 2× | General knob indicator |
-
-| | |
-|---|---|
-| 📦 Printable model | [Boeing 737 Overhead - Rotary Knobs](https://makerworld.com/en/models/3066127-boeing-737-overhead-rotary-knobs) |
-
----
-
 ## Electronic and Mechanical Components
 
 | Per switch | Total for 2 | Part | Reference |
@@ -88,30 +73,6 @@ The three screws and the single arm that come with the servo are used as well.
 | Per switch | Total for 2 | Screw | Joins |
 |---:|---:|---|---|
 | 6× | 12× | Dome head M3×8 | bottom case + top case, bottom case + bottom case cover |
-
----
-
-## Wiring
-
-Both switches are wired to two RJ45 Direct PCBs on the Engine Start Panel - sockets **D4** and **D6** on **Overhead_3**.
-
-| Connection | ENG 1 switch | ENG 2 switch |
-|---|---|---|
-| Servo - control signal, **+5 V** and **GND** | pin headers at **pin 7**, socket **D6** | pin headers at **pin 8**, socket **D6** |
-| GRD | pin **8**, socket **D4** | pin **4**, socket **D4** |
-| OFF | pin **7**, socket **D4** | pin **3**, socket **D4** |
-| CONT | pin **6**, socket **D4** | pin **2**, socket **D4** |
-| FLT | pin **5**, socket **D4** | pin **1**, socket **D4** |
-
-> **⚠️ The servo plug has to be rewired**
-> The MG90S does not leave the factory in the order the RJ45 Direct PCB expects, so the servo will **not** work if you plug it in as it comes. **Swap the red and the orange wire:**
->
-> | | Wire order in the plug |
-> |---|---|
-> | As delivered | brown - red - orange |
-> | **Needed** | **brown - orange - red** |
->
-> Lift the small tabs on the plastic housing, pull those two crimped contacts out and swap them over. Brown stays where it is.
 
 ---
 
