@@ -69,7 +69,7 @@ Panel 4 carries the board marked **mega 2b** in [The boards](../system-overview.
 
 | Qty | PCB | Connections used | Gerber files |
 |---:|---|---|---|
-| 1× | [RJ45 Hub Shield](../pcb/rj45-hub-shield.md) | plugs onto the MEGA 2560 | [📥 PCB_RJ45_Hub_Shield.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Hub_Shield.zip) |
+| 1× | [RJ45 Hub Shield](../pcb/rj45-hub-shield.md) | all nine sockets - D0-D6, A1 and A2 | [📥 PCB_RJ45_Hub_Shield.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Hub_Shield.zip) |
 
 The shield is fitted in [step 2](#2-mega-2560-and-rj45-hub-shield-on-panel-4) of the assembly diagram.
 
