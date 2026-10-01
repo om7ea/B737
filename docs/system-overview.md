@@ -48,7 +48,7 @@ The **PRO MINI** form factor is what matters here: the board is a fraction of th
 
 <img src="../images/board_positions.png" alt="Where the seven boards sit inside the panel" width="450">
 
-Where the seven boards sit inside my panel, each with its RJ45 Hub Shield. Which board and which socket a panel connects to is in the **Wiring** section of that panel's [model page](models/README.md).
+Where the seven boards sit inside my panel, each with its RJ45 Hub Shield. Which board and which socket a panel connects to is in the **Wiring** section of that panel's [model page](models/README.md), and for all panels together in the [Socket map](#socket-map).
 
 #### USB driver
 
@@ -120,6 +120,111 @@ At the board end the cables plug into an **RJ45 Hub Shield** - a shield that sit
 The chain for a single connection: panel PCB → Ethernet patch cable → MEGA 2560 PRO MINI with the RJ45 Hub Shield → micro USB cable → USB hub → PC. A panel may need more than one cable, and one board takes up to nine.
 
 See [PCB Manufacturing Files](pcb/README.md) for details, BOM and wiring.
+
+---
+
+### Socket map
+
+Which panel each socket of the seven RJ45 Hub Shields goes to. Each board is listed by its MobiFlight name, followed by the label it has in the [picture of the board positions](#the-boards). A dash marks a free socket.
+
+#### Overhead_1a - mega 1a
+
+| Socket | Panel |
+|---|---|
+| D0 | [LE Devices and ELT Panel](models/17-le-devices-and-elt-panel.md) |
+| D1 | [LE Devices and ELT Panel](models/17-le-devices-and-elt-panel.md) |
+| D2 | [LE Devices and ELT Panel](models/17-le-devices-and-elt-panel.md) |
+| D3 | [LE Devices and ELT Panel](models/17-le-devices-and-elt-panel.md) |
+| D4 | [Flight Control Panel](models/05-flight-control-panel.md) |
+| D5 | [Flight Control Panel](models/05-flight-control-panel.md) |
+| D6 | [Flight Control Panel](models/05-flight-control-panel.md) |
+| A1 | - |
+| A2 | [LE Devices and ELT Panel](models/17-le-devices-and-elt-panel.md) |
+
+#### Overhead_1b - mega 1b
+
+| Socket | Panel |
+|---|---|
+| D0 | [Fuel Control Panel](models/22-fuel-control-panel.md) |
+| D1 | [Fuel Control Panel](models/22-fuel-control-panel.md) |
+| D2 | [Fuel Control Panel](models/22-fuel-control-panel.md) |
+| D3 | [Fuel Control Panel](models/22-fuel-control-panel.md) |
+| D4 | - |
+| D5 | - |
+| D6 | [Flight Control Panel](models/05-flight-control-panel.md) |
+| A1 | [Navigation Panel](models/04-navigation-panel.md) |
+| A2 | [Navigation Panel](models/04-navigation-panel.md) |
+
+#### Overhead_2a - mega 2a
+
+| Socket | Panel |
+|---|---|
+| D0 | [IRS Display Unit](models/14-irs-display-unit.md) |
+| D1 | [IRS Mode Select Unit](models/13-irs-mode-select-unit.md) |
+| D2 | [IRS Mode Select Unit](models/13-irs-mode-select-unit.md) |
+| D3 | [Engine and Oxygen Panel](models/30-engine-and-oxygen-panel.md) |
+| D4 | [AC and DC Meter Panel](models/26-ac-and-dc-meter-panel.md) |
+| D5 | [Air Conditioning Control Panel](models/24-air-conditioning-control-panel.md) |
+| D6 | [AC and DC Meter Panel](models/26-ac-and-dc-meter-panel.md) |
+| A1 | [IRS Display Unit](models/14-irs-display-unit.md) |
+| A2 | [IRS Display Unit](models/14-irs-display-unit.md) |
+
+#### Overhead_2b - mega 2b
+
+| Socket | Panel |
+|---|---|
+| D0 | [Generator Bus Panel](models/23-generator-bus-panel.md) |
+| D1 | [Generator Bus Panel](models/23-generator-bus-panel.md) |
+| D2 | [Door Warning Panel](models/06-door-warning-panel.md) |
+| D3 | [Engine and Oxygen Panel](models/30-engine-and-oxygen-panel.md) |
+| D4 | [AC and DC Meter Panel](models/26-ac-and-dc-meter-panel.md) |
+| D5 | [Generator Bus Panel](models/23-generator-bus-panel.md) |
+| D6 | [Generator Bus Panel](models/23-generator-bus-panel.md) |
+| A1 | [Generator Drive and Standby Power Panel](models/07-generator-drive-panel.md) |
+| A2 | [AC and DC Meter Panel](models/26-ac-and-dc-meter-panel.md) |
+
+#### Overhead_3 - mega 3
+
+| Socket | Panel |
+|---|---|
+| D0 | [Recorder and Stall Panel](models/28-recorder-and-stall-panel.md) |
+| D1 | [Interphone and Dome Panel](models/27-interphone-and-dome-panel.md) |
+| D2 | [Center Lower Panel](models/20-center-lower-panel.md) |
+| D3 | [Left Light Panel](models/37-left-light-panel.md) |
+| D4 | [Engine Start Panel](models/40-engine-start-panel.md) |
+| D5 | [Right Light Panel](models/38-right-light-panel.md) |
+| D6 | [Engine Start Panel](models/40-engine-start-panel.md) |
+| A1 | [Center Upper Panel](models/19-center-upper-panel.md) |
+| A2 | [Center Lower Panel](models/20-center-lower-panel.md) |
+
+#### Overhead_4 - mega 4
+
+| Socket | Panel |
+|---|---|
+| D0 | [Window and Probe Heat Panel](models/08-window-and-probe-heat-panel.md) |
+| D1 | [Anti-ice Panel](models/09-anti-ice-panel.md) |
+| D2 | [Anti-ice Panel](models/09-anti-ice-panel.md) |
+| D3 | [Cabin Altitude Panel](models/36-cabin-altitude-panel.md) |
+| D4 | [Hydraulic Control Panel](models/10-hydraulic-control-panel.md) |
+| D5 | [Door Warning Panel](models/06-door-warning-panel.md) |
+| D6 | [Hydraulic Control Panel](models/10-hydraulic-control-panel.md) |
+| A1 | [Window and Probe Heat Panel](models/08-window-and-probe-heat-panel.md) |
+| A2 | [Window and Probe Heat Panel](models/08-window-and-probe-heat-panel.md) |
+
+#### Overhead_5 - mega 5
+
+| Socket | Panel |
+|---|---|
+| D0 | [Cabin Pressure Control Panel](models/32-cabin-pressure-control-panel.md) |
+| D1 | [Bleed Air Control Panel](models/34-bleed-air-control-panel.md) |
+| D2 | [Bleed Air Control Panel](models/34-bleed-air-control-panel.md) |
+| D3 | [Bleed Air Control Panel](models/34-bleed-air-control-panel.md) |
+| D4 | [Cabin Pressure Control Panel](models/32-cabin-pressure-control-panel.md) |
+| D5 | [Bleed Air Control Panel](models/34-bleed-air-control-panel.md) |
+| D6 | [Recorder and Stall Panel](models/28-recorder-and-stall-panel.md) |
+| A1 | [Air Conditioning Control Panel](models/24-air-conditioning-control-panel.md) |
+| A2 | [Air Conditioning Control Panel](models/24-air-conditioning-control-panel.md) |
+
 
 ---
 
