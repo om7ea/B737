@@ -50,7 +50,6 @@
 | Qty | Part | Reference |
 |---:|---|---|
 | 1× | **MEGA 2560 PRO MINI** | [The boards](../system-overview.md#the-boards) |
-| 1× | **RJ45 Hub Shield** | [PCB docs](../pcb/rj45-hub-shield.md) |
 
 Panel 4 carries the board marked **mega 2b** in [The boards](../system-overview.md#the-boards) - `Overhead_2b` in MobiFlight - with its RJ45 Hub Shield plugged on top.
 
@@ -63,6 +62,16 @@ Panel 4 carries the board marked **mega 2b** in [The boards](../system-overview.
 | 4× | Flat head M4×16 | panel 4 + main frame |
 | 2× | Dome head M3×5 | MEGA 2560 + panel 4 |
 | 10× | Dome head M4×10 | panels 1-3 + main frame |
+
+---
+
+## PCB
+
+| Qty | PCB | Connections used | Gerber files |
+|---:|---|---|---|
+| 1× | [RJ45 Hub Shield](../pcb/rj45-hub-shield.md) | plugs onto the MEGA 2560 | [📥 PCB_RJ45_Hub_Shield.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Hub_Shield.zip) |
+
+The shield is fitted in [step 2](#2-mega-2560-and-rj45-hub-shield-on-panel-4) of the assembly diagram.
 
 ---
 
