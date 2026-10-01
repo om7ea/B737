@@ -11,7 +11,7 @@
 <table>
 <tbody>
 <tr>
-<td align="center" width="50%"><img src="../../images/panels/41-fwd-blank-photo-1-front.jpg" alt="The four FWD blank panels, front"><br><sub>The four blank panels</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/41-fwd-blank-panels-photo-1-front.jpg" alt="The four FWD blank panels, front"><br><sub>The four blank panels</sub></td>
 <td align="center" width="50%"><img src="../../images/panels/41-fwd-blank-photo-2-panel-4-mega.jpg" alt="Blank panel 4 from behind with the MEGA 2560 and the RJ45 Hub Shield"><br><sub>Blank panel 4 from behind, with the MEGA 2560 and its RJ45 Hub Shield</sub></td>
 </tr>
 </tbody>

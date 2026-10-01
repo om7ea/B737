@@ -366,7 +366,7 @@ These are not panels. The frame carries the whole overhead; the rest are compone
 </tbody>
 <tbody>
 <tr>
-<td><a href="41-fwd-blank-panels.md"><img src="../../images/panels/41-fwd-blank-thumbnail.jpg" width="200"></a></td>
+<td><a href="41-fwd-blank-panels.md"><img src="../../images/panels/41-fwd-blank-panels-thumbnail.jpg" width="200"></a></td>
 <td>FWD Blank Panels</td>
 <td><a href="https://makerworld.com/en/models/3381374-boeing-737-overhead-fwd-blank-panels">Model</a></td>
 <td><a href="41-fwd-blank-panels.md">Notes</a></td>
