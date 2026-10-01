@@ -11,7 +11,7 @@
 <table>
 <tbody>
 <tr>
-<td align="center" width="50%"><img src="../../images/panels/17-le-devices-photo-1-front.jpg" alt="Finished LE Devices and ELT Panel, front"><br><sub>Finished panel</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/17-le-devices-panel-photo-1-front.jpg" alt="Finished LE Devices and ELT Panel, front"><br><sub>Finished panel</sub></td>
 <td align="center" width="50%"><img src="../../images/panels/17-le-devices-photo-2-top-panels.jpg" alt="The two printed top panels"><br><sub>The two printed top panels</sub></td>
 </tr>
 </tbody>

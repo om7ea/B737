@@ -222,7 +222,7 @@ These are not panels. The frame carries the whole overhead; the rest are compone
 </tbody>
 <tbody>
 <tr>
-<td><a href="17-le-devices-and-elt-panel.md"><img src="../../images/panels/17-le-devices-thumbnail.jpg" width="200"></a></td>
+<td><a href="17-le-devices-and-elt-panel.md"><img src="../../images/panels/17-le-devices-panel-thumbnail.jpg" width="200"></a></td>
 <td>LE Devices and ELT Panel</td>
 <td><a href="https://makerworld.com/en/models/3233836-boeing-737-overhead-le-devices-and-elt-panel">Model</a></td>
 <td><a href="17-le-devices-and-elt-panel.md">Notes</a></td>
