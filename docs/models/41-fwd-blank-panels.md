@@ -60,15 +60,15 @@ Panel 4 carries the board marked **mega 2b** in [The boards](../system-overview.
 
 | Qty | Screw | Joins |
 |---:|---|---|
-| 2× | Dome head M3×5 | MEGA 2560 + panel 4 |
 | 4× | Flat head M4×16 | panel 4 + main frame |
+| 2× | Dome head M3×5 | MEGA 2560 + panel 4 |
 | 10× | Dome head M4×10 | panels 1-3 + main frame |
 
 ---
 
 ## Assembly Diagram
 
-Screw abbreviations used in the diagrams: **DH** = dome head, **FH** = flat head.
+Screw abbreviations used in the diagrams: **FH** = flat head, **DH** = dome head.
 
 ### 1. Panels 1-3 onto the main frame
 
