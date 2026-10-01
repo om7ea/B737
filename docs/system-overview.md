@@ -131,99 +131,99 @@ Which panel each socket of the seven RJ45 Hub Shields goes to. Each board is lis
 
 | Socket | Panel | PCB |
 |---|---|---|
-| D0 | [LE Devices and ELT Panel](models/17-le-devices-and-elt-panel.md) | [RJ45 Combined](pcb/rj45-combined.md) |
-| D1 | [LE Devices and ELT Panel](models/17-le-devices-and-elt-panel.md) | [LE Devices](pcb/le-devices.md) |
-| D2 | [LE Devices and ELT Panel](models/17-le-devices-and-elt-panel.md) | [LE Devices](pcb/le-devices.md) |
-| D3 | [LE Devices and ELT Panel](models/17-le-devices-and-elt-panel.md) | [LE Devices](pcb/le-devices.md) |
-| D4 | [Flight Control Panel](models/05-flight-control-panel.md) | [RJ45 Direct](pcb/rj45-direct.md) |
-| D5 | [Flight Control Panel](models/05-flight-control-panel.md) | [RJ45 LED Driver](pcb/rj45-driver.md) |
-| D6 | [Flight Control Panel](models/05-flight-control-panel.md) | [RJ45 LED Driver](pcb/rj45-driver.md) |
+| D0 | [LE Devices and ELT Panel](models/17-le-devices-and-elt-panel.md) | [PCB 3](models/17-le-devices-and-elt-panel.md#pcb-3---socket-d0-on-overhead_1a) |
+| D1 | [LE Devices and ELT Panel](models/17-le-devices-and-elt-panel.md) | [RJ45 2](models/17-le-devices-and-elt-panel.md#rj45-2---socket-d1-on-overhead_1a) |
+| D2 | [LE Devices and ELT Panel](models/17-le-devices-and-elt-panel.md) | [RJ45 3](models/17-le-devices-and-elt-panel.md#rj45-3---socket-d2-on-overhead_1a) |
+| D3 | [LE Devices and ELT Panel](models/17-le-devices-and-elt-panel.md) | [RJ45 4](models/17-le-devices-and-elt-panel.md#rj45-4---socket-d3-on-overhead_1a) |
+| D4 | [Flight Control Panel](models/05-flight-control-panel.md) | [PCB 1](models/05-flight-control-panel.md#pcb-1---socket-d4-on-overhead_1a) |
+| D5 | [Flight Control Panel](models/05-flight-control-panel.md) | [PCB 3](models/05-flight-control-panel.md#pcb-3---socket-d5-on-overhead_1a) |
+| D6 | [Flight Control Panel](models/05-flight-control-panel.md) | [PCB 4](models/05-flight-control-panel.md#pcb-4---socket-d6-on-overhead_1a) |
 | A1 | - | - |
-| A2 | [LE Devices and ELT Panel](models/17-le-devices-and-elt-panel.md) | [LE Devices](pcb/le-devices.md) |
+| A2 | [LE Devices and ELT Panel](models/17-le-devices-and-elt-panel.md) | [RJ45 1](models/17-le-devices-and-elt-panel.md#rj45-1---socket-a2-on-overhead_1a) |
 
 #### Overhead_1b - mega 1b
 
 | Socket | Panel | PCB |
 |---|---|---|
-| D0 | [Fuel Control Panel](models/22-fuel-control-panel.md) | [RJ45 LED Driver](pcb/rj45-driver.md) |
-| D1 | [Fuel Control Panel](models/22-fuel-control-panel.md) | [RJ45 LED Driver](pcb/rj45-driver.md) |
-| D2 | [Fuel Control Panel](models/22-fuel-control-panel.md) | [RJ45 LED Driver](pcb/rj45-driver.md) |
-| D3 | [Fuel Control Panel](models/22-fuel-control-panel.md) | [RJ45 Direct](pcb/rj45-direct.md) |
+| D0 | [Fuel Control Panel](models/22-fuel-control-panel.md) | [PCB 1](models/22-fuel-control-panel.md#pcb-1---socket-d0-on-overhead_1b) |
+| D1 | [Fuel Control Panel](models/22-fuel-control-panel.md) | [PCB 2](models/22-fuel-control-panel.md#pcb-2---socket-d1-on-overhead_1b) |
+| D2 | [Fuel Control Panel](models/22-fuel-control-panel.md) | [PCB 3](models/22-fuel-control-panel.md#pcb-3---socket-d2-on-overhead_1b) |
+| D3 | [Fuel Control Panel](models/22-fuel-control-panel.md) | [PCB 4](models/22-fuel-control-panel.md#pcb-4---socket-d3-on-overhead_1b) |
 | D4 | - | - |
 | D5 | - | - |
-| D6 | [Flight Control Panel](models/05-flight-control-panel.md) | [RJ45 Direct](pcb/rj45-direct.md) |
-| A1 | [Navigation Panel](models/04-navigation-panel.md) | [RJ45 Direct](pcb/rj45-direct.md) |
-| A2 | [Navigation Panel](models/04-navigation-panel.md) | [RJ45 Direct](pcb/rj45-direct.md) |
+| D6 | [Flight Control Panel](models/05-flight-control-panel.md) | [PCB 2](models/05-flight-control-panel.md#pcb-2---socket-d6-on-overhead_1b) |
+| A1 | [Navigation Panel](models/04-navigation-panel.md) | [PCB 2](models/04-navigation-panel.md#pcb-2---socket-a1-on-overhead_1b) |
+| A2 | [Navigation Panel](models/04-navigation-panel.md) | [PCB 1](models/04-navigation-panel.md#pcb-1---socket-a2-on-overhead_1b) |
 
 #### Overhead_2a - mega 2a
 
 | Socket | Panel | PCB |
 |---|---|---|
-| D0 | [IRS Display Unit](models/14-irs-display-unit.md) | [RJ45 Direct](pcb/rj45-direct.md) |
-| D1 | [IRS Mode Select Unit](models/13-irs-mode-select-unit.md) | [RJ45 LED Driver](pcb/rj45-driver.md) |
-| D2 | [IRS Mode Select Unit](models/13-irs-mode-select-unit.md) | [RJ45 Direct](pcb/rj45-direct.md) |
-| D3 | [Engine and Oxygen Panel](models/30-engine-and-oxygen-panel.md) | [RJ45 LED Driver](pcb/rj45-driver.md) |
-| D4 | [AC and DC Meter Panel](models/26-ac-and-dc-meter-panel.md) | [RJ45 Direct](pcb/rj45-direct.md) |
-| D5 | [Air Conditioning Control Panel](models/24-air-conditioning-control-panel.md) | [RJ45 Direct](pcb/rj45-direct.md) |
-| D6 | [AC and DC Meter Panel](models/26-ac-and-dc-meter-panel.md) | [RJ45 LED Driver](pcb/rj45-driver.md) |
-| A1 | [IRS Display Unit](models/14-irs-display-unit.md) | [IRS Keyboard](pcb/irs-keyboard.md) |
-| A2 | [IRS Display Unit](models/14-irs-display-unit.md) | [IRS Keyboard](pcb/irs-keyboard.md) |
+| D0 | [IRS Display Unit](models/14-irs-display-unit.md) | [PCB 1](models/14-irs-display-unit.md#pcb-1---socket-d0-on-overhead_2a) |
+| D1 | [IRS Mode Select Unit](models/13-irs-mode-select-unit.md) | [PCB 2](models/13-irs-mode-select-unit.md#pcb-2---socket-d1-on-overhead_2a) |
+| D2 | [IRS Mode Select Unit](models/13-irs-mode-select-unit.md) | [PCB 1](models/13-irs-mode-select-unit.md#pcb-1---socket-d2-on-overhead_2a) |
+| D3 | [Engine and Oxygen Panel](models/30-engine-and-oxygen-panel.md) | [PCB 1](models/30-engine-and-oxygen-panel.md#pcb-1---socket-d3-on-overhead_2a) |
+| D4 | [AC and DC Meter Panel](models/26-ac-and-dc-meter-panel.md) | [PCB 1](models/26-ac-and-dc-meter-panel.md#pcb-1---socket-d4-on-overhead_2a) |
+| D5 | [Air Conditioning Control Panel](models/24-air-conditioning-control-panel.md) | [PCB 3](models/24-air-conditioning-control-panel.md#pcb-3---socket-d5-on-overhead_2a) |
+| D6 | [AC and DC Meter Panel](models/26-ac-and-dc-meter-panel.md) | [PCB 4](models/26-ac-and-dc-meter-panel.md#pcb-4---socket-d6-on-overhead_2a) |
+| A1 | [IRS Display Unit](models/14-irs-display-unit.md) | [RJ45 3](models/14-irs-display-unit.md#rj45-3---socket-a1-on-overhead_2a) |
+| A2 | [IRS Display Unit](models/14-irs-display-unit.md) | [RJ45 2](models/14-irs-display-unit.md#rj45-2---socket-a2-on-overhead_2a) |
 
 #### Overhead_2b - mega 2b
 
 | Socket | Panel | PCB |
 |---|---|---|
-| D0 | [Generator Bus Panel](models/23-generator-bus-panel.md) | [RJ45 Direct](pcb/rj45-direct.md) |
-| D1 | [Generator Bus Panel](models/23-generator-bus-panel.md) | [RJ45 LED Driver](pcb/rj45-driver.md) |
-| D2 | [Door Warning Panel](models/06-door-warning-panel.md) | [RJ45 LED Driver](pcb/rj45-driver.md) |
-| D3 | [Engine and Oxygen Panel](models/30-engine-and-oxygen-panel.md) | [RJ45 Combined](pcb/rj45-combined.md) |
-| D4 | [AC and DC Meter Panel](models/26-ac-and-dc-meter-panel.md) | [RJ45 Direct](pcb/rj45-direct.md) |
-| D5 | [Generator Bus Panel](models/23-generator-bus-panel.md) | [RJ45 Direct](pcb/rj45-direct.md) |
-| D6 | [Generator Bus Panel](models/23-generator-bus-panel.md) | [RJ45 LED Driver](pcb/rj45-driver.md) |
-| A1 | [Generator Drive and Standby Power Panel](models/07-generator-drive-panel.md) | [RJ45 Combined](pcb/rj45-combined.md) |
-| A2 | [AC and DC Meter Panel](models/26-ac-and-dc-meter-panel.md) | [RJ45 Direct](pcb/rj45-direct.md) |
+| D0 | [Generator Bus Panel](models/23-generator-bus-panel.md) | [PCB 3](models/23-generator-bus-panel.md#pcb-3---socket-d0-on-overhead_2b) |
+| D1 | [Generator Bus Panel](models/23-generator-bus-panel.md) | [PCB 1](models/23-generator-bus-panel.md#pcb-1---socket-d1-on-overhead_2b) |
+| D2 | [Door Warning Panel](models/06-door-warning-panel.md) | [PCB 1](models/06-door-warning-panel.md#pcb-1---socket-d2-on-overhead_2b) |
+| D3 | [Engine and Oxygen Panel](models/30-engine-and-oxygen-panel.md) | [PCB 2](models/30-engine-and-oxygen-panel.md#pcb-2---socket-d3-on-overhead_2b) |
+| D4 | [AC and DC Meter Panel](models/26-ac-and-dc-meter-panel.md) | [PCB 2](models/26-ac-and-dc-meter-panel.md#pcb-2---socket-d4-on-overhead_2b) |
+| D5 | [Generator Bus Panel](models/23-generator-bus-panel.md) | [PCB 4](models/23-generator-bus-panel.md#pcb-4---socket-d5-on-overhead_2b) |
+| D6 | [Generator Bus Panel](models/23-generator-bus-panel.md) | [PCB 2](models/23-generator-bus-panel.md#pcb-2---socket-d6-on-overhead_2b) |
+| A1 | [Generator Drive and Standby Power Panel](models/07-generator-drive-panel.md) | [PCB 1](models/07-generator-drive-panel.md#pcb-1---socket-a1-on-overhead_2b) |
+| A2 | [AC and DC Meter Panel](models/26-ac-and-dc-meter-panel.md) | [PCB 3](models/26-ac-and-dc-meter-panel.md#pcb-3---socket-a2-on-overhead_2b) |
 
 #### Overhead_3 - mega 3
 
 | Socket | Panel | PCB |
 |---|---|---|
-| D0 | [Recorder and Stall Panel](models/28-recorder-and-stall-panel.md) | [RJ45 Direct](pcb/rj45-direct.md) |
-| D1 | [Interphone and Dome Panel](models/27-interphone-and-dome-panel.md) | [RJ45 Direct](pcb/rj45-direct.md) |
-| D2 | [Center Lower Panel](models/20-center-lower-panel.md) | [RJ45 Direct](pcb/rj45-direct.md) |
-| D3 | [Left Light Panel](models/37-left-light-panel.md) | [RJ45 Direct](pcb/rj45-direct.md) |
-| D4 | [Engine Start Panel](models/40-engine-start-panel.md) | [RJ45 Direct](pcb/rj45-direct.md) |
-| D5 | [Right Light Panel](models/38-right-light-panel.md) | [RJ45 Direct](pcb/rj45-direct.md) |
-| D6 | [Engine Start Panel](models/40-engine-start-panel.md) | [RJ45 Direct](pcb/rj45-direct.md) |
-| A1 | [Center Upper Panel](models/19-center-upper-panel.md) | [RJ45 Combined](pcb/rj45-combined.md) |
-| A2 | [Center Lower Panel](models/20-center-lower-panel.md) | [RJ45 Combined](pcb/rj45-combined.md) |
+| D0 | [Recorder and Stall Panel](models/28-recorder-and-stall-panel.md) | [PCB 1](models/28-recorder-and-stall-panel.md#pcb-1---socket-d0-on-overhead_3) |
+| D1 | [Interphone and Dome Panel](models/27-interphone-and-dome-panel.md) | [PCB 1](models/27-interphone-and-dome-panel.md#pcb-1---socket-d1-on-overhead_3) |
+| D2 | [Center Lower Panel](models/20-center-lower-panel.md) | [PCB 1](models/20-center-lower-panel.md#pcb-1---socket-d2-on-overhead_3) |
+| D3 | [Left Light Panel](models/37-left-light-panel.md) | [PCB 1](models/37-left-light-panel.md#pcb-1---socket-d3-on-overhead_3) |
+| D4 | [Engine Start Panel](models/40-engine-start-panel.md) | [PCB 1](models/40-engine-start-panel.md#pcb-1---socket-d4-on-overhead_3) |
+| D5 | [Right Light Panel](models/38-right-light-panel.md) | [PCB 1](models/38-right-light-panel.md#pcb-1---socket-d5-on-overhead_3) |
+| D6 | [Engine Start Panel](models/40-engine-start-panel.md) | [PCB 2](models/40-engine-start-panel.md#pcb-2---socket-d6-on-overhead_3) |
+| A1 | [Center Upper Panel](models/19-center-upper-panel.md) | [PCB 1](models/19-center-upper-panel.md#pcb-1---socket-a1-on-overhead_3) |
+| A2 | [Center Lower Panel](models/20-center-lower-panel.md) | [PCB 2](models/20-center-lower-panel.md#pcb-2---socket-a2-on-overhead_3) |
 
 #### Overhead_4 - mega 4
 
 | Socket | Panel | PCB |
 |---|---|---|
-| D0 | [Window and Probe Heat Panel](models/08-window-and-probe-heat-panel.md) | [RJ45 LED Driver](pcb/rj45-driver.md) |
-| D1 | [Anti-ice Panel](models/09-anti-ice-panel.md) | [RJ45 LED Driver](pcb/rj45-driver.md) |
-| D2 | [Anti-ice Panel](models/09-anti-ice-panel.md) | [RJ45 Combined](pcb/rj45-combined.md) |
-| D3 | [Cabin Altitude Panel](models/36-cabin-altitude-panel.md) | [RJ45 Direct](pcb/rj45-direct.md) |
-| D4 | [Hydraulic Control Panel](models/10-hydraulic-control-panel.md) | [RJ45 LED Driver](pcb/rj45-driver.md) |
-| D5 | [Door Warning Panel](models/06-door-warning-panel.md) | [RJ45 LED Driver](pcb/rj45-driver.md) |
-| D6 | [Hydraulic Control Panel](models/10-hydraulic-control-panel.md) | [RJ45 Direct](pcb/rj45-direct.md) |
-| A1 | [Window and Probe Heat Panel](models/08-window-and-probe-heat-panel.md) | [RJ45 Direct](pcb/rj45-direct.md) |
-| A2 | [Window and Probe Heat Panel](models/08-window-and-probe-heat-panel.md) | [RJ45 LED Driver](pcb/rj45-driver.md) |
+| D0 | [Window and Probe Heat Panel](models/08-window-and-probe-heat-panel.md) | [PCB 3](models/08-window-and-probe-heat-panel.md#pcb-3---socket-d0-on-overhead_4) |
+| D1 | [Anti-ice Panel](models/09-anti-ice-panel.md) | [PCB 1](models/09-anti-ice-panel.md#pcb-1---socket-d1-on-overhead_4) |
+| D2 | [Anti-ice Panel](models/09-anti-ice-panel.md) | [PCB 2](models/09-anti-ice-panel.md#pcb-2---socket-d2-on-overhead_4) |
+| D3 | [Cabin Altitude Panel](models/36-cabin-altitude-panel.md) | [PCB 1](models/36-cabin-altitude-panel.md#pcb-1---socket-d3-on-overhead_4) |
+| D4 | [Hydraulic Control Panel](models/10-hydraulic-control-panel.md) | [PCB 2](models/10-hydraulic-control-panel.md#pcb-2---socket-d4-on-overhead_4) |
+| D5 | [Door Warning Panel](models/06-door-warning-panel.md) | [PCB 2](models/06-door-warning-panel.md#pcb-2---socket-d5-on-overhead_4) |
+| D6 | [Hydraulic Control Panel](models/10-hydraulic-control-panel.md) | [PCB 1](models/10-hydraulic-control-panel.md#pcb-1---socket-d6-on-overhead_4) |
+| A1 | [Window and Probe Heat Panel](models/08-window-and-probe-heat-panel.md) | [PCB 1](models/08-window-and-probe-heat-panel.md#pcb-1---socket-a1-on-overhead_4) |
+| A2 | [Window and Probe Heat Panel](models/08-window-and-probe-heat-panel.md) | [PCB 2](models/08-window-and-probe-heat-panel.md#pcb-2---socket-a2-on-overhead_4) |
 
 #### Overhead_5 - mega 5
 
 | Socket | Panel | PCB |
 |---|---|---|
-| D0 | [Cabin Pressure Control Panel](models/32-cabin-pressure-control-panel.md) | [RJ45 Direct](pcb/rj45-direct.md) |
-| D1 | [Bleed Air Control Panel](models/34-bleed-air-control-panel.md) | [RJ45 LED Driver](pcb/rj45-driver.md) |
-| D2 | [Bleed Air Control Panel](models/34-bleed-air-control-panel.md) | [RJ45 Direct](pcb/rj45-direct.md) |
-| D3 | [Bleed Air Control Panel](models/34-bleed-air-control-panel.md) | [RJ45 Direct](pcb/rj45-direct.md) |
-| D4 | [Cabin Pressure Control Panel](models/32-cabin-pressure-control-panel.md) | [RJ45 Direct](pcb/rj45-direct.md) |
-| D5 | [Bleed Air Control Panel](models/34-bleed-air-control-panel.md) | [RJ45 LED Driver](pcb/rj45-driver.md) |
-| D6 | [Recorder and Stall Panel](models/28-recorder-and-stall-panel.md) | [RJ45 LED Driver](pcb/rj45-driver.md) |
-| A1 | [Air Conditioning Control Panel](models/24-air-conditioning-control-panel.md) | [RJ45 LED Driver](pcb/rj45-driver.md) |
-| A2 | [Air Conditioning Control Panel](models/24-air-conditioning-control-panel.md) | [RJ45 Direct](pcb/rj45-direct.md) |
+| D0 | [Cabin Pressure Control Panel](models/32-cabin-pressure-control-panel.md) | [PCB 2](models/32-cabin-pressure-control-panel.md#pcb-2---socket-d0-on-overhead_5) |
+| D1 | [Bleed Air Control Panel](models/34-bleed-air-control-panel.md) | [PCB 4](models/34-bleed-air-control-panel.md#pcb-4---socket-d1-on-overhead_5) |
+| D2 | [Bleed Air Control Panel](models/34-bleed-air-control-panel.md) | [PCB 2](models/34-bleed-air-control-panel.md#pcb-2---socket-d2-on-overhead_5) |
+| D3 | [Bleed Air Control Panel](models/34-bleed-air-control-panel.md) | [PCB 1](models/34-bleed-air-control-panel.md#pcb-1---socket-d3-on-overhead_5) |
+| D4 | [Cabin Pressure Control Panel](models/32-cabin-pressure-control-panel.md) | [PCB 1](models/32-cabin-pressure-control-panel.md#pcb-1---socket-d4-on-overhead_5) |
+| D5 | [Bleed Air Control Panel](models/34-bleed-air-control-panel.md) | [PCB 3](models/34-bleed-air-control-panel.md#pcb-3---socket-d5-on-overhead_5) |
+| D6 | [Recorder and Stall Panel](models/28-recorder-and-stall-panel.md) | [PCB 2](models/28-recorder-and-stall-panel.md#pcb-2---socket-d6-on-overhead_5) |
+| A1 | [Air Conditioning Control Panel](models/24-air-conditioning-control-panel.md) | [PCB 1](models/24-air-conditioning-control-panel.md#pcb-1---socket-a1-on-overhead_5) |
+| A2 | [Air Conditioning Control Panel](models/24-air-conditioning-control-panel.md) | [PCB 2](models/24-air-conditioning-control-panel.md#pcb-2---socket-a2-on-overhead_5) |
 
 ---
 
