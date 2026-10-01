@@ -127,7 +127,7 @@ See [PCB Manufacturing Files](pcb/README.md) for details, BOM and wiring.
 
 Which panel each socket of the seven RJ45 Hub Shields goes to. Each board is listed by its MobiFlight name, followed by the label it has in the [picture of the board positions](#the-boards). A dash marks a free socket.
 
-#### Overhead_1a - mega 1a
+#### Overhead_1a (mega 1a)
 
 | Socket | Panel | PCB |
 |---|---|---|
@@ -141,7 +141,7 @@ Which panel each socket of the seven RJ45 Hub Shields goes to. Each board is lis
 | A1 | - | - |
 | A2 | [LE Devices and ELT Panel](models/17-le-devices-and-elt-panel.md) | [RJ45 1](models/17-le-devices-and-elt-panel.md#rj45-1---socket-a2-on-overhead_1a) |
 
-#### Overhead_1b - mega 1b
+#### Overhead_1b (mega 1b)
 
 | Socket | Panel | PCB |
 |---|---|---|
@@ -155,7 +155,7 @@ Which panel each socket of the seven RJ45 Hub Shields goes to. Each board is lis
 | A1 | [Navigation Panel](models/04-navigation-panel.md) | [PCB 2](models/04-navigation-panel.md#pcb-2---socket-a1-on-overhead_1b) |
 | A2 | [Navigation Panel](models/04-navigation-panel.md) | [PCB 1](models/04-navigation-panel.md#pcb-1---socket-a2-on-overhead_1b) |
 
-#### Overhead_2a - mega 2a
+#### Overhead_2a (mega 2a)
 
 | Socket | Panel | PCB |
 |---|---|---|
@@ -169,7 +169,7 @@ Which panel each socket of the seven RJ45 Hub Shields goes to. Each board is lis
 | A1 | [IRS Display Unit](models/14-irs-display-unit.md) | [RJ45 3](models/14-irs-display-unit.md#rj45-3---socket-a1-on-overhead_2a) |
 | A2 | [IRS Display Unit](models/14-irs-display-unit.md) | [RJ45 2](models/14-irs-display-unit.md#rj45-2---socket-a2-on-overhead_2a) |
 
-#### Overhead_2b - mega 2b
+#### Overhead_2b (mega 2b)
 
 | Socket | Panel | PCB |
 |---|---|---|
@@ -183,7 +183,7 @@ Which panel each socket of the seven RJ45 Hub Shields goes to. Each board is lis
 | A1 | [Generator Drive and Standby Power Panel](models/07-generator-drive-panel.md) | [PCB 1](models/07-generator-drive-panel.md#pcb-1---socket-a1-on-overhead_2b) |
 | A2 | [AC and DC Meter Panel](models/26-ac-and-dc-meter-panel.md) | [PCB 3](models/26-ac-and-dc-meter-panel.md#pcb-3---socket-a2-on-overhead_2b) |
 
-#### Overhead_3 - mega 3
+#### Overhead_3 (mega 3)
 
 | Socket | Panel | PCB |
 |---|---|---|
@@ -197,7 +197,7 @@ Which panel each socket of the seven RJ45 Hub Shields goes to. Each board is lis
 | A1 | [Center Upper Panel](models/19-center-upper-panel.md) | [PCB 1](models/19-center-upper-panel.md#pcb-1---socket-a1-on-overhead_3) |
 | A2 | [Center Lower Panel](models/20-center-lower-panel.md) | [PCB 2](models/20-center-lower-panel.md#pcb-2---socket-a2-on-overhead_3) |
 
-#### Overhead_4 - mega 4
+#### Overhead_4 (mega 4)
 
 | Socket | Panel | PCB |
 |---|---|---|
@@ -211,7 +211,7 @@ Which panel each socket of the seven RJ45 Hub Shields goes to. Each board is lis
 | A1 | [Window and Probe Heat Panel](models/08-window-and-probe-heat-panel.md) | [PCB 1](models/08-window-and-probe-heat-panel.md#pcb-1---socket-a1-on-overhead_4) |
 | A2 | [Window and Probe Heat Panel](models/08-window-and-probe-heat-panel.md) | [PCB 2](models/08-window-and-probe-heat-panel.md#pcb-2---socket-a2-on-overhead_4) |
 
-#### Overhead_5 - mega 5
+#### Overhead_5 (mega 5)
 
 | Socket | Panel | PCB |
 |---|---|---|
