@@ -49,6 +49,8 @@ Each colour on the drawing is one type of strip - see the **On the diagram** col
 | 1× | 80mm-half | dark green |
 | 1× | 80mm-flat | light green |
 
+The type of the build plate is up to you - the surface it leaves on the strips is not visible.
+
 ---
 
 ## Assembly
