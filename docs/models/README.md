@@ -374,10 +374,10 @@ These are not panels. The frame carries the whole overhead; the rest are compone
 </tbody>
 <tbody>
 <tr>
-<td></td>
+<td><a href="42-aft-blank-panels.md"><img src="../../images/panels/42-aft-blank-thumbnail.jpg" width="200"></a></td>
 <td>AFT Blank Panels</td>
-<td>🚧</td>
-<td>🚧</td>
+<td><a href="https://makerworld.com/en/models/3423496-boeing-737-overhead-aft-blank-panels">Model</a></td>
+<td><a href="42-aft-blank-panels.md">Notes</a></td>
 </tr>
 </tbody>
 <tbody>
