@@ -95,10 +95,10 @@ These are not panels. The frame carries the whole overhead; the rest are compone
 </tbody>
 <tbody>
 <tr>
-<td></td>
+<td><a href="43-backlight-blocking-strips.md"><img src="../../images/panels/43-blocking-strips-photo-1.jpg" width="200"></a></td>
 <td>Backlight Blocking Strips</td>
 <td>🚧</td>
-<td>🚧</td>
+<td><a href="43-backlight-blocking-strips.md">Notes</a></td>
 </tr>
 </tbody>
 </table>
