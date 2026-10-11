@@ -41,13 +41,13 @@ Each colour on the drawing is one type of strip - see the **On the diagram** col
 
 | Qty | Part | On the diagram |
 |---:|---|---|
-| 13× | 145mm | blue |
-| 15× | 143mm | yellow |
-| 2× | 143mm-half | pink |
-| 2× | 145mm-half | purple |
-| 4× | 80mm | red |
-| 1× | 80mm-half | dark green |
-| 1× | 80mm-flat | light green |
+| 13× | 145mm | <img src="../../images/icons/strip-blue.svg" width="28" height="8"> blue |
+| 15× | 143mm | <img src="../../images/icons/strip-yellow.svg" width="28" height="8"> yellow |
+| 2× | 143mm-half | <img src="../../images/icons/strip-pink.svg" width="28" height="8"> pink |
+| 2× | 145mm-half | <img src="../../images/icons/strip-purple.svg" width="28" height="8"> purple |
+| 4× | 80mm | <img src="../../images/icons/strip-red.svg" width="28" height="8"> red |
+| 1× | 80mm-half | <img src="../../images/icons/strip-dark-green.svg" width="28" height="8"> dark green |
+| 1× | 80mm-flat | <img src="../../images/icons/strip-light-green.svg" width="28" height="8"> light green |
 
 The type of the build plate is up to you - the surface it leaves on the strips is not visible.
 
