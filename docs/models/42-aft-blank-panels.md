@@ -11,7 +11,7 @@
 <table>
 <tbody>
 <tr>
-<td align="center" width="50%"><img src="../../images/panels/42-aft-blank-photo-1-front.jpg" alt="The six AFT blank panels, front"><br><sub>The six blank panels</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/42-aft-blank-panels-photo-1-front.jpg" alt="The six AFT blank panels, front"><br><sub>The six blank panels</sub></td>
 <td align="center" width="50%"><img src="../../images/panels/42-aft-blank-photo-2-rear-megas.jpg" alt="The AFT blank panels from behind with the five MEGA 2560 boards"><br><sub>The blank panels from behind, with the five MEGA 2560 boards</sub></td>
 </tr>
 </tbody>
@@ -52,6 +52,7 @@
 | Qty | Part | Reference |
 |---:|---|---|
 | 5× | **MEGA 2560 PRO MINI** | [The boards](../system-overview.md#the-boards) |
+| 2× | **Splice connector F15** - lever type, 1 in / 5 out | [Product I used](../../images/parts/AE_splice_F15.png) |
 
 Four of the panels carry the boards marked in [The boards](../system-overview.md#the-boards), each with its RJ45 Hub Shield plugged on top:
 
@@ -62,6 +63,8 @@ Four of the panels carry the boards marked in [The boards](../system-overview.md
 | Blank AFT panel 4 | mega 4 | `Overhead_4` |
 | Blank AFT panel 6 | mega 5 | `Overhead_5` |
 
+The two splice connectors are screwed to the back of panel 3 and distribute the **5 V**: one carries **+5 V**, the other **GND**.
+
 ---
 
 ## Screws
@@ -70,6 +73,7 @@ Four of the panels carry the boards marked in [The boards](../system-overview.md
 |---:|---|---|
 | 22× | Flat head M4×16 | panels 1, 2, 4, 5 and 6 + main frame |
 | 10× | Dome head M3×5 | MEGA 2560 + panels 1, 3, 4 and 6 |
+| 2× | Dome head M3×14 | panel 3 + splice connectors |
 | 4× | Dome head M4×10 | panel 3 + main frame |
 
 ---
@@ -80,7 +84,7 @@ Four of the panels carry the boards marked in [The boards](../system-overview.md
 |---:|---|---|---|
 | 5× | [RJ45 Hub Shield](../pcb/rj45-hub-shield.md) | mega 1a: D0-D6 and A2<br>mega 1b: D0-D3, D6, A1 and A2<br>mega 3, mega 4, mega 5: all nine sockets | [📥 PCB_RJ45_Hub_Shield.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Hub_Shield.zip) |
 
-Which panel each socket goes to is in the [Socket map](../system-overview.md#socket-map). The shields are fitted in [step 1](#1-mega-2560-boards-and-rj45-hub-shields) of the assembly diagram.
+Which panel each socket goes to is in the [Socket map](../system-overview.md#socket-map). The shields are fitted in [step 1](#1-mega-2560-boards-rj45-hub-shields-and-splice-connectors) of the assembly diagram.
 
 ---
 
@@ -88,9 +92,9 @@ Which panel each socket goes to is in the [Socket map](../system-overview.md#soc
 
 Screw abbreviations used in the diagrams: **FH** = flat head, **DH** = dome head.
 
-### 1. MEGA 2560 boards and RJ45 Hub Shields
+### 1. MEGA 2560 boards, RJ45 Hub Shields and splice connectors
 
-<img src="../../images/panels/42-aft-blank-01-megas.png" alt="Five MEGA 2560 boards screwed to panels 1, 3, 4 and 6 with an RJ45 Hub Shield plugged on each" width="700">
+<img src="../../images/panels/42-aft-blank-01-megas.png" alt="Five MEGA 2560 boards screwed to panels 1, 3, 4 and 6 with an RJ45 Hub Shield plugged on each, and the two splice connectors on panel 3" width="700">
 
 ### 2. Panels 1, 2, 4, 5 and 6 onto the main frame
 
