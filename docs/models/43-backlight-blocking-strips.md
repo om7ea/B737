@@ -1,5 +1,7 @@
 # 43. Backlight Blocking Strips
 
+[📦 Download the printable model on MakerWorld](https://makerworld.com/en/models/3425788-boeing-737-overhead-backlight-blocking-strips)
+
 [← Back to model list](README.md)
 
 ---
