@@ -49,6 +49,8 @@ Each colour on the drawing is one type of strip - see the **On the diagram** col
 | 1× | 80mm-half | <img src="../../images/icons/strip-dark-green.svg" width="28" height="8"> dark green |
 | 1× | 80mm-flat | <img src="../../images/icons/strip-light-green.svg" width="28" height="8"> light green |
 
+The number in each name is the width of the panel the strip is used with, not the length of the strip.
+
 The type of the build plate is up to you - the surface it leaves on the strips is not visible.
 
 ---
