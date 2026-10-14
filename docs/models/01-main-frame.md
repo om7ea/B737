@@ -13,6 +13,8 @@
 | <img src="../../images/icons/black.svg" width="12" height="12"> | Black | Bambu PLA Basic Black (10101) |
 | <img src="../../images/icons/white.svg" width="12" height="12"> | White | Bambu PLA Basic Jade White (10100) |
 
+I printed the frame parts in black and the angle wedges in white, but the colour does not really matter.
+
 ---
 
 ## 3D Printed Parts
@@ -29,7 +31,7 @@
 
 ## Plywood
 
-The plastic frame sits on a frame made of **10 mm plywood**, cut into strips 60 mm wide.
+The plastic frame sits on a frame made of **10 mm plywood**, cut into strips 60 mm wide. The quantities are for the whole frame, FWD and AFT sections together.
 
 <img src="../../images/panels/01-main-frame-plywood-parts.png" alt="The plywood parts A to I in place in the frame" width="700">
 
@@ -45,7 +47,7 @@ The plastic frame sits on a frame made of **10 mm plywood**, cut into strips 60 
 | 1× | H | 352 × 60 × 10 mm |
 | 2× | I | 160 × 60 × 10 mm |
 
-The large holes in C, D and G are for cable routing only, so their size is not critical.
+The large holes in C, D and G are for cable routing only, so their size is not critical. The Ø 5 mm holes in G, H and I are for the screws that hold the [light panel supports](#4-light-panel-supports).
 
 <img src="../../images/panels/01-main-frame-plywood-a-b-c.png" alt="Dimensions of plywood parts A, B and C" width="700">
 
