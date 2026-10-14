@@ -56,6 +56,8 @@
 |---:|---|
 | 3× | KN3(C)-101, ON/OFF |
 
+The three toggle switches are WING ANTI-ICE, ENG ANTI-ICE 1 and ENG ANTI-ICE 2.
+
 ---
 
 ## Screws
