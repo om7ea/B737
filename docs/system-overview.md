@@ -69,8 +69,8 @@ The USB cable therefore carries data only. This keeps the load off the PC's USB 
 
 The draw figures are the most I measured on my panel - the 12 V one with the backlight at full brightness. I recommend a supply with about twice that rating, so that it never runs at its limit.
 
-> **⚠️ Cut the red wire in the USB cable to the PC**\
-> The USB cable between the USB hub and the PC has to be modified. Strip back its outer sheath - there are four wires inside: red, black, white and green. **Cut the red wire** (+5 V) and leave the other three connected.
+> **⚠️ Cut the red wire in the USB cable to the USB hub**\
+> The USB cable between the USB adapter on the [Rear Power and USB Panel](models/44-rear-power-and-usb-panel.md) and the USB hub inside the panel has to be modified. Strip back its outer sheath - there are four wires inside: red, black, white and green. **Cut the red wire** (+5 V) and leave the other three connected.
 >
 > <img src="../images/usb_cable_red_wire_cut.jpg" alt="The USB cable with its outer sheath stripped back and the red wire cut" width="600">
 >

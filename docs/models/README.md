@@ -382,7 +382,7 @@ These are not panels. The frame carries the whole overhead; the rest are compone
 </tbody>
 <tbody>
 <tr>
-<td><a href="44-rear-power-and-usb-panel.md"><img src="../../images/panels/44-rear-power-usb-photo-1-front.jpg" width="200"></a></td>
+<td><a href="44-rear-power-and-usb-panel.md"><img src="../../images/panels/44-rear-power-usb-panel-photo-1-front.jpg" width="200"></a></td>
 <td>Rear Power and USB Panel</td>
 <td><a href="https://makerworld.com/en/models/3437216-boeing-737-overhead-rear-power-and-usb-panel">Model</a></td>
 <td><a href="44-rear-power-and-usb-panel.md">Notes</a></td>

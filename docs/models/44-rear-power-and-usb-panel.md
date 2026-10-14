@@ -15,7 +15,7 @@ The two power supplies and the USB cable to the PC plug into this panel on the b
 <table>
 <tbody>
 <tr>
-<td align="center" width="50%"><img src="../../images/panels/44-rear-power-usb-photo-1-front.jpg" alt="Finished Rear Power and USB Panel with the USB-B socket and the 12 V and 5 V DC jacks"><br><sub>The finished panel - Dark Gray, the lettering in Black, the rings in Yellow (12 V) and Red (5 V)</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/44-rear-power-usb-panel-photo-1-front.jpg" alt="Finished Rear Power and USB Panel with the USB-B socket and the 12 V and 5 V DC jacks"><br><sub>The finished panel - Dark Gray, the lettering in Black, the rings in Yellow (12 V) and Red (5 V)</sub></td>
 </tr>
 </tbody>
 </table>
@@ -54,7 +54,7 @@ The two power supplies and the USB cable to the PC plug into this panel on the b
 
 | Qty | Screw | Joins |
 |---:|---|---|
-| 4× | Wood screw 3 × 15 mm | rear panel + main frame |
+| 4× | Wood screw 3 × 15 mm | rear panel + wooden frame |
 
 ---
 
