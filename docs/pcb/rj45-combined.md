@@ -32,6 +32,3 @@ A total of **6** PCBs are required for the complete project. I recommend orderin
 | as required | **KF301 PCB screw terminals** - 2P/3P/4P | [Product I used](../../images/parts/AE_KF301.png) |
 | 1× | **330 Ω resistor (0805)** - optional | |
 | 1× | **Green LED (0805)** - optional | |
-
-> **Note**
-> The second cable of a dual brightness annunciator - the one with two wires - goes to a header that gets no resistor.
