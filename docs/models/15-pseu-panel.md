@@ -11,7 +11,7 @@
 <table>
 <tbody>
 <tr>
-<td align="center"><img src="../../images/panels/15-pseu-photo-1-front.jpg" alt="Finished PSEU Panel, front"><br><sub>Finished panel</sub></td>
+<td align="center"><img src="../../images/panels/15-pseu-photo-1-front-v2.jpg" alt="Finished PSEU Panel, front, with the INDEX TO LOCK plate"><br><sub>Finished panel - the index plate is Black with the lettering in Jade White</sub></td>
 </tr>
 </tbody>
 </table>
@@ -23,6 +23,8 @@
 | | Colour | Filament |
 |---|---|---|
 | <img src="../../images/icons/dark-gray.svg" width="12" height="12"> | Dark Gray | C-Tech Premium Line PLA RAL7011 |
+| <img src="../../images/icons/white.svg" width="12" height="12"> | White | Bambu PLA Basic Jade White (10100) |
+| <img src="../../images/icons/black.svg" width="12" height="12"> | Black | Bambu PLA Basic Black (10101) |
 
 ---
 
@@ -31,6 +33,8 @@
 | Qty | Part | Notes |
 |---:|---|---|
 | 1× | Bottom panel | print on a **Textured** PEI plate |
+| 1× | Index plate | the INDEX TO LOCK plate; print on a **Textured** PEI plate |
+| 1× | Flat washer | goes under the screw that holds the index plate |
 
 ---
 
@@ -38,6 +42,7 @@
 
 | Qty | Screw | Joins |
 |---:|---|---|
+| 1× | Dome head M4×8 | index plate + bottom |
 | 5× | Dome head M4×10 | bottom + main frame |
 
 ---
@@ -70,9 +75,9 @@ The ZH cable to the annunciator comes from that panel, so nothing here connects 
 
 Screw abbreviations used in the diagrams: **DH** = dome head.
 
-### 1. Annunciator
+### 1. Annunciator and index plate
 
-<img src="../../images/panels/15-pseu-01-annunciator.png" alt="Annunciator fitted into the panel" width="700">
+<img src="../../images/panels/15-pseu-01-annunciator-and-index-plate.png" alt="Annunciator fitted into the panel and the index plate screwed on with the flat washer" width="700">
 
 ### 2. Mounting to the main frame
 

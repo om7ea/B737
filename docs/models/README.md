@@ -206,7 +206,7 @@ These are not panels. The frame carries the whole overhead; the rest are compone
 </tbody>
 <tbody>
 <tr>
-<td><a href="15-pseu-panel.md"><img src="../../images/panels/15-pseu-photo-1-front.jpg" width="200"></a></td>
+<td><a href="15-pseu-panel.md"><img src="../../images/panels/15-pseu-thumbnail.jpg" width="200"></a></td>
 <td>PSEU Panel</td>
 <td><a href="https://makerworld.com/en/models/3223471-boeing-737-overhead-pseu-panel">Model</a></td>
 <td><a href="15-pseu-panel.md">Notes</a></td>
