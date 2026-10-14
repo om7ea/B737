@@ -71,6 +71,11 @@ The rotary switch is the SOURCE selector, the four toggle switches are VHF NAV, 
 
 The knob for the SOURCE selector is a separate model shared with the other panels - it is **not included** in this download.
 
+| Qty | Part |
+|---:|---|
+| 1× | General knob, splined shaft |
+| 1× | General knob indicator |
+
 | | |
 |---|---|
 | 📦 Printable model | [Boeing 737 Overhead - Rotary Knobs](https://makerworld.com/en/models/3066127-boeing-737-overhead-rotary-knobs) |
