@@ -2,6 +2,8 @@
 
 Parts for one complete overhead, totalled across all models. Open an item to see which models use it.
 
+Glue, the acrylic windows and the filament are not in this list. The windows are in [CNC Cut Files](cnc-cut.md), the filaments in [Filaments](filaments.md).
+
 [← Back to main page](../README.md)
 
 ---
@@ -1584,6 +1586,22 @@ Parts for one complete overhead, totalled across all models. Open an item to see
 <table>
 <tr><th align="left">Model</th><th align="right">Qty</th><th align="left">Note</th></tr>
 <tr><td><a href="models/39-engine-start-switch.md#electronic-and-mechanical-components">39. Engine Start Switch</a></td><td align="right">2×</td><td></td></tr>
+</table>
+</details></td>
+</tr>
+</table>
+
+### Plywood
+
+<table>
+<tr><th align="left">Item</th><th align="right">Total</th><th align="left">Used in</th></tr>
+<tr>
+<td>Plywood, 10 mm</td>
+<td align="right">as required</td>
+<td><details><summary>1 model</summary>
+<table>
+<tr><th align="left">Model</th><th align="right">Qty</th><th align="left">Note</th></tr>
+<tr><td><a href="models/01-main-frame.md#plywood">1. Main Frame</a></td><td align="right">-</td><td>cut into 27 strips 60 mm wide</td></tr>
 </table>
 </details></td>
 </tr>
