@@ -677,3 +677,29 @@ Parts for one complete overhead, totalled across all models. Open an item to see
 </details></td>
 </tr>
 </table>
+
+### Tact switches (on PCBs)
+
+<table>
+<tr><th align="left">Item</th><th align="right">Total</th><th align="left">Used in</th></tr>
+<tr>
+<td>Tact switch 6×6×4.5 mm, 4-pin vertical</td>
+<td align="right">250×</td>
+<td><details><summary>1 PCB</summary>
+<table>
+<tr><th align="left">PCB</th><th align="right">Qty</th></tr>
+<tr><td><a href="pcb/annunciator.md#bill-of-materials-bom---for-all-125-pcbs">1. Annunciator PCB</a></td><td align="right">250×</td></tr>
+</table>
+</details></td>
+</tr>
+<tr>
+<td>Tact switch 6×6×7 mm with lamp holder</td>
+<td align="right">12×</td>
+<td><details><summary>1 PCB</summary>
+<table>
+<tr><th align="left">PCB</th><th align="right">Qty</th></tr>
+<tr><td><a href="pcb/irs-keyboard.md#bill-of-materials-bom---per-pcb">6. IRS Keyboard PCB</a></td><td align="right">12×</td></tr>
+</table>
+</details></td>
+</tr>
+</table>
