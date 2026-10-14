@@ -62,7 +62,7 @@
 | 5× | KN3(C)-123, (ON)/OFF/(ON) |
 | 1× | KN3(C)-101, ON/OFF |
 | 1× | Rotary switch SR16, 4 positions |
-| 1× | Toggle switch's safety aircraft guard, black |
+| 1× | Toggle switch safety aircraft guard, black |
 
 The five three-position switches are GRD PWR, GEN 1, GEN 2 and the two APU GEN switches - all of them spring back to the centre from both ends. The two-position switch is BUS TRANSFER, and the guard goes on it. The rotary switch is L WIPER.
 
