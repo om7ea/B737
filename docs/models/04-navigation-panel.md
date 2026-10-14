@@ -61,7 +61,7 @@
 | Qty | Type |
 |---:|---|
 | 4× | KN3(C)-103, ON/OFF/ON |
-| 1× | Rotary switch SR16, 3 position |
+| 1× | Rotary switch SR16, 3 positions |
 
 The rotary switch is the SOURCE selector, the four toggle switches are VHF NAV, IRS, FMC and CONTROL PANEL.
 
