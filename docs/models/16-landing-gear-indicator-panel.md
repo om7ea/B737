@@ -11,7 +11,7 @@
 <table>
 <tbody>
 <tr>
-<td align="center" width="50%"><img src="../../images/panels/16-landing-gear-photo-1-front.jpg" alt="Finished Landing Gear Indicator Panel, front"><br><sub>Finished panel</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/16-landing-gear-photo-1-front-v2.jpg" alt="Finished Landing Gear Indicator Panel, front, with the INDEX TO LOCK plate"><br><sub>Finished panel - the index plate is Black with the lettering in Jade White</sub></td>
 <td align="center" width="50%"><img src="../../images/panels/16-landing-gear-photo-2-rear.jpg" alt="Rear of the panel with the three annunciators"><br><sub>Rear side - the three annunciators and their cables</sub></td>
 </tr>
 </tbody>
@@ -24,6 +24,8 @@
 | | Colour | Filament |
 |---|---|---|
 | <img src="../../images/icons/dark-gray.svg" width="12" height="12"> | Dark Gray | C-Tech Premium Line PLA RAL7011 |
+| <img src="../../images/icons/white.svg" width="12" height="12"> | White | Bambu PLA Basic Jade White (10100) |
+| <img src="../../images/icons/black.svg" width="12" height="12"> | Black | Bambu PLA Basic Black (10101) |
 
 ---
 
@@ -32,6 +34,8 @@
 | Qty | Part | Notes |
 |---:|---|---|
 | 1× | Bottom panel | print on a **Textured** PEI plate |
+| 1× | Index plate | the INDEX TO LOCK plate; print on a **Textured** PEI plate |
+| 1× | Flat washer | goes under the screw that holds the index plate |
 
 ---
 
@@ -39,6 +43,7 @@
 
 | Qty | Screw | Joins |
 |---:|---|---|
+| 1× | Dome head M4×8 | index plate + bottom |
 | 5× | Dome head M4×10 | bottom + main frame |
 
 ---
@@ -77,9 +82,9 @@ The remaining headers of that board serve the Engine and Oxygen Panel itself. Th
 
 Screw abbreviations used in the diagrams: **DH** = dome head.
 
-### 1. Annunciators
+### 1. Annunciators and index plate
 
-<img src="../../images/panels/16-landing-gear-01-annunciators.png" alt="Annunciators fitted into the panel" width="700">
+<img src="../../images/panels/16-landing-gear-01-annunciators-and-index-plate.png" alt="Annunciators fitted into the panel and the index plate screwed on with the flat washer" width="700">
 
 ### 2. Mounting to the main frame
 

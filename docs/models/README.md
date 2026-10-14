@@ -214,7 +214,7 @@ These are not panels. The frame carries the whole overhead; the rest are compone
 </tbody>
 <tbody>
 <tr>
-<td><a href="16-landing-gear-indicator-panel.md"><img src="../../images/panels/16-landing-gear-photo-1-front.jpg" width="200"></a></td>
+<td><a href="16-landing-gear-indicator-panel.md"><img src="../../images/panels/16-landing-gear-thumbnail.jpg" width="200"></a></td>
 <td>Landing Gear Indicator Panel</td>
 <td><a href="https://makerworld.com/en/models/3223506-boeing-737-overhead-landing-gear-indicator-panel">Model</a></td>
 <td><a href="16-landing-gear-indicator-panel.md">Notes</a></td>
