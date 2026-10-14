@@ -63,3 +63,6 @@ The two power supplies and the USB cable to the PC plug into this panel on the b
 ### 1. DC jacks, USB adapter and mounting
 
 <img src="../../images/panels/44-rear-power-usb-01-assembly.png" alt="The two DC jacks and the USB adapter fitted into the rear panel, and the four wood screws" width="700">
+
+> **Note**
+> This panel is fitted last of all. Plug the USB cable into the adapter from the inside first, then look for a suitable position for the panel, and screw it to the wooden frame there.
