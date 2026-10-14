@@ -77,8 +77,7 @@ The black guard goes on the STANDBY POWER switch, the two red ones on the DISCON
 | 4× | Flat head M3×12 | bottom + standoff |
 | 4× | Flat head M4×16 | bottom + main frame |
 | 2× | Dome head M3×5 | PCB + backlight |
-| 3× | Dome head M3×8 | top + bottom |
-| 4× | Dome head M3×8 | backlight + standoff |
+| 7× | Dome head M3×8 | top + bottom, backlight + standoff |
 
 ---
 

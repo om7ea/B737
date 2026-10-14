@@ -78,8 +78,7 @@ The four black guards go on the FLT CONTROL and SPOILER switches, the red one on
 | 4× | Flat head M3×12 | bottom + standoff |
 | 6× | Flat head M4×16 | bottom + main frame |
 | 8× | Dome head M3×5 | PCB + backlight |
-| 4× | Dome head M3×8 | top + bottom |
-| 4× | Dome head M3×8 | backlight + standoff |
+| 8× | Dome head M3×8 | top + bottom, backlight + standoff |
 
 ---
 

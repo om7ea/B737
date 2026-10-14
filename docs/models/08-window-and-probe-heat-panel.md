@@ -69,8 +69,7 @@
 | 4× | Flat head M4×16 | bottom + main frame |
 | 7× | Dome head M3×5 | PCB + backlight, counterplate + bottom |
 | 2× | Dome head M3×10 | top + bottom |
-| 2× | Dome head M3×8 | top + bottom |
-| 4× | Dome head M3×8 | backlight + standoff |
+| 6× | Dome head M3×8 | top + bottom, backlight + standoff |
 
 ---
 
