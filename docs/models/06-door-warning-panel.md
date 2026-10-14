@@ -77,8 +77,8 @@ The annunciators are a separate model shared with the other panels - they are **
 
 | Qty | PCB | Connections used | Gerber files |
 |---:|---|---|---|
-| 1× | [RJ45 LED Driver](../pcb/rj45-driver.md) | headers 1–8 - **PCB 1** | [📥 PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip) |
-| 1× | [RJ45 LED Driver](../pcb/rj45-driver.md) | headers 1–4 - **PCB 2** | [📥 PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip) |
+| 1× | [RJ45 LED Driver](../pcb/rj45-driver.md) | headers 1-8 - **PCB 1** | [📥 PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip) |
+| 1× | [RJ45 LED Driver](../pcb/rj45-driver.md) | headers 1-4 - **PCB 2** | [📥 PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip) |
 
 Mounting is shown in [step 2](#2-backlight-panel---pcbs) of the assembly diagram. Which annunciator each header drives, and which board each PCB connects to, is in [Wiring](#wiring).
 
@@ -92,14 +92,14 @@ The twelve annunciators are driven by two [RJ45 LED Driver](../pcb/rj45-driver.m
 
 | PCB | Patch cable goes to | Headers used |
 |---|---|---:|
-| **PCB 1** | socket **D2** on **Overhead_2b** | 1–8 |
-| **PCB 2** | socket **D5** on **Overhead_4** | 1–4 |
+| **PCB 1** | socket **D2** on **Overhead_2b** | 1-8 |
+| **PCB 2** | socket **D5** on **Overhead_4** | 1-4 |
 
 <img src="../../images/panels/06-door-warning-wiring-pcbs.jpg" alt="Rear of the panel with the two PCBs marked" width="700">
 
-The rear of the panel. **PCB 1** is the one with all eight headers populated; **PCB 2** has only headers 1–4.
+The rear of the panel. **PCB 1** is the one with all eight headers populated; **PCB 2** has only headers 1-4.
 
-The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shield.
+The socket labels **D0-D6**, **A1** and **A2** are silkscreened on the hub shield.
 
 ### PCB 1 - socket D2 on Overhead_2b
 
@@ -123,7 +123,7 @@ The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shi
 | 3 | RIGHT AFT OVERWING |
 | 4 | LEFT AFT OVERWING |
 
-Headers 5–8 are not populated on this PCB - the ZH connectors are only soldered in where a channel is used.
+Headers 5-8 are not populated on this PCB - the ZH connectors are only soldered in where a channel is used.
 
 ---
 

@@ -103,10 +103,10 @@ The annunciators are a separate model shared with the other panels - they are **
 
 | Qty | PCB | Connections used | Gerber files |
 |---:|---|---|---|
-| 1× | [RJ45 Direct](../pcb/rj45-direct.md) | pins 1–8 | [📥 PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip) |
-| 1× | [RJ45 Direct](../pcb/rj45-direct.md) | pins 7–8 | [📥 PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip) |
-| 1× | [RJ45 LED Driver](../pcb/rj45-driver.md) | headers 1–5 | [📥 PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip) |
-| 1× | [RJ45 LED Driver](../pcb/rj45-driver.md) | headers 5–8 | [📥 PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip) |
+| 1× | [RJ45 Direct](../pcb/rj45-direct.md) | pins 1-8 | [📥 PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip) |
+| 1× | [RJ45 Direct](../pcb/rj45-direct.md) | pins 7-8 | [📥 PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip) |
+| 1× | [RJ45 LED Driver](../pcb/rj45-driver.md) | headers 1-5 | [📥 PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip) |
+| 1× | [RJ45 LED Driver](../pcb/rj45-driver.md) | headers 5-8 | [📥 PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip) |
 
 Mounting and connections are shown in [step 4](#4-backlight-panel---pcbs-and-dc-jack) of the assembly diagram. Which annunciator and which switch each connection carries is in [Wiring](#wiring).
 
@@ -118,14 +118,14 @@ The nine annunciators and the ten switch inputs take four PCBs, and they do not 
 
 | PCB | Patch cable goes to | Connections used |
 |---|---|---|
-| **PCB 1** | socket **D4** on **Overhead_1a** | pins 1–8 |
-| **PCB 2** | socket **D6** on **Overhead_1b** | pins 7–8 |
-| **PCB 3** | socket **D5** on **Overhead_1a** | headers 1–5 |
-| **PCB 4** | socket **D6** on **Overhead_1a** | headers 5–8 |
+| **PCB 1** | socket **D4** on **Overhead_1a** | pins 1-8 |
+| **PCB 2** | socket **D6** on **Overhead_1b** | pins 7-8 |
+| **PCB 3** | socket **D5** on **Overhead_1a** | headers 1-5 |
+| **PCB 4** | socket **D6** on **Overhead_1a** | headers 5-8 |
 
 Two of the cables go to a socket marked **D6**, but on different hub shields - PCB 2 to the one on `Overhead_1b`, PCB 4 to the one on `Overhead_1a`.
 
-The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shield.
+The socket labels **D0-D6**, **A1** and **A2** are silkscreened on the hub shield.
 
 <img src="../../images/panels/05-flight-control-wiring-pcbs.jpg" alt="Rear of the panel with the four PCBs marked" width="700">
 

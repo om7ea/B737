@@ -95,8 +95,8 @@ The knob for the SOURCE selector is a separate model shared with the other panel
 
 | Qty | PCB | Connections used | Gerber files |
 |---:|---|---|---|
-| 1× | [RJ45 Direct](../pcb/rj45-direct.md) | pins 1–8 | [📥 PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip) |
-| 1× | [RJ45 Direct](../pcb/rj45-direct.md) | pins 6–8 | [📥 PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip) |
+| 1× | [RJ45 Direct](../pcb/rj45-direct.md) | pins 1-8 | [📥 PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip) |
+| 1× | [RJ45 Direct](../pcb/rj45-direct.md) | pins 6-8 | [📥 PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip) |
 
 Mounting and connections are shown in [step 4](#4-backlight-panel---pcbs-and-dc-jack) of the assembly diagram. Which switch each connection carries is in [Wiring](#wiring).
 
@@ -108,10 +108,10 @@ There are no annunciators on this panel - everything on it is a switch input. Th
 
 | PCB | Patch cable goes to | Connections used |
 |---|---|---|
-| **PCB 1** | socket **A2** on **Overhead_1b** | pins 1–8 |
-| **PCB 2** | socket **A1** on **Overhead_1b** | pins 6–8 |
+| **PCB 1** | socket **A2** on **Overhead_1b** | pins 1-8 |
+| **PCB 2** | socket **A1** on **Overhead_1b** | pins 6-8 |
 
-The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shield.
+The socket labels **D0-D6**, **A1** and **A2** are silkscreened on the hub shield.
 
 <img src="../../images/panels/04-navigation-wiring-pcbs.jpg" alt="Rear of the panel with the two PCBs marked" width="700">
 

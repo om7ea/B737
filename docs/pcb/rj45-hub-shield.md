@@ -12,7 +12,7 @@
 
 A shield for the **MEGA 2560 PRO MINI**. It plugs straight onto the board and gives it **nine RJ45 sockets**.
 
-The sockets are silkscreened **D0–D6** for the digital groups and **A1, A2** for the analog ones. The power terminal feeds **5 V** into the shield, which supplies both the RJ45 sockets and the MEGA 2560 PRO MINI itself.
+The sockets are silkscreened **D0-D6** for the digital groups and **A1, A2** for the analog ones. The power terminal feeds **5 V** into the shield, which supplies both the RJ45 sockets and the MEGA 2560 PRO MINI itself.
 
 Board size: **81.5 × 58.5 mm**.
 

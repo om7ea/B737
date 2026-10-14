@@ -101,7 +101,7 @@ The annunciators are a separate model shared with the other panels - they are **
 
 | Qty | PCB | Connections used | Gerber files |
 |---:|---|---|---|
-| 1× | [RJ45 Direct](../pcb/rj45-direct.md) | pins 1–5 | [📥 PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip) |
+| 1× | [RJ45 Direct](../pcb/rj45-direct.md) | pins 1-5 | [📥 PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip) |
 | 1× | [RJ45 LED Driver](../pcb/rj45-driver.md) | header 8 | [📥 PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip) |
 
 Both boards sit on the connection, behind the joint between the two bottom panels. Mounting is shown in [step 3](#3-connection---pcbs) of the assembly diagram. Which switch and which annunciator each connection carries is in [Wiring](#wiring).
@@ -114,10 +114,10 @@ The panel takes **two** Ethernet patch cables to the [RJ45 Hub Shield](../pcb/rj
 
 | PCB | Patch cable goes to | Connections used |
 |---|---|---|
-| **PCB 1** | socket **D0** on **Overhead_3** | pins 1–5 |
+| **PCB 1** | socket **D0** on **Overhead_3** | pins 1-5 |
 | **PCB 2** | socket **D6** on **Overhead_5** | header 8 |
 
-The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shield.
+The socket labels **D0-D6**, **A1** and **A2** are silkscreened on the hub shield.
 
 <img src="../../images/panels/28-recorder-stall-wiring-rear.jpg" alt="Rear of the panel with the two PCBs marked" width="620">
 

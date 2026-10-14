@@ -112,7 +112,7 @@ The grub screws that hold the two knobs on their shafts are **M3×5** - see [Rot
 
 | Qty | PCB | Connections used | Gerber files |
 |---:|---|---|---|
-| 1× | [RJ45 Direct](../pcb/rj45-direct.md) | pins 1–7 | [📥 PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip) |
+| 1× | [RJ45 Direct](../pcb/rj45-direct.md) | pins 1-7 | [📥 PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip) |
 | 1× | [IRS Keyboard](../pcb/irs-keyboard.md) | both RJ45 sockets | [📥 PCB_IRS_Keyboard.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_IRS_Keyboard.zip) |
 
 Mounting is shown in [step 2](#2-bottom-panel---diffuser-rotary-switches-lcd-and-keyboard) and [step 5](#5-backlight-panel---pcb-and-dc-jack) of the assembly diagram. What each connection carries is in [Wiring](#wiring).
@@ -125,11 +125,11 @@ Both PCBs reach the same MEGA 2560 - `Overhead_2a` - and the panel takes **three
 
 | Cable | Patch cable goes to | Connections used |
 |---|---|---|
-| **PCB 1** | socket **D0** on **Overhead_2a** | pins 1–7 |
-| **RJ45 2** | socket **A2** on **Overhead_2a** | pins 1–8 |
-| **RJ45 3** | socket **A1** on **Overhead_2a** | pins 1–3 and 5–8 |
+| **PCB 1** | socket **D0** on **Overhead_2a** | pins 1-7 |
+| **RJ45 2** | socket **A2** on **Overhead_2a** | pins 1-8 |
+| **RJ45 3** | socket **A1** on **Overhead_2a** | pins 1-3 and 5-8 |
 
-The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shield.
+The socket labels **D0-D6**, **A1** and **A2** are silkscreened on the hub shield.
 
 <img src="../../images/panels/14-irs-display-wiring-pcbs.jpg" alt="Rear of the panel with the PCB and the two RJ45 sockets marked" width="700">
 

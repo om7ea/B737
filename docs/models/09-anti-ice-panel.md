@@ -92,8 +92,8 @@ The annunciators are a separate model shared with the other panels - they are **
 
 | Qty | PCB | Connections used | Gerber files |
 |---:|---|---|---|
-| 1× | [RJ45 LED Driver](../pcb/rj45-driver.md) | headers 1–8 | [📥 PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip) |
-| 1× | [RJ45 Combined](../pcb/rj45-combined.md) | headers 3–4 and pins 5–8 | [📥 PCB_RJ45_Combined.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Combined.zip) |
+| 1× | [RJ45 LED Driver](../pcb/rj45-driver.md) | headers 1-8 | [📥 PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip) |
+| 1× | [RJ45 Combined](../pcb/rj45-combined.md) | headers 3-4 and pins 5-8 | [📥 PCB_RJ45_Combined.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Combined.zip) |
 
 Mounting and connections are shown in [step 5](#5-backlight-panel---pcbs-and-dc-jack) of the assembly diagram. Which annunciator and which switch each connection carries is in [Wiring](#wiring).
 
@@ -105,10 +105,10 @@ The six annunciators and the three switches sit on two PCBs, and both reach the 
 
 | PCB | Patch cable goes to | Connections used |
 |---|---|---|
-| **PCB 1** | socket **D1** on **Overhead_4** | headers 1–8 |
-| **PCB 2** | socket **D2** on **Overhead_4** | headers 3–4, pins 5–8 |
+| **PCB 1** | socket **D1** on **Overhead_4** | headers 1-8 |
+| **PCB 2** | socket **D2** on **Overhead_4** | headers 3-4, pins 5-8 |
 
-The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shield.
+The socket labels **D0-D6**, **A1** and **A2** are silkscreened on the hub shield.
 
 <img src="../../images/panels/09-anti-ice-wiring-pcbs.jpg" alt="Rear of the panel with the two PCBs marked" width="700">
 
@@ -133,7 +133,7 @@ How the second connection is wired at the annunciator end is shown under [Annunc
 
 ### PCB 2 - socket D2 on Overhead_4
 
-This is the Combined PCB, so it carries both kinds of connection: the ZH headers 1–4 drive annunciators, the screw terminals 5–8 are direct.
+This is the Combined PCB, so it carries both kinds of connection: the ZH headers 1-4 drive annunciators, the screw terminals 5-8 are direct.
 
 | Header | Annunciator |
 |---:|---|

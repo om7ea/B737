@@ -148,8 +148,8 @@ The window is glued to the bezel.
 
 | Qty | PCB | Connections used | Gerber files |
 |---:|---|---|---|
-| 3× | [RJ45 LED Driver](../pcb/rj45-driver.md) | headers 1–8 on two of them, 3–4 on the third | [📥 PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip) |
-| 1× | [RJ45 Direct](../pcb/rj45-direct.md) | pins 1–8 | [📥 PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip) |
+| 3× | [RJ45 LED Driver](../pcb/rj45-driver.md) | headers 1-8 on two of them, 3-4 on the third | [📥 PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip) |
+| 1× | [RJ45 Direct](../pcb/rj45-direct.md) | pins 1-8 | [📥 PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip) |
 
 Mounting is shown in [step 3](#3-backlight-panel---pcbs-and-dc-jack) of the assembly diagram. Which switch and which annunciator each connection carries is in [Wiring](#wiring).
 
@@ -161,12 +161,12 @@ Everything on this panel reaches the same MEGA 2560 - `Overhead_1b`. The panel t
 
 | PCB | Patch cable goes to | Connections used |
 |---|---|---|
-| **PCB 1** | socket **D0** on **Overhead_1b** | headers 1–8 |
-| **PCB 2** | socket **D1** on **Overhead_1b** | headers 3–4 |
-| **PCB 3** | socket **D2** on **Overhead_1b** | headers 1–8 |
-| **PCB 4** | socket **D3** on **Overhead_1b** | pins 1–8 |
+| **PCB 1** | socket **D0** on **Overhead_1b** | headers 1-8 |
+| **PCB 2** | socket **D1** on **Overhead_1b** | headers 3-4 |
+| **PCB 3** | socket **D2** on **Overhead_1b** | headers 1-8 |
+| **PCB 4** | socket **D3** on **Overhead_1b** | pins 1-8 |
 
-The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shield.
+The socket labels **D0-D6**, **A1** and **A2** are silkscreened on the hub shield.
 
 <img src="../../images/panels/22-fuel-control-wiring-pcbs.jpg" alt="Rear of the panel with the four PCBs marked" width="700">
 

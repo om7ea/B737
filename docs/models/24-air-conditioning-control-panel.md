@@ -151,8 +151,8 @@ The window is glued to the bezel.
 
 | Qty | PCB | Connections used | Gerber files |
 |---:|---|---|---|
-| 1× | [RJ45 LED Driver](../pcb/rj45-driver.md) | headers 1–3 | [📥 PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip) |
-| 2× | [RJ45 Direct](../pcb/rj45-direct.md) | pins 1–8 on one, 4–8 on the other | [📥 PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip) |
+| 1× | [RJ45 LED Driver](../pcb/rj45-driver.md) | headers 1-3 | [📥 PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip) |
+| 2× | [RJ45 Direct](../pcb/rj45-direct.md) | pins 1-8 on one, 4-8 on the other | [📥 PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip) |
 
 Mounting is shown in [step 3](#3-backlight-panel---pcbs-and-dc-jack) of the assembly diagram. Which switch and which annunciator each connection carries is in [Wiring](#wiring).
 
@@ -164,11 +164,11 @@ The three PCBs do not all hang off the same MEGA 2560 - two go to `Overhead_5`, 
 
 | PCB | Patch cable goes to | Connections used |
 |---|---|---|
-| **PCB 1** | socket **A1** on **Overhead_5** | headers 1–3 |
-| **PCB 2** | socket **A2** on **Overhead_5** | pins 4–8 |
-| **PCB 3** | socket **D5** on **Overhead_2a** | pins 1–8 |
+| **PCB 1** | socket **A1** on **Overhead_5** | headers 1-3 |
+| **PCB 2** | socket **A2** on **Overhead_5** | pins 4-8 |
+| **PCB 3** | socket **D5** on **Overhead_2a** | pins 1-8 |
 
-The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shield.
+The socket labels **D0-D6**, **A1** and **A2** are silkscreened on the hub shield.
 
 <img src="../../images/panels/24-air-conditioning-wiring-pcbs.jpg" alt="Rear of the panel with the three PCBs marked" width="700">
 

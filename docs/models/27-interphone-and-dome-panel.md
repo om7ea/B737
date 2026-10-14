@@ -97,7 +97,7 @@ The plate is glued onto the bottom panel.
 
 | Qty | PCB | Connections used | Gerber files |
 |---:|---|---|---|
-| 1× | [RJ45 Direct](../pcb/rj45-direct.md) | pins 1–3 and 8 | [📥 PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip) |
+| 1× | [RJ45 Direct](../pcb/rj45-direct.md) | pins 1-3 and 8 | [📥 PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip) |
 
 Mounting is shown in [step 3](#3-backlight-panel---pcb-and-dc-jack) of the assembly diagram. Which switch each connection carries is in [Wiring](#wiring).
 
@@ -109,9 +109,9 @@ The panel takes **one** Ethernet patch cable to the [RJ45 Hub Shield](../pcb/rj4
 
 | PCB | Patch cable goes to | Connections used |
 |---|---|---|
-| **PCB 1** | socket **D1** on **Overhead_3** | pins 1–3 and 8 |
+| **PCB 1** | socket **D1** on **Overhead_3** | pins 1-3 and 8 |
 
-The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shield.
+The socket labels **D0-D6**, **A1** and **A2** are silkscreened on the hub shield.
 
 <img src="../../images/panels/27-interphone-dome-wiring-rear.jpg" alt="Rear of the panel with the PCB and the two pin header groups marked" width="620">
 

@@ -102,8 +102,8 @@ The annunciators are a separate model shared with the other panels - they are **
 
 | Qty | PCB | Connections used | Gerber files |
 |---:|---|---|---|
-| 1× | [RJ45 Direct](../pcb/rj45-direct.md) | pins 1–8 | [📥 PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip) |
-| 1× | [RJ45 LED Driver](../pcb/rj45-driver.md) | headers 1–8 | [📥 PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip) |
+| 1× | [RJ45 Direct](../pcb/rj45-direct.md) | pins 1-8 | [📥 PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip) |
+| 1× | [RJ45 LED Driver](../pcb/rj45-driver.md) | headers 1-8 | [📥 PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip) |
 
 Mounting and connections are shown in [step 4](#4-backlight-panel---pcbs-and-dc-jack) of the assembly diagram. Which annunciator and which switch each connection carries is in [Wiring](#wiring).
 
@@ -115,10 +115,10 @@ Both rotary switches and eight of the nine annunciators go to the two PCBs on th
 
 | PCB | Patch cable goes to | Connections used |
 |---|---|---|
-| **PCB 1** | socket **D2** on **Overhead_2a** | pins 1–8 |
-| **PCB 2** | socket **D1** on **Overhead_2a** | headers 1–8 |
+| **PCB 1** | socket **D2** on **Overhead_2a** | pins 1-8 |
+| **PCB 2** | socket **D1** on **Overhead_2a** | headers 1-8 |
 
-The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shield.
+The socket labels **D0-D6**, **A1** and **A2** are silkscreened on the hub shield.
 
 <img src="../../images/panels/13-irs-mode-select-wiring-pcbs.jpg" alt="Rear of the panel with the two PCBs marked" width="700">
 

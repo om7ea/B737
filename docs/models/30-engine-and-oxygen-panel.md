@@ -157,8 +157,8 @@ The window is glued to the bezel.
 
 | Qty | PCB | Connections used | Gerber files |
 |---:|---|---|---|
-| 1× | [RJ45 LED Driver](../pcb/rj45-driver.md) | headers 1–8 | [📥 PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip) |
-| 1× | [RJ45 Combined](../pcb/rj45-combined.md) | headers 1–4, pins 5, 7 and 8 | [📥 PCB_RJ45_Combined.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Combined.zip) |
+| 1× | [RJ45 LED Driver](../pcb/rj45-driver.md) | headers 1-8 | [📥 PCB_RJ45_Driver.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Driver.zip) |
+| 1× | [RJ45 Combined](../pcb/rj45-combined.md) | headers 1-4, pins 5, 7 and 8 | [📥 PCB_RJ45_Combined.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Combined.zip) |
 
 Both boards sit on the backlight panel, each in its own PCB frame. Mounting is shown in [step 3](#3-backlight-panel---pcbs-and-dc-jack) of the assembly diagram. Which annunciator and which switch each connection carries is in [Wiring](#wiring).
 
@@ -173,10 +173,10 @@ The panel takes **two** Ethernet patch cables to the [RJ45 Hub Shield](../pcb/rj
 
 | PCB | Patch cable goes to | Connections used |
 |---|---|---|
-| **PCB 1** | socket **D3** on **Overhead_2a** | headers 1–8 |
-| **PCB 2** | socket **D3** on **Overhead_2b** | headers 1–4, pins 5, 7 and 8 |
+| **PCB 1** | socket **D3** on **Overhead_2a** | headers 1-8 |
+| **PCB 2** | socket **D3** on **Overhead_2b** | headers 1-4, pins 5, 7 and 8 |
 
-The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shield.
+The socket labels **D0-D6**, **A1** and **A2** are silkscreened on the hub shield.
 
 <img src="../../images/panels/30-engine-oxygen-wiring-pcbs.jpg" alt="Rear of the panel with the two PCBs marked" width="620">
 

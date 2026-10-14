@@ -93,7 +93,7 @@ The brightness controls of the whole overhead sit on this panel: the knobs on it
 
 | Qty | Part | Reference |
 |---:|---|---|
-| 2× | **PWM LED dimmer** - 12–24 V, rotary knob | [Product I used](../../images/parts/AE_dimmer.png) |
+| 2× | **PWM LED dimmer** - 12-24 V, rotary knob | [Product I used](../../images/parts/AE_dimmer.png) |
 
 Each dimmer is sold as a finished unit in a plastic housing. Take the board and its potentiometer out of the housing and use them as they are - **nothing has to be desoldered**, the potentiometer stays on the lead it comes with.
 
@@ -141,7 +141,7 @@ The annunciators are a separate model shared with the other panels - they are **
 
 | Qty | PCB | Connections used | Gerber files |
 |---:|---|---|---|
-| 1× | [RJ45 Combined](../pcb/rj45-combined.md) | headers 1–3, pins 5–6 | [📥 PCB_RJ45_Combined.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Combined.zip) |
+| 1× | [RJ45 Combined](../pcb/rj45-combined.md) | headers 1-3, pins 5-6 | [📥 PCB_RJ45_Combined.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Combined.zip) |
 | 2× | Dimmer board | - | bought board, see [Dimmers](#dimmers) |
 
 Mounting is shown in [step 3](#3-backlight-panel---pcb-dc-jack-and-dimmers) of the assembly diagram. Which lamp and which switch each connection carries is in [Wiring](#wiring).
@@ -154,13 +154,13 @@ The three annunciators and the two toggle switches are all on one [RJ45 Combined
 
 | PCB | Patch cable goes to | Connections used |
 |---|---|---|
-| **PCB 1** | socket **A1** on **Overhead_3** | headers 1–3, pins 5–6 |
+| **PCB 1** | socket **A1** on **Overhead_3** | headers 1-3, pins 5-6 |
 
 <img src="../../images/panels/19-center-upper-wiring-pcb.jpg" alt="Rear of the panel with the Combined PCB and the two dimmer boards marked" width="620">
 
 The rear of the panel. **PCB 1** is the green board with the RJ45 socket and the blue screw terminal. The two boards above it are the [dimmers](#dimmers) - they have no connection to the simulator.
 
-The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shield.
+The socket labels **D0-D6**, **A1** and **A2** are silkscreened on the hub shield.
 
 ### PCB 1 - socket A1 on Overhead_3
 

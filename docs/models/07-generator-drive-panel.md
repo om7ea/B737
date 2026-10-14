@@ -102,7 +102,7 @@ The annunciators are a separate model shared with the other panels - they are **
 
 | Qty | PCB | Connections used | Gerber files |
 |---:|---|---|---|
-| 1× | [RJ45 Combined](../pcb/rj45-combined.md) | headers 1–3 and pins 5–8 | [📥 PCB_RJ45_Combined.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Combined.zip) |
+| 1× | [RJ45 Combined](../pcb/rj45-combined.md) | headers 1-3 and pins 5-8 | [📥 PCB_RJ45_Combined.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Combined.zip) |
 
 Mounting and connections are shown in [step 4](#4-backlight-panel---pcb-and-dc-jack) of the assembly diagram. Which annunciator and which switch each connection carries is in [Wiring](#wiring).
 
@@ -114,9 +114,9 @@ Everything on this panel - three annunciators and three switches - goes to a sin
 
 | PCB | Patch cable goes to | Connections used |
 |---|---|---|
-| **PCB 1** | socket **A1** on **Overhead_2b** | headers 1–3, pins 5–8 |
+| **PCB 1** | socket **A1** on **Overhead_2b** | headers 1-3, pins 5-8 |
 
-The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shield.
+The socket labels **D0-D6**, **A1** and **A2** are silkscreened on the hub shield.
 
 <img src="../../images/panels/07-generator-drive-photo-5-rear.jpg" alt="Rear of the panel with the single PCB" width="700">
 
@@ -124,7 +124,7 @@ The rear of the panel. There is only one board here, so it needs no marking: the
 
 ### PCB 1 - socket A1 on Overhead_2b
 
-This board carries both kinds of connection: the ZH headers 1–4 drive annunciators, the screw terminals 5–8 are direct.
+This board carries both kinds of connection: the ZH headers 1-4 drive annunciators, the screw terminals 5-8 are direct.
 
 | Header | Annunciator |
 |---:|---|

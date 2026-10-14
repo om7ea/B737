@@ -101,7 +101,7 @@ The annunciators are a separate model shared with the other panels - they are **
 | Qty | PCB | Connections used | Gerber files |
 |---:|---|---|---|
 | 2× | [LE Devices](../pcb/le-devices.md) | 16 LEDs and 2 RJ45 sockets each | [📥 PCB_LE_Devices.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_LE_Devices.zip) |
-| 1× | [RJ45 Combined](../pcb/rj45-combined.md) | headers 3–4, pins 5–6 | [📥 PCB_RJ45_Combined.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Combined.zip) |
+| 1× | [RJ45 Combined](../pcb/rj45-combined.md) | headers 3-4, pins 5-6 | [📥 PCB_RJ45_Combined.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Combined.zip) |
 
 The two LE Devices boards carry the 32 indicator lamps of the display. They are the same board - the design is symmetrical and the second one is populated mirrored, for the other half of the panel. Read [LE Devices](../pcb/le-devices.md) before you solder them.
 
@@ -115,13 +115,13 @@ Everything on this panel reaches the same MEGA 2560 - `Overhead_1a`. The panel t
 
 | Cable | Patch cable goes to | Connections used |
 |---|---|---|
-| **RJ45 1** | socket **A2** on **Overhead_1a** | headers 1–8 |
-| **RJ45 2** | socket **D1** on **Overhead_1a** | headers 1–8 |
-| **RJ45 3** | socket **D2** on **Overhead_1a** | headers 1–8 |
-| **RJ45 4** | socket **D3** on **Overhead_1a** | headers 1–8 |
-| **PCB 3** | socket **D0** on **Overhead_1a** | headers 3–4, pins 5–6 |
+| **RJ45 1** | socket **A2** on **Overhead_1a** | headers 1-8 |
+| **RJ45 2** | socket **D1** on **Overhead_1a** | headers 1-8 |
+| **RJ45 3** | socket **D2** on **Overhead_1a** | headers 1-8 |
+| **RJ45 4** | socket **D3** on **Overhead_1a** | headers 1-8 |
+| **PCB 3** | socket **D0** on **Overhead_1a** | headers 3-4, pins 5-6 |
 
-The socket labels **D0–D6**, **A1** and **A2** are silkscreened on the hub shield.
+The socket labels **D0-D6**, **A1** and **A2** are silkscreened on the hub shield.
 
 <img src="../../images/panels/17-le-devices-wiring-pcbs.jpg" alt="Rear of the panel with the four RJ45 sockets and the Combined PCB marked" width="700">
 
