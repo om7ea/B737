@@ -111,7 +111,7 @@ Mounting and connections are shown in [step 4](#4-backlight-panel---pcbs-and-dc-
 
 ## Wiring
 
-The four PCBs do not all hang off the same MEGA 2560 - three go to `Overhead_1a`, one to `Overhead_1b`. Each PCB is connected by one Ethernet patch cable to a socket on the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md).
+The nine annunciators and the ten switch inputs take four PCBs, and they do not all hang off the same MEGA 2560 - three go to `Overhead_1a`, one to `Overhead_1b`. Each PCB is connected by one Ethernet patch cable to a socket on the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md).
 
 | PCB | Patch cable goes to | Connections used |
 |---|---|---|
@@ -152,6 +152,8 @@ The remaining pins on this board are not used.
 
 ### PCB 3 - socket D5 on Overhead_1a
 
+The five annunciators in the lower half of the panel - the four-high column at the bottom right, plus the YAW DAMPER annunciator above the yaw damper switch.
+
 | Header | Annunciator |
 |---:|---|
 | 1 | MACH TRIM FAIL |
@@ -164,7 +166,7 @@ Headers 6 to 8 are not populated.
 
 ### PCB 4 - socket D6 on Overhead_1a
 
-Three of the annunciators read **LOW PRESSURE**, so the printed text does not tell them apart: two sit directly under the FLT CONTROL switches, the third under STANDBY HYD below LOW QUANTITY.
+The four annunciators in the upper half of the panel. Three of them read **LOW PRESSURE**, so the printed text does not tell them apart: two sit directly under the FLT CONTROL switches, the third under STANDBY HYD below LOW QUANTITY.
 
 | Header | Annunciator |
 |---:|---|

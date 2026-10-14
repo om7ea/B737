@@ -101,7 +101,7 @@ Mounting and connections are shown in [step 5](#5-backlight-panel---pcbs-and-dc-
 
 ## Wiring
 
-Both PCBs hang off the same MEGA 2560, `Overhead_4`. Each one is connected by one Ethernet patch cable to a socket on the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md).
+The six annunciators and the three switches sit on two PCBs, and both reach the **same** MEGA 2560 - `Overhead_4`. Each PCB is connected by one Ethernet patch cable to a socket on the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md).
 
 | PCB | Patch cable goes to | Connections used |
 |---|---|---|
@@ -115,6 +115,8 @@ The socket labels **D0-D6**, **A1** and **A2** are silkscreened on the hub shiel
 The rear of the panel. **PCB 2** is the board carrying both the white ZH headers and the blue screw terminal.
 
 ### PCB 1 - socket D1 on Overhead_4
+
+All eight headers feed the four blue **dual brightness** annunciators. Each of those takes two connections, one for the bright level and one for the dim level, so four annunciators fill the whole board.
 
 | Header | Annunciator |
 |---:|---|
@@ -130,6 +132,8 @@ The rear of the panel. **PCB 2** is the board carrying both the white ZH headers
 How the second connection is wired at the annunciator end is shown under [Annunciators with Dual Brightness Function](../pcb/annunciator.md#annunciators-with-dual-brightness-function).
 
 ### PCB 2 - socket D2 on Overhead_4
+
+This is the Combined PCB, so it carries both kinds of connection: the ZH headers 1-4 drive annunciators, the screw terminals 5-8 are direct.
 
 | Header | Annunciator |
 |---:|---|

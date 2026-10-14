@@ -85,9 +85,9 @@ Mounting is shown in [step 2](#2-backlight-panel---pcbs) of the assembly diagram
 
 ## Wiring
 
-The panel takes **two** Ethernet patch cables to the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md), and they go to **two different MEGA 2560 boards**.
+The twelve annunciators are driven by two [RJ45 LED Driver](../pcb/rj45-driver.md) PCBs. Each PCB is connected by one Ethernet patch cable to a socket on the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md) of a MEGA 2560 PRO MINI.
 
-**The split between the two boards does not follow the rows of the panel** - go by the tables below, not by the order the annunciators sit in.
+**This panel is split across two boards.** Eight annunciators are driven by one and four by the other, and the split does not follow the rows of the panel - go by the tables below, not by the order the annunciators sit in.
 
 | PCB | Patch cable goes to | Headers used |
 |---|---|---:|
@@ -122,7 +122,7 @@ The socket labels **D0-D6**, **A1** and **A2** are silkscreened on the hub shiel
 | 3 | RIGHT AFT OVERWING |
 | 4 | LEFT AFT OVERWING |
 
-Headers 5-8 are not populated.
+Headers 5-8 are not populated on this PCB - the ZH connectors are only soldered in where a channel is used.
 
 ---
 
