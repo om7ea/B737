@@ -79,9 +79,9 @@ All the parts print on a **Smooth** PEI plate.
 | 1× | **Acrylic pipe** - 2.1 × 3 × 200 mm, transparent; the shaft of the L needle is cut from it | [Product I used](../../images/parts/AE_acrylic_pipe.png) |
 | 1× | **Acrylic rod** - 2 mm, transparent; the shaft of the R needle is cut from it | [Product I used](../../images/parts/AE_acrylic_rod.png) |
 | 1× | **White 5 mm flat top LED** - the same one the annunciators use | [Product I used](../../images/parts/AE_led_white.png) |
-| 1× | **150 Ω resistor** - in series with the white LED | |
+| 1× | **150 Ω resistor, 0.5 W** - in series with the white LED | |
 | 2× | **LED strip** - the scale backlight | [Product I used](../../images/parts/AE_led_strip.png) |
-| 1× | **820 Ω resistor** - in series with the two LED strips | |
+| 1× | **820 Ω resistor, 0.5 W** - in series with the two LED strips | |
 | 2× | **Splice connector** - lever type, for the 12 V of the scale backlight | |
 
 The screws that come with the servos are used as well: one holds each servo to the gears cover, and a second fastens its gear to the servo shaft.

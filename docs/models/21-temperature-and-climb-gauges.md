@@ -81,9 +81,9 @@ Mixing the needles up does no harm - they all fit and they all work.
 | 2× | 8× | **Ball bearing MR52ZZ** - 2 × 5 × 2.5 mm | [Product I used](../../images/parts/AE_bearing_MR52ZZ.png) |
 | 1× | 4× | **Acrylic rod** - 2 mm, transparent; the needle shaft is cut from it | [Product I used](../../images/parts/AE_acrylic_rod.png) |
 | 1× | 4× | **White 5 mm flat top LED** - the same one the annunciators use | [Product I used](../../images/parts/AE_led_white.png) |
-| 1× | 4× | **150 Ω resistor** - in series with the white LED | |
+| 1× | 4× | **150 Ω resistor, 0.5 W** - in series with the white LED | |
 | 2× | 8× | **LED strip** - the scale backlight | [Product I used](../../images/parts/AE_led_strip.png) |
-| 1× | 4× | **820 Ω resistor** - in series with the two LED strips | |
+| 1× | 4× | **820 Ω resistor, 0.5 W** - in series with the two LED strips | |
 | 2× | 8× | **Splice connector** - lever type, for the 12 V of the scale backlight | |
 
 The three self-tapping screws that come with the servo are used as well: two hold the servo to the cover, the third fastens the 14-tooth gear to the servo shaft.
