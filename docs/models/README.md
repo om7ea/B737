@@ -23,10 +23,10 @@ These are not panels. The frame carries the whole overhead; the rest are compone
 </thead>
 <tbody>
 <tr>
-<td></td>
+<td><a href="01-main-frame.md"><img src="../../images/panels/01-main-frame-thumbnail.jpg" width="200"></a></td>
 <td>Main Frame</td>
 <td><a href="https://makerworld.com/en/models/3179915-boeing-737-overhead-frame">Model</a></td>
-<td>🚧</td>
+<td><a href="01-main-frame.md">Notes</a></td>
 </tr>
 </tbody>
 <tbody>
