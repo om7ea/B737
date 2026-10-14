@@ -1501,3 +1501,90 @@ Parts for one complete overhead, totalled across all models. Open an item to see
 </details></td>
 </tr>
 </table>
+
+---
+
+## Mechanical Parts
+
+### Ball bearings
+
+<table>
+<tr><th align="left">Item</th><th align="right">Total</th><th align="left">Reference</th><th align="left">Used in</th></tr>
+<tr>
+<td>Ball bearing MR52ZZ - 2 × 5 × 2.5 mm</td>
+<td align="right">14×</td>
+<td><a href="../images/parts/AE_bearing_MR52ZZ.png">Product I used</a></td>
+<td><details><summary>5 models</summary>
+<table>
+<tr><th align="left">Model</th><th align="right">Qty</th><th align="left">Note</th></tr>
+<tr><td><a href="models/21-temperature-and-climb-gauges.md#electronic-and-mechanical-components">21. Temperature and Climb Gauges</a></td><td align="right">8×</td><td></td></tr>
+<tr><td><a href="models/29-oxygen-pressure-gauge.md#electronic-and-mechanical-components">29. Oxygen Pressure Gauge</a></td><td align="right">2×</td><td></td></tr>
+<tr><td><a href="models/31-outflow-valve-gauge.md#electronic-and-mechanical-components">31. Outflow Valve Gauge</a></td><td align="right">2×</td><td></td></tr>
+<tr><td><a href="models/33-duct-pressure-gauge.md#electronic-and-mechanical-components">33. Duct Pressure Gauge</a></td><td align="right">1×</td><td></td></tr>
+<tr><td><a href="models/35-cabin-alt-diff-press-gauge.md#electronic-and-mechanical-components">35. Cabin Alt / Diff Press Gauge</a></td><td align="right">1×</td><td></td></tr>
+</table>
+</details></td>
+</tr>
+<tr>
+<td>Ball bearing MR63ZZ - 3 × 6 × 2.5 mm</td>
+<td align="right">4×</td>
+<td><a href="../images/parts/AE_bearing_MR63ZZ.png">Product I used</a></td>
+<td><details><summary>2 models</summary>
+<table>
+<tr><th align="left">Model</th><th align="right">Qty</th><th align="left">Note</th></tr>
+<tr><td><a href="models/33-duct-pressure-gauge.md#electronic-and-mechanical-components">33. Duct Pressure Gauge</a></td><td align="right">2×</td><td></td></tr>
+<tr><td><a href="models/35-cabin-alt-diff-press-gauge.md#electronic-and-mechanical-components">35. Cabin Alt / Diff Press Gauge</a></td><td align="right">2×</td><td></td></tr>
+</table>
+</details></td>
+</tr>
+</table>
+
+### Acrylic rods and pipes
+
+<table>
+<tr><th align="left">Item</th><th align="right">Total</th><th align="left">Reference</th><th align="left">Used in</th></tr>
+<tr>
+<td>Acrylic rod - 2 mm, transparent</td>
+<td align="right">8×</td>
+<td><a href="../images/parts/AE_acrylic_rod.png">Product I used</a></td>
+<td><details><summary>5 models</summary>
+<table>
+<tr><th align="left">Model</th><th align="right">Qty</th><th align="left">Note</th></tr>
+<tr><td><a href="models/21-temperature-and-climb-gauges.md#electronic-and-mechanical-components">21. Temperature and Climb Gauges</a></td><td align="right">4×</td><td>the needle shaft is cut from it</td></tr>
+<tr><td><a href="models/29-oxygen-pressure-gauge.md#electronic-and-mechanical-components">29. Oxygen Pressure Gauge</a></td><td align="right">1×</td><td>the needle shaft is cut from it</td></tr>
+<tr><td><a href="models/31-outflow-valve-gauge.md#electronic-and-mechanical-components">31. Outflow Valve Gauge</a></td><td align="right">1×</td><td>the needle shaft is cut from it</td></tr>
+<tr><td><a href="models/33-duct-pressure-gauge.md#electronic-and-mechanical-components">33. Duct Pressure Gauge</a></td><td align="right">1×</td><td>the shaft of the R needle is cut from it</td></tr>
+<tr><td><a href="models/35-cabin-alt-diff-press-gauge.md#electronic-and-mechanical-components">35. Cabin Alt / Diff Press Gauge</a></td><td align="right">1×</td><td>the shaft of the long needle is cut from it</td></tr>
+</table>
+</details></td>
+</tr>
+<tr>
+<td>Acrylic pipe - 2.1 × 3 × 200 mm, transparent</td>
+<td align="right">2×</td>
+<td><a href="../images/parts/AE_acrylic_pipe.png">Product I used</a></td>
+<td><details><summary>2 models</summary>
+<table>
+<tr><th align="left">Model</th><th align="right">Qty</th><th align="left">Note</th></tr>
+<tr><td><a href="models/33-duct-pressure-gauge.md#electronic-and-mechanical-components">33. Duct Pressure Gauge</a></td><td align="right">1×</td><td>the shaft of the L needle is cut from it</td></tr>
+<tr><td><a href="models/35-cabin-alt-diff-press-gauge.md#electronic-and-mechanical-components">35. Cabin Alt / Diff Press Gauge</a></td><td align="right">1×</td><td>the shaft of the short needle is cut from it</td></tr>
+</table>
+</details></td>
+</tr>
+</table>
+
+### Springs
+
+<table>
+<tr><th align="left">Item</th><th align="right">Total</th><th align="left">Reference</th><th align="left">Used in</th></tr>
+<tr>
+<td>Spring - 9.5 × 19 mm</td>
+<td align="right">2×</td>
+<td><a href="../images/parts/spring_set_yato.jpg">Set I used</a></td>
+<td><details><summary>1 model</summary>
+<table>
+<tr><th align="left">Model</th><th align="right">Qty</th><th align="left">Note</th></tr>
+<tr><td><a href="models/39-engine-start-switch.md#electronic-and-mechanical-components">39. Engine Start Switch</a></td><td align="right">2×</td><td></td></tr>
+</table>
+</details></td>
+</tr>
+</table>
