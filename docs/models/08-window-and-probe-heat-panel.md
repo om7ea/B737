@@ -103,7 +103,7 @@ Mounting and connections are shown in [step 5](#5-backlight-panel---pcbs-and-dc-
 
 ## Wiring
 
-This panel takes three PCBs, and all three reach the **same** MEGA 2560 - `Overhead_4`. Each PCB is connected by one Ethernet patch cable to a socket on the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md).
+All three PCBs hang off the same MEGA 2560, `Overhead_4`. Each one is connected by one Ethernet patch cable to a socket on the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md).
 
 | PCB | Patch cable goes to | Connections used |
 |---|---|---|
@@ -130,13 +130,9 @@ The rear of the panel. **PCB 1** is the one with the blue screw terminals. The o
 | 7 | WINDOW HEAT - L SIDE |
 | 8 | TEST - PWR TEST |
 
-**The TEST switch takes two pins.** It is the three-position (ON)/OFF/(ON) switch in the middle of the panel, and each of its two active positions needs its own connection: pin 5 for OVHT, pin 8 for PWR TEST.
-
 **The TAT TEST button is not on this panel's PCBs.** All eight pins of the Direct board are used by the switches above, so the push button is wired across to pin 5 of the Combined PCB on the [Anti-ice Panel](09-anti-ice-panel.md). It is the loose white wire leaving the panel at the bottom of the photo above.
 
 ### PCB 2 - socket A2 on Overhead_4
-
-The eight window heat annunciators, at the top of the panel. The four **ON** annunciators are the green ones; the four **OVERHEAT** are yellow.
 
 | Header | Annunciator |
 |---:|---|
@@ -151,7 +147,7 @@ The eight window heat annunciators, at the top of the panel. The four **ON** ann
 
 ### PCB 3 - socket D0 on Overhead_4
 
-The eight probe annunciators, in the two columns at the bottom of the panel. Headers 1 to 4 serve the right-hand column, 5 to 8 the left-hand one.
+Headers 1 to 4 serve the right-hand column of the probe annunciators, 5 to 8 the left-hand one.
 
 | Header | Annunciator |
 |---:|---|
@@ -163,7 +159,6 @@ The eight probe annunciators, in the two columns at the bottom of the panel. Hea
 | 6 | L ELEV PITOT |
 | 7 | L ALPHA VANE |
 | 8 | TEMP PROBE |
-
 
 **The switches share a single ground return.** Each switch takes one of its terminals to its own pin on the Direct PCB. The opposite terminals are commoned - daisy-chained from one switch to the next - and the chain ends at a **-** (ground) contact.
 

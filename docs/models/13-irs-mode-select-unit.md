@@ -116,7 +116,7 @@ Mounting and connections are shown in [step 4](#4-backlight-panel---pcbs-and-dc-
 
 ## Wiring
 
-Both rotary switches and eight of the nine annunciators go to the two PCBs on this panel, and both boards reach the same MEGA 2560 - `Overhead_2a`. Each PCB is connected by one Ethernet patch cable to a socket on the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md). The ninth annunciator, GPS, is wired to another panel - see below.
+Both PCBs hang off the same MEGA 2560, `Overhead_2a`. Each one is connected by one Ethernet patch cable to a socket on the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md). The GPS annunciator is wired to another panel - see below.
 
 | PCB | Patch cable goes to | Connections used |
 |---|---|---|

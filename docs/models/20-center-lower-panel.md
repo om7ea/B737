@@ -156,8 +156,6 @@ The socket labels **D0-D6**, **A1** and **A2** are silkscreened on the hub shiel
 
 ### PCB 2 - socket A2 on Overhead_3
 
-This is the Combined PCB, so it carries both kinds of connection: the ZH headers drive annunciators, the screw terminals are direct.
-
 | Header | Annunciator |
 |---:|---|
 | 3 | NOT ARMED |

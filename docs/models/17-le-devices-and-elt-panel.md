@@ -183,8 +183,6 @@ The lamps are soldered into the LE Devices boards, so nothing on RJ45 1 to RJ45 
 
 ### PCB 3 - socket D0 on Overhead_1a
 
-This is the Combined PCB, so it carries both kinds of connection: the ZH headers drive annunciators, the screw terminals are direct.
-
 | Header | Annunciator |
 |---:|---|
 | 3 | ELT |

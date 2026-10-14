@@ -109,7 +109,7 @@ Mounting and connections are shown in [step 4](#4-backlight-panel---pcb-and-dc-j
 
 ## Wiring
 
-Everything on this panel - three annunciators and three switches - goes to a single PCB, connected by one Ethernet patch cable to a socket on the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md).
+The panel has a single PCB. It is connected by one Ethernet patch cable to a socket on the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md).
 
 | PCB | Patch cable goes to | Connections used |
 |---|---|---|
@@ -122,8 +122,6 @@ The socket labels **D0-D6**, **A1** and **A2** are silkscreened on the hub shiel
 The rear of the panel. There is only one board here, so it needs no marking: the annunciators go to the white ZH headers, the switches to the blue screw terminal.
 
 ### PCB 1 - socket A1 on Overhead_2b
-
-This board carries both kinds of connection: the ZH headers 1-4 drive annunciators, the screw terminals 5-8 are direct.
 
 | Header | Annunciator |
 |---:|---|
@@ -141,11 +139,6 @@ Both DRIVE annunciators carry the same printed text; the **1** and **2** above t
 | 6 | STANDBY POWER - BAT |
 | 7 | STANDBY POWER - AUTO |
 | 8 | DISCONNECT - 1 |
-
-**The STANDBY POWER switch takes two pins.** It is the three-position ON/OFF/ON switch in the middle of the panel, and each of its two active positions needs its own connection: pin 6 for BAT, pin 7 for AUTO. In the centre OFF position neither pin is connected.
-
-The three guards are mechanical covers only - they are not wired to anything.
-
 
 **The switches share a single ground return.** Each switch takes one of its terminals to its own pin on the PCB. The opposite terminals are commoned - daisy-chained from one switch to the next - and the chain ends at a **-** (ground) contact.
 

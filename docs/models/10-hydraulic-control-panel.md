@@ -100,7 +100,7 @@ Mounting and connections are shown in [step 5](#5-backlight-panel---pcbs-and-dc-
 
 ## Wiring
 
-The four toggle switches and the six annunciators are on two different PCBs, but both reach the **same** MEGA 2560 - `Overhead_4`. Each PCB is connected by one Ethernet patch cable to a socket on the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md).
+Both PCBs hang off the same MEGA 2560, `Overhead_4`. Each one is connected by one Ethernet patch cable to a socket on the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md).
 
 | PCB | Patch cable goes to | Connections used |
 |---|---|---|
@@ -138,7 +138,6 @@ Pins 5 to 8 follow the switches left to right as they appear on the front of the
 Headers 7 and 8 are not populated.
 
 Four of the annunciators read **LOW PRESSURE** and two read **OVERHEAT**, so the printed text alone does not tell them apart. Each LOW PRESSURE sits directly above the pump switch it belongs to, and the two OVERHEAT annunciators belong to hydraulic systems **A** and **B**, marked at the bottom of the panel.
-
 
 **The four switches share a single ground return.** Each switch takes one of its terminals to its own pin on the Direct PCB. The opposite terminals are commoned - daisy-chained from one switch to the next - and the chain ends at a **-** (ground) contact.
 

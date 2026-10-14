@@ -107,7 +107,7 @@ Mounting and connections are shown in [step 4](#4-backlight-panel---pcbs-and-dc-
 
 ## Wiring
 
-There are no annunciators on this panel - everything on it is a switch input. The five switches need eleven connections, more than one Direct PCB has pins for, so they are split over two boards. Both reach the **same** MEGA 2560 - `Overhead_1b`. Each PCB is connected by one Ethernet patch cable to a socket on the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md).
+Both PCBs hang off the same MEGA 2560, `Overhead_1b`. Each one is connected by one Ethernet patch cable to a socket on the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md).
 
 | PCB | Patch cable goes to | Connections used |
 |---|---|---|
@@ -122,8 +122,6 @@ The rear of the panel. **PCB 1** is the one with all eight screw terminals fitte
 
 ### PCB 1 - socket A2 on Overhead_1b
 
-The four toggle switches. Each of them is a three-position ON/OFF/ON switch, so each takes **two pins**, one per active position - in the centre NORMAL position neither pin is connected.
-
 | Pin | Switch |
 |---:|---|
 | 1 | CONTROL PANEL - BOTH ON 2 |
@@ -136,8 +134,6 @@ The four toggle switches. Each of them is a three-position ON/OFF/ON switch, so 
 | 8 | VHF NAV - BOTH ON 2 |
 
 ### PCB 2 - socket A1 on Overhead_1b
-
-The SOURCE rotary switch, at the bottom left of the panel. All three of its positions are wired, each to its own pin.
 
 | Pin | Switch |
 |---:|---|

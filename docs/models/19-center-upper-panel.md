@@ -155,7 +155,7 @@ Mounting is shown in [step 3](#3-backlight-panel---pcb-dc-jack-and-dimmers) of t
 
 ## Wiring
 
-The three annunciators and the two toggle switches are all on one [RJ45 Combined](../pcb/rj45-combined.md) PCB, connected by a single Ethernet patch cable to the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md) of a MEGA 2560 PRO MINI.
+The panel has a single PCB. It is connected by one Ethernet patch cable to a socket on the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md).
 
 | PCB | Patch cable goes to | Connections used |
 |---|---|---|
@@ -168,8 +168,6 @@ The rear of the panel. **PCB 1** is the green board with the RJ45 socket and the
 The socket labels **D0-D6**, **A1** and **A2** are silkscreened on the hub shield.
 
 ### PCB 1 - socket A1 on Overhead_3
-
-This is the Combined PCB, so it carries both kinds of connection: the ZH headers drive annunciators, the screw terminals are direct.
 
 | Header | Annunciator |
 |---:|---|
