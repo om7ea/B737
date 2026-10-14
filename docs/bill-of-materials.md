@@ -2,7 +2,7 @@
 
 Parts for one complete overhead, totalled across all models. Open an item to see which models use it.
 
-Glue, the acrylic windows, the filament and the PCBs are not in this list.
+Glue, the acrylic windows, the filament and the PCBs are not in this list. The components fitted on the PCBs are included.
 
 [← Back to main page](../README.md)
 
