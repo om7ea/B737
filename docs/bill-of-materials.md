@@ -829,12 +829,12 @@ Parts for one complete overhead, totalled across all models. Open an item to see
 <tr><th align="left">Item</th><th align="right">Total</th><th align="left">Used in</th></tr>
 <tr>
 <td>Resistor 100 Ω (0805)</td>
-<td align="right">18×</td>
+<td align="right">9×</td>
 <td><details><summary>2 places</summary>
 <table>
 <tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
-<tr><td><a href="models/09-anti-ice-panel.md#wiring">9. Anti-ice Panel</a></td><td align="right">8×</td><td>on its LED Driver / Combined PCBs, white dual brightness LEDs</td></tr>
-<tr><td><a href="models/22-fuel-control-panel.md#wiring">22. Fuel Control Panel</a></td><td align="right">10×</td><td>on its LED Driver / Combined PCBs, white dual brightness LEDs</td></tr>
+<tr><td><a href="models/09-anti-ice-panel.md#wiring">9. Anti-ice Panel</a></td><td align="right">4×</td><td>on its LED Driver / Combined PCBs, main cable of each dual brightness annunciator</td></tr>
+<tr><td><a href="models/22-fuel-control-panel.md#wiring">22. Fuel Control Panel</a></td><td align="right">5×</td><td>on its LED Driver / Combined PCBs, main cable of each dual brightness annunciator</td></tr>
 </table>
 </details></td>
 </tr>
