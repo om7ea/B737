@@ -78,7 +78,7 @@ The draw figures are the most I measured on my panel - the 12 V one with the bac
 
 #### 12 V
 
-The 12 V rail feeds the panel lighting only. It enters through a **DC socket on the back of the panel**, next to the 5 V socket and the USB connector, and goes first to two PWM dimmers:
+The 12 V rail feeds the panel lighting only. It enters through a **DC socket on the back of the panel**, next to the 5 V socket and the USB connector, all three on the [Rear Power and USB Panel](models/44-rear-power-and-usb-panel.md), and goes first to two PWM dimmers:
 
 | Dimmer | Controls |
 |---|---|
