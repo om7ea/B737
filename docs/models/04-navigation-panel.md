@@ -67,7 +67,7 @@ The rotary switch is the SOURCE selector, the four toggle switches are VHF NAV, 
 
 ---
 
-## Rotary Knob
+## Rotary Knobs
 
 The knob for the SOURCE selector is a separate model shared with the other panels - it is **not included** in this download.
 
