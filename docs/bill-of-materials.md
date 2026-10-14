@@ -2,7 +2,7 @@
 
 Parts for one complete overhead, totalled across all models. Open an item to see which models use it.
 
-Glue, the acrylic windows, the filament and the PCBs are not in this list. The components fitted on the PCBs are included.
+Glue, the acrylic windows, the UV-printed foil, the filament and the PCBs are not in this list. The components fitted on the PCBs are included.
 
 [← Back to main page](../README.md)
 
@@ -1199,6 +1199,17 @@ Glue, the acrylic windows, the filament and the PCBs are not in this list. The c
 </details></td>
 </tr>
 <tr>
+<td>DC plug with screw terminal</td>
+<td align="right">25×</td>
+<td></td>
+<td><details><summary>1 place</summary>
+<table>
+<tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
+<tr><td><a href="system-overview.md#12-v">System Overview</a></td><td align="right">25×</td><td>one on every backlit panel and on the flood light</td></tr>
+</table>
+</details></td>
+</tr>
+<tr>
 <td>Faston terminal 4.8 mm, PCB male</td>
 <td align="right">157×</td>
 <td><a href="../images/parts/AE_plug_male.png">Product I used</a></td>
@@ -1416,6 +1427,17 @@ Glue, the acrylic windows, the filament and the PCBs are not in this list. The c
 
 <table>
 <tr><th align="left">Item</th><th align="right">Total</th><th align="left">Reference</th><th align="left">Used in</th></tr>
+<tr>
+<td>Dupont cable, 5-pin female to female, 2.54 mm, 10 cm</td>
+<td align="right">1×</td>
+<td><a href="../images/parts/AE_dupont_5p.png">Product I used</a></td>
+<td><details><summary>1 place</summary>
+<table>
+<tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
+<tr><td><a href="pcb/cabin-pressure-display.md#connections">9. Cabin Pressure Display PCB</a></td><td align="right">1×</td><td>2.54 mm, female to female, 10 cm</td></tr>
+</table>
+</details></td>
+</tr>
 <tr>
 <td>Dupont lead, 3-pin female, 2.54 mm</td>
 <td align="right">3×</td>
