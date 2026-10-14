@@ -66,7 +66,7 @@
 | 4× | Toggle switch safety aircraft guard, black |
 | 1× | Toggle switch safety aircraft guard, red |
 
-The four black guards go on the FLT CONTROL and SPOILER switches, the red one on the ALTERNATE FLAPS ARM switch. The ALTERNATE FLAPS UP/DOWN and YAW DAMPER switches are left unguarded.
+The four two-position switches are SPOILER A, SPOILER B, ALTERNATE FLAPS ARM and YAW DAMPER. The two three-position switches are FLT CONTROL A and B, both STBY RUD / OFF / ON. The ALTERNATE FLAPS switch is three-position too, UP / OFF / DOWN, but momentary - it springs back to OFF from both ends. The four black guards go on the FLT CONTROL and SPOILER switches, the red one on the ALTERNATE FLAPS ARM switch. The ALTERNATE FLAPS UP/DOWN and YAW DAMPER switches are left unguarded.
 
 ---
 
