@@ -2,7 +2,7 @@
 
 Parts for one complete overhead, totalled across all models. Open an item to see which models use it.
 
-Glue, the acrylic windows and the filament are not in this list. The windows are in [CNC Cut Files](cnc-cut.md), the filaments in [Filaments](filaments.md).
+Glue, the acrylic windows, the filament and the PCBs are not in this list.
 
 [← Back to main page](../README.md)
 
