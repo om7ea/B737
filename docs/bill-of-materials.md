@@ -93,10 +93,11 @@ Parts for one complete overhead, totalled across all models. Open an item to see
 
 </details>
 <details>
-<summary><b>Flat head M4×16</b> - 132×</summary>
+<summary><b>Flat head M4×16</b> - 133×</summary>
 
 | Model | Qty | Joins |
 |---|---:|---|
+| [1. Main Frame](models/01-main-frame.md#screws) | 1× | light panel support + frame |
 | [4. Navigation Panel](models/04-navigation-panel.md#screws) | 4× | bottom + main frame |
 | [5. Flight Control Panel](models/05-flight-control-panel.md#screws) | 6× | bottom + main frame |
 | [6. Door Warning Panel](models/06-door-warning-panel.md#screws) | 4× | bottom + main frame |
@@ -121,6 +122,14 @@ Parts for one complete overhead, totalled across all models. Open an item to see
 | [36. Cabin Altitude Panel](models/36-cabin-altitude-panel.md#screws) | 4× | bottom + main frame |
 | [41. FWD Blank Panels](models/41-fwd-blank-panels.md#screws) | 4× | panel 4 + main frame |
 | [42. AFT Blank Panels](models/42-aft-blank-panels.md#screws) | 22× | panels 1, 2, 4, 5 and 6 + main frame |
+
+</details>
+<details>
+<summary><b>Flat head M4×25</b> - 7×</summary>
+
+| Model | Qty | Joins |
+|---|---:|---|
+| [1. Main Frame](models/01-main-frame.md#screws) | 7× | light panel support + frame |
 
 </details>
 
@@ -273,6 +282,25 @@ Parts for one complete overhead, totalled across all models. Open an item to see
 | [42. AFT Blank Panels](models/42-aft-blank-panels.md#screws) | 4× | panel 3 + main frame |
 
 </details>
+<details>
+<summary><b>Dome head M4×25</b> - 4×</summary>
+
+| Model | Qty | Joins |
+|---|---:|---|
+| [1. Main Frame](models/01-main-frame.md#screws) | 4× | light panel support + frame, with an M4 lock nut |
+
+</details>
+
+### Hex head
+
+<details>
+<summary><b>Hex head M6×35</b> - 4×</summary>
+
+| Model | Qty | Joins |
+|---|---:|---|
+| [1. Main Frame](models/01-main-frame.md#screws) | 4× | FWD + angle wedge + AFT, with an M6 nut |
+
+</details>
 
 ### Grub screw
 
@@ -301,5 +329,43 @@ Parts for one complete overhead, totalled across all models. Open an item to see
 | Model | Qty | Joins |
 |---|---:|---|
 | [44. Rear Power and USB Panel](models/44-rear-power-and-usb-panel.md#screws) | 4× | rear panel + wooden frame |
+
+</details>
+<details>
+<summary><b>Wood screw 3 × 30 mm</b> - 185×</summary>
+
+| Model | Qty | Joins |
+|---|---:|---|
+| [1. Main Frame](models/01-main-frame.md#screws) | 185× | frame part + plywood, plywood + plywood |
+
+</details>
+
+### Nuts
+
+<details>
+<summary><b>M4 lock nut</b> - 4×</summary>
+
+| Model | Qty | Joins |
+|---|---:|---|
+| [1. Main Frame](models/01-main-frame.md#screws) | 4× |  |
+
+</details>
+<details>
+<summary><b>M6 nut</b> - 4×</summary>
+
+| Model | Qty | Joins |
+|---|---:|---|
+| [1. Main Frame](models/01-main-frame.md#screws) | 4× |  |
+
+</details>
+
+### Threaded inserts
+
+<details>
+<summary><b>Brass heat-set threaded insert M4, OD 5 mm, L 5 mm</b> - 169×</summary>
+
+| Model | Qty | Joins |
+|---|---:|---|
+| [1. Main Frame](models/01-main-frame.md#screws) | 169× | pressed into the frame parts |
 
 </details>
