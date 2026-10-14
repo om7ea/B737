@@ -1092,7 +1092,7 @@ Parts for one complete overhead, totalled across all models. Open an item to see
 <tr>
 <td>MEGA 2560 PRO MINI</td>
 <td align="right">7×</td>
-<td></td>
+<td><a href="../images/parts/AE_mega.png">Product I used</a></td>
 <td><details><summary>1 place</summary>
 <table>
 <tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
@@ -1114,7 +1114,7 @@ Parts for one complete overhead, totalled across all models. Open an item to see
 <tr>
 <td>USB hub, 7 ports</td>
 <td align="right">1×</td>
-<td></td>
+<td><a href="../images/parts/AE_usb_hub.png">Product I used</a></td>
 <td><details><summary>1 place</summary>
 <table>
 <tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
@@ -1439,7 +1439,7 @@ Parts for one complete overhead, totalled across all models. Open an item to see
 <tr>
 <td>USB cable, USB-A to micro USB, 1 m</td>
 <td align="right">7×</td>
-<td></td>
+<td><a href="../images/parts/AE_usb_cable.png">Product I used</a></td>
 <td><details><summary>1 place</summary>
 <table>
 <tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
