@@ -828,18 +828,46 @@ Parts for one complete overhead, totalled across all models. Open an item to see
 <table>
 <tr><th align="left">Item</th><th align="right">Total</th><th align="left">Used in</th></tr>
 <tr>
-<td>Resistor (0805) for an annunciator LED - value by LED colour</td>
-<td align="right">as required</td>
+<td>Resistor 100 Ω (0805)</td>
+<td align="right">18×</td>
 <td><details><summary>2 places</summary>
 <table>
 <tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
-<tr><td><a href="pcb/rj45-driver.md#bill-of-materials-bom---per-pcb">3. RJ45 LED Driver PCB</a></td><td align="right">-</td><td>1-8× per PCB, 20 PCBs</td></tr>
-<tr><td><a href="pcb/rj45-combined.md#bill-of-materials-bom---per-pcb">4. RJ45 Combined PCB</a></td><td align="right">-</td><td>1-4× per PCB, 6 PCBs</td></tr>
+<tr><td><a href="models/09-anti-ice-panel.md#wiring">9. Anti-ice Panel</a></td><td align="right">8×</td><td>on its LED Driver / Combined PCBs, white dual brightness LEDs</td></tr>
+<tr><td><a href="models/22-fuel-control-panel.md#wiring">22. Fuel Control Panel</a></td><td align="right">10×</td><td>on its LED Driver / Combined PCBs, white dual brightness LEDs</td></tr>
 </table>
 </details></td>
 </tr>
 <tr>
-<td>Resistor 150 Ω</td>
+<td>Resistor 150 Ω (0805)</td>
+<td align="right">104×</td>
+<td><details><summary>19 places</summary>
+<table>
+<tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
+<tr><td><a href="pcb/annunciator.md#bill-of-materials-bom---for-all-125-pcbs">1. Annunciator PCB</a></td><td align="right">9×</td><td>I used 0805 SMD</td></tr>
+<tr><td><a href="pcb/irs-keyboard.md#bill-of-materials-bom---per-pcb">6. IRS Keyboard PCB</a></td><td align="right">1×</td><td>for the GPS annunciator of the IRS Mode Select Unit</td></tr>
+<tr><td><a href="models/05-flight-control-panel.md#wiring">5. Flight Control Panel</a></td><td align="right">9×</td><td>on its LED Driver / Combined PCBs, yellow LEDs</td></tr>
+<tr><td><a href="models/06-door-warning-panel.md#wiring">6. Door Warning Panel</a></td><td align="right">12×</td><td>on its LED Driver / Combined PCBs, yellow LEDs</td></tr>
+<tr><td><a href="models/07-generator-drive-panel.md#wiring">7. Generator Drive and Standby Power Panel</a></td><td align="right">3×</td><td>on its LED Driver / Combined PCBs, yellow LEDs</td></tr>
+<tr><td><a href="models/08-window-and-probe-heat-panel.md#wiring">8. Window and Probe Heat Panel</a></td><td align="right">12×</td><td>on its LED Driver / Combined PCBs, yellow LEDs</td></tr>
+<tr><td><a href="models/09-anti-ice-panel.md#wiring">9. Anti-ice Panel</a></td><td align="right">2×</td><td>on its LED Driver / Combined PCBs, yellow LEDs</td></tr>
+<tr><td><a href="models/10-hydraulic-control-panel.md#wiring">10. Hydraulic Control Panel</a></td><td align="right">6×</td><td>on its LED Driver / Combined PCBs, yellow LEDs</td></tr>
+<tr><td><a href="models/13-irs-mode-select-unit.md#wiring">13. IRS Mode Select Unit</a></td><td align="right">6×</td><td>on its LED Driver / Combined PCBs, yellow LEDs</td></tr>
+<tr><td><a href="models/17-le-devices-and-elt-panel.md#wiring">17. LE Devices and ELT Panel</a></td><td align="right">2×</td><td>on its LED Driver / Combined PCBs, yellow LEDs</td></tr>
+<tr><td><a href="models/19-center-upper-panel.md#wiring">19. Center Upper Panel</a></td><td align="right">3×</td><td>on its LED Driver / Combined PCBs, yellow LEDs</td></tr>
+<tr><td><a href="models/20-center-lower-panel.md#wiring">20. Center Lower Panel</a></td><td align="right">1×</td><td>on its LED Driver / Combined PCBs, yellow LEDs</td></tr>
+<tr><td><a href="models/22-fuel-control-panel.md#wiring">22. Fuel Control Panel</a></td><td align="right">8×</td><td>on its LED Driver / Combined PCBs, yellow LEDs</td></tr>
+<tr><td><a href="models/23-generator-bus-panel.md#wiring">23. Generator Bus Panel</a></td><td align="right">7×</td><td>on its LED Driver / Combined PCBs, yellow LEDs</td></tr>
+<tr><td><a href="models/24-air-conditioning-control-panel.md#wiring">24. Air Conditioning Control Panel</a></td><td align="right">3×</td><td>on its LED Driver / Combined PCBs, yellow LEDs</td></tr>
+<tr><td><a href="models/26-ac-and-dc-meter-panel.md#wiring">26. AC and DC Meter Panel</a></td><td align="right">3×</td><td>on its LED Driver / Combined PCBs, yellow LEDs</td></tr>
+<tr><td><a href="models/28-recorder-and-stall-panel.md#wiring">28. Recorder and Stall Panel</a></td><td align="right">1×</td><td>on its LED Driver / Combined PCBs, yellow LEDs</td></tr>
+<tr><td><a href="models/30-engine-and-oxygen-panel.md#wiring">30. Engine and Oxygen Panel</a></td><td align="right">7×</td><td>on its LED Driver / Combined PCBs, yellow LEDs</td></tr>
+<tr><td><a href="models/34-bleed-air-control-panel.md#wiring">34. Bleed Air Control Panel</a></td><td align="right">9×</td><td>on its LED Driver / Combined PCBs, yellow LEDs</td></tr>
+</table>
+</details></td>
+</tr>
+<tr>
+<td>Resistor 150 Ω, 0.5 W</td>
 <td align="right">7×</td>
 <td><details><summary>4 places</summary>
 <table>
@@ -848,17 +876,6 @@ Parts for one complete overhead, totalled across all models. Open an item to see
 <tr><td><a href="models/29-oxygen-pressure-gauge.md#electronic-and-mechanical-components">29. Oxygen Pressure Gauge</a></td><td align="right">1×</td><td>in series with the white LED</td></tr>
 <tr><td><a href="models/33-duct-pressure-gauge.md#electronic-and-mechanical-components">33. Duct Pressure Gauge</a></td><td align="right">1×</td><td>in series with the white LED</td></tr>
 <tr><td><a href="models/35-cabin-alt-diff-press-gauge.md#electronic-and-mechanical-components">35. Cabin Alt / Diff Press Gauge</a></td><td align="right">1×</td><td>in series with the white LED</td></tr>
-</table>
-</details></td>
-</tr>
-<tr>
-<td>Resistor 150 Ω (0805)</td>
-<td align="right">10×</td>
-<td><details><summary>2 places</summary>
-<table>
-<tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
-<tr><td><a href="pcb/annunciator.md#bill-of-materials-bom---for-all-125-pcbs">1. Annunciator PCB</a></td><td align="right">9×</td><td>I used 0805 SMD</td></tr>
-<tr><td><a href="pcb/irs-keyboard.md#bill-of-materials-bom---per-pcb">6. IRS Keyboard PCB</a></td><td align="right">1×</td><td>for the GPS annunciator of the IRS Mode Select Unit</td></tr>
 </table>
 </details></td>
 </tr>
@@ -873,12 +890,29 @@ Parts for one complete overhead, totalled across all models. Open an item to see
 </details></td>
 </tr>
 <tr>
-<td>Resistor 330 Ω (0805)</td>
+<td>Resistor 250 Ω (0805)</td>
 <td align="right">12×</td>
-<td><details><summary>1 place</summary>
+<td><details><summary>5 places</summary>
+<table>
+<tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
+<tr><td><a href="models/13-irs-mode-select-unit.md#wiring">13. IRS Mode Select Unit</a></td><td align="right">2×</td><td>on its LED Driver / Combined PCBs, white LEDs</td></tr>
+<tr><td><a href="models/20-center-lower-panel.md#wiring">20. Center Lower Panel</a></td><td align="right">1×</td><td>on its LED Driver / Combined PCBs, white LEDs</td></tr>
+<tr><td><a href="models/23-generator-bus-panel.md#wiring">23. Generator Bus Panel</a></td><td align="right">5×</td><td>on its LED Driver / Combined PCBs, white LEDs</td></tr>
+<tr><td><a href="models/30-engine-and-oxygen-panel.md#wiring">30. Engine and Oxygen Panel</a></td><td align="right">2×</td><td>on its LED Driver / Combined PCBs, white LEDs</td></tr>
+<tr><td><a href="models/34-bleed-air-control-panel.md#wiring">34. Bleed Air Control Panel</a></td><td align="right">2×</td><td>on its LED Driver / Combined PCBs, white LEDs</td></tr>
+</table>
+</details></td>
+</tr>
+<tr>
+<td>Resistor 330 Ω (0805)</td>
+<td align="right">21×</td>
+<td><details><summary>4 places</summary>
 <table>
 <tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
 <tr><td><a href="pcb/le-devices.md#bill-of-materials-bom---for-both-pcbs">7. LE Devices PCB</a></td><td align="right">12×</td><td>one per yellow LED</td></tr>
+<tr><td><a href="models/08-window-and-probe-heat-panel.md#wiring">8. Window and Probe Heat Panel</a></td><td align="right">4×</td><td>on its LED Driver / Combined PCBs, green LEDs</td></tr>
+<tr><td><a href="models/30-engine-and-oxygen-panel.md#wiring">30. Engine and Oxygen Panel</a></td><td align="right">3×</td><td>on its LED Driver / Combined PCBs, green LEDs</td></tr>
+<tr><td><a href="models/34-bleed-air-control-panel.md#wiring">34. Bleed Air Control Panel</a></td><td align="right">2×</td><td>on its LED Driver / Combined PCBs, green LEDs</td></tr>
 </table>
 </details></td>
 </tr>
@@ -896,7 +930,7 @@ Parts for one complete overhead, totalled across all models. Open an item to see
 </details></td>
 </tr>
 <tr>
-<td>Resistor 820 Ω</td>
+<td>Resistor 820 Ω, 0.5 W</td>
 <td align="right">8×</td>
 <td><details><summary>5 places</summary>
 <table>
@@ -1348,14 +1382,29 @@ Parts for one complete overhead, totalled across all models. Open an item to see
 </tr>
 <tr>
 <td>ZH 1.5 header, 4P</td>
-<td align="right">1× + as required</td>
+<td align="right">134×</td>
 <td><a href="../images/parts/AE_ZH.png">Product I used</a></td>
-<td><details><summary>3 places</summary>
+<td><details><summary>18 places</summary>
 <table>
 <tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
-<tr><td><a href="pcb/rj45-driver.md#bill-of-materials-bom---per-pcb">3. RJ45 LED Driver PCB</a></td><td align="right">-</td><td>1-8× per PCB, 20 PCBs - buy the set (connectors + cables)</td></tr>
-<tr><td><a href="pcb/rj45-combined.md#bill-of-materials-bom---per-pcb">4. RJ45 Combined PCB</a></td><td align="right">-</td><td>1-4× per PCB, 6 PCBs - buy the set (connectors + cables)</td></tr>
 <tr><td><a href="pcb/irs-keyboard.md#bill-of-materials-bom---per-pcb">6. IRS Keyboard PCB</a></td><td align="right">1×</td><td>buy the set (connectors + cables)</td></tr>
+<tr><td><a href="models/05-flight-control-panel.md#wiring">5. Flight Control Panel</a></td><td align="right">9×</td><td>on its LED Driver / Combined PCBs, one per lamp connection</td></tr>
+<tr><td><a href="models/06-door-warning-panel.md#wiring">6. Door Warning Panel</a></td><td align="right">12×</td><td>on its LED Driver / Combined PCBs, one per lamp connection</td></tr>
+<tr><td><a href="models/07-generator-drive-panel.md#wiring">7. Generator Drive and Standby Power Panel</a></td><td align="right">3×</td><td>on its LED Driver / Combined PCBs, one per lamp connection</td></tr>
+<tr><td><a href="models/08-window-and-probe-heat-panel.md#wiring">8. Window and Probe Heat Panel</a></td><td align="right">16×</td><td>on its LED Driver / Combined PCBs, one per lamp connection</td></tr>
+<tr><td><a href="models/09-anti-ice-panel.md#wiring">9. Anti-ice Panel</a></td><td align="right">10×</td><td>on its LED Driver / Combined PCBs, one per lamp connection</td></tr>
+<tr><td><a href="models/10-hydraulic-control-panel.md#wiring">10. Hydraulic Control Panel</a></td><td align="right">6×</td><td>on its LED Driver / Combined PCBs, one per lamp connection</td></tr>
+<tr><td><a href="models/13-irs-mode-select-unit.md#wiring">13. IRS Mode Select Unit</a></td><td align="right">8×</td><td>on its LED Driver / Combined PCBs, one per lamp connection</td></tr>
+<tr><td><a href="models/17-le-devices-and-elt-panel.md#wiring">17. LE Devices and ELT Panel</a></td><td align="right">2×</td><td>on its LED Driver / Combined PCBs, one per lamp connection</td></tr>
+<tr><td><a href="models/19-center-upper-panel.md#wiring">19. Center Upper Panel</a></td><td align="right">3×</td><td>on its LED Driver / Combined PCBs, one per lamp connection</td></tr>
+<tr><td><a href="models/20-center-lower-panel.md#wiring">20. Center Lower Panel</a></td><td align="right">2×</td><td>on its LED Driver / Combined PCBs, one per lamp connection</td></tr>
+<tr><td><a href="models/22-fuel-control-panel.md#wiring">22. Fuel Control Panel</a></td><td align="right">18×</td><td>on its LED Driver / Combined PCBs, one per lamp connection</td></tr>
+<tr><td><a href="models/23-generator-bus-panel.md#wiring">23. Generator Bus Panel</a></td><td align="right">12×</td><td>on its LED Driver / Combined PCBs, one per lamp connection</td></tr>
+<tr><td><a href="models/24-air-conditioning-control-panel.md#wiring">24. Air Conditioning Control Panel</a></td><td align="right">3×</td><td>on its LED Driver / Combined PCBs, one per lamp connection</td></tr>
+<tr><td><a href="models/26-ac-and-dc-meter-panel.md#wiring">26. AC and DC Meter Panel</a></td><td align="right">3×</td><td>on its LED Driver / Combined PCBs, one per lamp connection</td></tr>
+<tr><td><a href="models/28-recorder-and-stall-panel.md#wiring">28. Recorder and Stall Panel</a></td><td align="right">1×</td><td>on its LED Driver / Combined PCBs, one per lamp connection</td></tr>
+<tr><td><a href="models/30-engine-and-oxygen-panel.md#wiring">30. Engine and Oxygen Panel</a></td><td align="right">12×</td><td>on its LED Driver / Combined PCBs, one per lamp connection</td></tr>
+<tr><td><a href="models/34-bleed-air-control-panel.md#wiring">34. Bleed Air Control Panel</a></td><td align="right">13×</td><td>on its LED Driver / Combined PCBs, one per lamp connection</td></tr>
 </table>
 </details></td>
 </tr>
