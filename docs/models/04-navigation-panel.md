@@ -107,7 +107,7 @@ Mounting and connections are shown in [step 4](#4-backlight-panel---pcbs-and-dc-
 
 ## Wiring
 
-There are no annunciators on this panel - everything on it is a switch input. The five switches need eleven connections, more than one Direct PCB has pins for, so they are split over two boards. Both reach the **same** MEGA 2560 - `Overhead_1b`. Each PCB is connected by one Ethernet patch cable to a socket on the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md).
+Both PCBs hang off the same MEGA 2560, `Overhead_1b`. Each one is connected by one Ethernet patch cable to a socket on the [RJ45 Hub Shield](../pcb/rj45-hub-shield.md).
 
 | PCB | Patch cable goes to | Connections used |
 |---|---|---|
