@@ -115,7 +115,7 @@ The knobs for the two Engine Start Switches are a separate model shared with the
 
 | Qty | PCB | Connections used | Gerber files |
 |---:|---|---|---|
-| 2× | [RJ45 Direct](../pcb/rj45-direct.md) | pins 1-8 on one board, pins 5-8 on the other | [📥 PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip) |
+| 2× | [RJ45 Direct](../pcb/rj45-direct.md) | pins 1-8 on one, 5-8 on the other | [📥 PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip) |
 
 Mounting is shown in [step 3](#3-backlight-panel---pcbs-and-dc-jack) of the assembly diagram. Which switch each connection carries is in [Wiring](#wiring).
 
