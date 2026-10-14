@@ -58,6 +58,8 @@
 | 1× | KN3(C)-123, (ON)/OFF/(ON) |
 | 1× | PBS-110 push button, black |
 
+The six two-position switches are the four WINDOW HEAT switches - L SIDE, L FWD, R FWD and R SIDE - and PROBE HEAT A and B. The window heat TEST switch is three-position, OVHT / OFF / PWR TEST, but momentary - it springs back to OFF from both ends. The push button is TAT TEST.
+
 ---
 
 ## Screws
