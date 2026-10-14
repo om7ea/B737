@@ -65,7 +65,7 @@
 | 1× | Toggle switch safety aircraft guard, black |
 | 2× | Toggle switch safety aircraft guard, red |
 
-The black guard goes on the STANDBY POWER switch, the two red ones on the DISCONNECT switches.
+The two-position switches are DISCONNECT 1 and DISCONNECT 2. The three-position one is STANDBY POWER - BAT / OFF / AUTO. The black guard goes on the STANDBY POWER switch, the two red ones on the DISCONNECT switches.
 
 ---
 
