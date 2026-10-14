@@ -66,7 +66,7 @@
 
 | Qty | Type |
 |---:|---|
-| 1× | KN3(C)-101 or KN3(C)-102, ON/OFF |
+| 1× | KN3(C)-101, ON/OFF |
 | 1× | KN3(C)-103, ON/OFF/ON |
 
 The two-position switch is SERVICE INTERPHONE, the three-position one is DOME WHITE - DIM, OFF and BRIGHT.

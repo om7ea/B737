@@ -60,7 +60,7 @@
 
 | Qty | Type |
 |---:|---|
-| 1× | KN3(C)-101 or KN3(C)-102, ON/OFF |
+| 1× | KN3(C)-101, ON/OFF |
 | 1× | PBS-110 push button, black |
 | 1× | Toggle switch safety aircraft guard, black |
 

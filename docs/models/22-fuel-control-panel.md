@@ -56,7 +56,7 @@
 
 | Qty | Type |
 |---:|---|
-| 6× | KN3(C)-101 or KN3(C)-102, ON/OFF |
+| 6× | KN3(C)-101, ON/OFF |
 | 1× | Rotary switch SR16, 8 positions |
 
 The six toggle switches are the FUEL PUMPS switches, the rotary switch is CROSS FEED.

@@ -55,7 +55,7 @@
 
 | Qty | Type |
 |---:|---|
-| 2× | KN3(C)-101 or KN3(C)-102, ON/OFF |
+| 2× | KN3(C)-101, ON/OFF |
 | 2× | Rotary switch SR16, 8 positions |
 | 1× | PBS-110 push button, black |
 | 1× | Toggle switch safety aircraft guard, black |

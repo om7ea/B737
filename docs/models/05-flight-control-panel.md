@@ -61,7 +61,7 @@
 | Qty | Type |
 |---:|---|
 | 2× | KN3(C)-103, ON/OFF/ON |
-| 4× | KN3(C)-101 or KN3(C)-102, ON/OFF |
+| 4× | KN3(C)-101, ON/OFF |
 | 1× | KN3(C)-123, (ON)/OFF/(ON) |
 | 4× | Toggle switch safety aircraft guard, black |
 | 1× | Toggle switch safety aircraft guard, red |

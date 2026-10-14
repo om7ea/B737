@@ -61,7 +61,7 @@
 
 | Qty | Type | Reference |
 |---:|---|---|
-| 1× | KN3(C)-101 or KN3(C)-102, ON/OFF | |
+| 1× | KN3(C)-101, ON/OFF | |
 | 1× | Rotary switch SR16, 8 positions | |
 | 3× | **Potentiometer 10 kΩ** - WH148, 3-pin, 20 mm shank | [Product I used](../../images/parts/AE_potentiometer.png) |
 | 3× | **Dupont lead** - 3-pin female, 2.54 mm | [Product I used](../../images/parts/AE_dupont_3p.png) |

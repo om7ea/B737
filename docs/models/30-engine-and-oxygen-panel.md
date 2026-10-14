@@ -76,7 +76,7 @@ The two large EEC annunciators are part of this model. They use the same six par
 
 | Qty | Type |
 |---:|---|
-| 1× | KN3(C)-101 or KN3(C)-102, ON/OFF |
+| 1× | KN3(C)-101, ON/OFF |
 | 1× | Toggle switch safety guard, black |
 
 The switch is PASS OXYGEN - NORMAL and ON - and it sits under the guard.

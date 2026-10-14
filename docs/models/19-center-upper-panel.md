@@ -70,7 +70,7 @@
 
 | Qty | Type |
 |---:|---|
-| 2× | KN3(C)-101 or KN3(C)-102, ON/OFF |
+| 2× | KN3(C)-101, ON/OFF |
 
 The two toggle switches are EQUIP COOLING SUPPLY and EQUIP COOLING EXHAUST.
 

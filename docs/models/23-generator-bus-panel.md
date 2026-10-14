@@ -60,7 +60,7 @@
 | Qty | Type |
 |---:|---|
 | 5× | KN3(C)-123, (ON)/OFF/(ON) |
-| 1× | KN3(C)-101 or KN3(C)-102, ON/OFF |
+| 1× | KN3(C)-101, ON/OFF |
 | 1× | Rotary switch SR16, 4 positions |
 | 1× | Toggle switch's safety aircraft guard, black |
 
