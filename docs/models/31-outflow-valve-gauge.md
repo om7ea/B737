@@ -64,7 +64,7 @@ The needle is driven by an **SG90 servo** through a pair of printed gears, the s
 | 2× | **Ball bearing MR52ZZ** - 2 × 5 × 2.5 mm | [Product I used](../../images/parts/AE_bearing_MR52ZZ.png) |
 | 1× | **Acrylic rod** - 2 mm, transparent; the needle shaft is cut from it | [Product I used](../../images/parts/AE_acrylic_rod.png) |
 | 1× | **LED strip** - the scale backlight | [Product I used](../../images/parts/AE_led_strip.png) |
-| 1× | **820 Ω resistor** - in series with the LED strip | |
+| 1× | **820 Ω resistor, 0.5 W** - in series with the LED strip | |
 | 2× | **Splice connector** - lever type, for the 12 V of the scale backlight | |
 
 The three self-tapping screws that come with the servo are used as well: two hold the servo to the gear cover, the third fastens the servo gear to the servo shaft.
