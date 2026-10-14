@@ -664,23 +664,6 @@ Parts for one complete overhead, totalled across all models. Open an item to see
 </tr>
 </table>
 
-### Leads
-
-<table>
-<tr><th align="left">Item</th><th align="right">Total</th><th align="left">Reference</th><th align="left">Used in</th></tr>
-<tr>
-<td>Dupont lead - 3-pin female, 2.54 mm</td>
-<td align="right">3×</td>
-<td><a href="../images/parts/AE_dupont_3p.png">Product I used</a></td>
-<td><details><summary>1 model</summary>
-<table>
-<tr><th align="left">Model</th><th align="right">Qty</th></tr>
-<tr><td><a href="models/24-air-conditioning-control-panel.md#switches-and-buttons">24. Air Conditioning Control Panel</a></td><td align="right">3×</td></tr>
-</table>
-</details></td>
-</tr>
-</table>
-
 ### Tact switches (on PCBs)
 
 <table>
@@ -704,6 +687,27 @@ Parts for one complete overhead, totalled across all models. Open an item to see
 <table>
 <tr><th align="left">PCB</th><th align="right">Qty</th></tr>
 <tr><td><a href="pcb/irs-keyboard.md#bill-of-materials-bom---per-pcb">6. IRS Keyboard PCB</a></td><td align="right">12×</td></tr>
+</table>
+</details></td>
+</tr>
+</table>
+
+---
+
+## Electronic Components
+
+### Cables and connectors
+
+<table>
+<tr><th align="left">Item</th><th align="right">Total</th><th align="left">Reference</th><th align="left">Used in</th></tr>
+<tr>
+<td>Dupont lead - 3-pin female, 2.54 mm</td>
+<td align="right">3×</td>
+<td><a href="../images/parts/AE_dupont_3p.png">Product I used</a></td>
+<td><details><summary>1 model</summary>
+<table>
+<tr><th align="left">Model</th><th align="right">Qty</th></tr>
+<tr><td><a href="models/24-air-conditioning-control-panel.md#switches-and-buttons">24. Air Conditioning Control Panel</a></td><td align="right">3×</td></tr>
 </table>
 </details></td>
 </tr>
