@@ -40,12 +40,6 @@
 
 ---
 
-## Switches and Buttons
-
-None - this panel carries annunciators only.
-
----
-
 ## Screws
 
 | Qty | Screw | Joins |
