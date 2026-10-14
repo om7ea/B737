@@ -8,8 +8,6 @@ Parts for one complete overhead, totalled across all models. Open an item to see
 
 ## Screws
 
-Shared models that are built more than once are counted in full - four Temperature and Climb Gauges and two Engine Start Switches.
-
 ### Flat head
 
 <details>
