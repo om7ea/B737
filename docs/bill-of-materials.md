@@ -438,3 +438,242 @@ Parts for one complete overhead, totalled across all models. Open an item to see
 </details></td>
 </tr>
 </table>
+
+---
+
+## Switches and Buttons
+
+### Toggle switches
+
+<table>
+<tr><th align="left">Item</th><th align="right">Total</th><th align="left">Used in</th></tr>
+<tr>
+<td>KN3(C)-101, ON/OFF</td>
+<td align="right">51×</td>
+<td><details><summary>19 models</summary>
+<table>
+<tr><th align="left">Model</th><th align="right">Qty</th></tr>
+<tr><td><a href="models/05-flight-control-panel.md#switches-and-buttons">5. Flight Control Panel</a></td><td align="right">4×</td></tr>
+<tr><td><a href="models/07-generator-drive-panel.md#switches-and-buttons">7. Generator Drive and Standby Power Panel</a></td><td align="right">2×</td></tr>
+<tr><td><a href="models/08-window-and-probe-heat-panel.md#switches-and-buttons">8. Window and Probe Heat Panel</a></td><td align="right">6×</td></tr>
+<tr><td><a href="models/09-anti-ice-panel.md#switches-and-buttons">9. Anti-ice Panel</a></td><td align="right">3×</td></tr>
+<tr><td><a href="models/10-hydraulic-control-panel.md#switches-and-buttons">10. Hydraulic Control Panel</a></td><td align="right">4×</td></tr>
+<tr><td><a href="models/12-voice-recorder-switch.md#switches-and-buttons">12. Voice Recorder Switch</a></td><td align="right">1×</td></tr>
+<tr><td><a href="models/17-le-devices-and-elt-panel.md#switches-and-buttons">17. LE Devices and ELT Panel</a></td><td align="right">1×</td></tr>
+<tr><td><a href="models/19-center-upper-panel.md#switches-and-buttons">19. Center Upper Panel</a></td><td align="right">2×</td></tr>
+<tr><td><a href="models/20-center-lower-panel.md#switches-and-buttons">20. Center Lower Panel</a></td><td align="right">1×</td></tr>
+<tr><td><a href="models/22-fuel-control-panel.md#switches-and-buttons">22. Fuel Control Panel</a></td><td align="right">6×</td></tr>
+<tr><td><a href="models/23-generator-bus-panel.md#switches-and-buttons">23. Generator Bus Panel</a></td><td align="right">1×</td></tr>
+<tr><td><a href="models/24-air-conditioning-control-panel.md#switches-and-buttons">24. Air Conditioning Control Panel</a></td><td align="right">1×</td></tr>
+<tr><td><a href="models/26-ac-and-dc-meter-panel.md#switches-and-buttons">26. AC and DC Meter Panel</a></td><td align="right">2×</td></tr>
+<tr><td><a href="models/27-interphone-and-dome-panel.md#switches-and-buttons">27. Interphone and Dome Panel</a></td><td align="right">1×</td></tr>
+<tr><td><a href="models/28-recorder-and-stall-panel.md#switches-and-buttons">28. Recorder and Stall Panel</a></td><td align="right">1×</td></tr>
+<tr><td><a href="models/30-engine-and-oxygen-panel.md#switches-and-buttons">30. Engine and Oxygen Panel</a></td><td align="right">1×</td></tr>
+<tr><td><a href="models/34-bleed-air-control-panel.md#switches-and-buttons">34. Bleed Air Control Panel</a></td><td align="right">5×</td></tr>
+<tr><td><a href="models/37-left-light-panel.md#switches-and-buttons">37. Left Light Panel</a></td><td align="right">5×</td></tr>
+<tr><td><a href="models/38-right-light-panel.md#switches-and-buttons">38. Right Light Panel</a></td><td align="right">4×</td></tr>
+</table>
+</details></td>
+</tr>
+<tr>
+<td>KN3(C)-103, ON/OFF/ON</td>
+<td align="right">15×</td>
+<td><details><summary>8 models</summary>
+<table>
+<tr><th align="left">Model</th><th align="right">Qty</th></tr>
+<tr><td><a href="models/04-navigation-panel.md#switches-and-buttons">4. Navigation Panel</a></td><td align="right">4×</td></tr>
+<tr><td><a href="models/05-flight-control-panel.md#switches-and-buttons">5. Flight Control Panel</a></td><td align="right">2×</td></tr>
+<tr><td><a href="models/07-generator-drive-panel.md#switches-and-buttons">7. Generator Drive and Standby Power Panel</a></td><td align="right">1×</td></tr>
+<tr><td><a href="models/20-center-lower-panel.md#switches-and-buttons">20. Center Lower Panel</a></td><td align="right">2×</td></tr>
+<tr><td><a href="models/27-interphone-and-dome-panel.md#switches-and-buttons">27. Interphone and Dome Panel</a></td><td align="right">1×</td></tr>
+<tr><td><a href="models/34-bleed-air-control-panel.md#switches-and-buttons">34. Bleed Air Control Panel</a></td><td align="right">3×</td></tr>
+<tr><td><a href="models/38-right-light-panel.md#switches-and-buttons">38. Right Light Panel</a></td><td align="right">1×</td></tr>
+<tr><td><a href="models/40-engine-start-panel.md#switches-and-buttons">40. Engine Start Panel</a></td><td align="right">1×</td></tr>
+</table>
+</details></td>
+</tr>
+<tr>
+<td>KN3(C)-113, ON/OFF/(ON)</td>
+<td align="right">1×</td>
+<td><details><summary>1 model</summary>
+<table>
+<tr><th align="left">Model</th><th align="right">Qty</th></tr>
+<tr><td><a href="models/37-left-light-panel.md#switches-and-buttons">37. Left Light Panel</a></td><td align="right">1×</td></tr>
+</table>
+</details></td>
+</tr>
+<tr>
+<td>KN3(C)-123, (ON)/OFF/(ON)</td>
+<td align="right">8×</td>
+<td><details><summary>4 models</summary>
+<table>
+<tr><th align="left">Model</th><th align="right">Qty</th></tr>
+<tr><td><a href="models/05-flight-control-panel.md#switches-and-buttons">5. Flight Control Panel</a></td><td align="right">1×</td></tr>
+<tr><td><a href="models/08-window-and-probe-heat-panel.md#switches-and-buttons">8. Window and Probe Heat Panel</a></td><td align="right">1×</td></tr>
+<tr><td><a href="models/23-generator-bus-panel.md#switches-and-buttons">23. Generator Bus Panel</a></td><td align="right">5×</td></tr>
+<tr><td><a href="models/32-cabin-pressure-control-panel.md#switches-and-buttons">32. Cabin Pressure Control Panel</a></td><td align="right">1×</td></tr>
+</table>
+</details></td>
+</tr>
+</table>
+
+### Toggle switch guards
+
+<table>
+<tr><th align="left">Item</th><th align="right">Total</th><th align="left">Used in</th></tr>
+<tr>
+<td>Toggle switch safety aircraft guard, black</td>
+<td align="right">11×</td>
+<td><details><summary>8 models</summary>
+<table>
+<tr><th align="left">Model</th><th align="right">Qty</th></tr>
+<tr><td><a href="models/05-flight-control-panel.md#switches-and-buttons">5. Flight Control Panel</a></td><td align="right">4×</td></tr>
+<tr><td><a href="models/07-generator-drive-panel.md#switches-and-buttons">7. Generator Drive and Standby Power Panel</a></td><td align="right">1×</td></tr>
+<tr><td><a href="models/17-le-devices-and-elt-panel.md#switches-and-buttons">17. LE Devices and ELT Panel</a></td><td align="right">1×</td></tr>
+<tr><td><a href="models/20-center-lower-panel.md#switches-and-buttons">20. Center Lower Panel</a></td><td align="right">1×</td></tr>
+<tr><td><a href="models/23-generator-bus-panel.md#switches-and-buttons">23. Generator Bus Panel</a></td><td align="right">1×</td></tr>
+<tr><td><a href="models/26-ac-and-dc-meter-panel.md#switches-and-buttons">26. AC and DC Meter Panel</a></td><td align="right">1×</td></tr>
+<tr><td><a href="models/28-recorder-and-stall-panel.md#switches-and-buttons">28. Recorder and Stall Panel</a></td><td align="right">1×</td></tr>
+<tr><td><a href="models/30-engine-and-oxygen-panel.md#switches-and-buttons">30. Engine and Oxygen Panel</a></td><td align="right">1×</td></tr>
+</table>
+</details></td>
+</tr>
+<tr>
+<td>Toggle switch safety aircraft guard, red</td>
+<td align="right">3×</td>
+<td><details><summary>2 models</summary>
+<table>
+<tr><th align="left">Model</th><th align="right">Qty</th></tr>
+<tr><td><a href="models/05-flight-control-panel.md#switches-and-buttons">5. Flight Control Panel</a></td><td align="right">1×</td></tr>
+<tr><td><a href="models/07-generator-drive-panel.md#switches-and-buttons">7. Generator Drive and Standby Power Panel</a></td><td align="right">2×</td></tr>
+</table>
+</details></td>
+</tr>
+</table>
+
+### Push buttons
+
+<table>
+<tr><th align="left">Item</th><th align="right">Total</th><th align="left">Used in</th></tr>
+<tr>
+<td>PBS-110 push button, black</td>
+<td align="right">13×</td>
+<td><details><summary>8 models</summary>
+<table>
+<tr><th align="left">Model</th><th align="right">Qty</th></tr>
+<tr><td><a href="models/08-window-and-probe-heat-panel.md#switches-and-buttons">8. Window and Probe Heat Panel</a></td><td align="right">1×</td></tr>
+<tr><td><a href="models/11-voice-recorder-monitor.md#switches-and-buttons">11. Voice Recorder Monitor</a></td><td align="right">1×</td></tr>
+<tr><td><a href="models/17-le-devices-and-elt-panel.md#switches-and-buttons">17. LE Devices and ELT Panel</a></td><td align="right">1×</td></tr>
+<tr><td><a href="models/20-center-lower-panel.md#switches-and-buttons">20. Center Lower Panel</a></td><td align="right">2×</td></tr>
+<tr><td><a href="models/26-ac-and-dc-meter-panel.md#switches-and-buttons">26. AC and DC Meter Panel</a></td><td align="right">1×</td></tr>
+<tr><td><a href="models/28-recorder-and-stall-panel.md#switches-and-buttons">28. Recorder and Stall Panel</a></td><td align="right">4×</td></tr>
+<tr><td><a href="models/34-bleed-air-control-panel.md#switches-and-buttons">34. Bleed Air Control Panel</a></td><td align="right">2×</td></tr>
+<tr><td><a href="models/36-cabin-altitude-panel.md#switches-and-buttons">36. Cabin Altitude Panel</a></td><td align="right">1×</td></tr>
+</table>
+</details></td>
+</tr>
+<tr>
+<td>PBS-110 push button, red</td>
+<td align="right">1×</td>
+<td><details><summary>1 model</summary>
+<table>
+<tr><th align="left">Model</th><th align="right">Qty</th></tr>
+<tr><td><a href="models/11-voice-recorder-monitor.md#switches-and-buttons">11. Voice Recorder Monitor</a></td><td align="right">1×</td></tr>
+</table>
+</details></td>
+</tr>
+</table>
+
+### Rotary switches
+
+<table>
+<tr><th align="left">Item</th><th align="right">Total</th><th align="left">Used in</th></tr>
+<tr>
+<td>Rotary switch RS26, 12 positions</td>
+<td align="right">5×</td>
+<td><details><summary>3 models</summary>
+<table>
+<tr><th align="left">Model</th><th align="right">Qty</th></tr>
+<tr><td><a href="models/14-irs-display-unit.md#switches-and-buttons">14. IRS Display Unit</a></td><td align="right">2×</td></tr>
+<tr><td><a href="models/32-cabin-pressure-control-panel.md#switches-and-buttons">32. Cabin Pressure Control Panel</a></td><td align="right">1×</td></tr>
+<tr><td><a href="models/39-engine-start-switch.md#switches-and-buttons">39. Engine Start Switch</a></td><td align="right">2×</td></tr>
+</table>
+</details></td>
+</tr>
+<tr>
+<td>Rotary switch SR16, 3 positions</td>
+<td align="right">1×</td>
+<td><details><summary>1 model</summary>
+<table>
+<tr><th align="left">Model</th><th align="right">Qty</th></tr>
+<tr><td><a href="models/04-navigation-panel.md#switches-and-buttons">4. Navigation Panel</a></td><td align="right">1×</td></tr>
+</table>
+</details></td>
+</tr>
+<tr>
+<td>Rotary switch SR16, 4 positions</td>
+<td align="right">4×</td>
+<td><details><summary>3 models</summary>
+<table>
+<tr><th align="left">Model</th><th align="right">Qty</th></tr>
+<tr><td><a href="models/13-irs-mode-select-unit.md#switches-and-buttons">13. IRS Mode Select Unit</a></td><td align="right">2×</td></tr>
+<tr><td><a href="models/20-center-lower-panel.md#switches-and-buttons">20. Center Lower Panel</a></td><td align="right">1×</td></tr>
+<tr><td><a href="models/23-generator-bus-panel.md#switches-and-buttons">23. Generator Bus Panel</a></td><td align="right">1×</td></tr>
+</table>
+</details></td>
+</tr>
+<tr>
+<td>Rotary switch SR16, 8 positions</td>
+<td align="right">4×</td>
+<td><details><summary>3 models</summary>
+<table>
+<tr><th align="left">Model</th><th align="right">Qty</th></tr>
+<tr><td><a href="models/22-fuel-control-panel.md#switches-and-buttons">22. Fuel Control Panel</a></td><td align="right">1×</td></tr>
+<tr><td><a href="models/24-air-conditioning-control-panel.md#switches-and-buttons">24. Air Conditioning Control Panel</a></td><td align="right">1×</td></tr>
+<tr><td><a href="models/26-ac-and-dc-meter-panel.md#switches-and-buttons">26. AC and DC Meter Panel</a></td><td align="right">2×</td></tr>
+</table>
+</details></td>
+</tr>
+</table>
+
+### Potentiometers and encoders
+
+<table>
+<tr><th align="left">Item</th><th align="right">Total</th><th align="left">Used in</th></tr>
+<tr>
+<td>Potentiometer 10 kΩ - WH148, 3-pin, 20 mm shank</td>
+<td align="right">3×</td>
+<td><details><summary>1 model</summary>
+<table>
+<tr><th align="left">Model</th><th align="right">Qty</th></tr>
+<tr><td><a href="models/24-air-conditioning-control-panel.md#switches-and-buttons">24. Air Conditioning Control Panel</a></td><td align="right">3×</td></tr>
+</table>
+</details></td>
+</tr>
+<tr>
+<td>Rotary encoder EC11 - D shaft, 20 mm</td>
+<td align="right">2×</td>
+<td><details><summary>1 model</summary>
+<table>
+<tr><th align="left">Model</th><th align="right">Qty</th></tr>
+<tr><td><a href="models/32-cabin-pressure-control-panel.md#switches-and-buttons">32. Cabin Pressure Control Panel</a></td><td align="right">2×</td></tr>
+</table>
+</details></td>
+</tr>
+</table>
+
+### Leads
+
+<table>
+<tr><th align="left">Item</th><th align="right">Total</th><th align="left">Used in</th></tr>
+<tr>
+<td>Dupont lead - 3-pin female, 2.54 mm</td>
+<td align="right">3×</td>
+<td><details><summary>1 model</summary>
+<table>
+<tr><th align="left">Model</th><th align="right">Qty</th></tr>
+<tr><td><a href="models/24-air-conditioning-control-panel.md#switches-and-buttons">24. Air Conditioning Control Panel</a></td><td align="right">3×</td></tr>
+</table>
+</details></td>
+</tr>
+</table>
