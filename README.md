@@ -39,6 +39,7 @@ All electronics are enclosed inside the panel and connected to an internal USB h
 | ✂️ **[CNC Cut Files](docs/cnc-cut.md)** | Acrylic windows for the gauges and the meter panel, with the DXF files |
 | 🛩️ **[Models](docs/models/README.md)** | Build notes for the frame, the shared models and each panel |
 | 🎨 **[Filaments](docs/filaments.md)** | The filaments I used and their colours |
+| 🧾 **[Bill of Materials](docs/bill-of-materials.md)** | Parts totalled across all models, with the models each one is used in |
 | 🖥️ **[MobiFlight Configuration](docs/mobiflight.md)** | The complete MobiFlight configuration - board definitions and the simulator mapping |
 
 ---
