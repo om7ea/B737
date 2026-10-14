@@ -68,10 +68,12 @@ The twelve keypad buttons are not listed here. They are soldered to the [IRS Key
 
 The knobs for the two selectors are a separate model shared with the other panels - they are **not included** in this download.
 
-| Qty | Knob |
+| Qty | Part |
 |---:|---|
 | 1× | IRS dspl sel knob |
 | 1× | IRS sys dspl knob |
+| 1× | IRS dspl sel knob indicator |
+| 1× | IRS sys dspl knob indicator |
 
 | | |
 |---|---|

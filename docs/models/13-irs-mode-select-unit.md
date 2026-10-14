@@ -62,6 +62,11 @@
 
 The knobs for the two IRS mode selectors are a separate model shared with the other panels - they are **not included** in this download.
 
+| Qty | Part |
+|---:|---|
+| 2× | General knob, splined shaft |
+| 2× | General knob indicator |
+
 | | |
 |---|---|
 | 📦 Printable model | [Boeing 737 Overhead - Rotary Knobs](https://makerworld.com/en/models/3066127-boeing-737-overhead-rotary-knobs) |

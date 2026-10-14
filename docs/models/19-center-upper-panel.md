@@ -78,7 +78,12 @@ The two toggle switches are EQUIP COOLING SUPPLY and EQUIP COOLING EXHAUST.
 
 ## Rotary Knobs
 
-The knobs for the two dimmers are a separate model shared with the other panels - they are **not included** in this download. Both are the **General knob**; the dimmer potentiometers have splined shafts.
+The knobs for the two dimmers are a separate model shared with the other panels - they are **not included** in this download.
+
+| Qty | Part |
+|---:|---|
+| 2× | General knob, splined shaft |
+| 2× | General knob indicator |
 
 | | |
 |---|---|
