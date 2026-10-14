@@ -65,8 +65,6 @@
 |---:|---|
 | 1× | PBS-110 push button, black |
 
-The single button is ALT HORN CUTOUT. It is the only thing on this panel that the pilot can operate - everything else is an instrument.
-
 ---
 
 ## Gauges

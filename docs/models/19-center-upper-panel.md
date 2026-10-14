@@ -72,8 +72,6 @@
 |---:|---|
 | 2× | KN3(C)-101, ON/OFF |
 
-The two toggle switches are EQUIP COOLING SUPPLY and EQUIP COOLING EXHAUST.
-
 ---
 
 ## Rotary Knobs

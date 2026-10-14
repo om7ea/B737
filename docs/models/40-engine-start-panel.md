@@ -67,8 +67,6 @@
 |---:|---|
 | 1× | KN3(C)-103, ON/OFF/ON |
 
-The toggle switch is the ignition selector - IGN L / BOTH / IGN R.
-
 ---
 
 ## Engine Start Switches
