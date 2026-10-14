@@ -639,10 +639,11 @@ Parts for one complete overhead, totalled across all models. Open an item to see
 ### Potentiometers and encoders
 
 <table>
-<tr><th align="left">Item</th><th align="right">Total</th><th align="left">Used in</th></tr>
+<tr><th align="left">Item</th><th align="right">Total</th><th align="left">Reference</th><th align="left">Used in</th></tr>
 <tr>
 <td>Potentiometer 10 kΩ - WH148, 3-pin, 20 mm shank</td>
 <td align="right">3×</td>
+<td><a href="../images/parts/AE_potentiometer.png">Product I used</a></td>
 <td><details><summary>1 model</summary>
 <table>
 <tr><th align="left">Model</th><th align="right">Qty</th></tr>
@@ -653,6 +654,7 @@ Parts for one complete overhead, totalled across all models. Open an item to see
 <tr>
 <td>Rotary encoder EC11 - D shaft, 20 mm</td>
 <td align="right">2×</td>
+<td><a href="../images/parts/AE_encoder.png">Product I used</a></td>
 <td><details><summary>1 model</summary>
 <table>
 <tr><th align="left">Model</th><th align="right">Qty</th></tr>
@@ -665,10 +667,11 @@ Parts for one complete overhead, totalled across all models. Open an item to see
 ### Leads
 
 <table>
-<tr><th align="left">Item</th><th align="right">Total</th><th align="left">Used in</th></tr>
+<tr><th align="left">Item</th><th align="right">Total</th><th align="left">Reference</th><th align="left">Used in</th></tr>
 <tr>
 <td>Dupont lead - 3-pin female, 2.54 mm</td>
 <td align="right">3×</td>
+<td><a href="../images/parts/AE_dupont_3p.png">Product I used</a></td>
 <td><details><summary>1 model</summary>
 <table>
 <tr><th align="left">Model</th><th align="right">Qty</th></tr>
@@ -681,10 +684,11 @@ Parts for one complete overhead, totalled across all models. Open an item to see
 ### Tact switches (on PCBs)
 
 <table>
-<tr><th align="left">Item</th><th align="right">Total</th><th align="left">Used in</th></tr>
+<tr><th align="left">Item</th><th align="right">Total</th><th align="left">Reference</th><th align="left">Used in</th></tr>
 <tr>
 <td>Tact switch 6×6×4.5 mm, 4-pin vertical</td>
 <td align="right">250×</td>
+<td><a href="../images/parts/AE_button.png">Product I used</a></td>
 <td><details><summary>1 PCB</summary>
 <table>
 <tr><th align="left">PCB</th><th align="right">Qty</th></tr>
@@ -695,6 +699,7 @@ Parts for one complete overhead, totalled across all models. Open an item to see
 <tr>
 <td>Tact switch 6×6×7 mm with lamp holder</td>
 <td align="right">12×</td>
+<td><a href="../images/parts/AE_button_led.png">Product I used</a></td>
 <td><details><summary>1 PCB</summary>
 <table>
 <tr><th align="left">PCB</th><th align="right">Qty</th></tr>
