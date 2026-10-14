@@ -60,7 +60,9 @@ The RS26 has an adjustable end stop - set it to **4** positions.
 | Per switch | Total for 2 | Part | Reference |
 |---:|---:|---|---|
 | 1× | 2× | **Servo MG90S** - 180°, metal gears | [Product I used](../../images/parts/AE_servo_MG90S.png) |
-| 1× | 2× | **Spring** - 9.5 × 19 mm | |
+| 1× | 2× | **Spring** - 9.5 × 19 mm | [Set I used](../../images/parts/spring_set_yato.jpg) |
+
+I bought the spring in a hardware store, in a set of assorted springs - [the sizes in the set](../../images/parts/spring_set_yato_sizes.png).
 
 The MG90S has metal gears, so it copes with a heavier load than the SG90 used in the gauges.
 
