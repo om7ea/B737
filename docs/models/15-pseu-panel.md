@@ -11,7 +11,8 @@
 <table>
 <tbody>
 <tr>
-<td align="center"><img src="../../images/panels/15-pseu-photo-1-front-v2.jpg" alt="Finished PSEU Panel, front, with the INDEX TO LOCK plate"><br><sub>Finished panel - the index plate is Black with the lettering in Jade White</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/15-pseu-photo-1-front-v2.jpg" alt="Finished PSEU Panel, front, with the INDEX TO LOCK plate"><br><sub>Finished panel - the index plate is Black with the lettering in Jade White</sub></td>
+<td align="center" width="50%"><img src="../../images/panels/15-pseu-photo-2-rear.jpg" alt="Rear of the panel with the annunciator"><br><sub>Rear side - the annunciator and its cable</sub></td>
 </tr>
 </tbody>
 </table>
