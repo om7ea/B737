@@ -704,12 +704,12 @@ Glue, the acrylic windows, the UV-printed foil, the filament and the PCBs are no
 <tr><th align="left">Item</th><th align="right">Total</th><th align="left">Reference</th><th align="left">Used in</th></tr>
 <tr>
 <td>LED 0805, green - status LED, optional</td>
-<td align="right">60×</td>
+<td align="right">61×</td>
 <td></td>
 <td><details><summary>4 places</summary>
 <table>
 <tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
-<tr><td><a href="pcb/rj45-direct.md#bill-of-materials-bom---per-pcb">2. RJ45 Direct Connection PCB</a></td><td align="right">27×</td><td>1× per PCB × 27 - optional</td></tr>
+<tr><td><a href="pcb/rj45-direct.md#bill-of-materials-bom---per-pcb">2. RJ45 Direct Connection PCB</a></td><td align="right">28×</td><td>1× per PCB × 28 - optional</td></tr>
 <tr><td><a href="pcb/rj45-driver.md#bill-of-materials-bom---per-pcb">3. RJ45 LED Driver PCB</a></td><td align="right">20×</td><td>1× per PCB × 20 - optional</td></tr>
 <tr><td><a href="pcb/rj45-combined.md#bill-of-materials-bom---per-pcb">4. RJ45 Combined PCB</a></td><td align="right">6×</td><td>1× per PCB × 6 - optional</td></tr>
 <tr><td><a href="pcb/rj45-hub-shield.md#bill-of-materials-bom---for-all-7-pcbs">5. RJ45 Hub Shield PCB</a></td><td align="right">7×</td><td>optional</td></tr>
@@ -920,11 +920,11 @@ Glue, the acrylic windows, the UV-printed foil, the filament and the PCBs are no
 </tr>
 <tr>
 <td>Resistor 330 Ω (0805) - for the status LED, optional</td>
-<td align="right">60×</td>
+<td align="right">61×</td>
 <td><details><summary>4 places</summary>
 <table>
 <tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
-<tr><td><a href="pcb/rj45-direct.md#bill-of-materials-bom---per-pcb">2. RJ45 Direct Connection PCB</a></td><td align="right">27×</td><td>1× per PCB × 27 - optional</td></tr>
+<tr><td><a href="pcb/rj45-direct.md#bill-of-materials-bom---per-pcb">2. RJ45 Direct Connection PCB</a></td><td align="right">28×</td><td>1× per PCB × 28 - optional</td></tr>
 <tr><td><a href="pcb/rj45-driver.md#bill-of-materials-bom---per-pcb">3. RJ45 LED Driver PCB</a></td><td align="right">20×</td><td>1× per PCB × 20 - optional</td></tr>
 <tr><td><a href="pcb/rj45-combined.md#bill-of-materials-bom---per-pcb">4. RJ45 Combined PCB</a></td><td align="right">6×</td><td>1× per PCB × 6 - optional</td></tr>
 <tr><td><a href="pcb/rj45-hub-shield.md#bill-of-materials-bom---for-all-7-pcbs">5. RJ45 Hub Shield PCB</a></td><td align="right">7×</td><td>optional</td></tr>
@@ -1211,12 +1211,12 @@ Glue, the acrylic windows, the UV-printed foil, the filament and the PCBs are no
 </tr>
 <tr>
 <td>Faston terminal 4.8 mm, PCB male</td>
-<td align="right">157×</td>
+<td align="right">160×</td>
 <td><a href="../images/parts/AE_plug_male.png">Product I used</a></td>
 <td><details><summary>5 places</summary>
 <table>
 <tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
-<tr><td><a href="pcb/rj45-direct.md#bill-of-materials-bom---per-pcb">2. RJ45 Direct Connection PCB</a></td><td align="right">81×</td><td>3× per PCB × 27</td></tr>
+<tr><td><a href="pcb/rj45-direct.md#bill-of-materials-bom---per-pcb">2. RJ45 Direct Connection PCB</a></td><td align="right">84×</td><td>3× per PCB × 28</td></tr>
 <tr><td><a href="pcb/rj45-driver.md#bill-of-materials-bom---per-pcb">3. RJ45 LED Driver PCB</a></td><td align="right">40×</td><td>2× per PCB × 20</td></tr>
 <tr><td><a href="pcb/rj45-combined.md#bill-of-materials-bom---per-pcb">4. RJ45 Combined PCB</a></td><td align="right">18×</td><td>3× per PCB × 6</td></tr>
 <tr><td><a href="pcb/rj45-hub-shield.md#bill-of-materials-bom---for-all-7-pcbs">5. RJ45 Hub Shield PCB</a></td><td align="right">14×</td><td>one leg clipped off, this is what I used</td></tr>
@@ -1264,7 +1264,7 @@ Glue, the acrylic windows, the UV-printed foil, the filament and the PCBs are no
 <td><details><summary>3 places</summary>
 <table>
 <tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
-<tr><td><a href="pcb/rj45-direct.md#bill-of-materials-bom---per-pcb">2. RJ45 Direct Connection PCB</a></td><td align="right">-</td><td>as required per PCB, 27 PCBs - 2P/3P/4P</td></tr>
+<tr><td><a href="pcb/rj45-direct.md#bill-of-materials-bom---per-pcb">2. RJ45 Direct Connection PCB</a></td><td align="right">-</td><td>as required per PCB, 28 PCBs - 2P/3P/4P</td></tr>
 <tr><td><a href="pcb/rj45-combined.md#bill-of-materials-bom---per-pcb">4. RJ45 Combined PCB</a></td><td align="right">-</td><td>as required per PCB, 6 PCBs - 2P/3P/4P</td></tr>
 <tr><td><a href="pcb/irs-keyboard.md#bill-of-materials-bom---per-pcb">6. IRS Keyboard PCB</a></td><td align="right">1×</td><td>3P</td></tr>
 <tr><td><a href="pcb/irs-keyboard.md#bill-of-materials-bom---per-pcb">6. IRS Keyboard PCB</a></td><td align="right">1×</td><td>2P</td></tr>
@@ -1334,19 +1334,19 @@ Glue, the acrylic windows, the UV-printed foil, the filament and the PCBs are no
 <td><details><summary>2 places</summary>
 <table>
 <tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
-<tr><td><a href="pcb/rj45-direct.md#bill-of-materials-bom---per-pcb">2. RJ45 Direct Connection PCB</a></td><td align="right">-</td><td>as required per PCB, 27 PCBs</td></tr>
+<tr><td><a href="pcb/rj45-direct.md#bill-of-materials-bom---per-pcb">2. RJ45 Direct Connection PCB</a></td><td align="right">-</td><td>as required per PCB, 28 PCBs</td></tr>
 <tr><td><a href="pcb/cabin-pressure-display.md#board-2---max7219-driver">9. Cabin Pressure Display PCB - MAX7219 driver</a></td><td align="right">2×</td><td>1× per PCB × 2</td></tr>
 </table>
 </details></td>
 </tr>
 <tr>
 <td>RJ45 connector 5224, 8P8C, vertical</td>
-<td align="right">122×</td>
+<td align="right">123×</td>
 <td><a href="../images/parts/AE_RJ45.png">Product I used</a></td>
 <td><details><summary>6 places</summary>
 <table>
 <tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
-<tr><td><a href="pcb/rj45-direct.md#bill-of-materials-bom---per-pcb">2. RJ45 Direct Connection PCB</a></td><td align="right">27×</td><td>1× per PCB × 27 - 5224 8P8C in-line, vertical 180°, full plastic</td></tr>
+<tr><td><a href="pcb/rj45-direct.md#bill-of-materials-bom---per-pcb">2. RJ45 Direct Connection PCB</a></td><td align="right">28×</td><td>1× per PCB × 28 - 5224 8P8C in-line, vertical 180°, full plastic</td></tr>
 <tr><td><a href="pcb/rj45-driver.md#bill-of-materials-bom---per-pcb">3. RJ45 LED Driver PCB</a></td><td align="right">20×</td><td>1× per PCB × 20 - 5224 8P8C in-line, vertical 180°, full plastic</td></tr>
 <tr><td><a href="pcb/rj45-combined.md#bill-of-materials-bom---per-pcb">4. RJ45 Combined PCB</a></td><td align="right">6×</td><td>1× per PCB × 6 - 5224 8P8C in-line, vertical 180°, full plastic</td></tr>
 <tr><td><a href="pcb/rj45-hub-shield.md#bill-of-materials-bom---for-all-7-pcbs">5. RJ45 Hub Shield PCB</a></td><td align="right">63×</td><td>5224 8P8C in-line, vertical 180°, full plastic</td></tr>
