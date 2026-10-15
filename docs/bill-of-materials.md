@@ -1450,13 +1450,24 @@ Glue, the acrylic windows, the UV-printed foil, the filament and the PCBs are no
 </details></td>
 </tr>
 <tr>
-<td>Ethernet patch cable</td>
-<td align="right">60×</td>
+<td>UTP cable, Cat 5e</td>
+<td align="right">40 m</td>
 <td></td>
 <td><details><summary>1 place</summary>
 <table>
 <tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
-<tr><td><a href="system-overview.md#socket-map">System Overview</a></td><td align="right">60×</td><td>one per used socket of the hub shields</td></tr>
+<tr><td><a href="system-overview.md#socket-map">System Overview</a></td><td align="right">40 m</td><td>crimped into 60 patch cables, one per used socket of the hub shields</td></tr>
+</table>
+</details></td>
+</tr>
+<tr>
+<td>RJ45 plug</td>
+<td align="right">120×</td>
+<td></td>
+<td><details><summary>1 place</summary>
+<table>
+<tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
+<tr><td><a href="system-overview.md#socket-map">System Overview</a></td><td align="right">120×</td><td>2× per patch cable × 60</td></tr>
 </table>
 </details></td>
 </tr>
