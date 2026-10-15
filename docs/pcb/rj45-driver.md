@@ -28,7 +28,7 @@ A total of **20** PCBs are required for the complete project. I recommend orderi
 | 1-8× | **SMD 0805 resistors** - see the table below for values | |
 | 1× | **ULN2803** | [Product I used](../../images/parts/AE_ULN2803.png) |
 | 1× | **330 Ω resistor (0805)** - optional | |
-| 1× | **Green LED (0805)** - optional | [Product I used](../../images/parts/AE_led_0805.png) |
+| 1× | **Yellow-green LED (0805)** - optional | [Product I used](../../images/parts/AE_led_0805.png) |
 
 ### Resistor Values
 

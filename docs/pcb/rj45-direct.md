@@ -27,4 +27,4 @@ A total of **28** PCBs are required for the complete project. I recommend orderi
 | as required | **KF301 PCB screw terminals** - 2P/3P/4P | [Product I used](../../images/parts/AE_KF301.png) |
 | as required | **2.54 mm male pin header** | |
 | 1× | **330 Ω resistor (0805)** - optional | |
-| 1× | **Green LED (0805)** - optional | [Product I used](../../images/parts/AE_led_0805.png) |
+| 1× | **Yellow-green LED (0805)** - optional | [Product I used](../../images/parts/AE_led_0805.png) |
