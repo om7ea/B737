@@ -1,6 +1,7 @@
 # Bill of Materials
 
-> 🚧 **I am still putting this list together, so it is not complete yet.**
+> [!WARNING]
+> 🚧 **Work in progress - I am still putting this list together, so it is not complete yet.**
 
 Parts for one complete overhead, totalled across all models. Open an item to see which models use it.
 
