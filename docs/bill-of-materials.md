@@ -1461,9 +1461,9 @@ Glue, the acrylic windows, the UV-printed foil, the filament and the PCBs are no
 </details></td>
 </tr>
 <tr>
-<td>RJ45 plug</td>
+<td>RJ45 plug, 8P8C, unshielded</td>
 <td align="right">120×</td>
-<td></td>
+<td><a href="../images/parts/AE_RJ45_plug.png">Product I used</a></td>
 <td><details><summary>1 place</summary>
 <table>
 <tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
