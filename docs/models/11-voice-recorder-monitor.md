@@ -69,7 +69,7 @@ The red button is the ERASE button, the black one is TEST.
 |---:|---|---|
 | 1× | Green LED 3 mm | |
 | 1× | Female panel jack 6.3 mm | [Product I used](../../images/parts/AE_jack_6_3mm.png) |
-| 1× | Microphone 16 mm | |
+| 1× | Microphone 16 mm | [Product I used](../../images/parts/AE_mic.png) |
 
 The green LED is the STATUS indicator and the jack is the HEADPHONE socket.
 

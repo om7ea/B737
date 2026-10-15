@@ -1094,10 +1094,11 @@ The [acrylic windows](cnc-cut.md), the [UV-printed foil](uv-print.md), the [fila
 ### Other
 
 <table>
-<tr><th align="left">Item</th><th align="right">Total</th><th align="left">Used in</th></tr>
+<tr><th align="left">Item</th><th align="right">Total</th><th align="left">Reference</th><th align="left">Used in</th></tr>
 <tr>
 <td>Microphone 16 mm</td>
 <td align="right">1×</td>
+<td><a href="../images/parts/AE_mic.png">Product I used</a></td>
 <td><details><summary>1 place</summary>
 <table>
 <tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
