@@ -31,4 +31,4 @@ A total of **6** PCBs are required for the complete project. I recommend orderin
 | 1× | **ULN2803** | [Product I used](../../images/parts/AE_ULN2803.png) |
 | as required | **KF301 PCB screw terminals** - 2P/3P/4P | [Product I used](../../images/parts/AE_KF301.png) |
 | 1× | **330 Ω resistor (0805)** - optional | |
-| 1× | **Green LED (0805)** - optional | |
+| 1× | **Green LED (0805)** - optional | [Product I used](../../images/parts/AE_led_0805.png) |

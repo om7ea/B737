@@ -275,7 +275,7 @@ The [acrylic windows](cnc-cut.md), the [UV-printed foil](uv-print.md), the [fila
 <tr>
 <td>LED 0805, green - status LED, optional</td>
 <td align="right">61×</td>
-<td></td>
+<td><a href="../images/parts/AE_led_0805.png">Product I used</a></td>
 <td><details><summary>4 places</summary>
 <table>
 <tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>

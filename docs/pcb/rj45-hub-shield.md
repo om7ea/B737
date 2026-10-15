@@ -38,7 +38,7 @@ A total of **7** PCBs are required for the complete project - one for each of th
 | 7× | **2×16 female socket** - 2.54 mm double row, soldered into the MEGA 2560 PRO MINI | [Product I used](../../images/parts/AE_socket_2x16.png) |
 | 7× | **2×3 female socket** - 2.54 mm double row, soldered into the MEGA 2560 PRO MINI | [Product I used](../../images/parts/AE_socket_2x3.png) |
 | 7× | **330 Ω resistor (0805)** - optional | |
-| 7× | **Green LED (0805)** - optional | |
+| 7× | **Green LED (0805)** - optional | [Product I used](../../images/parts/AE_led_0805.png) |
 
 > **Note**
 > The 5 V input footprint is 5.08 mm, so a [KF301-2P screw terminal](../../images/parts/AE_KF301.png) fits it just as well as the two Faston tabs. Use whichever you prefer.
