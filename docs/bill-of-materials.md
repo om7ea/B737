@@ -1,5 +1,7 @@
 # Bill of Materials
 
+> 🚧 **I am still putting this list together, so it is not complete yet.**
+
 Parts for one complete overhead, totalled across all models. Open an item to see which models use it.
 
 Glue, the acrylic windows, the UV-printed foil, the filament and the PCBs are not in this list. The components fitted on the PCBs are included.
