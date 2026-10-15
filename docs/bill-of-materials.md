@@ -4,7 +4,7 @@
 
 Parts for one complete overhead, totalled across all models. Open an item to see which models use it.
 
-Glue, the acrylic windows, the UV-printed foil, the filament and the PCBs are not in this list. The components fitted on the PCBs are included.
+The [acrylic windows](cnc-cut.md), the [UV-printed foil](uv-print.md), the [filament](filaments.md) and the [PCBs](pcb/README.md) are not in this list. The components fitted on the PCBs are included.
 
 [← Back to main page](../README.md)
 
