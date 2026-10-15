@@ -769,7 +769,7 @@ The [acrylic windows](cnc-cut.md), the [UV-printed foil](uv-print.md), the [fila
 </details></td>
 </tr>
 <tr>
-<td>DC jack plug</td>
+<td>DC plug</td>
 <td align="right">25×</td>
 <td><a href="../images/parts/AE_dc_plug.png">Product I used</a></td>
 <td><details><summary>1 place</summary>

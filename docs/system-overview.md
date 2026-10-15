@@ -78,7 +78,7 @@ The draw figures are the most I measured on my panel - the 12 V one with the bac
 
 #### 12 V
 
-The 12 V rail feeds the panel lighting only. It enters through a **DC socket on the back of the panel**, next to the 5 V socket and the USB connector, all three on the [Rear Power and USB Panel](models/44-rear-power-and-usb-panel.md), and goes first to two PWM dimmers:
+The 12 V rail feeds the panel lighting only. It enters through a **DC jack on the back of the panel**, next to the 5 V jack and the USB connector, all three on the [Rear Power and USB Panel](models/44-rear-power-and-usb-panel.md), and goes first to two PWM dimmers:
 
 | Dimmer | Controls |
 |---|---|
@@ -87,7 +87,7 @@ The 12 V rail feeds the panel lighting only. It enters through a **DC socket on 
 
 Both are ordinary PWM LED dimmers taken out of their housings. The board **and** its potentiometer are reused from each, so the two knobs on the [Center Upper Panel](models/19-center-upper-panel.md) are the original dimmer potentiometers; the two boards are screwed to the back of that panel. Its **PANEL** knob is the backlight dimmer and its **CIRCUIT BREAKER** knob the flood light one. On the real aircraft the CIRCUIT BREAKER knob sets the brightness of the circuit breaker panel, and the flood light is controlled from a panel outside the overhead - it drives the flood light here so that the knob and its dimmer are put to use.
 
-> DC socket → **backlight dimmer** → **splice connectors** → **five branches**, one per column of panels → **DC plug** on each backlit panel
+> DC jack → **backlight dimmer** → **splice connectors** → **five branches**, one per column of panels → **DC plug** on each backlit panel
 
 The backlight dimmer feeds a pair of lever-type splice connectors, one lever in and five out on each: one connector carries **+12 V** (yellow), the other **GND** (black). They are screwed to the back of the [Flood Light](models/18-flood-light.md) panel. The five branches that leave them each feed one column of panels. The flood light dimmer feeds the flood light directly, on a connector of its own.
 
@@ -95,13 +95,13 @@ The backlight dimmer feeds a pair of lever-type splice connectors, one lever in 
 
 The 12 V distribution drawn over a photo of the panel from behind. Yellow is +12 V, black GND.
 
-Every backlit panel takes its 12 V through a **DC jack plug**, and so does the flood light. Each green circle on the drawing is one of these - there are **25** of them in the panel.
+Every backlit panel takes its 12 V through a **DC plug**, and so does the flood light. Each green circle on the drawing is one of these - there are **25** of them in the panel.
 
 | Component | Qty | Purpose | Reference |
 |---|---:|---|---|
-| **DC jack plug** | 25× | 12 V into every backlit panel and the flood light. Male, 5.5 x 2.5 mm | [Product I used](../images/parts/AE_dc_plug.png) |
+| **DC plug** | 25× | 12 V into every backlit panel and the flood light. Male, 5.5 x 2.5 mm | [Product I used](../images/parts/AE_dc_plug.png) |
 
-<img src="../images/12v_dc_jack.png" alt="A green circle on the drawing is a DC jack plug" width="330">
+<img src="../images/12v_dc_jack.png" alt="A green circle on the drawing is a DC plug" width="330">
 
 <img src="../images/12v_dimmer_detail.png" alt="The dimmers and the splice connectors close up" width="380">
 
