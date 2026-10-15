@@ -99,7 +99,7 @@ Every backlit panel takes its 12 V through a **DC plug**, and so does the flood 
 
 | Component | Qty | Purpose | Reference |
 |---|---:|---|---|
-| **DC plug** | 25× | 12 V into every backlit panel and the flood light. Male, 5.5 x 2.5 mm | [Product I used](../images/parts/AE_dc_plug.png) |
+| **DC plug** | 25× | 12 V into every backlit panel and the flood light. Male, 5.5 × 2.5 mm | [Product I used](../images/parts/AE_dc_plug.png) |
 
 <img src="../images/12v_dc_jack.png" alt="A green circle on the drawing is a DC plug" width="330">
 
