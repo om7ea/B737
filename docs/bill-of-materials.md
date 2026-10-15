@@ -844,7 +844,7 @@ The [acrylic windows](cnc-cut.md), the [UV-printed foil](uv-print.md), the [fila
 <tr>
 <td>Panel jack 6.3 mm, female</td>
 <td align="right">1×</td>
-<td></td>
+<td><a href="../images/parts/AE_jack_6_3mm.png">Product I used</a></td>
 <td><details><summary>1 place</summary>
 <table>
 <tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
