@@ -61,16 +61,16 @@ The large holes in C, D and G are for cable routing only, so their size is not c
 
 ## Screws
 
-| Qty | Screw | Joins |
-|---:|---|---|
-| 169× | Brass heat-set threaded insert M4, OD 5 mm, L 5 mm | pressed into the frame parts |
-| 185× | Wood screw 3 × 30 mm | frame part + plywood, plywood + plywood |
-| 1× | Flat head M4×16 | light panel support + frame |
-| 7× | Flat head M4×25 | light panel support + frame |
-| 4× | Dome head M4×25 | light panel support + frame, with an M4 lock nut |
-| 4× | Hex head M6×35 | FWD + angle wedge + AFT, with an M6 nut |
-| 4× | M4 lock nut | |
-| 4× | M6 nut | |
+| Qty | Screw | Joins | Reference |
+|---:|---|---|---|
+| 169× | Brass heat-set threaded insert M4, OD 5 mm, L 5 mm | pressed into the frame parts | [Product I used](../../images/parts/AE_insert_M4.png) |
+| 185× | Wood screw 3 × 30 mm | frame part + plywood, plywood + plywood | |
+| 1× | Flat head M4×16 | light panel support + frame | |
+| 7× | Flat head M4×25 | light panel support + frame | |
+| 4× | Dome head M4×25 | light panel support + frame, with an M4 lock nut | |
+| 4× | Hex head M6×35 | FWD + angle wedge + AFT, with an M6 nut | |
+| 4× | M4 lock nut | | |
+| 4× | M6 nut | | |
 
 ---
 
