@@ -14,7 +14,7 @@ Designed for direct connection through an RJ45 connector. Used for push buttons,
 
 ## Quantity
 
-A total of **27** PCBs are required for the complete project. I recommend ordering a few extra in case some are damaged during assembly.
+A total of **28** PCBs are required for the complete project. I recommend ordering a few extra in case some are damaged during assembly.
 
 ---
 

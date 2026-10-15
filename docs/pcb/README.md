@@ -31,7 +31,7 @@ Every PCB design of the project. All Gerber files are ready to be uploaded direc
 <tr>
 <td><a href="rj45-direct.md"><img src="../../images/pcb/PCB_RJ45_Direct_top.png" width="200"></a></td>
 <td><a href="rj45-direct.md"><strong>2. RJ45 Direct</strong></a></td>
-<td>27×</td>
+<td>28×</td>
 <td>Buttons, toggle switches, rotary switches, servos, displays</td>
 </tr>
 </tbody>

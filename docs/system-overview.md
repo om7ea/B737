@@ -107,7 +107,7 @@ The middle of the drawing close up: the two splice connectors on top and the two
 
 ### Connection to panels
 
-Panels attach to the boards through RJ45 connectors, using standard Ethernet patch cables. Three PCB variants cover the different needs:
+Panels attach to the boards through RJ45 connectors, using Ethernet patch cables, which I crimped myself from Cat 5e cable. Three PCB variants cover the different needs:
 
 - **RJ45 Direct** - buttons, toggle switches, rotary switches, servos, displays
 - **RJ45 LED Driver** - up to 8 annunciators; the ULN2803 driver powers the LEDs so the board is not overloaded
