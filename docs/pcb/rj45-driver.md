@@ -22,7 +22,7 @@ A total of **20** PCBs are required for the complete project. I recommend orderi
 
 | Qty | Part | Schematic | Reference |
 |---:|---|---|---|
-| 1× | **RJ45 connector** - 5224 8P8C in-line, vertical 180°, full plastic | U$1 | [Product I used](../../images/parts/AE_RJ45.png) |
+| 1× | **RJ45 connector** - 5224 8P8C in-line, vertical 180°, full plastic | K3 | [Product I used](../../images/parts/AE_RJ45.png) |
 | 2× | **4.8 mm PCB male Faston terminal** | K1, K2 | [Product I used](../../images/parts/AE_plug_male.png) |
 | 1-8× | **Header ZH 1.5 4P** - buy the set (connectors + cables) | J1-J8 | [Product I used](../../images/parts/AE_ZH.png) |
 | 1-8× | **SMD 0805 resistors** - see the table below for values | R1-R8 | |
@@ -40,8 +40,10 @@ A total of **20** PCBs are required for the complete project. I recommend orderi
 | white LED - dual brightness annunciator, main cable | 100 Ω |
 | dual brightness annunciator, second cable (two wires) | no resistor |
 
+Each resistor belongs to the header with the same number - R1 to J1, R2 to J2 and so on - so choose its value by the annunciator plugged into that header.
+
 ---
 
 ## Schematic
 
-<img src="../../images/pcb/PCB_RJ45_Driver_schematic.png" alt="RJ45 LED Driver PCB schematic" width="800">
+<img src="../../images/pcb/PCB_RJ45_Driver_schematic_v2.png" alt="RJ45 LED Driver PCB schematic" width="800">
