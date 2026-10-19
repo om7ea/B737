@@ -30,6 +30,8 @@ A total of **20** PCBs are required for the complete project. I recommend orderi
 | 1× | **330 Ω resistor (0805)** - optional | R9 | |
 | 1× | **Yellow-green LED (0805)** - optional | LED1 | [Product I used](../../images/parts/AE_led_0805.png) |
 
+The number of headers and resistors depends on the panel - the PCB section of each panel's page lists which headers are populated.
+
 ### Resistor Values
 
 | LED | Value |
