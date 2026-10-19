@@ -1,6 +1,7 @@
 # 2. RJ45 Direct Connection
 
 <img src="../../images/pcb/PCB_RJ45_Direct_top.png" alt="RJ45 Direct PCB - top" width="300">
+
 [📥 Download Gerber files - PCB_RJ45_Direct.zip](https://raw.githubusercontent.com/om7ea/B737/main/PCB/PCB_RJ45_Direct.zip)
 
 [← Back to PCB overview](README.md)
