@@ -48,7 +48,7 @@ The project includes several types of annunciators:
 
 ### Standard Annunciators
 
-<img src="../../images/pcb/PCB_Annunciator_schematic_A.png" alt="Standard annunciator schematic" height="250"><img src="../../images/pcb/PCB_Annunciator_schematic_A1.png" alt="Standard annunciator wiring" width="300">
+<img src="../../images/pcb/PCB_Annunciator_schematic_A.png" alt="Standard annunciator schematic" height="250"><img src="../../images/pcb/PCB_Annunciator_schematic_A1_v2.png" alt="Standard annunciator wiring" width="300">
 
 ### Annunciators with Dual Brightness Function
 
