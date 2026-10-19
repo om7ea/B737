@@ -49,3 +49,14 @@ Each resistor belongs to the header with the same number - R1 to J1, R2 to J2 an
 ## Schematic
 
 <img src="../../images/pcb/PCB_RJ45_Driver_schematic_v2.png" alt="RJ45 LED Driver PCB schematic" width="800">
+
+## PCB Layout
+
+<table>
+<tbody>
+<tr>
+<td align="center"><img src="../../images/pcb/PCB_RJ45_Driver_layout_top.png" alt="RJ45 LED Driver PCB layout - top" width="380"><br><sub>Top</sub></td>
+<td align="center"><img src="../../images/pcb/PCB_RJ45_Driver_layout_bottom.png" alt="RJ45 LED Driver PCB layout - bottom" width="380"><br><sub>Bottom</sub></td>
+</tr>
+</tbody>
+</table>
