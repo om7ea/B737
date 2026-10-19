@@ -28,3 +28,16 @@ A total of **28** PCBs are required for the complete project. I recommend orderi
 | as required | **2.54 mm male pin header** | |
 | 1× | **330 Ω resistor (0805)** - optional | |
 | 1× | **Yellow-green LED (0805)** - optional | [Product I used](../../images/parts/AE_led_0805.png) |
+
+---
+
+## PCB Layout
+
+<table>
+<tbody>
+<tr>
+<td align="center"><img src="../../images/pcb/PCB_RJ45_Direct_layout_top.png" alt="RJ45 Direct PCB layout - top" width="380"><br><sub>Top</sub></td>
+<td align="center"><img src="../../images/pcb/PCB_RJ45_Direct_layout_bottom.png" alt="RJ45 Direct PCB layout - bottom" width="380"><br><sub>Bottom</sub></td>
+</tr>
+</tbody>
+</table>
