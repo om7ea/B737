@@ -39,3 +39,9 @@ A total of **20** PCBs are required for the complete project. I recommend orderi
 | white LED - no dual brightness annunciator | 250 Ω |
 | white LED - dual brightness annunciator, main cable | 100 Ω |
 | dual brightness annunciator, second cable (two wires) | no resistor |
+
+---
+
+## Schematic
+
+<img src="../../images/pcb/PCB_RJ45_Driver_schematic.png" alt="RJ45 LED Driver PCB schematic" width="800">
