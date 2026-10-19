@@ -31,6 +31,10 @@ A total of **28** PCBs are required for the complete project. I recommend orderi
 
 ---
 
+## Schematic
+
+<img src="../../images/pcb/PCB_RJ45_Direct_schematic.png" alt="RJ45 Direct PCB schematic" width="700">
+
 ## PCB Layout
 
 <table>
