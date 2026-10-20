@@ -67,6 +67,9 @@ For the cable with the connector used for the dual brightness function, the two 
 </tbody>
 </table>
 
+> **Note**
+> The corners of the PCB are chamfered. The chamfers are part of the board outline in the Gerber files.
+
 ---
 
 ## ⚠️ Important - Switch Type
