@@ -24,7 +24,7 @@ A total of **6** PCBs are required for the complete project. I recommend orderin
 
 | Qty | Part | Schematic | Reference |
 |---:|---|---|---|
-| 1× | **RJ45 connector** - 5224 8P8C in-line, vertical 180°, full plastic | U$1 | [Product I used](../../images/parts/AE_RJ45.png) |
+| 1× | **RJ45 connector** - 5224 8P8C in-line, vertical 180°, full plastic | K6 | [Product I used](../../images/parts/AE_RJ45.png) |
 | 3× | **4.8 mm PCB male Faston terminal** | K1-K3 | [Product I used](../../images/parts/AE_plug_male.png) |
 | 1-4× | **Header ZH 1.5 4P** - buy the set (connectors + cables) | J1-J4 | [Product I used](../../images/parts/AE_ZH.png) |
 | 1-4× | **SMD 0805 resistors** - values are the same as in the [RJ45 LED Driver table](rj45-driver.md#resistor-values) | R1-R4 | |
@@ -37,7 +37,7 @@ A total of **6** PCBs are required for the complete project. I recommend orderin
 
 ## Schematic
 
-<img src="../../images/pcb/PCB_RJ45_Combined_schematic.png" alt="RJ45 Combined PCB schematic" width="700">
+<img src="../../images/pcb/PCB_RJ45_Combined_schematic_v2.png" alt="RJ45 Combined PCB schematic" width="700">
 
 ## PCB Layout
 
