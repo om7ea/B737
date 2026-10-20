@@ -93,7 +93,7 @@ The inserts go only into the 25 frame parts. Together they form the plastic fram
 
 Assemble the FWD and AFT frame from the 25 printed frame parts. Every connection between two frame parts is unique, so each part fits only its own neighbour and the frame cannot be put together the wrong way.
 
-Fit the temporary frame spacing jigs to keep the correct spacing between the frame parts during assembly. Hold them with M4×16 screws - any type of head will do.
+Fit the temporary frame spacing jigs to keep the correct spacing between the frame parts during assembly. Hold them with dome head M4×10 screws.
 
 <img src="../../images/panels/01-main-frame-02-frame-spacing-jigs.png" alt="The frame with the frame spacing jigs fitted, shown in red" width="700">
 
