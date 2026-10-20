@@ -28,7 +28,7 @@ A total of **6** PCBs are required for the complete project. I recommend orderin
 | 3× | **4.8 mm PCB male Faston terminal** | K1-K3 | [Product I used](../../images/parts/AE_plug_male.png) |
 | 1-4× | **Header ZH 1.5 4P** - buy the set (connectors + cables) | J1-J4 | [Product I used](../../images/parts/AE_ZH.png) |
 | 1-4× | **SMD 0805 resistors** - values are the same as in the [RJ45 LED Driver table](rj45-driver.md#resistor-values) | R1-R4 | |
-| 1× | **ULN2803** | U2 | [Product I used](../../images/parts/AE_ULN2803.png) |
+| 1× | **ULN2803** | U1 | [Product I used](../../images/parts/AE_ULN2803.png) |
 | as required | **KF301 PCB screw terminals** - 2P/3P/4P | K4, K5 | [Product I used](../../images/parts/AE_KF301.png) |
 | 1× | **330 Ω resistor (0805)** - optional | R5 | |
 | 1× | **Yellow-green LED (0805)** - optional | LED1 | [Product I used](../../images/parts/AE_led_0805.png) |
@@ -37,7 +37,7 @@ A total of **6** PCBs are required for the complete project. I recommend orderin
 
 ## Schematic
 
-<img src="../../images/pcb/PCB_RJ45_Combined_schematic_v2.png" alt="RJ45 Combined PCB schematic" width="700">
+<img src="../../images/pcb/PCB_RJ45_Combined_schematic_v3.png" alt="RJ45 Combined PCB schematic" width="700">
 
 ## PCB Layout
 
