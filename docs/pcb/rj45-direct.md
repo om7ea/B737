@@ -22,10 +22,10 @@ A total of **28** PCBs are required for the complete project. I recommend orderi
 
 | Qty | Part | Schematic | Reference |
 |---:|---|---|---|
-| 1× | **RJ45 connector** - 5224 8P8C in-line, vertical 180°, full plastic | K13 | [Product I used](../../images/parts/AE_RJ45.png) |
-| 3× | **4.8 mm PCB male Faston terminal** | K1, K2, K12 | [Product I used](../../images/parts/AE_plug_male.png) |
-| as required | **KF301 PCB screw terminals** - 2P/3P/4P | K3-K6 | [Product I used](../../images/parts/AE_KF301.png) |
-| as required | **2.54 mm male pin header** | K7-K11 | |
+| 1× | **RJ45 connector** - 5224 8P8C in-line, vertical 180°, full plastic | K11 | [Product I used](../../images/parts/AE_RJ45.png) |
+| 3× | **4.8 mm PCB male Faston terminal** | K1-K3 | [Product I used](../../images/parts/AE_plug_male.png) |
+| as required | **KF301 PCB screw terminals** - 2P/3P/4P | K4-K7 | [Product I used](../../images/parts/AE_KF301.png) |
+| as required | **2.54 mm male pin header** | K8-K10 | |
 | 1× | **330 Ω resistor (0805)** - optional | R1 | |
 | 1× | **Yellow-green LED (0805)** - optional | LED1 | [Product I used](../../images/parts/AE_led_0805.png) |
 
@@ -33,15 +33,15 @@ A total of **28** PCBs are required for the complete project. I recommend orderi
 
 ## Schematic
 
-<img src="../../images/pcb/PCB_RJ45_Direct_schematic_v2.png" alt="RJ45 Direct PCB schematic" width="700">
+<img src="../../images/pcb/PCB_RJ45_Direct_schematic_v3.png" alt="RJ45 Direct PCB schematic" width="700">
 
 ## PCB Layout
 
 <table>
 <tbody>
 <tr>
-<td align="center"><img src="../../images/pcb/PCB_RJ45_Direct_layout_top.png" alt="RJ45 Direct PCB layout - top" width="380"><br><sub>Top</sub></td>
-<td align="center"><img src="../../images/pcb/PCB_RJ45_Direct_layout_bottom.png" alt="RJ45 Direct PCB layout - bottom" width="380"><br><sub>Bottom</sub></td>
+<td align="center"><img src="../../images/pcb/PCB_RJ45_Direct_layout_v2_top.png" alt="RJ45 Direct PCB layout - top" width="380"><br><sub>Top</sub></td>
+<td align="center"><img src="../../images/pcb/PCB_RJ45_Direct_layout_v2_bottom.png" alt="RJ45 Direct PCB layout - bottom" width="380"><br><sub>Bottom</sub></td>
 </tr>
 </tbody>
 </table>
