@@ -56,6 +56,17 @@ The project includes several types of annunciators:
 
 For the cable with the connector used for the dual brightness function, the two unused wires can be cut off.
 
+## PCB Layout
+
+<table>
+<tbody>
+<tr>
+<td align="center"><img src="../../images/pcb/PCB_Annunciator_layout_top.png" alt="Annunciator PCB layout - top" width="380"><br><sub>Top</sub></td>
+<td align="center"><img src="../../images/pcb/PCB_Annunciator_layout_bottom.png" alt="Annunciator PCB layout - bottom" width="380"><br><sub>Bottom</sub></td>
+</tr>
+</tbody>
+</table>
+
 ---
 
 ## ⚠️ Important - Switch Type
