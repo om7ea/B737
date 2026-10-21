@@ -211,3 +211,6 @@ Screw abbreviations used in the diagrams: **FH** = flat head, **DH** = dome head
 ### 4. Backlight panel - PCBs and DC jack
 
 <img src="../../images/panels/05-flight-control-04-backlight-pcb.png" alt="Backlight panel PCB mounting" width="700">
+
+> **Note**
+> On my own build **PCB 1** is rotated by 180° compared with the model shown above. Mounted the way the model has it, there was not enough room to get the wires into its screw terminals. That is why the board sits the other way round on the [rear photo](#wiring).
