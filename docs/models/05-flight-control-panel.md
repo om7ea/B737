@@ -129,7 +129,7 @@ The socket labels **D0-D6**, **A1** and **A2** are silkscreened on the hub shiel
 The rear of the panel. **PCB 1** and **PCB 2** are the boards with the blue screw terminals - eight of them on PCB 1, two on PCB 2. Of the other two, **PCB 3** has five ZH headers wired and **PCB 4** four.
 
 > **Note**
-> On my own build **PCB 1** is rotated by 180° compared with the model in [step 4](#4-backlight-panel---pcbs-and-dc-jack) of the assembly diagram. Mounted the way the model has it, there was not enough room to get the wires into its screw terminals. That is why the board sits the other way round on the photo above.
+> On my own build **PCB 1** is rotated by 180°. Mounted the way the model has it, there was not enough room to get the wires into its screw terminals. That is why the board sits the other way round on the photo above.
 
 ### PCB 1 - socket D4 on Overhead_1a
 
