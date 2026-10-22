@@ -44,6 +44,7 @@
 | 1× | Top panel | print on a **Textured** PEI plate |
 | 1× | Bottom panel | print on a **Textured** PEI plate |
 | 1× | Diffuser panel | print on a **Smooth** PEI plate |
+| 1× | Counterplate | |
 | 1× | Backlight panel | |
 | 2× | PCB frame | |
 | 4× | M4 washer | |
