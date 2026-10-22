@@ -43,6 +43,7 @@
 | 1× | Top panel | print on a **Textured** PEI plate |
 | 1× | Bottom panel | print on a **Textured** PEI plate |
 | 1× | Diffuser panel | print on a **Smooth** PEI plate |
+| 1× | Counterplate | |
 | 1× | Backlight panel | |
 | 2× | PCB frame | |
 | 4× | M4 washer | |
@@ -178,7 +179,7 @@ Screw abbreviations used in the diagrams: **FH** = flat head, **DH** = dome head
 
 <img src="../../images/panels/09-anti-ice-02-bottom-panel.png" alt="Bottom panel assembly" width="700">
 
-### 3. Diffuser panel
+### 3. Diffuser panel and counterplate
 
 <img src="../../images/panels/09-anti-ice-03-diffuser.png" alt="Diffuser panel assembly" width="700">
 
