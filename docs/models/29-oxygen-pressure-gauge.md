@@ -50,7 +50,7 @@ The dial itself is lit separately, by two LED strips inside the housing - see [B
 
 | Qty | Part | Colour | Notes |
 |---:|---|---|---|
-| 1× | top | White | the front plate - the UV-printed scale goes on it and it diffuses the backlight |
+| 1× | top | White | the front plate - the UV-printed scale goes on it and it diffuses the backlight; print on a **Smooth** PEI plate |
 | 1× | backlight | Black | print with **supports** |
 | 1× | cover | Black | the servo bracket; print with **supports** |
 | 1× | gear 14t | Black | on the servo |

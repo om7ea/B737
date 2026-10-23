@@ -52,7 +52,7 @@ The finished gauge is a 52 × 52 mm box, about 32 mm deep without the servo.
 
 | Per gauge | Total for 4 | Part | Colour | Notes |
 |---:|---:|---|---|---|
-| 1× | 4× | top | White | the front plate - the UV-printed scale goes on it and it diffuses the backlight |
+| 1× | 4× | top | White | the front plate - the UV-printed scale goes on it and it diffuses the backlight; print on a **Smooth** PEI plate |
 | 1× | 4× | backlight | Black | print with **supports** |
 | 1× | 4× | cover | Black | the servo bracket; print with **supports** |
 | 1× | 4× | gear 14t | Black | on the servo |
