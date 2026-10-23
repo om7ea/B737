@@ -87,6 +87,8 @@ The inserts go only into the 25 frame parts. Together they form the plastic fram
 > **⚠️ There are three types of holes in the frame**\
 > The first type is for the threaded inserts. The second type is countersunk and is for the wood screws that hold the plastic frame to the plywood. The third type is in the **tabs** - the small lugs that stick out of the frame and are only half as high as the rest of it. These holes are slightly larger than the screw: a dome head M4×10 goes through them to hold the panels that are fitted from behind, such as the [PSEU Panel](15-pseu-panel.md), the [Landing Gear Indicator Panel](16-landing-gear-indicator-panel.md), the [Interphone and Dome Panel](27-interphone-and-dome-panel.md) and some of the blank panels. **Do not put inserts into them.** Before installing the inserts, turn each frame part so that you can see the countersunk holes - that means its top side is facing up.
 
+<img src="../../images/panels/01-main-frame-01-tab-holes.png" alt="A tab of the frame with its four holes - no inserts go into them" width="400">
+
 <img src="../../images/panels/01-main-frame-01-threaded-inserts.jpg" alt="Pressing a threaded insert into a frame part with a soldering iron" width="500">
 
 ### 2. Frame sections
