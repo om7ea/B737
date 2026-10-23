@@ -7,7 +7,7 @@
 ---
 
 > **Note**
-> This gauge is a model of its own - it is not part of any panel model. **One** is needed for the complete project, on the **[Pneumatic Panel](34-bleed-air-control-panel.md)**.
+> This gauge is a model of its own - it is not part of any panel model. **One** is needed for the complete project, on the **[Bleed Air Control Panel](34-bleed-air-control-panel.md)**.
 >
 > It is a **two-needle** instrument. Both needles turn on the same axis, the L needle on an acrylic pipe and the R needle on an acrylic rod running inside that pipe, and each one has a servo of its own.
 
@@ -111,7 +111,7 @@ Two of the scales on that sheet belong to this gauge: the square **DUCT PRESS** 
 
 ### Scale
 
-The scale is lit by two LED strips inside the backlight part, one on each side, shining through the white outer and inner parts from behind. They run on **12 V** taken from the backlighting of the Pneumatic Panel, so the gauge dims together with that panel - see [Power supply](../system-overview.md#power-supply).
+The scale is lit by two LED strips inside the backlight part, one on each side, shining through the white outer and inner parts from behind. They run on **12 V** taken from the backlighting of the Bleed Air Control Panel, so the gauge dims together with that panel - see [Power supply](../system-overview.md#power-supply).
 
 The two strips are not wired straight across that 12 V: an **820 Ω resistor** goes in series with the pair. The white parts pass far more light than the printed face of a panel does, so on the bare supply the scale burns out much brighter than the lettering around it. The resistor holds it back to the brightness of the rest of the overhead.
 
@@ -134,10 +134,10 @@ The gauge has four connections.
 
 | Connection | Supply | Comes from |
 |---|---|---|
-| L needle servo | 5 V | the control signal, **+5 V** and **GND**, all three from the pin headers at **pin 7** of the [RJ45 Direct](../pcb/rj45-direct.md) PCB on the **[Pneumatic Panel](34-bleed-air-control-panel.md)** - socket **D2** on **Overhead_5** |
+| L needle servo | 5 V | the control signal, **+5 V** and **GND**, all three from the pin headers at **pin 7** of the [RJ45 Direct](../pcb/rj45-direct.md) PCB on the **[Bleed Air Control Panel](34-bleed-air-control-panel.md)** - socket **D2** on **Overhead_5** |
 | R needle servo | 5 V | the same three, from the pin headers at **pin 6** of that board |
 | Needle LED | 5 V | **+5 V** and **GND** from the outer two pins at **position 8** of the other [RJ45 Direct](../pcb/rj45-direct.md) PCB on that panel - socket **D3** on **Overhead_5**. No signal is taken from there. The pair runs through a **150 Ω** resistor - see [Backlight](#backlight) |
-| Scale backlight | 12 V | the backlighting of the Pneumatic Panel, through an **820 Ω** resistor - see [Backlight](#backlight) |
+| Scale backlight | 12 V | the backlighting of the Bleed Air Control Panel, through an **820 Ω** resistor - see [Backlight](#backlight) |
 
 > **⚠️ Both servo plugs have to be rewired**\
 > The SG90 does not leave the factory in the order the RJ45 Direct PCB expects, so a servo will **not** work if you plug it in as it comes. **Swap the red and the yellow wire:**
