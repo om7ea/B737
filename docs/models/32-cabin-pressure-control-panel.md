@@ -58,6 +58,8 @@
 | 1× | Rotary switch RS26, 12 positions | |
 | 2× | **Rotary encoder EC11** - D shaft, 20 mm | [Product I used](../../images/parts/AE_encoder.png) |
 
+The KN3(C) switch is wired with 6.3 mm female Fastons.
+
 The toggle switch is the outflow VALVE switch, momentary in both directions - CLOSE and OPEN. The rotary switch is the AUTO / ALTN / MAN mode selector; the RS26 has an adjustable end stop, so set it to **3** positions. The two encoders set FLT ALT and LAND ALT.
 
 ---

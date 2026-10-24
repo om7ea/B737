@@ -69,6 +69,8 @@
 | 1× | KN3(C)-101, ON/OFF |
 | 1× | KN3(C)-103, ON/OFF/ON |
 
+Each KN3(C) switch is wired with 6.3 mm female Fastons.
+
 The two-position switch is SERVICE INTERPHONE, the three-position one is DOME WHITE - DIM, OFF and BRIGHT.
 
 ---

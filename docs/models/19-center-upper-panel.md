@@ -72,6 +72,8 @@
 |---:|---|
 | 2× | KN3(C)-101, ON/OFF |
 
+Each KN3(C) switch is wired with 6.3 mm female Fastons.
+
 ---
 
 ## Rotary Knobs

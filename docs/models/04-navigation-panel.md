@@ -63,6 +63,8 @@
 | 4× | KN3(C)-103, ON/OFF/ON |
 | 1× | Rotary switch SR16, 3 positions |
 
+Each KN3(C) switch is wired with 6.3 mm female Fastons.
+
 The rotary switch is the SOURCE selector, the four toggle switches are VHF NAV, IRS, FMC and CONTROL PANEL.
 
 ---

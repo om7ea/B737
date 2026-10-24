@@ -64,6 +64,8 @@
 | 1× | PBS-110 push button, black |
 | 1× | Toggle switch safety aircraft guard, black |
 
+The KN3(C) switch is wired with 6.3 mm female Fastons.
+
 The guard goes on the ELT switch, the push button is the LE DEVICES TEST button.
 
 ---

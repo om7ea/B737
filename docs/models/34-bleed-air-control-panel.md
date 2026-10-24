@@ -60,6 +60,8 @@
 | 3× | KN3(C)-103, ON/OFF/ON |
 | 2× | PBS-110 push button, black |
 
+Each KN3(C) switch is wired with 6.3 mm female Fastons.
+
 The five two-position switches are L RECIRC FAN, R RECIRC FAN and the three BLEED switches - 1, APU and 2. The three-position ones are L PACK and R PACK, both OFF / AUTO / HIGH, and the ISOLATION VALVE switch, CLOSE / AUTO / OPEN. The two buttons are OVHT TEST and TRIP RESET.
 
 ---

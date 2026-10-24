@@ -79,6 +79,8 @@ The two large EEC annunciators are part of this model. They use the same six par
 | 1× | KN3(C)-101, ON/OFF |
 | 1× | Toggle switch safety aircraft guard, black |
 
+The KN3(C) switch is wired with 6.3 mm female Fastons.
+
 ---
 
 ## Gauge

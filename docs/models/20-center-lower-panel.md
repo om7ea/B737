@@ -65,6 +65,8 @@
 | 1× | Rotary switch SR16, 4 positions |
 | 1× | Toggle switch safety aircraft guard, black |
 
+Each KN3(C) switch is wired with 6.3 mm female Fastons.
+
 The three-position switches are EMER EXIT LIGHTS and FASTEN BELTS, the two-position one is NO SMOKING. The guard goes on the EMER EXIT LIGHTS switch, the push buttons are ATTEND and GRD CALL, and the rotary switch is R WIPER.
 
 ---

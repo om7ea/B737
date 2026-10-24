@@ -56,6 +56,8 @@
 | 4× | PBS-110 push button, black |
 | 1× | Toggle switch safety aircraft guard, black |
 
+The KN3(C) switch is wired with 6.3 mm female Fastons.
+
 The toggle switch is FLIGHT RECORDER and it is the one that carries the guard. The push buttons are MACH AIRSPEED WARNING TEST NO1 and NO2, and STALL WARNING TEST NO.1 and NO.2.
 
 ---

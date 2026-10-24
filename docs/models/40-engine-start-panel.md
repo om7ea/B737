@@ -67,6 +67,8 @@
 |---:|---|
 | 1× | KN3(C)-103, ON/OFF/ON |
 
+The KN3(C) switch is wired with 6.3 mm female Fastons.
+
 ---
 
 ## Engine Start Switches

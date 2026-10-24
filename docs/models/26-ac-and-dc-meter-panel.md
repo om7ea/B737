@@ -60,6 +60,8 @@
 | 1× | PBS-110 push button, black |
 | 1× | Toggle switch safety aircraft guard, black |
 
+Each KN3(C) switch is wired with 6.3 mm female Fastons.
+
 The two toggle switches are BAT and GALLEY, and the guard goes on the BAT switch. The push button is the MAINT button beside the ELEC annunciator. The rotary switches are the two meter selectors: the DC selector uses all eight of its positions, the AC selector seven of eight.
 
 > **Note**

@@ -65,6 +65,8 @@
 | 1× | Toggle switch safety aircraft guard, black |
 | 2× | Toggle switch safety aircraft guard, red |
 
+Each KN3(C) switch is wired with 6.3 mm female Fastons.
+
 The two-position switches are DISCONNECT 1 and DISCONNECT 2. The three-position one is STANDBY POWER - BAT / OFF / AUTO. The black guard goes on the STANDBY POWER switch, the two red ones on the DISCONNECT switches.
 
 ---

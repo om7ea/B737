@@ -59,6 +59,8 @@
 | 6× | KN3(C)-101, ON/OFF |
 | 1× | Rotary switch SR16, 8 positions |
 
+Each KN3(C) switch is wired with 6.3 mm female Fastons.
+
 The six toggle switches are the FUEL PUMPS switches, the rotary switch is CROSS FEED.
 
 > **Note**

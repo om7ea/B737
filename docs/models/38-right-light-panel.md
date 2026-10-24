@@ -70,6 +70,8 @@
 | 4× | KN3(C)-101, ON/OFF |
 | 1× | KN3(C)-103, ON/OFF/ON |
 
+Each KN3(C) switch is wired with 6.3 mm female Fastons.
+
 The four two-position switches are LOGO, ANTI COLLISION, WING and WHEEL WELL. The three-position one is POSITION - STROBE & STEADY / OFF / STEADY.
 
 ---

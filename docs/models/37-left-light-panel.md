@@ -73,6 +73,8 @@ The diffuser is a single piece that runs the whole width of the panel. The botto
 | 5× | KN3(C)-101, ON/OFF |
 | 1× | KN3(C)-113, ON/OFF/(ON) |
 
+Each KN3(C) switch is wired with 6.3 mm female Fastons.
+
 The five two-position switches are LANDING L and R, RUNWAY TURNOFF L and R, and TAXI. The three-position one is the APU switch - OFF / ON / START. Its middle position is the one marked ON, and START is spring-loaded, so the switch comes back to ON as soon as it is let go.
 
 ---
