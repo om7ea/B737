@@ -1157,7 +1157,7 @@ All of it is CYA 1 × 0.5 mm² (AWG 20) stranded wire. The lengths are rough est
 </tr>
 <tr>
 <td>Wire, red</td>
-<td align="right">approx.&nbsp;13&nbsp;m</td>
+<td align="right">approx.&nbsp;15&nbsp;m</td>
 <td>5 V distribution, +5 V</td>
 </tr>
 <tr>
