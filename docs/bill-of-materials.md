@@ -828,16 +828,40 @@ The [acrylic windows](cnc-cut.md), the [UV-printed foil](uv-print.md), the [fila
 </details></td>
 </tr>
 <tr>
-<td>KF301 screw terminal, 2P/3P/4P</td>
-<td align="right">2× + as required</td>
+<td>KF301 screw terminal, 2P, blue</td>
+<td align="right">1× + as required</td>
 <td><a href="../images/parts/AE_KF301.png">Product I used</a></td>
 <td><details><summary>3 places</summary>
 <table>
 <tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
-<tr><td><a href="pcb/rj45-direct.md#bill-of-materials-bom---per-pcb">2. RJ45 Direct Connection PCB</a></td><td align="right">-</td><td>as required per PCB, 28 PCBs - 2P/3P/4P</td></tr>
-<tr><td><a href="pcb/rj45-combined.md#bill-of-materials-bom---per-pcb">4. RJ45 Combined PCB</a></td><td align="right">-</td><td>as required per PCB, 6 PCBs - 2P/3P/4P</td></tr>
-<tr><td><a href="pcb/irs-keyboard.md#bill-of-materials-bom---per-pcb">6. IRS Keyboard PCB</a></td><td align="right">1×</td><td>3P</td></tr>
-<tr><td><a href="pcb/irs-keyboard.md#bill-of-materials-bom---per-pcb">6. IRS Keyboard PCB</a></td><td align="right">1×</td><td>2P</td></tr>
+<tr><td><a href="pcb/rj45-direct.md#bill-of-materials-bom---per-pcb">2. RJ45 Direct Connection PCB</a></td><td align="right">-</td><td>as required per PCB, 28 PCBs</td></tr>
+<tr><td><a href="pcb/rj45-combined.md#bill-of-materials-bom---per-pcb">4. RJ45 Combined PCB</a></td><td align="right">-</td><td>as required per PCB, 6 PCBs</td></tr>
+<tr><td><a href="pcb/irs-keyboard.md#bill-of-materials-bom---per-pcb">6. IRS Keyboard PCB</a></td><td align="right">1×</td><td></td></tr>
+</table>
+</details></td>
+</tr>
+<tr>
+<td>KF301 screw terminal, 3P, blue</td>
+<td align="right">1× + as required</td>
+<td><a href="../images/parts/AE_KF301.png">Product I used</a></td>
+<td><details><summary>3 places</summary>
+<table>
+<tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
+<tr><td><a href="pcb/rj45-direct.md#bill-of-materials-bom---per-pcb">2. RJ45 Direct Connection PCB</a></td><td align="right">-</td><td>as required per PCB, 28 PCBs</td></tr>
+<tr><td><a href="pcb/rj45-combined.md#bill-of-materials-bom---per-pcb">4. RJ45 Combined PCB</a></td><td align="right">-</td><td>as required per PCB, 6 PCBs</td></tr>
+<tr><td><a href="pcb/irs-keyboard.md#bill-of-materials-bom---per-pcb">6. IRS Keyboard PCB</a></td><td align="right">1×</td><td></td></tr>
+</table>
+</details></td>
+</tr>
+<tr>
+<td>KF301 screw terminal, 4P, blue</td>
+<td align="right">as required</td>
+<td><a href="../images/parts/AE_KF301.png">Product I used</a></td>
+<td><details><summary>2 places</summary>
+<table>
+<tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
+<tr><td><a href="pcb/rj45-direct.md#bill-of-materials-bom---per-pcb">2. RJ45 Direct Connection PCB</a></td><td align="right">-</td><td>as required per PCB, 28 PCBs</td></tr>
+<tr><td><a href="pcb/rj45-combined.md#bill-of-materials-bom---per-pcb">4. RJ45 Combined PCB</a></td><td align="right">-</td><td>as required per PCB, 6 PCBs</td></tr>
 </table>
 </details></td>
 </tr>
