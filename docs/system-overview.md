@@ -34,6 +34,7 @@ The complete configuration - the board definitions and the mapping for every swi
 |---|---:|---|---|
 | **USB hub** | 1× | Connects all seven boards to the single USB cable. 7 ports, USB 3.0 | [Product I used](../images/parts/AE_usb_hub.png) |
 | **USB cable** | 7× | Board to hub. USB-A to micro USB, 1 m; sold in packs - I bought 10 and used 7 | [Product I used](../images/parts/AE_usb_cable.png) |
+| **USB extension cable** | 1× | USB adapter on the rear panel to the hub. USB-A male to USB-A female, 1 m; its red wire is cut - see [Power supply](#power-supply) | |
 | **MEGA 2560 PRO MINI** | 7× | Each board drives one group of panels. 5 V (embed), CH340G, ATmega2560-16AU; supplied with the male pin headers | [Product I used](../images/parts/AE_mega.png) |
 | **RJ45 Hub Shield PCBs** | 7× | One per board - brings nine RJ45 sockets to the Mega 2560 | [PCB docs](pcb/rj45-hub-shield.md) |
 | **UTP cable, Cat 5e** | 40 m | Board to panel. I crimped it into the 60 Ethernet patch cables myself, one per used socket of the hub shields | |
