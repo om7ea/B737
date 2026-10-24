@@ -132,7 +132,7 @@ At the board end the cables plug into an **[RJ45 Hub Shield](pcb/rj45-hub-shield
 The chain for a single connection: panel PCB → Ethernet patch cable → MEGA 2560 PRO MINI with the RJ45 Hub Shield → micro USB cable → USB hub → USB extension cable → USB-B socket on the [Rear Power and USB Panel](models/44-rear-power-and-usb-panel.md) → PC. A panel may need more than one cable, and one board takes up to nine.
 
 > **⚠️ Cut the red wire in the USB extension cable**\
-> The USB cable between the USB adapter on the [Rear Power and USB Panel](models/44-rear-power-and-usb-panel.md) and the USB hub inside the panel has to be modified. Strip back its outer sheath - there are four wires inside: red, black, white and green. **Cut the red wire** (+5 V) and leave the other three connected.
+> The USB extension cable between the USB adapter on the [Rear Power and USB Panel](models/44-rear-power-and-usb-panel.md) and the USB hub inside the panel has to be modified. Strip back its outer sheath - there are four wires inside: red, black, white and green. **Cut the red wire** (+5 V) and leave the other three connected.
 >
 > <img src="../images/usb_cable_red_wire_cut_v2.jpg" alt="The USB cable with its outer sheath stripped back and the red wire cut" width="600">
 >
