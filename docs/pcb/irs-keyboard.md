@@ -28,7 +28,7 @@ Only **1** PCB is required for the complete project.
 | 12× | **1.5 mm LED - warm white** | [Product I used](../../images/parts/AE_led_warm_white.png) |
 | 2× | **RJ45 connector** - 5224 8P8C in-line, vertical 180°, full plastic | [Product I used](../../images/parts/AE_RJ45.png) |
 | 1× | **Header ZH 1.5 4P** - buy the set (connectors + cables) | [Product I used](../../images/parts/AE_ZH.png) |
-| 1× | **KF301 PCB screw terminal - 3P blue** | [Product I used](../../images/parts/AE_KF301.png) |
+| 1× | **KF301 PCB screw terminal - 3P blue** | [Product I used](../../images/parts/AE_KF301_3p.png) |
 | 1× | **KF301 PCB screw terminal - 2P red** | |
 | 12× | **220 Ω resistor (0805)** - one per button LED | |
 | 1× | **150 Ω resistor (0805)** - for the GPS annunciator of the IRS Mode Select Unit | |

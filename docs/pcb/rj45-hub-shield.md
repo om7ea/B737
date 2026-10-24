@@ -41,7 +41,7 @@ A total of **7** PCBs are required for the complete project - one for each of th
 | 7× | **Yellow-green LED (0805)** - optional | [Product I used](../../images/parts/AE_led_0805.png) |
 
 > **Note**
-> The 5 V input footprint is 5.08 mm, so a [KF301-2P screw terminal](../../images/parts/AE_KF301.png) fits it just as well as the two Faston tabs. Use whichever you prefer.
+> The 5 V input footprint is 5.08 mm, so a [KF301-2P screw terminal](../../images/parts/AE_KF301_2p.png) fits it just as well as the two Faston tabs. Use whichever you prefer.
 
 > **Note**
 > The shop lists these headers and sockets by the number of positions in one row, so a 2×21 part is sold as *21Pin*.
