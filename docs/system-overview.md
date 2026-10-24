@@ -51,9 +51,7 @@ The **PRO MINI** form factor is what matters here: the board is a fraction of th
 
 <img src="../images/board_positions.png" alt="Where the seven boards sit inside the panel" width="450">
 
-Where the seven boards sit inside my panel, each with its RJ45 Hub Shield. Which board and which socket a panel connects to is in the **Wiring** section of that panel's [model page](models/README.md), and for all panels together in the [Socket map](#socket-map).
-
-The boards sit on the [FWD Blank Panels](models/41-fwd-blank-panels.md) and the [AFT Blank Panels](models/42-aft-blank-panels.md), except **mega 2a**, which is screwed straight to the wooden main frame with two wood screws, about 2 × 10 mm.
+Where the seven boards sit inside my panel, each with its RJ45 Hub Shield. They sit on the [FWD Blank Panels](models/41-fwd-blank-panels.md) and the [AFT Blank Panels](models/42-aft-blank-panels.md), except **mega 2a**, which is screwed straight to the wooden main frame with two wood screws, about 2 × 10 mm. Which board and which socket a panel connects to is in the **Wiring** section of that panel's [model page](models/README.md), and for all panels together in the [Socket map](#socket-map).
 
 <img src="../images/mega_2a_main_frame.jpg" alt="MEGA 2a screwed to the wooden main frame" width="600">
 
