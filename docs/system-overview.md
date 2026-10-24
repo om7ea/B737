@@ -78,7 +78,7 @@ The draw figures are the most I measured on my panel - the 12 V one with the bac
 
 #### 12 V
 
-The 12 V rail feeds the panel lighting only. It enters through a **DC jack on the back of the panel**, next to the 5 V jack and the USB connector, all three on the [Rear Power and USB Panel](models/44-rear-power-and-usb-panel.md), and goes first to two PWM dimmers:
+The 12 V rail feeds the panel lighting only. It enters through a **DC jack** on the [Rear Power and USB Panel](models/44-rear-power-and-usb-panel.md) - the yellow one - and goes first to two PWM dimmers:
 
 | Dimmer | Controls |
 |---|---|
@@ -89,7 +89,7 @@ Both are ordinary PWM LED dimmers taken out of their housings. The board **and**
 
 > DC jack → **backlight dimmer** → **splice connectors** → **five branches**, one per column of panels → **DC plug** on each backlit panel
 
-The backlight dimmer feeds a pair of lever-type splice connectors, one lever in and five out on each: one connector carries **+12 V** (yellow), the other **GND** (black). They are screwed to the back of the [Flood Light](models/18-flood-light.md) panel. The five branches that leave them each feed one column of panels. The flood light dimmer feeds the flood light directly, on a connector of its own.
+The backlight dimmer feeds a pair of lever-type splice connectors, one lever in and five out on each: one connector carries **+12 V** (yellow), the other **GND** (black). They are screwed to the back of the [Flood Light](models/18-flood-light.md) panel. The five branches of 0.5 mm² wire that leave them each feed one column of panels. The flood light dimmer feeds the flood light directly, on a connector of its own.
 
 <img src="../images/12v_distribution.png" alt="How 12 V is distributed inside the panel" width="620">
 
