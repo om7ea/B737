@@ -37,10 +37,12 @@ A total of **6** PCBs are required for the complete project. I recommend orderin
 
 ### Resistor Values
 
-| LED | Value |
-|---|---|
-| yellow LED | 150 Ω |
-| white LED - no dual brightness annunciator | 250 Ω |
+| LED | Value | Total for 6 PCBs |
+|---|---|---:|
+| yellow LED | 150 Ω | 13× |
+| white LED - no dual brightness annunciator | 250 Ω | 3× |
+
+Each resistor belongs to the header with the same number - R1 to J1, R2 to J2 and so on - so choose its value by the annunciator plugged into that header.
 
 ---
 
