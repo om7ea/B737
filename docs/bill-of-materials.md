@@ -1162,8 +1162,8 @@ All of it is CYA 1 × 0.5 mm² (AWG 20) stranded wire. The lengths are rough est
 </tr>
 <tr>
 <td>Wire, black</td>
-<td align="right">approx.&nbsp;23&nbsp;m</td>
-<td>GND - 12 V distribution 10 m, 5 V distribution 13 m</td>
+<td align="right">approx.&nbsp;25&nbsp;m</td>
+<td>GND - 12 V distribution 10 m, 5 V distribution 15 m</td>
 </tr>
 <tr>
 <td>Wire, white</td>
