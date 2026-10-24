@@ -797,6 +797,12 @@ The [acrylic windows](cnc-cut.md), the [UV-printed foil](uv-print.md), the [fila
 </details></td>
 </tr>
 <tr>
+<td>Faston female 6.3 mm, uninsulated, crimp, with sheath</td>
+<td align="right">333×</td>
+<td><a href="../images/parts/AE_faston_female.png">Product I used</a></td>
+<td>2 per ON/OFF switch, 3 per three-position switch, 1 per PCB Faston tab</td>
+</tr>
+<tr>
 <td>Female socket 2.54 mm, 2×16</td>
 <td align="right">7×</td>
 <td><a href="../images/parts/AE_socket_2x16.png">Product I used</a></td>
