@@ -20,15 +20,15 @@ A total of **20** PCBs are required for the complete project. I recommend orderi
 
 ## Bill of Materials (BOM) - per PCB
 
-| Qty | Part | Schematic | Reference |
-|---:|---|---|---|
-| 1× | **RJ45 connector** - 5224 8P8C in-line, vertical 180°, full plastic | K3 | [Product I used](../../images/parts/AE_RJ45.png) |
-| 2× | **4.8 mm PCB male Faston terminal** | K1, K2 | [Product I used](../../images/parts/AE_plug_male.png) |
-| 1-8× | **Header ZH 1.5 4P** - part of the [ZH set](annunciator.md) | J1-J8 | |
-| 1-8× | **SMD 0805 resistors** - see the table below for values | R1-R8 | |
-| 1× | **ULN2803** | U2 | [Product I used](../../images/parts/AE_ULN2803.png) |
-| 1× | **330 Ω resistor (0805)** - optional | R9 | |
-| 1× | **Yellow-green LED (0805)** - optional | LED1 | [Product I used](../../images/parts/AE_led_0805.png) |
+| Qty per PCB | Total for 20 PCBs | Part | Schematic | Reference |
+|---:|---:|---|---|---|
+| 1× | 20× | **RJ45 connector** - 5224 8P8C in-line, vertical 180°, full plastic | K3 | [Product I used](../../images/parts/AE_RJ45.png) |
+| 2× | 40× | **4.8 mm PCB male Faston terminal** | K1, K2 | [Product I used](../../images/parts/AE_plug_male.png) |
+| 1-8× | - | **Header ZH 1.5 4P** - part of the [ZH set](annunciator.md) | J1-J8 | |
+| 1-8× | 108× | **SMD 0805 resistors** - see the table below for values | R1-R8 | |
+| 1× | 20× | **ULN2803** | U2 | [Product I used](../../images/parts/AE_ULN2803.png) |
+| 1× | 20× | **330 Ω resistor (0805)** - optional | R9 | |
+| 1× | 20× | **Yellow-green LED (0805)** - optional | LED1 | [Product I used](../../images/parts/AE_led_0805.png) |
 
 The number of headers and resistors depends on the panel - the PCB section of each panel's page lists which headers are populated.
 
