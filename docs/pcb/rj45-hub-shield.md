@@ -31,7 +31,6 @@ A total of **7** PCBs are required for the complete project - one for each of th
 | 7× | **Electrolytic capacitor 47 µF / 16 V** - radial, 3.5 mm lead pitch | |
 | 7× | **Ceramic capacitor 100 nF** | |
 | 14× | **4.8 mm PCB male Faston terminal** - one leg clipped off, this is what I used | [Product I used](../../images/parts/AE_plug_male.png) |
-| 14× | **6.3 mm female Faston with sheath** - crimped on the wire | [Product I used](../../images/parts/AE_faston_female.png) |
 | 7× | **2×21 pin header** - 2.54 mm double row, usually supplied with the MEGA 2560 PRO MINI | |
 | 7× | **2×16 pin header** - 2.54 mm double row, usually supplied with the MEGA 2560 PRO MINI | |
 | 7× | **2×3 pin header** - 2.54 mm double row, usually supplied with the MEGA 2560 PRO MINI | |

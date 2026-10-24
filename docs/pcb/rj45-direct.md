@@ -24,7 +24,6 @@ A total of **28** PCBs are required for the complete project. I recommend orderi
 |---:|---:|---|---|---|
 | 1× | 28× | **RJ45 connector** - 5224 8P8C in-line, vertical 180°, full plastic | K11 | [Product I used](../../images/parts/AE_RJ45.png) |
 | 3× | 84× | **4.8 mm PCB male Faston terminal** | K1-K3 | [Product I used](../../images/parts/AE_plug_male.png) |
-| 3× | 84× | **6.3 mm female Faston with sheath** - crimped on the wire | K1-K3 | [Product I used](../../images/parts/AE_faston_female.png) |
 | as required | 10× | **KF301 PCB screw terminal** - 2P blue | K4-K7 | [Product I used](../../images/parts/AE_KF301_2p.png) |
 | as required | 12× | **KF301 PCB screw terminal** - 3P blue | K4-K7 | [Product I used](../../images/parts/AE_KF301_3p.png) |
 | as required | 28× | **KF301 PCB screw terminal** - 4P blue | K4-K7 | [Product I used](../../images/parts/AE_KF301_4p.png) |
