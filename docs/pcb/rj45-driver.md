@@ -34,13 +34,13 @@ The number of headers and resistors depends on the panel - the PCB section of ea
 
 ### Resistor Values
 
-| LED | Value |
-|---|---|
-| yellow LED | 150 Ω |
-| green LED | 330 Ω |
-| white LED - no dual brightness annunciator | 250 Ω |
-| white LED - dual brightness annunciator, main cable | 100 Ω |
-| dual brightness annunciator, second cable (two wires) | no resistor |
+| LED | Value | Total for 20 PCBs |
+|---|---|---:|
+| yellow LED | 150 Ω | 81× |
+| green LED | 330 Ω | 9× |
+| white LED - no dual brightness annunciator | 250 Ω | 9× |
+| white LED - dual brightness annunciator, main cable | 100 Ω | 9× |
+| dual brightness annunciator, second cable (two wires) | no resistor | - |
 
 Each resistor belongs to the header with the same number - R1 to J1, R2 to J2 and so on - so choose its value by the annunciator plugged into that header.
 
