@@ -53,6 +53,10 @@ The **PRO MINI** form factor is what matters here: the board is a fraction of th
 
 Where the seven boards sit inside my panel, each with its RJ45 Hub Shield. Which board and which socket a panel connects to is in the **Wiring** section of that panel's [model page](models/README.md), and for all panels together in the [Socket map](#socket-map).
 
+The boards sit on the [FWD Blank Panels](models/41-fwd-blank-panels.md) and the [AFT Blank Panels](models/42-aft-blank-panels.md), except **mega 2a**, which is screwed straight to the wooden main frame with two wood screws, about 2 × 10 mm.
+
+<img src="../images/mega_2a_main_frame.jpg" alt="MEGA 2a screwed to the wooden main frame" width="600">
+
 #### USB driver
 
 The boards use a **CH340G** USB chip, not the one found on a genuine Arduino. On my PC, Windows recognised them without any extra steps: under **Ports (COM & LPT)** in Device Manager, each board shows up as **USB-SERIAL CH340 (COM*x*)**.

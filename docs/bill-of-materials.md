@@ -1662,6 +1662,16 @@ The [acrylic windows](cnc-cut.md), the [UV-printed foil](uv-print.md), the [fila
 <table>
 <tr><th align="left">Item</th><th align="right">Total</th><th align="left">Used in</th></tr>
 <tr>
+<td>Wood screw 2 × 10 mm</td>
+<td align="right">2×</td>
+<td><details><summary>1 place</summary>
+<table>
+<tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Joins</th></tr>
+<tr><td><a href="system-overview.md#the-boards">System Overview</a></td><td align="right">2×</td><td>mega 2a + wooden frame</td></tr>
+</table>
+</details></td>
+</tr>
+<tr>
 <td>Wood screw 3 × 15 mm</td>
 <td align="right">4×</td>
 <td><details><summary>1 model</summary>
