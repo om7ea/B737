@@ -107,6 +107,16 @@ Every backlit panel takes its 12 V through a **DC plug**, and so does the flood 
 
 The middle of the drawing close up: the two splice connectors on top and the two dimmer boards below - flood light on the left, backlight on the right.
 
+#### 5 V
+
+The 5 V rail powers every PCB in the panel. Like the 12 V, it enters through a **DC jack** on the [Rear Power and USB Panel](models/44-rear-power-and-usb-panel.md) - the red one - and goes to a pair of lever-type splice connectors of the same type as on the 12 V side. They are screwed to the back of panel 3 of the [AFT Blank Panels](models/42-aft-blank-panels.md).
+
+> DC jack → **splice connectors** → **five branches**, one per column of panels → **PCBs**
+
+One connector carries **+5 V** (red), the other **GND** (black). Five pairs of 0.5 mm² wires leave them, one pair for each column of panels - the same layout as the 12 V distribution.
+
+Almost every PCB takes its 5 V on its Faston tabs, through 6.3 mm female Fastons. The one exception is the [IRS Keyboard PCB](pcb/irs-keyboard.md), whose wires end in crimp ferrules in a KF301 screw terminal.
+
 ---
 
 ### Connection to panels
@@ -234,10 +244,3 @@ Which panel each socket of the seven RJ45 Hub Shields goes to. Each board is lis
 | A1 | [Air Conditioning Control Panel](models/24-air-conditioning-control-panel.md) | [PCB 1](models/24-air-conditioning-control-panel.md#pcb-1---socket-a1-on-overhead_5) |
 | A2 | [Air Conditioning Control Panel](models/24-air-conditioning-control-panel.md) | [PCB 2](models/24-air-conditioning-control-panel.md#pcb-2---socket-a2-on-overhead_5) |
 
----
-
-## 🚧 To be documented
-
-This section is still to be written:
-
-- **5 V distribution** - how the 5 V is distributed inside the panel
