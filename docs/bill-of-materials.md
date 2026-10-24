@@ -1038,6 +1038,27 @@ The [acrylic windows](cnc-cut.md), the [UV-printed foil](uv-print.md), the [fila
 </tr>
 </table>
 
+### Ferrules
+
+<table>
+<tr><th align="left">Item</th><th align="right">Total</th><th align="left">Used in</th></tr>
+<tr>
+<td>Insulated crimp ferrule, 0.75 mm²</td>
+<td align="right">as required</td>
+<td>every screw terminal in the project - most of the ferrules are this size</td>
+</tr>
+<tr>
+<td>Insulated crimp ferrule, 1.5 mm²</td>
+<td align="right">as required</td>
+<td>every screw terminal in the project</td>
+</tr>
+<tr>
+<td>Insulated crimp ferrule, 2.5 mm²</td>
+<td align="right">as required</td>
+<td>every screw terminal in the project</td>
+</tr>
+</table>
+
 ### Cables
 
 <table>
