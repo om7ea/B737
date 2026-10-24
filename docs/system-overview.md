@@ -115,7 +115,7 @@ The 5 V rail powers every PCB in the panel. It enters through a **DC jack** on t
 
 One connector carries **+5 V** (red), the other **GND** (black). Five pairs of 0.5 mm² wires leave them, one pair for each column of panels.
 
-Almost every PCB takes its 5 V on its Faston tabs, through 6.3 mm female Fastons. The one exception is the [IRS Keyboard PCB](pcb/irs-keyboard.md), whose wires end in crimp ferrules in a KF301 screw terminal.
+Almost every board wired to the 5 V distribution takes it on its Faston tabs, through 6.3 mm female Fastons. The one exception is the [IRS Keyboard PCB](pcb/irs-keyboard.md), whose wires end in crimp ferrules in a KF301 screw terminal.
 
 ---
 
