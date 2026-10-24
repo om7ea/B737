@@ -126,7 +126,7 @@ Panels attach to the boards through RJ45 connectors, using Ethernet patch cables
 
 At the board end the cables plug into an **RJ45 Hub Shield** - a shield that sits on top of the Mega 2560 PRO MINI and brings nine RJ45 sockets to it, so no panel cable has to be wired to the board pin by pin.
 
-<img src="../images/connection_chain.png" alt="Connection chain from a panel to the PC" width="600">
+<img src="../images/connection_chain_v2.png" alt="Connection chain from a panel to the PC" width="600">
 
 The chain for a single connection: panel PCB → Ethernet patch cable → MEGA 2560 PRO MINI with the RJ45 Hub Shield → micro USB cable → USB hub → PC. A panel may need more than one cable, and one board takes up to nine.
 
