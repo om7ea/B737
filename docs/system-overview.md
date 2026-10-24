@@ -34,7 +34,7 @@ The complete configuration - the board definitions and the mapping for every swi
 |---|---:|---|---|
 | **USB hub** | 1× | Connects all seven boards to the single USB cable. 7 ports, USB 3.0 | [Product I used](../images/parts/AE_usb_hub.png) |
 | **USB cable** | 7× | Board to hub. USB-A to micro USB, 1 m; sold in packs - I bought 10 and used 7 | [Product I used](../images/parts/AE_usb_cable.png) |
-| **USB extension cable** | 1× | USB adapter on the rear panel to the hub. USB-A male to USB-A female, 1 m; its red wire is cut - see [Power supply](#power-supply) | |
+| **USB extension cable** | 1× | USB adapter on the rear panel to the hub. USB-A male to USB-A female, 1 m; its red wire is cut - see [Connection to panels](#connection-to-panels) | |
 | **MEGA 2560 PRO MINI** | 7× | Each board drives one group of panels. 5 V (embed), CH340G, ATmega2560-16AU; supplied with the male pin headers | [Product I used](../images/parts/AE_mega.png) |
 | **RJ45 Hub Shield PCBs** | 7× | One per board - brings nine RJ45 sockets to the Mega 2560 | [PCB docs](pcb/rj45-hub-shield.md) |
 | **UTP cable, Cat 5e** | 40 m | Board to panel. I crimped it into the 60 Ethernet patch cables myself, one per used socket of the hub shields | |
@@ -72,16 +72,9 @@ The panel does **not** draw its power from the USB cable. It is fed by **two sep
 | **12 V** | Panel backlighting and the flood light | 2.5 A | 5 A |
 | **5 V** | All other electronics - the Mega boards, annunciator LEDs, servos, displays | about 2 A | 4 A |
 
-The USB cable therefore carries data only. This keeps the load off the PC's USB port, which matters with 125 annunciators in the finished panel.
+The USB cable therefore carries data only. This keeps the load off the PC's USB port, which matters with 125 annunciators in the finished panel. To make sure of that, the red wire of the USB extension cable is cut - see [Connection to panels](#connection-to-panels).
 
 The draw figures are the most I measured on my panel - the 12 V one with the backlight at full brightness. I recommend a supply with about twice that rating, so that it never runs at its limit.
-
-> **⚠️ Cut the red wire in the USB cable to the USB hub**\
-> The USB cable between the USB adapter on the [Rear Power and USB Panel](models/44-rear-power-and-usb-panel.md) and the USB hub inside the panel has to be modified. Strip back its outer sheath - there are four wires inside: red, black, white and green. **Cut the red wire** (+5 V) and leave the other three connected.
->
-> <img src="../images/usb_cable_red_wire_cut_v2.jpg" alt="The USB cable with its outer sheath stripped back and the red wire cut" width="600">
->
-> This is very important. The 5 V electronics can draw around 2 A. If you forget to connect the 5 V supply, the panel will try to draw that current from the PC through the USB cable, and that can destroy the USB port in your PC.
 
 #### 12 V
 
@@ -129,6 +122,13 @@ At the board end the cables plug into an **RJ45 Hub Shield** - a shield that sit
 <img src="../images/connection_chain_v2.png" alt="Connection chain from a panel to the PC" width="600">
 
 The chain for a single connection: panel PCB → Ethernet patch cable → MEGA 2560 PRO MINI with the RJ45 Hub Shield → micro USB cable → USB hub → USB extension cable → USB-B socket on the [Rear Power and USB Panel](models/44-rear-power-and-usb-panel.md) → PC. A panel may need more than one cable, and one board takes up to nine.
+
+> **⚠️ Cut the red wire in the USB extension cable**\
+> The USB cable between the USB adapter on the [Rear Power and USB Panel](models/44-rear-power-and-usb-panel.md) and the USB hub inside the panel has to be modified. Strip back its outer sheath - there are four wires inside: red, black, white and green. **Cut the red wire** (+5 V) and leave the other three connected.
+>
+> <img src="../images/usb_cable_red_wire_cut_v2.jpg" alt="The USB cable with its outer sheath stripped back and the red wire cut" width="600">
+>
+> This is very important. The 5 V electronics can draw around 2 A. If you forget to connect the 5 V supply, the panel will try to draw that current from the PC through the USB cable, and that can destroy the USB port in your PC.
 
 See [PCB Manufacturing Files](pcb/README.md) for details, BOM and wiring.
 
