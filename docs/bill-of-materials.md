@@ -1,11 +1,7 @@
 # Bill of Materials
 
-> [!CAUTION]
-> ## 🚧 WORK IN PROGRESS 🚧
->
-> **I am still putting this list together, so it is NOT complete yet.**
->
-> The list is about **98 %** complete.
+> [!NOTE]
+> I have put this list together as carefully as I could, but I cannot rule out that it still contains a mistake. I am not aware of any so far.
 
 Parts for one complete overhead, totalled across all models. Open an item to see which models use it.
 
