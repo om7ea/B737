@@ -1098,6 +1098,17 @@ The [acrylic windows](cnc-cut.md), the [UV-printed foil](uv-print.md), the [fila
 </details></td>
 </tr>
 <tr>
+<td>USB extension cable, USB-A male to USB-A female, 1 m</td>
+<td align="right">1×</td>
+<td></td>
+<td><details><summary>1 place</summary>
+<table>
+<tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
+<tr><td><a href="system-overview.md#hardware-inside-the-panel">System Overview</a></td><td align="right">1×</td><td>rear-panel USB adapter to the USB hub, red wire cut</td></tr>
+</table>
+</details></td>
+</tr>
+<tr>
 <td>ZH 1.5 cable with connector, 4 pins, 15 cm</td>
 <td align="right">134×</td>
 <td><a href="../images/parts/AE_ZH.png">Product I used</a></td>
