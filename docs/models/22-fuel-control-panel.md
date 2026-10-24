@@ -179,12 +179,12 @@ The rear of the panel. **PCB 1** and **PCB 3** are the two boards side by side u
 | Header | Annunciator |
 |---:|---|
 | 1 | ENG VALVE CLOSED - right, bright |
-| 2 | SPAR VALVE CLOSED - right, dim |
+| 2 | SPAR VALVE CLOSED - right, bright |
 | 3 | VALVE OPEN - bright |
 | 4 | FILTER BYPASS - right |
 | 5 | LOW PRESSURE - CTR R |
 | 6 | VALVE OPEN - dim |
-| 7 | SPAR VALVE CLOSED - right, bright |
+| 7 | SPAR VALVE CLOSED - right, dim |
 | 8 | ENG VALVE CLOSED - right, dim |
 
 ### PCB 2 - socket D1 on Overhead_1b

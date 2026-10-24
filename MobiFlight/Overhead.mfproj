@@ -2491,14 +2491,14 @@
             "String": null
           },
           "Device": {
-            "Name": "D0_2",
-            "Pin": "D0_2",
+            "Name": "D0_7",
+            "Pin": "D0_7",
             "Brightness": 255,
             "PwmMode": false,
             "Type": "Output"
           },
           "DeviceType": "Output",
-          "DeviceName": "D0_2",
+          "DeviceName": "D0_7",
           "GUID": "e9c97d26-e5ee-4a7f-8645-d75ce8806790",
           "Active": true,
           "Name": "Overhead_1_Fuel panel_Ann-SPARE VALVE CLOSED (right)-dim",
