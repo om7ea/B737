@@ -781,14 +781,14 @@ The [acrylic windows](cnc-cut.md), the [UV-printed foil](uv-print.md), the [fila
 </tr>
 <tr>
 <td>Faston terminal 4.8 mm, PCB male</td>
-<td align="right">160×</td>
+<td align="right">159×</td>
 <td><a href="../images/parts/AE_plug_male.png">Product I used</a></td>
 <td><details><summary>5 places</summary>
 <table>
 <tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
 <tr><td><a href="pcb/rj45-direct.md#bill-of-materials-bom---per-pcb">2. RJ45 Direct Connection PCB</a></td><td align="right">84×</td><td>3× per PCB × 28</td></tr>
 <tr><td><a href="pcb/rj45-driver.md#bill-of-materials-bom---per-pcb">3. RJ45 LED Driver PCB</a></td><td align="right">40×</td><td>2× per PCB × 20</td></tr>
-<tr><td><a href="pcb/rj45-combined.md#bill-of-materials-bom---per-pcb">4. RJ45 Combined PCB</a></td><td align="right">18×</td><td>3× per PCB × 6</td></tr>
+<tr><td><a href="pcb/rj45-combined.md#bill-of-materials-bom---per-pcb">4. RJ45 Combined PCB</a></td><td align="right">17×</td><td>3× per PCB × 6, minus 1 on the Engine and Oxygen Panel board</td></tr>
 <tr><td><a href="pcb/rj45-hub-shield.md#bill-of-materials-bom---for-all-7-pcbs">5. RJ45 Hub Shield PCB</a></td><td align="right">14×</td><td>one leg clipped off, this is what I used</td></tr>
 <tr><td><a href="pcb/le-devices.md#bill-of-materials-bom---for-both-pcbs">7. LE Devices PCB</a></td><td align="right">4×</td><td></td></tr>
 </table>
@@ -858,7 +858,7 @@ The [acrylic windows](cnc-cut.md), the [UV-printed foil](uv-print.md), the [fila
 <td><details><summary>1 place</summary>
 <table>
 <tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
-<tr><td><a href="pcb/rj45-combined.md#bill-of-materials-bom---per-pcb">4. RJ45 Combined PCB</a></td><td align="right">1×</td><td>for all 6 PCBs</td></tr>
+<tr><td><a href="pcb/rj45-combined.md#bill-of-materials-bom---per-pcb">4. RJ45 Combined PCB</a></td><td align="right">1×</td><td>Engine and Oxygen Panel board, in place of the <code>-</code> Faston</td></tr>
 </table>
 </details></td>
 </tr>
