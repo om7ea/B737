@@ -1011,13 +1011,13 @@ The [acrylic windows](cnc-cut.md), the [UV-printed foil](uv-print.md), the [fila
 </details></td>
 </tr>
 <tr>
-<td>ZH 1.5 header, 4P</td>
+<td>ZH 1.5 set, 4 pins - header + cable with connector, 28AWG, 15 cm</td>
 <td align="right">134×</td>
 <td><a href="../images/parts/AE_ZH.png">Product I used</a></td>
 <td><details><summary>18 places</summary>
 <table>
 <tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
-<tr><td><a href="pcb/irs-keyboard.md#bill-of-materials-bom---per-pcb">6. IRS Keyboard PCB</a></td><td align="right">1×</td><td>buy the set (connectors + cables)</td></tr>
+<tr><td><a href="pcb/irs-keyboard.md#bill-of-materials-bom---per-pcb">6. IRS Keyboard PCB</a></td><td align="right">1×</td><td></td></tr>
 <tr><td><a href="models/05-flight-control-panel.md#wiring">5. Flight Control Panel</a></td><td align="right">9×</td><td>on its LED Driver / Combined PCBs, one per lamp connection</td></tr>
 <tr><td><a href="models/06-door-warning-panel.md#wiring">6. Door Warning Panel</a></td><td align="right">12×</td><td>on its LED Driver / Combined PCBs, one per lamp connection</td></tr>
 <tr><td><a href="models/07-generator-drive-panel.md#wiring">7. Generator Drive and Standby Power Panel</a></td><td align="right">3×</td><td>on its LED Driver / Combined PCBs, one per lamp connection</td></tr>
@@ -1128,17 +1128,6 @@ The [acrylic windows](cnc-cut.md), the [UV-printed foil](uv-print.md), the [fila
 <table>
 <tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
 <tr><td><a href="system-overview.md#hardware-inside-the-panel">System Overview</a></td><td align="right">1×</td><td>rear-panel USB adapter to the USB hub, red wire cut</td></tr>
-</table>
-</details></td>
-</tr>
-<tr>
-<td>ZH 1.5 cable with connector, 4 pins, 15 cm</td>
-<td align="right">134×</td>
-<td><a href="../images/parts/AE_ZH.png">Product I used</a></td>
-<td><details><summary>1 place</summary>
-<table>
-<tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
-<tr><td><a href="pcb/annunciator.md#bill-of-materials-bom---for-all-125-pcbs">1. Annunciator PCB</a></td><td align="right">134×</td><td>ZH 1.5 28AWG 15 cm, 4 pins (125 for annunciators + 9 for the dual brightness function); buy the set - connectors + cables</td></tr>
 </table>
 </details></td>
 </tr>
