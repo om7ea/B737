@@ -27,14 +27,20 @@ A total of **6** PCBs are required for the complete project. I recommend orderin
 | 1× | 6× | **RJ45 connector** - 5224 8P8C in-line, vertical 180°, full plastic | K6 | [Product I used](../../images/parts/AE_RJ45.png) |
 | 3× | 17× | **4.8 mm PCB male Faston terminal** | K1-K3 | [Product I used](../../images/parts/AE_plug_male.png) |
 | 1-4× | - | **Header ZH 1.5 4P** - part of the [ZH set](annunciator.md) | J1-J4 | |
-| as required | 13× | **150 Ω resistor (0805)** - for yellow LED | R1-R4 | |
-| as required | 3× | **250 Ω resistor (0805)** - for white LED | R1-R4 | |
+| 1-4× | 16× | **SMD 0805 resistors** - see the table below for values | R1-R4 | |
 | 1× | 6× | **ULN2803** | U1 | [Product I used](../../images/parts/AE_ULN2803.png) |
 | as required | 2× | **KF301 PCB screw terminal** - 2P blue | K4, K5 | [Product I used](../../images/parts/AE_KF301_2p.png) |
 | as required | 4× | **KF301 PCB screw terminal** - 4P blue | K4, K5 | [Product I used](../../images/parts/AE_KF301_4p.png) |
 | as required | 1× | **KF301 PCB screw terminal** - 2P black | K4, K5 | |
 | 1× | 6× | **330 Ω resistor (0805)** - optional | R5 | |
 | 1× | 6× | **Yellow-green LED (0805)** - optional | LED1 | [Product I used](../../images/parts/AE_led_0805.png) |
+
+### Resistor Values
+
+| LED | Value |
+|---|---|
+| yellow LED | 150 Ω |
+| white LED - no dual brightness annunciator | 250 Ω |
 
 ---
 
