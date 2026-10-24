@@ -1144,6 +1144,39 @@ The [acrylic windows](cnc-cut.md), the [UV-printed foil](uv-print.md), the [fila
 </tr>
 </table>
 
+### Hookup wire
+
+All of it is CYA 1 × 0.5 mm² (AWG 20) stranded wire. The lengths are rough estimates - buy more to be safe.
+
+<table>
+<tr><th align="left">Item</th><th align="right">Total</th><th align="left">Used in</th></tr>
+<tr>
+<td>Hookup wire CYA 1 × 0.5 mm², yellow</td>
+<td align="right">approx. 10 m</td>
+<td>12 V distribution, +12 V</td>
+</tr>
+<tr>
+<td>Hookup wire CYA 1 × 0.5 mm², red</td>
+<td align="right">approx. 13 m</td>
+<td>5 V distribution, +5 V</td>
+</tr>
+<tr>
+<td>Hookup wire CYA 1 × 0.5 mm², black</td>
+<td align="right">approx. 23 m</td>
+<td>GND of the 12 V distribution (approx. 10 m) and of the 5 V distribution (approx. 13 m)</td>
+</tr>
+<tr>
+<td>Hookup wire CYA 1 × 0.5 mm², white</td>
+<td align="right">approx. 20 m</td>
+<td>signal wires on the panels</td>
+</tr>
+<tr>
+<td>Hookup wire CYA 1 × 0.5 mm², brown</td>
+<td align="right">approx. 10 m</td>
+<td>GND on the panels</td>
+</tr>
+</table>
+
 ### Power supplies
 
 <table>
