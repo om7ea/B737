@@ -128,7 +128,7 @@ At the board end the cables plug into an **RJ45 Hub Shield** - a shield that sit
 
 <img src="../images/connection_chain_v2.png" alt="Connection chain from a panel to the PC" width="600">
 
-The chain for a single connection: panel PCB → Ethernet patch cable → MEGA 2560 PRO MINI with the RJ45 Hub Shield → micro USB cable → USB hub → PC. A panel may need more than one cable, and one board takes up to nine.
+The chain for a single connection: panel PCB → Ethernet patch cable → MEGA 2560 PRO MINI with the RJ45 Hub Shield → micro USB cable → USB hub → USB extension cable → USB-B socket on the [Rear Power and USB Panel](models/44-rear-power-and-usb-panel.md) → PC. A panel may need more than one cable, and one board takes up to nine.
 
 See [PCB Manufacturing Files](pcb/README.md) for details, BOM and wiring.
 
