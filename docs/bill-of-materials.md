@@ -4,6 +4,8 @@
 > ## 🚧 WORK IN PROGRESS 🚧
 >
 > **I am still putting this list together, so it is NOT complete yet.**
+>
+> The list is about **98 %** complete.
 
 Parts for one complete overhead, totalled across all models. Open an item to see which models use it.
 
