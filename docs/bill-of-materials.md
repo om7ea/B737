@@ -800,7 +800,38 @@ The [acrylic windows](cnc-cut.md), the [UV-printed foil](uv-print.md), the [fila
 <td>Faston female 6.3 mm, uninsulated, crimp, with sheath</td>
 <td align="right">333×</td>
 <td><a href="../images/parts/AE_faston_female.png">Product I used</a></td>
-<td>2 per ON/OFF switch, 3 per three-position switch, 1 per PCB Faston tab</td>
+<td><details><summary>27 places</summary>
+<table>
+<tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
+<tr><td><a href="models/04-navigation-panel.md#switches-and-buttons">4. Navigation Panel</a></td><td align="right">12×</td><td>4 three-position</td></tr>
+<tr><td><a href="models/05-flight-control-panel.md#switches-and-buttons">5. Flight Control Panel</a></td><td align="right">17×</td><td>4 ON/OFF, 3 three-position</td></tr>
+<tr><td><a href="models/07-generator-drive-panel.md#switches-and-buttons">7. Generator Drive and Standby Power Panel</a></td><td align="right">7×</td><td>2 ON/OFF, 1 three-position</td></tr>
+<tr><td><a href="models/08-window-and-probe-heat-panel.md#switches-and-buttons">8. Window and Probe Heat Panel</a></td><td align="right">15×</td><td>6 ON/OFF, 1 three-position</td></tr>
+<tr><td><a href="models/09-anti-ice-panel.md#switches-and-buttons">9. Anti-ice Panel</a></td><td align="right">6×</td><td>3 ON/OFF</td></tr>
+<tr><td><a href="models/10-hydraulic-control-panel.md#switches-and-buttons">10. Hydraulic Control Panel</a></td><td align="right">8×</td><td>4 ON/OFF</td></tr>
+<tr><td><a href="models/12-voice-recorder-switch.md#switches-and-buttons">12. Voice Recorder Switch</a></td><td align="right">2×</td><td>1 ON/OFF</td></tr>
+<tr><td><a href="models/17-le-devices-and-elt-panel.md#switches-and-buttons">17. LE Devices and ELT Panel</a></td><td align="right">2×</td><td>1 ON/OFF</td></tr>
+<tr><td><a href="models/19-center-upper-panel.md#switches-and-buttons">19. Center Upper Panel</a></td><td align="right">4×</td><td>2 ON/OFF</td></tr>
+<tr><td><a href="models/20-center-lower-panel.md#switches-and-buttons">20. Center Lower Panel</a></td><td align="right">8×</td><td>1 ON/OFF, 2 three-position</td></tr>
+<tr><td><a href="models/22-fuel-control-panel.md#switches-and-buttons">22. Fuel Control Panel</a></td><td align="right">12×</td><td>6 ON/OFF</td></tr>
+<tr><td><a href="models/23-generator-bus-panel.md#switches-and-buttons">23. Generator Bus Panel</a></td><td align="right">17×</td><td>1 ON/OFF, 5 three-position</td></tr>
+<tr><td><a href="models/24-air-conditioning-control-panel.md#switches-and-buttons">24. Air Conditioning Control Panel</a></td><td align="right">2×</td><td>1 ON/OFF</td></tr>
+<tr><td><a href="models/26-ac-and-dc-meter-panel.md#switches-and-buttons">26. AC and DC Meter Panel</a></td><td align="right">4×</td><td>2 ON/OFF</td></tr>
+<tr><td><a href="models/27-interphone-and-dome-panel.md#switches-and-buttons">27. Interphone and Dome Panel</a></td><td align="right">5×</td><td>1 ON/OFF, 1 three-position</td></tr>
+<tr><td><a href="models/28-recorder-and-stall-panel.md#switches-and-buttons">28. Recorder and Stall Panel</a></td><td align="right">2×</td><td>1 ON/OFF</td></tr>
+<tr><td><a href="models/30-engine-and-oxygen-panel.md#switches-and-buttons">30. Engine and Oxygen Panel</a></td><td align="right">2×</td><td>1 ON/OFF</td></tr>
+<tr><td><a href="models/32-cabin-pressure-control-panel.md#switches-and-buttons">32. Cabin Pressure Control Panel</a></td><td align="right">3×</td><td>1 three-position</td></tr>
+<tr><td><a href="models/34-bleed-air-control-panel.md#switches-and-buttons">34. Bleed Air Control Panel</a></td><td align="right">19×</td><td>5 ON/OFF, 3 three-position</td></tr>
+<tr><td><a href="models/37-left-light-panel.md#switches-and-buttons">37. Left Light Panel</a></td><td align="right">13×</td><td>5 ON/OFF, 1 three-position</td></tr>
+<tr><td><a href="models/38-right-light-panel.md#switches-and-buttons">38. Right Light Panel</a></td><td align="right">11×</td><td>4 ON/OFF, 1 three-position</td></tr>
+<tr><td><a href="models/40-engine-start-panel.md#switches-and-buttons">40. Engine Start Panel</a></td><td align="right">3×</td><td>1 three-position</td></tr>
+<tr><td><a href="pcb/rj45-direct.md#bill-of-materials-bom---per-pcb">2. RJ45 Direct Connection PCB</a></td><td align="right">84×</td><td>on the 4.8 mm PCB tabs - a firm fit that is easy to take apart</td></tr>
+<tr><td><a href="pcb/rj45-driver.md#bill-of-materials-bom---per-pcb">3. RJ45 LED Driver PCB</a></td><td align="right">40×</td><td>on the 4.8 mm PCB tabs - a firm fit that is easy to take apart</td></tr>
+<tr><td><a href="pcb/rj45-combined.md#bill-of-materials-bom---per-pcb">4. RJ45 Combined PCB</a></td><td align="right">17×</td><td>on the 4.8 mm PCB tabs - a firm fit that is easy to take apart</td></tr>
+<tr><td><a href="pcb/rj45-hub-shield.md#bill-of-materials-bom---for-all-7-pcbs">5. RJ45 Hub Shield PCB</a></td><td align="right">14×</td><td>on the 4.8 mm PCB tabs - a firm fit that is easy to take apart</td></tr>
+<tr><td><a href="pcb/le-devices.md#bill-of-materials-bom---for-both-pcbs">7. LE Devices PCB</a></td><td align="right">4×</td><td>on the 4.8 mm PCB tabs - a firm fit that is easy to take apart</td></tr>
+</table>
+</details></td>
 </tr>
 <tr>
 <td>Female socket 2.54 mm, 2×16</td>
