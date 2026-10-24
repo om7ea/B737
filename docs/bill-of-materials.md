@@ -945,13 +945,23 @@ The [acrylic windows](cnc-cut.md), the [UV-printed foil](uv-print.md), the [fila
 </details></td>
 </tr>
 <tr>
-<td>Pin header 2.54 mm, single row</td>
-<td align="right">2× + as required</td>
+<td>Pin header 2.54 mm, 1×3</td>
+<td align="right">21×</td>
 <td></td>
-<td><details><summary>2 places</summary>
+<td><details><summary>1 place</summary>
 <table>
 <tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
-<tr><td><a href="pcb/rj45-direct.md#bill-of-materials-bom---per-pcb">2. RJ45 Direct Connection PCB</a></td><td align="right">-</td><td>as required per PCB, 28 PCBs</td></tr>
+<tr><td><a href="pcb/rj45-direct.md#bill-of-materials-bom---per-pcb">2. RJ45 Direct Connection PCB</a></td><td align="right">21×</td><td>for all 28 PCBs</td></tr>
+</table>
+</details></td>
+</tr>
+<tr>
+<td>Pin header 2.54 mm, 1×5</td>
+<td align="right">2×</td>
+<td></td>
+<td><details><summary>1 place</summary>
+<table>
+<tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
 <tr><td><a href="pcb/cabin-pressure-display.md#board-2---max7219-driver">9. Cabin Pressure Display PCB - MAX7219 driver</a></td><td align="right">2×</td><td>1× per PCB × 2</td></tr>
 </table>
 </details></td>

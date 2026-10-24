@@ -28,7 +28,7 @@ A total of **28** PCBs are required for the complete project. I recommend orderi
 | as required | 12× | **KF301 PCB screw terminal** - 3P blue | K4-K7 | [Product I used](../../images/parts/AE_KF301_3p.png) |
 | as required | 28× | **KF301 PCB screw terminal** - 4P blue | K4-K7 | [Product I used](../../images/parts/AE_KF301_4p.png) |
 | as required | 2× | **KF301 PCB screw terminal** - 2P red | K8-K10 | |
-| as required | as required | **2.54 mm male pin header** | K8-K10 | |
+| as required | 21× | **2.54 mm male pin header** - 1×3 | K8-K10 | |
 | 1× | 28× | **330 Ω resistor (0805)** - optional | R1 | |
 | 1× | 28× | **Yellow-green LED (0805)** - optional | LED1 | [Product I used](../../images/parts/AE_led_0805.png) |
 
