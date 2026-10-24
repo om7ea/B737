@@ -829,13 +829,13 @@ The [acrylic windows](cnc-cut.md), the [UV-printed foil](uv-print.md), the [fila
 </tr>
 <tr>
 <td>KF301 screw terminal, 2P, blue</td>
-<td align="right">10× + as required</td>
+<td align="right">12×</td>
 <td><a href="../images/parts/AE_KF301_2p.png">Product I used</a></td>
 <td><details><summary>2 places</summary>
 <table>
 <tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
 <tr><td><a href="pcb/rj45-direct.md#bill-of-materials-bom---per-pcb">2. RJ45 Direct Connection PCB</a></td><td align="right">10×</td><td>for all 28 PCBs</td></tr>
-<tr><td><a href="pcb/rj45-combined.md#bill-of-materials-bom---per-pcb">4. RJ45 Combined PCB</a></td><td align="right">-</td><td>as required per PCB, 6 PCBs</td></tr>
+<tr><td><a href="pcb/rj45-combined.md#bill-of-materials-bom---per-pcb">4. RJ45 Combined PCB</a></td><td align="right">2×</td><td>for all 6 PCBs</td></tr>
 </table>
 </details></td>
 </tr>
@@ -853,12 +853,12 @@ The [acrylic windows](cnc-cut.md), the [UV-printed foil](uv-print.md), the [fila
 </tr>
 <tr>
 <td>KF301 screw terminal, 2P, black</td>
-<td align="right">as required</td>
+<td align="right">1×</td>
 <td></td>
 <td><details><summary>1 place</summary>
 <table>
 <tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
-<tr><td><a href="pcb/rj45-combined.md#bill-of-materials-bom---per-pcb">4. RJ45 Combined PCB</a></td><td align="right">-</td><td>as required per PCB, 6 PCBs</td></tr>
+<tr><td><a href="pcb/rj45-combined.md#bill-of-materials-bom---per-pcb">4. RJ45 Combined PCB</a></td><td align="right">1×</td><td>for all 6 PCBs</td></tr>
 </table>
 </details></td>
 </tr>
@@ -876,13 +876,13 @@ The [acrylic windows](cnc-cut.md), the [UV-printed foil](uv-print.md), the [fila
 </tr>
 <tr>
 <td>KF301 screw terminal, 4P, blue</td>
-<td align="right">28× + as required</td>
+<td align="right">32×</td>
 <td><a href="../images/parts/AE_KF301_4p.png">Product I used</a></td>
 <td><details><summary>2 places</summary>
 <table>
 <tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
 <tr><td><a href="pcb/rj45-direct.md#bill-of-materials-bom---per-pcb">2. RJ45 Direct Connection PCB</a></td><td align="right">28×</td><td>for all 28 PCBs</td></tr>
-<tr><td><a href="pcb/rj45-combined.md#bill-of-materials-bom---per-pcb">4. RJ45 Combined PCB</a></td><td align="right">-</td><td>as required per PCB, 6 PCBs</td></tr>
+<tr><td><a href="pcb/rj45-combined.md#bill-of-materials-bom---per-pcb">4. RJ45 Combined PCB</a></td><td align="right">4×</td><td>for all 6 PCBs</td></tr>
 </table>
 </details></td>
 </tr>
