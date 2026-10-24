@@ -27,7 +27,7 @@ Only **1** PCB is required for the complete project.
 | 12× | **6×6×7 mm tactile switch with lamp holder** - the LED is fitted separately | [Product I used](../../images/parts/AE_button_led.png) |
 | 12× | **1.5 mm LED - warm white** | [Product I used](../../images/parts/AE_led_warm_white.png) |
 | 2× | **RJ45 connector** - 5224 8P8C in-line, vertical 180°, full plastic | [Product I used](../../images/parts/AE_RJ45.png) |
-| 1× | **Header ZH 1.5 4P** - part of the [ZH set](annunciator.md) | [Product I used](../../images/parts/AE_ZH.png) |
+| 1× | **Header ZH 1.5 4P** - part of the [ZH set](annunciator.md) | |
 | 1× | **KF301 PCB screw terminal - 3P blue** | [Product I used](../../images/parts/AE_KF301_3p.png) |
 | 1× | **KF301 PCB screw terminal - 2P red** | |
 | 12× | **220 Ω resistor (0805)** - one per button LED | |
