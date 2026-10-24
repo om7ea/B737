@@ -44,6 +44,7 @@ Only **1** PCB is required for the complete project.
 ## Assembly Notes
 
 - The push buttons and their LEDs go on the **front** side of the board. The RJ45 sockets, the ZH header, the two screw terminals and all the SMD resistors go on the **back**.
+- I coloured one half (one pin) of the red 2-pin screw terminal with a black marker, so it is clear which pin is **+** (red) and which is **-** (black).
 - The LED is soldered into the board, not into the switch. Push its leads through the holes in the switch body first, then solder them on the back of the board.
 - **Check the polarity of every LED before you solder it.** Hold its leads against their pads with the board powered and turn the LED round if it does not light. Solder it only once it lights.
 
