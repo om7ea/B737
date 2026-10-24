@@ -39,7 +39,7 @@ The complete configuration - the board definitions and the mapping for every swi
 | **RJ45 Hub Shield PCBs** | 7× | One per board - brings nine RJ45 sockets to the Mega 2560 | [PCB docs](pcb/rj45-hub-shield.md) |
 | **UTP cable, Cat 5e** | 40 m | Board to panel. I crimped it into the 60 Ethernet patch cables myself, one per used socket of the hub shields | |
 | **RJ45 plug** | 120× | 8P8C, unshielded - two on each patch cable | [Product I used](../images/parts/AE_RJ45_plug.png) |
-| **Panels** | - | The overhead panels themselves. Each connects to a board with one or more Ethernet patch cables; new ones are released over time | [Models](models/README.md) |
+| **Panels** | - | The overhead panels themselves. Each connects to a board with one or more Ethernet patch cables | [Models](models/README.md) |
 
 Each Mega 2560 is registered in MobiFlight as a separate device, which keeps the configuration manageable and makes it easy to work on one section of the overhead at a time.
 
