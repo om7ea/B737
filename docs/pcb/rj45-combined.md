@@ -26,6 +26,7 @@ A total of **6** PCBs are required for the complete project. I recommend orderin
 |---:|---:|---|---|---|
 | 1× | 6× | **RJ45 connector** - 5224 8P8C in-line, vertical 180°, full plastic | K6 | [Product I used](../../images/parts/AE_RJ45.png) |
 | 3× | 17× | **4.8 mm PCB male Faston terminal** | K1-K3 | [Product I used](../../images/parts/AE_plug_male.png) |
+| 3× | 17× | **6.3 mm female Faston with sheath** - crimped on the wire | K1-K3 | [Product I used](../../images/parts/AE_faston_female.png) |
 | 1-4× | - | **Header ZH 1.5 4P** - part of the [ZH set](annunciator.md) | J1-J4 | |
 | 1-4× | 16× | **SMD 0805 resistors** - see the table below for values | R1-R4 | |
 | 1× | 6× | **ULN2803** | U1 | [Product I used](../../images/parts/AE_ULN2803.png) |

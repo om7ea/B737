@@ -32,6 +32,7 @@ Designed for the **[LE Devices and ELT Panel](../models/17-le-devices-and-elt-pa
 | 4× | **ULN2803** | [Product I used](../../images/parts/AE_ULN2803.png) |
 | 4× | **RJ45 connector** - 5224 8P8C in-line, vertical 180°, full plastic | [Product I used](../../images/parts/AE_RJ45.png) |
 | 4× | **4.8 mm PCB male Faston terminal** | [Product I used](../../images/parts/AE_plug_male.png) |
+| 4× | **6.3 mm female Faston with sheath** - crimped on the wire | [Product I used](../../images/parts/AE_faston_female.png) |
 | 12× | **Yellow 5 mm flat top LED** | [Product I used](../../images/parts/AE_led_yellow.png) |
 | 20× | **Green 5 mm flat top LED** | [Product I used](../../images/parts/AE_led_green.png) |
 | 12× | **330 Ω resistor (0805)** - one per yellow LED | |
