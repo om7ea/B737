@@ -841,11 +841,12 @@ The [acrylic windows](cnc-cut.md), the [UV-printed foil](uv-print.md), the [fila
 </tr>
 <tr>
 <td>KF301 screw terminal, 2P, red</td>
-<td align="right">1×</td>
+<td align="right">1× + as required</td>
 <td></td>
-<td><details><summary>1 place</summary>
+<td><details><summary>2 places</summary>
 <table>
 <tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
+<tr><td><a href="pcb/rj45-direct.md#bill-of-materials-bom---per-pcb">2. RJ45 Direct Connection PCB</a></td><td align="right">-</td><td>as required per PCB, 28 PCBs</td></tr>
 <tr><td><a href="pcb/irs-keyboard.md#bill-of-materials-bom---per-pcb">6. IRS Keyboard PCB</a></td><td align="right">1×</td><td></td></tr>
 </table>
 </details></td>
