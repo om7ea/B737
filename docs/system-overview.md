@@ -113,11 +113,11 @@ The middle of the drawing close up: the two splice connectors on top and the two
 
 Panels attach to the boards through RJ45 connectors, using Ethernet patch cables, which I crimped myself from Cat 5e cable. Three PCB variants cover the different needs:
 
-- **RJ45 Direct** - buttons, toggle switches, rotary switches, servos, displays
-- **RJ45 LED Driver** - up to 8 annunciators; the ULN2803 driver powers the LEDs so the board is not overloaded
-- **RJ45 Combined** - 4 driven annunciator channels + 4 direct connections
+- **[RJ45 Direct](pcb/rj45-direct.md)** - buttons, toggle switches, rotary switches, servos, displays
+- **[RJ45 LED Driver](pcb/rj45-driver.md)** - up to 8 annunciators; the ULN2803 driver powers the LEDs so the board is not overloaded
+- **[RJ45 Combined](pcb/rj45-combined.md)** - 4 driven annunciator channels + 4 direct connections
 
-At the board end the cables plug into an **RJ45 Hub Shield** - a shield that sits on top of the Mega 2560 PRO MINI and brings nine RJ45 sockets to it, so no panel cable has to be wired to the board pin by pin.
+At the board end the cables plug into an **[RJ45 Hub Shield](pcb/rj45-hub-shield.md)** - a shield that sits on top of the Mega 2560 PRO MINI and brings nine RJ45 sockets to it, so no panel cable has to be wired to the board pin by pin.
 
 <img src="../images/connection_chain_v2.png" alt="Connection chain from a panel to the PC" width="600">
 
@@ -129,8 +129,6 @@ The chain for a single connection: panel PCB → Ethernet patch cable → MEGA 2
 > <img src="../images/usb_cable_red_wire_cut_v2.jpg" alt="The USB cable with its outer sheath stripped back and the red wire cut" width="600">
 >
 > This is very important. The 5 V electronics can draw around 2 A. If you forget to connect the 5 V supply, the panel will try to draw that current from the PC through the USB cable, and that can destroy the USB port in your PC.
-
-See [PCB Manufacturing Files](pcb/README.md) for details, BOM and wiring.
 
 ---
 
