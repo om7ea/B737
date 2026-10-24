@@ -830,7 +830,7 @@ The [acrylic windows](cnc-cut.md), the [UV-printed foil](uv-print.md), the [fila
 <tr>
 <td>KF301 screw terminal, 2P, blue</td>
 <td align="right">as required</td>
-<td><a href="../images/parts/AE_KF301.png">Product I used</a></td>
+<td><a href="../images/parts/AE_KF301_2p.png">Product I used</a></td>
 <td><details><summary>2 places</summary>
 <table>
 <tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
@@ -853,7 +853,7 @@ The [acrylic windows](cnc-cut.md), the [UV-printed foil](uv-print.md), the [fila
 <tr>
 <td>KF301 screw terminal, 3P, blue</td>
 <td align="right">1× + as required</td>
-<td><a href="../images/parts/AE_KF301.png">Product I used</a></td>
+<td><a href="../images/parts/AE_KF301_3p.png">Product I used</a></td>
 <td><details><summary>3 places</summary>
 <table>
 <tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
@@ -866,7 +866,7 @@ The [acrylic windows](cnc-cut.md), the [UV-printed foil](uv-print.md), the [fila
 <tr>
 <td>KF301 screw terminal, 4P, blue</td>
 <td align="right">as required</td>
-<td><a href="../images/parts/AE_KF301.png">Product I used</a></td>
+<td><a href="../images/parts/AE_KF301_4p.png">Product I used</a></td>
 <td><details><summary>2 places</summary>
 <table>
 <tr><th align="left">Where</th><th align="right">Qty</th><th align="left">Note</th></tr>
