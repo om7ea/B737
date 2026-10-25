@@ -52,9 +52,7 @@ The project includes several types of annunciators:
 
 ### Annunciators with Dual Brightness Function
 
-<img src="../../images/pcb/PCB_Annunciator_schematic_C_v3.png" alt="Dual brightness schematic" height="250"><img src="../../images/pcb/PCB_Annunciator_schematic_C1_v2.png" alt="Dual brightness wiring" width="450">
-
-<img src="../../images/pcb/PCB_Annunciator_dual_brightness_photo_v2.jpg" alt="Dual brightness annunciator - wiring detail" width="450">
+<img src="../../images/pcb/PCB_Annunciator_schematic_C_v3.png" alt="Dual brightness schematic" height="250"><img src="../../images/pcb/PCB_Annunciator_schematic_C1_v2.png" alt="Dual brightness wiring" width="450"><img src="../../images/pcb/PCB_Annunciator_dual_brightness_photo_v3.jpg" alt="Dual brightness annunciator - wiring detail" height="250">
 
 For the cable with the connector used for the dual brightness function, the two unused wires can be cut off.
 
